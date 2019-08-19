@@ -6,36 +6,35 @@ List of resources about and around Perl
 
 Derivated from [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne) LinuxFR article (my article licenced in CC-BY-SA ): 
 
-Pour rappel, [Perl](https://www.perl.org/) est un langage généraliste créé en 1987 par [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall). « _Perl continue de prospérer dans sa troisième décennie grâce à une communauté d’utilisateurs et de développeurs très dynamique._ », _dixit_ [perldelta](https://metacpan.org/pod/distribution/perl/pod/perldelta.pod#Acknowledgements). 
+As a reminder, [Perl](https://www.perl.org/) is a general-purpose progamming langage created in 1987 by [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall). "Perl continues to flourish into its fourth decade thanks to a vibrant community of users and developers", dixit [perldelta](https://metacpan.org/pod/distribution/perl/pod/perldelta.pod#Acknowledgements). 
 
-Perl est distribué sous une double licence : [Artistic Licence](https://opensource.org/licenses/Artistic-2.0) et [GPL v1+](https://www.gnu.org/licenses/gpl-3.0.html). La plupart des modules du CPAN [suivent également ce même traitement](https://www.cpan.org/misc/cpan-faq.html#How_is_Perl_licensed).
+Perl is distributed under a dual licence : [Artistic Licence](https://opensource.org/licenses/Artistic-2.0) and [GPL v1+](https://www.gnu.org/licenses/gpl-3.0.html). Most of CPAN modules [follow the same rule](https://www.cpan.org/misc/cpan-faq.html#How_is_Perl_licensed).
 
 ![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  
 
-Perl 5 raptor de [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ----
 
 [Perl](https://www.perl.org/)
 [MetaCPAN](https://metacpan.org/)
 
-## Liens utiles
-Les paragraphes qui suivent concernant les liens n’ont pas pour but d’être *exhaustifs* mais plutôt de fournir des pointeurs vers des ressources ou d’attiser votre curiosité. 
+## Useful links
 
-## Développement de Perl core
-- [perl.git](https://perl5.git.perl.org/perl.git), là où se trouve le **code de l’interpréteur Perl** et son [miroir sur GitHub](https://github.com/Perl/perl5) ;
-- [le gestionnaire de tickets de Perl 5](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) (utilise le logiciel Perl [Request Tracker](https://bestpractical.com/request-tracker) le gestionnaire de tickets/patchs) ;
-- [liste Perl porters](https://lists.gt.net/perl/porters/) ;
-- [compiler et installer Perl](https://metacpan.org/pod/distribution/perl/INSTALL) à la main (si on ne veut pas du Perl vendor) ;
-- [perldelta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) dernier journal des modifications ;
-- [historique très détaillé des versions de Perl](https://perldoc.perl.org/perlhist.html) ;
-- [dépréciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) ;
-- [portabilité](https://perldoc.perl.org/perlport.html).
+### Perl core development
+- [perl.git](https://perl5.git.perl.org/perl.git), where is located the **Perl interpreter source code** (as of today) and its [GitHub miror](https://github.com/Perl/perl5) ;
+- [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) (use Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system) ;
+- [Perl porters mailing list](https://lists.gt.net/perl/porters/) ;
+- [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) by hand (if we don't want Perl vendor)
+- [perldelta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) latest changelog
+- [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html)
+- [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod)
+- [Portability](https://perldoc.perl.org/perlport.html) Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## Officiel
-- [perl.org](https://www.perl.org/), la « maison » de Perl
-- [Perl Fundation](https://www.perlfoundation.org/), la fondation Perl
-- [White Camel Awards](https://www.perl.org/advocacy/white_camel/), récompense annuelle pour des personnes ayant contribué de manière importante à Perl. Et ce pas forcément avec du code !
+- [perl.org](https://www.perl.org/) the Perl's "home"
+- [Perl Fundation](https://www.perlfoundation.org/) the Perl fundation
+- [White Camel Awards](https://www.perl.org/advocacy/white_camel/) Yearly award for important contribution to Perl. Not only with code.
 
 ## Modules et installeurs
 - Installeur de modules moderne [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), par [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA)) ;
