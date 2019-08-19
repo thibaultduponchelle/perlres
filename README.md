@@ -38,62 +38,61 @@ Les paragraphes qui suivent concernant les liens n’ont pas pour but d’être 
 - [White Camel Awards](https://www.perl.org/advocacy/white_camel/), récompense annuelle pour des personnes ayant contribué de manière importante à Perl. Et ce pas forcément avec du code !
 
 ## Modules et installeurs
-- installeur de modules moderne [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), par [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA)) ;
+- Installeur de modules moderne [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), par [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA)) ;
 - [gestionnaire de version Perlbrew](https://perlbrew.pl/) ;
-- un autre gestionnaire de binaire Perl [plenv](https://github.com/tokuhirom/plenv). [Différences entre perlbrew et plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e).
-- bundler pour Perl : [Perl carton](https://github.com/perl-carton/carton) qui utilise [cpanfile](https://github.com/miyagawa/cpanfile) ;
-- liste de modules reconnus [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) ;
+- Un autre gestionnaire de binaire Perl [plenv](https://github.com/tokuhirom/plenv). [Différences entre perlbrew et plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e).
+- Bundler pour Perl : [Perl carton](https://github.com/perl-carton/carton) qui utilise [cpanfile](https://github.com/miyagawa/cpanfile) ;
+- Liste de modules reconnus [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) ;
 - [Corelist](http://corelist.rpee.be/), interface Web de l’outil **Corelist** qui permet de connaître les _core modules_ inclus dans une version de Perl.
 
 ## Général
-- [Perl Monks](https://www.perlmonks.org/), le _Stack Overflow_ de Perl à moins que _stackoverflow_ soit le _perlmonks_ généraliste :D (OK, on n’est pas vendredi, je sors) ;
-- [Perl Monks… **encore**](https://www.perlmonks.org/), parce que c’est vraiment bien, même si ça ressemble à une grotte ;
-- [Perldoc (_perl.org_)](https://perldoc.perl.org/) et [Perldoc (_perldoc.pl_)](https://perldoc.pl) ;
-- [liste de core modules](https://perldoc.perl.org/5.30.0/index-modules-A.html) ;
-- [lister les dépendances d’un module CPAN](http://deps.cpantesters.org/) ;
-- [discussion sur les modules avant la mise sur CPAN](http://prepan.org/) ;
-- [Perl Maven](https://fr.perlmaven.com/), un énorme site sur Perl ;
-- _[perlmeme.org](http://perlmeme.org/)_, un site sur Perl (tutoriels, FAQ et autres).
+- [Perl Monks](https://www.perlmonks.org/), le _Stack Overflow_ de Perl à moins que _stackoverflow_ soit le _perlmonks_ généraliste :D (OK, on n’est pas vendredi, je sors)
+- [Perl Monks… **encore**](https://www.perlmonks.org/), parce que c’est vraiment bien, même si ça ressemble à une grotte
+- [Perldoc (_perl.org_)](https://perldoc.perl.org/) et [Perldoc (_perldoc.pl_)](https://perldoc.pl)
+- [liste de core modules](https://perldoc.perl.org/5.30.0/index-modules-A.html)
+- [lister les dépendances d’un module CPAN](http://deps.cpantesters.org/)
+- [discussion sur les modules avant la mise sur CPAN](http://prepan.org/)
+- [Perl Maven](https://fr.perlmaven.com/), un énorme site sur Perl
+- [perlmeme.org](http://perlmeme.org/), un site sur Perl (tutoriels, FAQ et autres)
 
 ## Autour du CPAN
-- [NOUVEAU] [CPANdoc](https://cpandoc.grinnz.com/), doc de modules importants ;
-- [CPAN Testers](http://cpantesters.org/), un site pour gérer les contructions et rapports de test des modules CPAN ;
-- [CPAN map](http://mapofcpan.org), carte des espaces de noms CPAN ;
-- [CPAN Cover](http://cpancover.com), couverture de test des modules CPAN ;
-- [CPAN TS](https://cpants.cpanauthors.org/), Kwalitee métriques ;
-- [CPAN IO](http://cpan.io/) classement des auteurs CPAN selon leur activité.
+- [NOUVEAU] [CPANdoc](https://cpandoc.grinnz.com/), doc de modules importants
+- [CPAN Testers](http://cpantesters.org/), un site pour gérer les contructions et rapports de test des modules CPAN
+- [CPAN map](http://mapofcpan.org), carte des espaces de noms CPAN
+- [CPAN Cover](http://cpancover.com), couverture de test des modules CPAN
+- [CPAN TS](https://cpants.cpanauthors.org/), Kwalitee métriques
+- [CPAN IO](http://cpan.io/) classement des auteurs CPAN selon leur activité
 
 ## Social
-- [Perl reddit](https://www.reddit.com/r/perl/) ;
-- [site de blogs sur Perl](http://blogs.perl.org/) ;
-- [Perl Mongers](https://www.pm.org/) ;
-- [les mongueurs de Perl FR](http://www.mongueurs.net/) ;
-- _[Nice Perl blog](http://niceperl.blogspot.com/)_ ;
-- [newsletter hebdomadaire](http://perlweekly.com/) ;
-- _[Perl Hacks](https://perlhacks.com/)_, blog ;
-- _[Perlsphere](http://perlsphere.net/)_, agrégateur de blogs ;
-- conférences [_Yet Another Perl Conference_](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/), les [journées Perl](https://journeesperl.fr/jp2019/) et également [OSDC](http://www.osdc.fr/) (un peu mort, on dirait) ;
-- des [canaux IRC](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC), notamment pour les mongueurs français, mojolicious, dancer, catalyst, etc. ;
-- _[Perl.com](https://www.perl.com/)_, domaine récent (malgré son nom…), un fil d’actualités ;
-- _[Perlbuzz](https://perlbuzz.com/)_, un fil d’actualités.
+- [Perl reddit](https://www.reddit.com/r/perl/)
+- [site de blogs sur Perl](http://blogs.perl.org/)
+- [Perl Mongers](https://www.pm.org/)
+- [les mongueurs de Perl FR](http://www.mongueurs.net/)
+- [Nice Perl blog](http://niceperl.blogspot.com/)
+- [newsletter hebdomadaire](http://perlweekly.com/)
+- Perl Hacks](https://perlhacks.com/), blog
+- [Perlsphere](http://perlsphere.net/), agrégateur de blogs
+- Conférences [_Yet Another Perl Conference_](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/), les [journées Perl](https://journeesperl.fr/jp2019/) et également [OSDC](http://www.osdc.fr/) (un peu mort, on dirait)
+- Des [canaux IRC](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC), notamment pour les mongueurs français, mojolicious, dancer, catalyst, etc.
+- [Perl.com](https://www.perl.com/), domaine récent (malgré son nom…), un fil d’actualités
+- [Perlbuzz](https://perlbuzz.com/), un fil d’actualités
 
 ## Docs officielles
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html) ;
-_
 - [perlre](https://perldoc.perl.org/perlre.html), la doc des expressions rationnelles ainsi que le [tuto](https://perldoc.perl.org/perlretut.html) et le [_quick start_](https://perldoc.perl.org/perlrequick.html) ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)   _D’après_ [xkcd](https://xkcd.com/1171/) _— Licence CC BY NC_
-- la [liste des opérateurs](https://perldoc.perl.org/perlop.html) et des [fonctions _built‑in_](https://perldoc.perl.org/perlfunc.html) ;
+- La [liste des opérateurs](https://perldoc.perl.org/perlop.html) et des [fonctions _built‑in_](https://perldoc.perl.org/perlfunc.html) ;
 - [écriture des modules / paquets](https://perldoc.perl.org/perlmod.html) ou encore [_ici_](https://perldoc.perl.org/perlmodlib.html), écrire un [nouveau module](https://perldoc.perl.org/perlnewmod.html), conseils pour [respecter le style](https://perldoc.perl.org/perlmodstyle.html) dans les modules ;
-- doc sur la [syntaxe Perl](https://perldoc.perl.org/perlsyn.html) ;
-- les [références](https://perldoc.perl.org/perlref.html) et le [tutoriel](https://perldoc.perl.org/perlreftut.html) ;
-- la [doc sur les IPC](https://perldoc.perl.org/perlipc.html) ;
-- la [sécurité dans Perl](https://perldoc.perl.org/perlsec.html) : _taint checking_ (ou « _data flow analysis_ »), _setuid_, _clean PATH_, protection des attaque de complexité algorithmiques ;
-- la doc sur la [génération de rapports grâce aux formats](https://perldoc.perl.org/perlform.html)  — les *formats* sont une des raisons de la création de Perl, mais restent limités et beaucoup moins utilisés ;
-- doc du [débogueur](https://perldoc.perl.org/perldebug.html) ; le débogueur de Perl est lui‐même écrit en Perl ;) ;
-- orienté objet avec Perl ? Doc [perlobj](https://perldoc.perl.org/perlobj.html) et [tuto oo](https://perldoc.perl.org/perlootut.html).
+- Doc sur la [syntaxe Perl](https://perldoc.perl.org/perlsyn.html) ;
+- Les [références](https://perldoc.perl.org/perlref.html) et le [tutoriel](https://perldoc.perl.org/perlreftut.html) ;
+- La [doc sur les IPC](https://perldoc.perl.org/perlipc.html) ;
+- La [sécurité dans Perl](https://perldoc.perl.org/perlsec.html) : _taint checking_ (ou « _data flow analysis_ »), _setuid_, _clean PATH_, protection des attaque de complexité algorithmiques ;
+- La doc sur la [génération de rapports grâce aux formats](https://perldoc.perl.org/perlform.html)  — les *formats* sont une des raisons de la création de Perl, mais restent limités et beaucoup moins utilisés ;
+- Doc du [débogueur](https://perldoc.perl.org/perldebug.html) ; le débogueur de Perl est lui‐même écrit en Perl ;) ;
+- Orienté objet avec Perl ? Doc [perlobj](https://perldoc.perl.org/perlobj.html) et [tuto oo](https://perldoc.perl.org/perlootut.html).
 
 ## Books 
 
-- [des livres](https://perldoc.perl.org/perlbook.html) à propos de Perl : 
+- [Des livres](https://perldoc.perl.org/perlbook.html) à propos de Perl : 
 
 ![Des livres sur Perl](https://i.imgur.com/Z3F34XQ.jpg)   
 
