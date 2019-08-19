@@ -29,7 +29,7 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - [perldelta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) latest changelog
 - [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html)
 - [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod)
-- [Portability](https://perldoc.perl.org/perlport.html) Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
+- [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## Officiel
 - [perl.org](https://www.perl.org/) - The Perl's "home"
@@ -37,12 +37,12 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl. Not only with code.
 
 ## Modules et installeurs
-- Installeur de modules moderne [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) par [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA)) ;
-- [gestionnaire de version Perlbrew](https://perlbrew.pl/) ;
-- Un autre gestionnaire de binaire Perl [plenv](https://github.com/tokuhirom/plenv). [Différences entre perlbrew et plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e).
-- Bundler pour Perl : [Perl carton](https://github.com/perl-carton/carton) qui utilise [cpanfile](https://github.com/miyagawa/cpanfile) ;
-- Liste de modules reconnus [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) ;
-- [Corelist](http://corelist.rpee.be/), interface Web de l’outil **Corelist** qui permet de connaître les _core modules_ inclus dans une version de Perl.
+- Modern CPAN modules installer [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) par [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
+- [Perl binaries installer Perlbrew](https://perlbrew.pl/)
+- Another Perl binaries handler [plenv](https://github.com/tokuhirom/plenv). [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
+- Bundler for Perl : [Perl carton](https://github.com/perl-carton/carton) qui utilise [cpanfile](https://github.com/miyagawa/cpanfile) ;
+- List of important modules [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) ;
+- [Corelist](http://corelist.rpee.be/), web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 
 ## Général
 - [Perl Monks](https://www.perlmonks.org/), le _Stack Overflow_ de Perl à moins que _Stack Overflow_ soit le _perlmonks_ généraliste :D 
