@@ -71,14 +71,17 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - [Weekly Newsletter](http://perlweekly.com/)
 - [Perl Hacks](https://perlhacks.com/) - A blog
 - [Perlsphere](http://perlsphere.net/) - Newsfeed
-- Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or even [PerlCon](https://perlcon.eu/) - The [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead)
+- Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) - The [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead)
 - Some [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC), especially the frecnh mongers, mojolicious, dancer, catalyst, etc...
 - [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
 - [Perlbuzz](https://perlbuzz.com/) - Newsfeed
 
 ## Docs officielles
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html)
-- [perlre](https://perldoc.perl.org/perlre.html), la doc des expressions rationnelles ainsi que le [tuto](https://perldoc.perl.org/perlretut.html) et le [_quick start_](https://perldoc.perl.org/perlrequick.html) ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)   _D’après_ [xkcd](https://xkcd.com/1171/) _— Licence CC BY NC_
+- [perlre](https://perldoc.perl.org/perlre.html), la doc des expressions rationnelles ainsi que le [tuto](https://perldoc.perl.org/perlretut.html) et le [quick start](https://perldoc.perl.org/perlrequick.html) 
+
+![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)
+
 - La [liste des opérateurs](https://perldoc.perl.org/perlop.html) et des [fonctions _built‑in_](https://perldoc.perl.org/perlfunc.html) ;
 - [écriture des modules / paquets](https://perldoc.perl.org/perlmod.html) ou encore [_ici_](https://perldoc.perl.org/perlmodlib.html), écrire un [nouveau module](https://perldoc.perl.org/perlnewmod.html), conseils pour [respecter le style](https://perldoc.perl.org/perlmodstyle.html) dans les modules ;
 - Doc sur la [syntaxe Perl](https://perldoc.perl.org/perlsyn.html) ;
