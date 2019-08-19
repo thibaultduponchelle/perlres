@@ -69,12 +69,12 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - [les mongueurs de Perl FR](http://www.mongueurs.net/)
 - [Nice Perl blog](http://niceperl.blogspot.com/)
 - [newsletter hebdomadaire](http://perlweekly.com/)
-- Perl Hacks](https://perlhacks.com/), blog
-- [Perlsphere](http://perlsphere.net/), agrégateur de blogs
-- Conférences [_Yet Another Perl Conference_](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/), les [journées Perl](https://journeesperl.fr/jp2019/) et également [OSDC](http://www.osdc.fr/) (un peu mort, on dirait)
+- [Perl Hacks](https://perlhacks.com/) - blog
+- [Perlsphere](http://perlsphere.net/) - agrégateur de blogs
+- Conférences [_Yet Another Perl Conference_](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) - les [journées Perl](https://journeesperl.fr/jp2019/) et également [OSDC](http://www.osdc.fr/) (un peu mort, on dirait)
 - Des [canaux IRC](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC), notamment pour les mongueurs français, mojolicious, dancer, catalyst, etc.
-- [Perl.com](https://www.perl.com/), domaine récent (malgré son nom…), un fil d’actualités
-- [Perlbuzz](https://perlbuzz.com/), un fil d’actualités
+- [Perl.com](https://www.perl.com/) - domaine récent (malgré son nom…), un fil d’actualités
+- [Perlbuzz](https://perlbuzz.com/) - un fil d’actualités
 
 ## Docs officielles
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html) ;
