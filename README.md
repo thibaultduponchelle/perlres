@@ -128,16 +128,16 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - JAPH : [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker)
 - Secrets operators and their nice nicknames : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod)
 - Why some hate or love Perl (among other reasons) : [magic variables](https://perldoc.perl.org/perlvar.html)
-- TIMTOWDY : [There’s more than one way to do it](https://en.wikipedia.org/wiki/Just_another_Perl_hacker)
+- [TIMTOWDY](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
 - [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
 - [DEAD] [Perlgolf](http://perlgolf.sourceforge.net/) (code golf)
 - The three chief virtues of a programmer are [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510)
-- The camel logo (from the book Programming Perl from O’Reilly Media) (licence Artistic License) :
+- The camel logo (from the book Programming Perl from O’Reilly Media) :
 
 ![Camel](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
 
-- The onion logo (licence Artistic License) :
+- The onion logo :
 
 ![Oignon](https://upload.wikimedia.org/wikipedia/en/a/a4/Onion_64x64.png)
 
