@@ -174,7 +174,7 @@ Mon étagère de livres sur Perl — licence CC BY SA
 - [ACT](http://act.mongueurs.net/) (projet sur [GitHub](https://github.com/book/Act)), une sorte de système de gestion de contenu pour les conférences ;
 - [Statocles](http://preaction.me/statocles/), un moteur de blog statique ([code source](https://github.com/preaction/Statocles)) ;
 - [Plstblog](https://github.com/linkdd/plstblog), un moteur de blog statique [écrit par une moule LinuxFr](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl) ;
-- [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay), la vache qui parle (mon terminal — licence CC BY SA) ![Exemple Cowsay](https://i.imgur.com/ISMylbw.png)
+- [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay), la vache qui parle (mon terminal — licence CC BY SA)
 - [DuckDuckGo Instant Answer](https://duck.co/ia) (projet [GitHub](https://github.com/duckduckgo/duckduckgo), un moteur de site de questions‐réponses ;
 - Une partie d’[openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d’OBS build scripts](https://github.com/openSUSE/obs-build) et [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) et d’autres repos sur le [GitHub d’openSUSE](https://github.com/openSUSE) ; la plate‐forme _Open Build Service_* est une infrastructure qui permet de construire des paquets pour plusieurs gestionnaires de paquets, plusieurs distributions et plusieurs architectures.
 
