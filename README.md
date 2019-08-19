@@ -134,8 +134,10 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 
 ![Camel](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
 
-- The onion logo (licence Artistic License_ :
+- The onion logo (licence Artistic License) :
+
 ![Oignon](https://upload.wikimedia.org/wikipedia/en/a/a4/Onion_64x64.png)
+
 - DWIM
 - Get the job done
 - Baby Perl
@@ -178,8 +180,8 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - Une partie d’[openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d’OBS build scripts](https://github.com/openSUSE/obs-build) et [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) et d’autres repos sur le [GitHub d’openSUSE](https://github.com/openSUSE) ; la plate‐forme _Open Build Service_* est une infrastructure qui permet de construire des paquets pour plusieurs gestionnaires de paquets, plusieurs distributions et plusieurs architectures.
 
 ## Exécution de code Perl en ligne
-- [NOUVEAU] [_PerlBanjo.com_](https://perlbanjo.com/) <3
-- [WebPerl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([démo](https://webperl.zero-g.net/democode/index.html) et [source](https://github.com/haukex/webperl))
+- [NOUVEAU] [PerlBanjo.com](https://perlbanjo.com/) <3
+- [WebPerl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - [TIO](https://tio.run/#perl5)
 - [Perlbot](https://perl.bot/)
 
