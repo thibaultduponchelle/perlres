@@ -12,7 +12,7 @@ Perl est distribué sous une double licence : [Artistic Licence](https://opens
 
 ![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  
 
-Perl 5 raptor de [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)_
+Perl 5 raptor de [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ----
 
@@ -33,8 +33,8 @@ Les paragraphes qui suivent concernant les liens n’ont pas pour but d’être 
 - [portabilité](https://perldoc.perl.org/perlport.html).
 
 ## Officiel
-- _[perl.org](https://www.perl.org/)_, la « maison » de Perl ;
-- [Perl Fundation](https://www.perlfoundation.org/), la fondation Perl ;
+- [perl.org](https://www.perl.org/), la « maison » de Perl
+- [Perl Fundation](https://www.perlfoundation.org/), la fondation Perl
 - [White Camel Awards](https://www.perl.org/advocacy/white_camel/), récompense annuelle pour des personnes ayant contribué de manière importante à Perl. Et ce pas forcément avec du code !
 
 ## Modules et installeurs
@@ -46,7 +46,7 @@ Les paragraphes qui suivent concernant les liens n’ont pas pour but d’être 
 - [Corelist](http://corelist.rpee.be/), interface Web de l’outil **Corelist** qui permet de connaître les _core modules_ inclus dans une version de Perl.
 
 ## Général
-- [Perl Monks](https://www.perlmonks.org/), le _Stack Overflow_ de Perl à moins que _stackoverflow_ soit le _perlmonks_ généraliste :D (OK, on n’est pas vendredi, je sors)
+- [Perl Monks](https://www.perlmonks.org/), le _Stack Overflow_ de Perl à moins que _Stack Overflow_ soit le _perlmonks_ généraliste :D 
 - [Perl Monks… **encore**](https://www.perlmonks.org/), parce que c’est vraiment bien, même si ça ressemble à une grotte
 - [Perldoc (_perl.org_)](https://perldoc.perl.org/) et [Perldoc (_perldoc.pl_)](https://perldoc.pl)
 - [liste de core modules](https://perldoc.perl.org/5.30.0/index-modules-A.html)
