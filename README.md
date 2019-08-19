@@ -47,7 +47,7 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 ## General
 - [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
 - [Perl Monks… **again**](https://www.perlmonks.org/) because it's so cool, even if it looks like a cave
-- Perldoc [perldoc.perl.org](https://perldoc.perl.org/) and (perldoc.pl)](https://perldoc.pl)
+- Perldoc [perldoc.perl.org](https://perldoc.perl.org/) and [perldoc.pl](https://perldoc.pl)
 - [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html)
 - [List dependencies from a CPAN module](http://deps.cpantesters.org/)
 - [Discuss modules before CPAN upload](http://prepan.org/)
@@ -90,13 +90,12 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - Orienté objet avec Perl ? Doc [perlobj](https://perldoc.perl.org/perlobj.html) et [tuto oo](https://perldoc.perl.org/perlootut.html).
 
 ## Books 
-- [Des livres](https://perldoc.perl.org/perlbook.html) à propos de Perl : 
+- [Some books](https://perldoc.perl.org/perlbook.html) about Perl : 
 
-![Des livres sur Perl](https://i.imgur.com/Z3F34XQ.jpg)   
+![](https://i.imgur.com/Z3F34XQ.jpg)   
 
-Mon étagère de livres sur Perl — licence CC BY SA
 
-## Tutoriels
+## Tutorials
 - [Perl maven](https://perlmaven.com/perl-tutorial)
 - [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
 - [Minimum Viable Perl (MVP)](http://mvp.kablamo.org/)
@@ -106,41 +105,43 @@ Mon étagère de livres sur Perl — licence CC BY SA
 - [Perl tutorial](https://www.perltutorial.org/)
 - [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
 
-## Tutoriels en français
-- [_Guide Perl_](http://formation-perl.fr/guide-perl.html)
-- [_Formation-Perl_](http://formation-perl.fr/)
-- [_Guide de programmation pour apprendre Perl_](https://lhullier.developpez.com/tutoriels/perl/intro/)
-- [site du zéro](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
-- [cours de l’Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
+## French tutorials
+- [Guide Perl](http://formation-perl.fr/guide-perl.html)
+- [Formation-Perl](http://formation-perl.fr/)
+- [Guide de programmation pour apprendre Perl](https://lhullier.developpez.com/tutoriels/perl/intro/)
+- [Site du zero](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
+- [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
 
-## Tutos interactifs
+## Interactive tutorials
 - [Perltuts](http://perltuts.com/tutorials/quick-start/hello-world) ;
 - [Learn Perl](https://www.learn-perl.org/) ;
-- [Tutoriel tryperl.pl](http://tryperl.pl).
+- [TryPerl](http://tryperl.pl).
 
-## Méta‐site qui liste les tutoriels
-- [Perl tutorial meta site](http://perl-tutorial.org/).
+## Tutorials meta-site
+- [Perl tutorials meta site](http://perl-tutorial.org/).
 
 ## Folklore autour de Perl
-- « perl » et « Perl » : **Perl** est le langage, **perl** en est l’interpréteur ;
-- JAPH : [_Just Another Perl Hacker_](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) ;
-- Les opérateurs secrets et leurs petits surnoms : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) ;
-- Ce pourquoi certains détestent ou adorent Perl (entre autres) : [les variables magiques](https://perldoc.perl.org/perlvar.html) ;
-- TIMTOWDY : [_There’s more than one way to do it_](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) ;
-- [_Seul perl peut parser Perl_](https://www.perlmonks.org/?node_id=663393) ou bien [PPI](https://metacpan.org/pod/PPI#Background) ;
-- La poésie Perl et, par exemple, le poème [_Black Perl_](https://fr.wikipedia.org/wiki/Black_Perl) de Larry Wall ;
+- "perl" et "Perl" : **Perl** est le langage, **perl** en est l’interpréteur ;
+- JAPH : [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) ;
+- Secrets operators and their nice nicknames : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) ;
+- Why some hate or love Perl (among other reasons) : [magic variables](https://perldoc.perl.org/perlvar.html) ;
+- TIMTOWDY : [There’s more than one way to do it](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) ;
+- [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background) ;
+- The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall ;
 - [DEAD] [Perlgolf](http://perlgolf.sourceforge.net/) (code golf) ;
-- Les [trois vertus du programmeur : paresse, impatience et orgueil](https://www.brainyquote.com/fr/citation/larry-wall_141510) ;
-- Le logo dromadaire de Perl (tiré du livre _Programming Perl_ chez O’Reilly Media) (licence _Artistic License_) :
-![Chameau](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
-- le logo oignon (licence _Artistic License_) :
+- The three chief virtues of a programmer are [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) ;
+- The camel logo (from the book Programming Perl from O’Reilly Media) (licence Artistic License) :
+
+![Camel](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
+
+- The onion logo (licence Artistic License_ :
 ![Oignon](https://upload.wikimedia.org/wikipedia/en/a/a4/Onion_64x64.png)
 - DWIM
 - Get the job done
 - Baby Perl
 - Principle of least astonishment
 
-## Écosystème Perl
+## Perl Ecosystem
 - On dit généralement que la _killer app_ Perl est le [CPAN](https://www.cpan.org/) ([metaCPAN](https://metacpan.org/)) ;
 - [YaBB](http://www.yabbforum.com/), moteur de forum ;
 - [Everything Engine](https://www.everything2.com/), moteur de site d’actualités et site de questions‐réponses (qui fait tourner PerlMonks) ;
