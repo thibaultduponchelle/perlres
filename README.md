@@ -42,7 +42,7 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - Another Perl binaries handler [plenv](https://github.com/tokuhirom/plenv). [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
 - Bundler for Perl : [Perl carton](https://github.com/perl-carton/carton) qui utilise [cpanfile](https://github.com/miyagawa/cpanfile) ;
 - List of important modules [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) ;
-- [Corelist](http://corelist.rpee.be/), web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
+- [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 
 ## Général
 - [Perl Monks](https://www.perlmonks.org/), le _Stack Overflow_ de Perl à moins que _Stack Overflow_ soit le _perlmonks_ généraliste :D 
@@ -90,7 +90,6 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - Orienté objet avec Perl ? Doc [perlobj](https://perldoc.perl.org/perlobj.html) et [tuto oo](https://perldoc.perl.org/perlootut.html).
 
 ## Books 
-
 - [Des livres](https://perldoc.perl.org/perlbook.html) à propos de Perl : 
 
 ![Des livres sur Perl](https://i.imgur.com/Z3F34XQ.jpg)   
@@ -279,8 +278,6 @@ make
 make test
 make install
 ```
-
-[Portabilité de perl : (plus de cent plates‐formes)](https://perldoc.perl.org/perlport.html#PLATFORMS)
 
 ## Compiler les modules
 Qu’on utilise ou non un installeur de modules comme [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), au bout du compte le module est compilé avec [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) ou [Module::Build](https://metacpan.org/pod/Module::Build). [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) est toujours un module du _core_, alors que [Module::Build](https://metacpan.org/pod/Module::Build) a été ajouté puis enlevé (**5.9 → 5.19**). David Golden explique dans un billet de blog pourquoi [il a demandé à retirer Module::Build](https://xdg.me/blog/paying-respect-to-modulebuild/).
