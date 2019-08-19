@@ -7,13 +7,14 @@ List of resources about and around Perl
 Derivated from [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne) LinuxFR article (my article licenced in CC-BY-SA ): 
 
 Pour rappel, [Perl](https://www.perl.org/) est un langage généraliste créé en 1987 par [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall). « _Perl continue de prospérer dans sa troisième décennie grâce à une communauté d’utilisateurs et de développeurs très dynamique._ », _dixit_ [perldelta](https://metacpan.org/pod/distribution/perl/pod/perldelta.pod#Acknowledgements). Perl est distribué sous une double licence : [Artistic Licence](https://opensource.org/licenses/Artistic-2.0) et [GPL v1+](https://www.gnu.org/licenses/gpl-3.0.html). La plupart des modules du CPAN [suivent également ce même traitement](https://www.cpan.org/misc/cpan-faq.html#How_is_Perl_licensed).
-![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  _Perl 5 raptor de [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)_
+![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  _Perl 5 raptor de [kraih](https://github.com/kraih/perl-raptor)
+
+Licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)_
 
 ----
+
 [Perl](https://www.perl.org/)
 [MetaCPAN](https://metacpan.org/)
-[Sortie de Perl 5.30.0](https://linuxfr.org/news/sortie-de-perl-5-30-0)
-----
 
 ## Liens utiles
 Les paragraphes qui suivent concernant les liens n’ont pas pour but d’être *exhaustifs* mais plutôt de fournir des pointeurs vers des ressources ou d’attiser votre curiosité. 
