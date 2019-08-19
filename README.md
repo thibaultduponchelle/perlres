@@ -79,7 +79,7 @@ Les paragraphes qui suivent concernant les liens n’ont pas pour but d’être 
 
 ## Docs officielles
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html) ;
-- [des livres](https://perldoc.perl.org/perlbook.html) à propos de Perl : ![Des livres sur Perl](https://i.imgur.com/Z3F34XQ.jpg)   _Mon étagère de livres sur Perl — licence CC BY SA_
+_
 - [perlre](https://perldoc.perl.org/perlre.html), la doc des expressions rationnelles ainsi que le [tuto](https://perldoc.perl.org/perlretut.html) et le [_quick start_](https://perldoc.perl.org/perlrequick.html) ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)   _D’après_ [xkcd](https://xkcd.com/1171/) _— Licence CC BY NC_
 - la [liste des opérateurs](https://perldoc.perl.org/perlop.html) et des [fonctions _built‑in_](https://perldoc.perl.org/perlfunc.html) ;
 - [écriture des modules / paquets](https://perldoc.perl.org/perlmod.html) ou encore [_ici_](https://perldoc.perl.org/perlmodlib.html), écrire un [nouveau module](https://perldoc.perl.org/perlnewmod.html), conseils pour [respecter le style](https://perldoc.perl.org/perlmodstyle.html) dans les modules ;
@@ -91,39 +91,47 @@ Les paragraphes qui suivent concernant les liens n’ont pas pour but d’être 
 - doc du [débogueur](https://perldoc.perl.org/perldebug.html) ; le débogueur de Perl est lui‐même écrit en Perl ;) ;
 - orienté objet avec Perl ? Doc [perlobj](https://perldoc.perl.org/perlobj.html) et [tuto oo](https://perldoc.perl.org/perlootut.html).
 
+## Books 
+
+- [des livres](https://perldoc.perl.org/perlbook.html) à propos de Perl : 
+
+![Des livres sur Perl](https://i.imgur.com/Z3F34XQ.jpg)   
+
+Mon étagère de livres sur Perl — licence CC BY SA
+
 ## Tutoriels
-- _[Perl maven](https://perlmaven.com/perl-tutorial)_ ;
-- _[Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)_ ;
-- _[Minimum Viable Perl (MVP)](http://mvp.kablamo.org/)_ ;
-- _[Perl-begin](http://perl-begin.org/)_ ;
-- _[Perl101](https://perl101.org/)_ ;
-- _[Perl tutorialpoints](https://www.tutorialspoint.com/perl/)_;
-- _[Perl tutorial](https://www.perltutorial.org/)_ ;
-- _[Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)_.
+- [Perl maven](https://perlmaven.com/perl-tutorial)
+- [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
+- [Minimum Viable Perl (MVP)](http://mvp.kablamo.org/)
+- [Perl-begin](http://perl-begin.org/)
+- [Perl101](https://perl101.org/)
+- [Perl tutorialpoints](https://www.tutorialspoint.com/perl/)
+- [Perl tutorial](https://www.perltutorial.org/)
+- [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
 
 ## Tutoriels en français
-- [_Guide Perl_](http://formation-perl.fr/guide-perl.html) ;
-- [_Formation-Perl_](http://formation-perl.fr/) ;
-- [_Guide de programmation pour apprendre Perl_](https://lhullier.developpez.com/tutoriels/perl/intro/) ;
-- [site du zéro](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html) ;
-- [cours de l’Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/).
+- [_Guide Perl_](http://formation-perl.fr/guide-perl.html)
+- [_Formation-Perl_](http://formation-perl.fr/)
+- [_Guide de programmation pour apprendre Perl_](https://lhullier.developpez.com/tutoriels/perl/intro/)
+- [site du zéro](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
+- [cours de l’Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
 
 ## Tutos interactifs
-- [_Perltuts_](http://perltuts.com/tutorials/quick-start/hello-world) ;
-- [_Learn Perl_](https://www.learn-perl.org/) ;
-- [tutoriel tryperl.pl](http://tryperl.pl).
+- [Perltuts](http://perltuts.com/tutorials/quick-start/hello-world) ;
+- [Learn Perl](https://www.learn-perl.org/) ;
+- [Tutoriel tryperl.pl](http://tryperl.pl).
 
 ## Méta‐site qui liste les tutoriels
-- [_Perl tutorial meta site_](http://perl-tutorial.org/).
+- [Perl tutorial meta site](http://perl-tutorial.org/).
 
 ## Folklore autour de Perl
 - « perl » et « Perl » : **Perl** est le langage, **perl** en est l’interpréteur ;
 - JAPH : [_Just Another Perl Hacker_](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) ;
-- les opérateurs secrets et leurs petits surnoms : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) ;
-- ce pourquoi certains détestent ou adorent Perl (entre autres) : [les variables magiques](https://perldoc.perl.org/perlvar.html) ;
+- Les opérateurs secrets et leurs petits surnoms : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) ;
+- Ce pourquoi certains détestent ou adorent Perl (entre autres) : [les variables magiques](https://perldoc.perl.org/perlvar.html) ;
 - TIMTOWDY : [_There’s more than one way to do it_](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) ;
 - [_Seul perl peut parser Perl_](https://www.perlmonks.org/?node_id=663393) ou bien [PPI](https://metacpan.org/pod/PPI#Background) ;
-- la poésie Perl et, par exemple, le poème [_Black Perl_](https://fr.wikipedia.org/wiki/Black_Perl) de Larry Wall ;
+- La poésie Perl et, par exemple, le poème [_Black Perl_](https://fr.wikipedia.org/wiki/Black_Perl) de Larry Wall ;
 - [DEAD] [Perlgolf](http://perlgolf.sourceforge.net/) (code golf) ;
 - Les [trois vertus du programmeur : paresse, impatience et orgueil](https://www.brainyquote.com/fr/citation/larry-wall_141510) ;
 - Le logo dromadaire de Perl (tiré du livre _Programming Perl_ chez O’Reilly Media) (licence _Artistic License_) :
@@ -178,12 +186,12 @@ Les paragraphes qui suivent concernant les liens n’ont pas pour but d’être 
 - [Perlbot](https://perl.bot/).
 
 ## Exécution de code Perl en ligne (sites non spécifiques à Perl)
-- _[tutorialpoints](https://www.tutorialspoint.com/execute_perl_online.php)_ ;
-- _[Rextester](https://rextester.com/l/perl_online_compiler)_ ;
-- _[JDoodle](https://www.jdoodle.com/execute-perl-online)_ ;
-- _[paiza.IO](https://paiza.io/en/projects/new?language=perl)_ ;
-- _[codingground](http://www.compileonline.com/execute_perl_online.php)_ ;
-- _[JS.do](https://js.do/perl/)_.
+- [tutorialpoints](https://www.tutorialspoint.com/execute_perl_online.php)
+- [Rextester](https://rextester.com/l/perl_online_compiler)
+- [JDoodle](https://www.jdoodle.com/execute-perl-online)
+- [paiza.IO](https://paiza.io/en/projects/new?language=perl)
+- [codingground](http://www.compileonline.com/execute_perl_online.php)
+- [JS.do](https://js.do/perl/)
 
 # Développer avec Perl
 ## Installer des modules du CPAN
