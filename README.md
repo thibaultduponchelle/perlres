@@ -22,9 +22,9 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 ## Useful links
 
 ### Perl core development
-- [perl.git](https://perl5.git.perl.org/perl.git), where is located the **Perl interpreter source code** (as of today) and its [GitHub miror](https://github.com/Perl/perl5) ;
-- [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) (use Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system) ;
-- [Perl porters mailing list](https://lists.gt.net/perl/porters/) ;
+- [perl.git](https://perl5.git.perl.org/perl.git) where is located the **Perl interpreter source code** (as of today) and its [GitHub miror](https://github.com/Perl/perl5) ;
+- [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) (uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
+- [Perl porters mailing list](https://lists.gt.net/perl/porters/)
 - [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) by hand (if we don't want Perl vendor)
 - [perldelta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) latest changelog
 - [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html)
@@ -32,12 +32,12 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - [Portability](https://perldoc.perl.org/perlport.html) Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## Officiel
-- [perl.org](https://www.perl.org/) the Perl's "home"
-- [Perl Fundation](https://www.perlfoundation.org/) the Perl fundation
-- [White Camel Awards](https://www.perl.org/advocacy/white_camel/) Yearly award for important contribution to Perl. Not only with code.
+- [perl.org](https://www.perl.org/) - The Perl's "home"
+- [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
+- [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl. Not only with code.
 
 ## Modules et installeurs
-- Installeur de modules moderne [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), par [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA)) ;
+- Installeur de modules moderne [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) par [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA)) ;
 - [gestionnaire de version Perlbrew](https://perlbrew.pl/) ;
 - Un autre gestionnaire de binaire Perl [plenv](https://github.com/tokuhirom/plenv). [Différences entre perlbrew et plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e).
 - Bundler pour Perl : [Perl carton](https://github.com/perl-carton/carton) qui utilise [cpanfile](https://github.com/miyagawa/cpanfile) ;
