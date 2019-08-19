@@ -22,7 +22,7 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 ## Useful links
 
 ### Perl core development
-- [perl.git](https://perl5.git.perl.org/perl.git) where is located the **Perl interpreter source code** (as of today) and its [GitHub miror](https://github.com/Perl/perl5) ;
+- [perl.git](https://perl5.git.perl.org/perl.git) where is located the **Perl interpreter source code** (as of today) and its [GitHub miror](https://github.com/Perl/perl5)
 - [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) (uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
 - [Perl porters mailing list](https://lists.gt.net/perl/porters/)
 - [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) by hand (if we don't want Perl vendor)
@@ -113,23 +113,23 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
 
 ## Interactive tutorials
-- [Perltuts](http://perltuts.com/tutorials/quick-start/hello-world) ;
-- [Learn Perl](https://www.learn-perl.org/) ;
-- [TryPerl](http://tryperl.pl).
+- [Perltuts](http://perltuts.com/tutorials/quick-start/hello-world)
+- [Learn Perl](https://www.learn-perl.org/)
+- [TryPerl](http://tryperl.pl)
 
 ## Tutorials meta-site
 - [Perl tutorials meta site](http://perl-tutorial.org/).
 
 ## Folklore autour de Perl
 - "perl" et "Perl" : **Perl** est le langage, **perl** en est l’interpréteur ;
-- JAPH : [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) ;
-- Secrets operators and their nice nicknames : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) ;
-- Why some hate or love Perl (among other reasons) : [magic variables](https://perldoc.perl.org/perlvar.html) ;
-- TIMTOWDY : [There’s more than one way to do it](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) ;
-- [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background) ;
-- The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall ;
-- [DEAD] [Perlgolf](http://perlgolf.sourceforge.net/) (code golf) ;
-- The three chief virtues of a programmer are [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) ;
+- JAPH : [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker)
+- Secrets operators and their nice nicknames : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod)
+- Why some hate or love Perl (among other reasons) : [magic variables](https://perldoc.perl.org/perlvar.html)
+- TIMTOWDY : [There’s more than one way to do it](https://en.wikipedia.org/wiki/Just_another_Perl_hacker)
+- [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
+- The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
+- [DEAD] [Perlgolf](http://perlgolf.sourceforge.net/) (code golf)
+- The three chief virtues of a programmer are [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510)
 - The camel logo (from the book Programming Perl from O’Reilly Media) (licence Artistic License) :
 
 ![Camel](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
@@ -142,12 +142,12 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - Principle of least astonishment
 
 ## Perl Ecosystem
-- On dit généralement que la _killer app_ Perl est le [CPAN](https://www.cpan.org/) ([metaCPAN](https://metacpan.org/)) ;
-- [YaBB](http://www.yabbforum.com/), moteur de forum ;
-- [Everything Engine](https://www.everything2.com/), moteur de site d’actualités et site de questions‐réponses (qui fait tourner PerlMonks) ;
-- [Slashcode](https://github.com/SoylentNews/slashcode), moteur de site d’actualités et site de questions‐réponses (qui fait tourner Slashdot) ;
-- [Movable Type](https://www.movabletype.org/), système de gestion de contenu ;
-- [Munin](http://munin-monitoring.org/), logiciel de supervision comme Nagios et Shinken ;
+- On dit généralement que la _killer app_ Perl est le [CPAN](https://www.cpan.org/) ([metaCPAN](https://metacpan.org/))
+- [YaBB](http://www.yabbforum.com/), moteur de forum
+- [Everything Engine](https://www.everything2.com/), moteur de site d’actualités et site de questions‐réponses (qui fait tourner PerlMonks)
+- [Slashcode](https://github.com/SoylentNews/slashcode), moteur de site d’actualités et site de questions‐réponses (qui fait tourner Slashdot)
+- [Movable Type](https://www.movabletype.org/), système de gestion de contenu
+- [Munin](http://munin-monitoring.org/), logiciel de supervision comme Nagios et Shinken
 - [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/)
 - [SpamAssassin](https://spamassassin.apache.org/)
 - [Sympa](https://www.sympa.org/)
@@ -157,31 +157,31 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - [Webmin](http://www.webmin.com/)
 - [Request Tracker](https://bestpractical.com/request-tracker)
 - [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server)
-- [BugZilla](https://www.bugzilla.org/), outil de suivi de bogues ( projet [GitHub](https://github.com/bugzilla/bugzilla)) ;
-- [Perl to Java et Perl to JavaScript, compilateur Perlito](https://github.com/fglock/Perlito).
-- [PDL](http://pdl.perl.org/), pour le calcul scientifique ;
-- [Mojolicious](https://mojolicious.org/), cadriciel Web complet (plus bibliothèques) créé par [Sebastian Riedel](https://github.com/kraih) ([profil CPAN](https://metacpan.org/author/SRI)) ;
-- [Catalyst](http://www.catalystframework.org/), cardiciel Web complet ;
-- [Dancer](http://perldancer.org/), cadriciel Web minimaliste créé par [Alexis Sukrieh](https://metacpan.org/author/SUKRIA) ;
-- [NOUVEAU] [Tau Station](https://taustation.space/), un jeu d’aventure spatiale en mode texte ;
-- [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble), un jeu très connu ;
-- [AWStats](https://awstats.sourceforge.io/), analyse des journaux de serveurs Web (projet sur [GitHub](https://github.com/eldy/awstats)) ;
-- [Bloxsom](http://blosxom.sourceforge.net/), moteur de blog ;
-- [Oddmuse](https://oddmuse.org/), un moteur de wiki ;
-- [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/), un wiki ;
-- [TWiki](https://twiki.org/), un autre wiki ;
-- [ACT](http://act.mongueurs.net/) (projet sur [GitHub](https://github.com/book/Act)), une sorte de système de gestion de contenu pour les conférences ;
-- [Statocles](http://preaction.me/statocles/), un moteur de blog statique ([code source](https://github.com/preaction/Statocles)) ;
-- [Plstblog](https://github.com/linkdd/plstblog), un moteur de blog statique [écrit par une moule LinuxFr](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl) ;
+- [BugZilla](https://www.bugzilla.org/), outil de suivi de bogues ( projet [GitHub](https://github.com/bugzilla/bugzilla))
+- [Perl to Java et Perl to JavaScript, compilateur Perlito](https://github.com/fglock/Perlito)
+- [PDL](http://pdl.perl.org/), pour le calcul scientifique
+- [Mojolicious](https://mojolicious.org/), cadriciel Web complet (plus bibliothèques) créé par [Sebastian Riedel](https://github.com/kraih) ([profil CPAN](https://metacpan.org/author/SRI))
+- [Catalyst](http://www.catalystframework.org/), cardiciel Web complet
+- [Dancer](http://perldancer.org/), cadriciel Web minimaliste créé par [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
+- [NOUVEAU] [Tau Station](https://taustation.space/), un jeu d’aventure spatiale en mode texte
+- [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble), un jeu très connu
+- [AWStats](https://awstats.sourceforge.io/), analyse des journaux de serveurs Web (projet sur [GitHub](https://github.com/eldy/awstats))
+- [Bloxsom](http://blosxom.sourceforge.net/), moteur de blog
+- [Oddmuse](https://oddmuse.org/), un moteur de wiki
+- [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/), un wiki
+- [TWiki](https://twiki.org/), un autre wiki
+- [ACT](http://act.mongueurs.net/) (projet sur [GitHub](https://github.com/book/Act)), une sorte de système de gestion de contenu pour les conférences
+- [Statocles](http://preaction.me/statocles/), un moteur de blog statique ([code source](https://github.com/preaction/Statocles))
+- [Plstblog](https://github.com/linkdd/plstblog), un moteur de blog statique [écrit par une moule LinuxFr](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
 - [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay), la vache qui parle (mon terminal — licence CC BY SA)
-- [DuckDuckGo Instant Answer](https://duck.co/ia) (projet [GitHub](https://github.com/duckduckgo/duckduckgo), un moteur de site de questions‐réponses ;
+- [DuckDuckGo Instant Answer](https://duck.co/ia) (projet [GitHub](https://github.com/duckduckgo/duckduckgo), un moteur de site de questions‐réponses
 - Une partie d’[openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d’OBS build scripts](https://github.com/openSUSE/obs-build) et [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) et d’autres repos sur le [GitHub d’openSUSE](https://github.com/openSUSE) ; la plate‐forme _Open Build Service_* est une infrastructure qui permet de construire des paquets pour plusieurs gestionnaires de paquets, plusieurs distributions et plusieurs architectures.
 
 ## Exécution de code Perl en ligne
-- [NOUVEAU] [_PerlBanjo.com_](https://perlbanjo.com/) <3 ;
-- [WebPerl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([démo](https://webperl.zero-g.net/democode/index.html) et [source](https://github.com/haukex/webperl)) ;
-- [TIO](https://tio.run/#perl5) ;
-- [Perlbot](https://perl.bot/).
+- [NOUVEAU] [_PerlBanjo.com_](https://perlbanjo.com/) <3
+- [WebPerl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([démo](https://webperl.zero-g.net/democode/index.html) et [source](https://github.com/haukex/webperl))
+- [TIO](https://tio.run/#perl5)
+- [Perlbot](https://perl.bot/)
 
 ## Exécution de code Perl en ligne (sites non spécifiques à Perl)
 - [tutorialpoints](https://www.tutorialspoint.com/execute_perl_online.php)
