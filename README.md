@@ -25,8 +25,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl git](https://perl5.git.perl.org/perl.git) where is located the **Perl interpreter source code** (as of today) and its [GitHub mirror](https://github.com/Perl/perl5)
 - [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) (uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
 - [Perl porters mailing list](https://lists.gt.net/perl/porters/)
-- [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) by hand (if we don't want Perl vendor)
-- [Perl Delta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) latest changelog
+- [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want/need to compile it by hand (if we don't want Perl vendor)
+- [Perl Delta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) - The latest changelog
 - [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html)
 - [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod)
 - [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
@@ -34,7 +34,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## Officiel
 - [perl.org](https://www.perl.org/) - The Perl's "home"
 - [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
-- [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl. Not only with code.
+- [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
 
 ## Modules et installeurs
 - Modern CPAN modules installer [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
@@ -97,7 +97,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)   
 
-
 ## Tutorials
 - [Perl maven](https://perlmaven.com/perl-tutorial)
 - [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
@@ -124,7 +123,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl tutorials meta site](http://perl-tutorial.org/).
 
 ## Folklore autour de Perl
-- "perl" et "Perl" : **Perl** est le langage, **perl** en est l’interpréteur ;
+- "perl" et "Perl" : **Perl** est le langage, **perl** en est l’interpréteur
 - JAPH : [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker)
 - Secrets operators and their nice nicknames : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod)
 - Why some hate or love Perl (among other reasons) : [magic variables](https://perldoc.perl.org/perlvar.html)
@@ -147,12 +146,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - Principle of least astonishment
 
 ## Perl Ecosystem
-- On dit généralement que la _killer app_ Perl est le [CPAN](https://www.cpan.org/) ([metaCPAN](https://metacpan.org/))
-- [YaBB](http://www.yabbforum.com/), moteur de forum
-- [Everything Engine](https://www.everything2.com/), moteur de site d’actualités et site de questions‐réponses (qui fait tourner PerlMonks)
-- [Slashcode](https://github.com/SoylentNews/slashcode), moteur de site d’actualités et site de questions‐réponses (qui fait tourner Slashdot)
-- [Movable Type](https://www.movabletype.org/), système de gestion de contenu
-- [Munin](http://munin-monitoring.org/), logiciel de supervision comme Nagios et Shinken
+- It is commonly accepted that the Perl _killer app_ is [CPAN](https://www.cpan.org/) ([metaCPAN](https://metacpan.org/))
+- [YaBB](http://www.yabbforum.com/) - Forum engine
+- [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
+- [Slashcode](https://github.com/SoylentNews/slashcode) - - News platform engine  and questions/answers platform (Slashdot is powered by this)
+- [Movable Type](https://www.movabletype.org/) - CMS
+- [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
 - [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/)
 - [SpamAssassin](https://spamassassin.apache.org/)
 - [Sympa](https://www.sympa.org/)
@@ -162,43 +161,43 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Webmin](http://www.webmin.com/)
 - [Request Tracker](https://bestpractical.com/request-tracker)
 - [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server)
-- [BugZilla](https://www.bugzilla.org/), outil de suivi de bogues ( projet [GitHub](https://github.com/bugzilla/bugzilla))
-- [Perl to Java et Perl to JavaScript, compilateur Perlito](https://github.com/fglock/Perlito)
-- [PDL](http://pdl.perl.org/), pour le calcul scientifique
-- [Mojolicious](https://mojolicious.org/), cadriciel Web complet (plus bibliothèques) créé par [Sebastian Riedel](https://github.com/kraih) ([profil CPAN](https://metacpan.org/author/SRI))
-- [Catalyst](http://www.catalystframework.org/), cardiciel Web complet
-- [Dancer](http://perldancer.org/), cadriciel Web minimaliste créé par [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
-- [NOUVEAU] [Tau Station](https://taustation.space/), un jeu d’aventure spatiale en mode texte
-- [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble), un jeu très connu
-- [AWStats](https://awstats.sourceforge.io/), analyse des journaux de serveurs Web (projet sur [GitHub](https://github.com/eldy/awstats))
-- [Bloxsom](http://blosxom.sourceforge.net/), moteur de blog
-- [Oddmuse](https://oddmuse.org/), un moteur de wiki
-- [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/), un wiki
-- [TWiki](https://twiki.org/), un autre wiki
-- [ACT](http://act.mongueurs.net/) (projet sur [GitHub](https://github.com/book/Act)), une sorte de système de gestion de contenu pour les conférences
-- [Statocles](http://preaction.me/statocles/), un moteur de blog statique ([code source](https://github.com/preaction/Statocles))
-- [Plstblog](https://github.com/linkdd/plstblog), un moteur de blog statique [écrit par une moule LinuxFr](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
-- [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay), la vache qui parle (mon terminal — licence CC BY SA)
-- [DuckDuckGo Instant Answer](https://duck.co/ia) (projet [GitHub](https://github.com/duckduckgo/duckduckgo), un moteur de site de questions‐réponses
-- Une partie d’[openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d’OBS build scripts](https://github.com/openSUSE/obs-build) et [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) et d’autres repos sur le [GitHub d’openSUSE](https://github.com/openSUSE) ; la plate‐forme _Open Build Service_* est une infrastructure qui permet de construire des paquets pour plusieurs gestionnaires de paquets, plusieurs distributions et plusieurs architectures.
+- [BugZilla](https://www.bugzilla.org/) - bugtracker ([GitHub](https://github.com/bugzilla/bugzilla))
+- [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
+- [PDL](http://pdl.perl.org/) - For scientific calculations
+- [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI))
+- [Catalyst](http://www.catalystframework.org/) - Web framework
+- [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
+- [NOUVEAU] [Tau Station](https://taustation.space/) - A text based web space game 
+- [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
+- [AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([GitHub](https://github.com/eldy/awstats))
+- [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
+- [Oddmuse](https://oddmuse.org/) - Wiki engine
+- [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
+- [TWiki](https://twiki.org/) - Wiki engine
+- [ACT](http://act.mongueurs.net/) ([GitHub](https://github.com/book/Act)) - CMS for conferences
+- [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
+- [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
+- [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
+- [DuckDuckGo Instant Answer](https://duck.co/ia) ([GitHub](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
+- A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The _Open Build Service_ platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
 
-## Exécution de code Perl en ligne
-- [NOUVEAU] [PerlBanjo.com](https://perlbanjo.com/) <3
+## Execute Perl online
+- [PerlBanjo.com](https://perlbanjo.com/) [NEW] - <3 <3
 - [WebPerl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - [TIO](https://tio.run/#perl5)
 - [Perlbot](https://perl.bot/)
 
-## Exécution de code Perl en ligne (sites non spécifiques à Perl)
-- [tutorialpoints](https://www.tutorialspoint.com/execute_perl_online.php)
+## Execute Perl online (sites not dedicated to Perl)
+- [Tutorial Points](https://www.tutorialspoint.com/execute_perl_online.php)
 - [Rextester](https://rextester.com/l/perl_online_compiler)
 - [JDoodle](https://www.jdoodle.com/execute-perl-online)
-- [paiza.IO](https://paiza.io/en/projects/new?language=perl)
-- [codingground](http://www.compileonline.com/execute_perl_online.php)
+- [Paiza](https://paiza.io/en/projects/new?language=perl)
+- [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - [JS.do](https://js.do/perl/)
 
-# Développer avec Perl
-## Installer des modules du CPAN
-La **méthode moderne** consiste à utiliser [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). L’outil se charge d’aller chercher le module demandé et de résoudre les dépendances. Par exemple, pour installer l’excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) de **Shlomif** qui est la bibliothèque de liaison Perl de [libxml2](http://www.xmlsoft.org/), on peut faire ``sudo cpanm XML::LibXML``, qui produit la sortie suivante (tronquée) :
+# Develop with Perl
+## Install CPAN modules
+The **modern way** consist to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The toot is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from **Shlomif** which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
     
 ```bash
 --> Working on XML::LibXML
