@@ -279,11 +279,11 @@ make test
 make install
 ```
 
-## Compiler les modules
-Qu’on utilise ou non un installeur de modules comme [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), au bout du compte le module est compilé avec [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) ou [Module::Build](https://metacpan.org/pod/Module::Build). [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) est toujours un module du _core_, alors que [Module::Build](https://metacpan.org/pod/Module::Build) a été ajouté puis enlevé (**5.9 → 5.19**). David Golden explique dans un billet de blog pourquoi [il a demandé à retirer Module::Build](https://xdg.me/blog/paying-respect-to-modulebuild/).
+## Compile modules
+If we decide to use or not a module like [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), at the end the module is compiled using [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) or [Module::Build](https://metacpan.org/pod/Module::Build). [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) is a _core module_, while [Module::Build](https://metacpan.org/pod/Module::Build) was added then removed (**5.9 → 5.19**). David Golden explains in a blog post why [he requested to remove Module::Build](https://xdg.me/blog/paying-respect-to-modulebuild/).
 
 ### ExtUtils::MakeMaker
-Le module [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) génère un **makefile** à partir d’un fichier `Makefile.PL` :
+The module [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) generate a **makefile** from `Makefile.PL` :
     
 ``` bash
 perl Makefile.PL
@@ -292,7 +292,7 @@ make install
 ```
 
 ### Module::Build
-Le module [Module::Build](https://metacpan.org/pod/Module::Build) sert à la même chose mais génère un fichier **Build** à partir d’un fichier `BUILD.PL` :
+The module [Module::Build](https://metacpan.org/pod/Module::Build) serves the same goal but generates a file **Build** from the file `BUILD.PL` :
     
 ```
 perl Build.PL
