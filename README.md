@@ -16,9 +16,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ----
 
-[Perl](https://www.perl.org/)
-[MetaCPAN](https://metacpan.org/)
-
 ## Useful links
 
 ### Perl core development
@@ -214,14 +211,14 @@ Successfully installed XML-LibXML-2.0201 (upgraded from 2.0128)
 13 distributions installed
 ```
 
-Réinstaller un ensemble de modules Perl CPAN peut se faire simplement en réexécutant une série de commandes **cpanm** ou bien en spécifiant des dépendances dans un fichier [cpanfile](https://metacpan.org/pod/cpanfile) (et utiliser [carton](https://metacpan.org/pod/Carton) pour la configuration).
+Reinstalling a set of COAN modules can be done simply by launching a bunch of **cpanm** commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) for the setup).
 
 ## Les linters
-Exécutables à la main ou intégrables dans vos scripts, IDE ou éditeurs (utilisateurs de vim : [ale](https://github.com/w0rp/ale/) ou [syntastic](https://github.com/vim-syntastic/syntastic)).
+Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale/) or [syntastic](https://github.com/vim-syntastic/syntastic)).
 
-
-- [`perl -c`](https://perldoc.perl.org/perlrun.html), pour vérifier la syntaxe. Attention ça fait plus que simplement vérifier la syntaxe, ça exécute aussi ce qui est dans les blocs `BEGIN` et `END` qui sont destinés à être exécutés pendant la compilation. Ce *design* est [la raison pour laquelle](https://github.com/w0rp/ale/issues/1186) le _linter_ par défaut utilisé par le greffon [vim ale](https://github.com/w0rp/ale) n’est plus `perl -c` (ni même `perl -w`). 
-La vérification de syntaxe est top. Personnellement, j’ai un projet qui contient ça dans le script de tests unitaires avec des vrais tests après :
+- [`perl -c`](https://perldoc.perl.org/perlrun.html), to check the syntax. Warning it does more than only checking syntax, it actually executes the blocks `BEGIN` and `END` (compilation step). This *design* is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
+The syntax check in Perl is great (as the error messages from the interpreter are... I <3 Perl)
+Personnally, I have a project that contains this at the beginning of the the unit test  :
     
 ```perl
 my @files = <./*.pl>;
@@ -239,16 +236,14 @@ for my $f (@files) {
 }
 ```
 
-C’est quand même la base d’avoir du code syntaxiquement juste. :)
-
-- [Perl::Critic](https://metacpan.org/pod/Perl::Critic), qui *critique* votre style de codage mais ne fait pas de vérification de syntaxe. Par exemple, le fichier `bad.pl` contien :
+- [Perl::Critic](https://metacpan.org/pod/Perl::Critic), that *criticize*  your coding style but do not check syntax. For instance, the file `bad.pl` contains :
     
 ```perl
 use strict;
 print "toto" }{
 ```
 
-Et `perl -c bad.pl` nous affiche bien :
+And `perl -c bad.pl` prints :
     
 ```
 Unmatched right curly bracket at bad.pl line 3, at end of line
@@ -257,22 +252,22 @@ Missing right curly or square bracket at bad.pl line 3, at end of line
 bad.pl had compilation errors.
 ```
     
-Mais `perlcritic bad.pl` nous dit que tout va bien `bad.pl source OK` (mais il râle si on ne met pas le `use strict`).
+But `perlcritic bad.pl` tells us that eveything is fine `bad.pl source OK` (but is not happy with the missing  `use strict`).
 
-- Un module qui était dans le cœur de Perl mais qui est sorti du _core_ en **5.19** : [B::Lint](https://metacpan.org/pod/B::Lint).
-Au passage comment fait‐on pour retrouver l’historique d’un module ? Utilisez **corelist** ! `corelist B::Lint` qui nous donne : 
+- A module that was part of the core distribution of Perl but was finally removed in Perl **5.19** : [B::Lint](https://metacpan.org/pod/B::Lint).
+While we are here, how to know the history of a module in the core distribution ? Use **corelist** ! `corelist B::Lint` that gives us : 
     
 ```
 Data for 2017-09-22
 B::Lint was first released with perl 5.005, deprecated (will be CPAN-only) in v5.17.9 and removed from v5.19.0
 ```
     
-Toujours disponible dans CPAN évidemment. :)
+If a module goes out of core distribution it's not dramatic as it continues to be available in CPAN of course.
 
-- Et encore un [Perl::Lint](https://metacpan.org/pod/Perl::Lint) qui se concentre sur la vitesse tout en étant compatible avec **Perl::Critic**.
+- And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focus on speed while being compatible with **Perl::Critic**.
 
 ## Comment compiler perl
-[Instructions pour compiler perl](https://www.cpan.org/src/). En fait, ça va donner ça :
+[How to compile perl](https://www.cpan.org/src/). Actually it will give this :
     
 ```bash
 wget https://www.cpan.org/src/5.0/perl-5.30.0.tar.gz
