@@ -22,11 +22,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## Useful links
 
 ### Perl core development
-- [perl.git](https://perl5.git.perl.org/perl.git) where is located the **Perl interpreter source code** (as of today) and its [GitHub miror](https://github.com/Perl/perl5)
+- [Perl git](https://perl5.git.perl.org/perl.git) where is located the **Perl interpreter source code** (as of today) and its [GitHub mirror](https://github.com/Perl/perl5)
 - [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) (uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
 - [Perl porters mailing list](https://lists.gt.net/perl/porters/)
 - [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) by hand (if we don't want Perl vendor)
-- [perldelta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) latest changelog
+- [Perl Delta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) latest changelog
 - [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html)
 - [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod)
 - [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
@@ -55,7 +55,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [perlmeme.org](http://perlmeme.org/) a website about Perl (tutorials, FAQ and more)
 
 ## Around the CPAN
-- [NEW] [CPANdoc](https://cpandoc.grinnz.com/) - Documentation of some important modules
+- [CPANdoc](https://cpandoc.grinnz.com/) [NEW] - Documentation of some important modules
 - [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
 - [CPAN map](http://mapofcpan.org) - Namespaces map of CPAN modules
 - [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
