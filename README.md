@@ -37,17 +37,17 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 - [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl. Not only with code.
 
 ## Modules et installeurs
-- Modern CPAN modules installer [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) par [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
+- Modern CPAN modules installer [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
 - [Perl binaries installer Perlbrew](https://perlbrew.pl/)
 - Another Perl binaries handler [plenv](https://github.com/tokuhirom/plenv). [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
-- Bundler for Perl : [Perl carton](https://github.com/perl-carton/carton) qui utilise [cpanfile](https://github.com/miyagawa/cpanfile)
+- [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (use [cpanfile](https://github.com/miyagawa/cpanfile))
 - List of important modules [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho)
 - [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 
 ## General
 - [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
 - [Perl Monks… **again**](https://www.perlmonks.org/) because it's so cool, even if it looks like a cave
-- Perldoc [perldoc.perl.org](https://perldoc.perl.org/) and [perldoc.pl](https://perldoc.pl)
+- [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl)
 - [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html)
 - [List dependencies from a CPAN module](http://deps.cpantesters.org/)
 - [Discuss modules before CPAN upload](http://prepan.org/)
@@ -78,19 +78,19 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 
 ## Docs officielles
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html)
-- [perlre](https://perldoc.perl.org/perlre.html), la doc des expressions rationnelles ainsi que le [tuto](https://perldoc.perl.org/perlretut.html) et le [quick start](https://perldoc.perl.org/perlrequick.html) 
+- [perlre](https://perldoc.perl.org/perlre.html) - Regular expression documentation and [tuto](https://perldoc.perl.org/perlretut.html) and  [quick start](https://perldoc.perl.org/perlrequick.html) 
 
 ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)
 
-- La [liste des opérateurs](https://perldoc.perl.org/perlop.html) et des [fonctions _built‑in_](https://perldoc.perl.org/perlfunc.html) ;
-- [écriture des modules / paquets](https://perldoc.perl.org/perlmod.html) ou encore [_ici_](https://perldoc.perl.org/perlmodlib.html), écrire un [nouveau module](https://perldoc.perl.org/perlnewmod.html), conseils pour [respecter le style](https://perldoc.perl.org/perlmodstyle.html) dans les modules ;
-- Doc sur la [syntaxe Perl](https://perldoc.perl.org/perlsyn.html) ;
-- Les [références](https://perldoc.perl.org/perlref.html) et le [tutoriel](https://perldoc.perl.org/perlreftut.html) ;
-- La [doc sur les IPC](https://perldoc.perl.org/perlipc.html) ;
-- La [sécurité dans Perl](https://perldoc.perl.org/perlsec.html) : _taint checking_ (ou « _data flow analysis_ »), _setuid_, _clean PATH_, protection des attaque de complexité algorithmiques ;
-- La doc sur la [génération de rapports grâce aux formats](https://perldoc.perl.org/perlform.html)  — les *formats* sont une des raisons de la création de Perl, mais restent limités et beaucoup moins utilisés ;
-- Doc du [débogueur](https://perldoc.perl.org/perldebug.html) ; le débogueur de Perl est lui‐même écrit en Perl ;) ;
-- Orienté objet avec Perl ? Doc [perlobj](https://perldoc.perl.org/perlobj.html) et [tuto oo](https://perldoc.perl.org/perlootut.html).
+- [Operators list](https://perldoc.perl.org/perlop.html) and [built‑in functions](https://perldoc.perl.org/perlfunc.html) ;
+- [Howto write modules/packages](https://perldoc.perl.org/perlmod.html) or [here](https://perldoc.perl.org/perlmodlib.html) - Write a new module](https://perldoc.perl.org/perlnewmod.html), advices to [respect the style](https://perldoc.perl.org/perlmodstyle.html) in modules
+- Doc about [Perl syntax](https://perldoc.perl.org/perlsyn.html) ;
+- [References](https://perldoc.perl.org/perlref.html) and [tutorial](https://perldoc.perl.org/perlreftut.html)
+- [Documetation about IPC](https://perldoc.perl.org/perlipc.html) ;
+- [Perl security](https://perldoc.perl.org/perlsec.html) : _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_, protection against alorithm complexity attacks ;
+- Documentation about [reports generation thanks to formats](https://perldoc.perl.org/perlform.html)  — *Formats* are a reason of the initial creation of Perl, but they are limited and less and less used
+- Documentation of the [degugger](https://perldoc.perl.org/perldebug.html) - The Perl debugger is itself written in Perl ;) 
+- Object Oriented Programming in Perl ? Documentation [perlobj](https://perldoc.perl.org/perlobj.html) and [tuto oo](https://perldoc.perl.org/perlootut.html).
 
 ## Books 
 - [Some books](https://perldoc.perl.org/perlbook.html) about Perl : 
