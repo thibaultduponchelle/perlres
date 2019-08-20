@@ -194,7 +194,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 # Develop with Perl
 ## Install CPAN modules
-The **modern way** consist to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The toot is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from **Shlomif** which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
+The **modern way** consist to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The toot is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
     
 ```bash
 --> Working on XML::LibXML
