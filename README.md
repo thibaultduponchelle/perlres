@@ -43,13 +43,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## General
 - [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
-- [Perl Monks… **again**](https://www.perlmonks.org/) because it's so cool, even if it looks like a cave
+- [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave
 - [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl)
 - [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html)
 - [List dependencies from a CPAN module](http://deps.cpantesters.org/)
 - [Discuss modules before CPAN upload](http://prepan.org/)
-- [Perl Maven](https://fr.perlmaven.com/), a huge website about Perl
-- [perlmeme.org](http://perlmeme.org/) a website about Perl (tutorials, FAQ and more)
+- [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
+- [perlmeme.org](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
 
 ## Around the CPAN
 - [CPANdoc](https://cpandoc.grinnz.com/) [NEW] - Documentation of some important modules
@@ -58,6 +58,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
 - [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
 - [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
+- [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
 
 ## Social
 - [Perl Reddit](https://www.reddit.com/r/perl/)
@@ -66,10 +67,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [French Perl Mongers](http://www.mongueurs.net/)
 - [Nice Perl blog](http://niceperl.blogspot.com/)
 - [Weekly Newsletter](http://perlweekly.com/)
+- [Perl Weekly Challenge](https://perlweeklychallenge.org) - Code Golf Perl5 and Perl6
 - [Perl Hacks](https://perlhacks.com/) - A blog
 - [Perl Sphere](http://perlsphere.net/) - Newsfeed
 - Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) - The [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead)
-- Some [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC), especially the frecnh mongers, mojolicious, dancer, catalyst, etc...
+- [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
 - [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
 - [Perl Buzz](https://perlbuzz.com/) - Newsfeed
 - [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
@@ -85,9 +87,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - Doc about [Perl syntax](https://perldoc.perl.org/perlsyn.html) ;
 - [References](https://perldoc.perl.org/perlref.html) and [tutorial](https://perldoc.perl.org/perlreftut.html)
 - [Documetation about IPC](https://perldoc.perl.org/perlipc.html) ;
-- [Perl security](https://perldoc.perl.org/perlsec.html) : _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_, protection against alorithm complexity attacks ;
-- Documentation about [reports generation thanks to formats](https://perldoc.perl.org/perlform.html)  — *Formats* are a reason of the initial creation of Perl, but they are limited and less and less used
-- Documentation of the [degugger](https://perldoc.perl.org/perldebug.html) - The Perl debugger is itself written in Perl ;) 
+- [Perl security](https://perldoc.perl.org/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_, protection against alorithm complexity attacks ;
+- [Reports generation thanks to formats](https://perldoc.perl.org/perlform.html)  — Documentation about formats. *Formats* are a reason of the initial creation of Perl, but they are limited and less and less used
+- [Degugger documentation](https://perldoc.perl.org/perldebug.html) - The Perl debugger is itself written in Perl ;) 
 - Object Oriented Programming in Perl ? Documentation [perlobj](https://perldoc.perl.org/perlobj.html) and [tuto oo](https://perldoc.perl.org/perlootut.html).
 
 ## Books 
@@ -121,15 +123,15 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl tutorials meta site](http://perl-tutorial.org/).
 
 ## Perl folklore
-- "perl" et "Perl" : **Perl** est le langage, **perl** en est l’interpréteur
+- "perl" et "Perl" : **Perl** is the langage, **perl** is the interpreter
 - JAPH : [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker)
-- Secrets operators and their nice nicknames : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod)
-- Why some hate or love Perl (among other reasons) : [magic variables](https://perldoc.perl.org/perlvar.html)
-- [TIMTOWDY](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
+- [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
+- [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
+- [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
 - [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
-- [DEAD] [Perlgolf](http://perlgolf.sourceforge.net/) (code golf)
-- The three chief virtues of a programmer are [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510)
+- [Perl Golf](http://perlgolf.sourceforge.net/) [DEAD] - Code Golf
+- [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - The camel logo (from the book Programming Perl from O’Reilly Media) :
 
 ![Camel](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
@@ -219,23 +221,6 @@ Executable by hand or directly integrated in your scripts, IDE or editors (vim u
 
 - [`perl -c`](https://perldoc.perl.org/perlrun.html), to check the syntax. Warning it does more than only checking syntax, it actually executes the blocks `BEGIN` and `END` (compilation step). This *design* is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
 The syntax check in Perl is great (as the error messages from the interpreter are... I <3 Perl)
-Personnally, I have a project that contains this at the beginning of the the unit test  :
-    
-```perl
-my @files = <./*.pl>;
-push @files, <./*.pm>;
-
-for my $f (@files) { 
-    system("perl -c $f 2>/dev/null");    
-    my $real_ret_value = $? >> 8;
-    if($real_ret_value !=  0) { 
-        print "$f : Syntax error !\n";
-    } else { 
-        print "$f : OK\n";
-    }
-    ok($real_ret_value == 0) or $fails += 1;
-}
-```
 
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic), that *criticize*  your coding style but do not check syntax. For instance, the file `bad.pl` contains :
     
