@@ -162,14 +162,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Movable Type](https://www.movabletype.org/) - CMS
 - [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
 - [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/)
-- [SpamAssassin](https://spamassassin.apache.org/)
-- [Sympa](https://www.sympa.org/)
-- [FusionInventory](http://fusioninventory.org/)
-- [OCS NG](https://ocsinventory-ng.org/)
-- [Gearman](http://gearman.org/)
-- [Webmin](http://www.webmin.com/)
-- [Request Tracker](https://bestpractical.com/request-tracker)
-- [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server)
+- [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
+- [Sympa](https://www.sympa.org/) - Mailing lists engine
+- [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
+- [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
+- [Gearman](http://gearman.org/) - Job server 
+- [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
+- [Request Tracker](https://bestpractical.com/request-tracker) - Bug Tracker
+- [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - [BugZilla](https://www.bugzilla.org/) - bugtracker ([GitHub](https://github.com/bugzilla/bugzilla))
 - [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
 - [PDL](http://pdl.perl.org/) - For scientific calculations
