@@ -34,11 +34,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
 
 ## Modules and installers
-- Modern CPAN modules installer [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
+- [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
 - [Perl binaries installer Perlbrew](https://perlbrew.pl/)
-- Another Perl binaries handler [plenv](https://github.com/tokuhirom/plenv). [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
+- [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
 - [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (use [cpanfile](https://github.com/miyagawa/cpanfile))
-- List of important modules [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho)
+- [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules 
 - [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 
 ## General
