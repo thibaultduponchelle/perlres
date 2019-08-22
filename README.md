@@ -60,14 +60,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
 
 ## Social
-- [Perl reddit](https://www.reddit.com/r/perl/)
+- [Perl Reddit](https://www.reddit.com/r/perl/)
 - [Blogs about Perl](http://blogs.perl.org/)
 - [Perl Mongers](https://www.pm.org/)
 - [French Perl Mongers](http://www.mongueurs.net/)
 - [Nice Perl blog](http://niceperl.blogspot.com/)
 - [Weekly Newsletter](http://perlweekly.com/)
 - [Perl Hacks](https://perlhacks.com/) - A blog
-- [Perlsphere](http://perlsphere.net/) - Newsfeed
+- [Perl Sphere](http://perlsphere.net/) - Newsfeed
 - Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) - The [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead)
 - Some [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC), especially the frecnh mongers, mojolicious, dancer, catalyst, etc...
 - [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
@@ -96,13 +96,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ![](https://i.imgur.com/Z3F34XQ.jpg)   
 
 ## Tutorials
-- [Perl maven](https://perlmaven.com/perl-tutorial)
+- [Perl Maven](https://perlmaven.com/perl-tutorial)
 - [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
 - [Minimum Viable Perl (MVP)](http://mvp.kablamo.org/)
-- [Perl-begin](http://perl-begin.org/)
+- [Perl Begin](http://perl-begin.org/)
 - [Perl101](https://perl101.org/)
-- [Perl tutorialpoints](https://www.tutorialspoint.com/perl/)
-- [Perl tutorial](https://www.perltutorial.org/)
+- [Perl Tutorial Points](https://www.tutorialspoint.com/perl/)
+- [Perl Tutorial](https://www.perltutorial.org/)
 - [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
 
 ## French tutorials
