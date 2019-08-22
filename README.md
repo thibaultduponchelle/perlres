@@ -176,7 +176,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI))
 - [Catalyst](http://www.catalystframework.org/) - Web framework
 - [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
-- [NOUVEAU] [Tau Station](https://taustation.space/) - A text based web space game 
+- [Tau Station](https://taustation.space/) [NEW] - A text based web space game 
 - [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - [AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([GitHub](https://github.com/eldy/awstats))
 - [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
@@ -191,8 +191,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The _Open Build Service_ platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
 
 ## Execute Perl online
-- [PerlBanjo.com](https://perlbanjo.com/) [NEW] - <3 <3
-- [WebPerl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
+- [Perl Banjo](https://perlbanjo.com/) [NEW] - <3 <3
+- [Web Perl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - [TIO](https://tio.run/#perl5)
 - [Perlbot](https://perl.bot/)
 
