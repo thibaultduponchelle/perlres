@@ -52,7 +52,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [perlmeme.org](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
 
 ## Around the CPAN
-- [CPANdoc](https://cpandoc.grinnz.com/) [NEW] - Documentation of some important modules
+- [CPAN doc](https://cpandoc.grinnz.com/) [NEW] - Documentation of some important modules
 - [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
 - [CPAN map](http://mapofcpan.org) - Namespaces map of CPAN modules
 - [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
