@@ -24,8 +24,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl porters mailing list](https://lists.gt.net/perl/porters/)
 - [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want/need to compile it by hand (if we don't want Perl vendor)
 - [Perl Delta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) - The latest changelog
-- [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html)
-- [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod)
+- [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html) - Date and major changes from Perl creation to today
+- [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
 - [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## Official
