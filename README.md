@@ -155,7 +155,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## Perl Ecosystem
 - [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN
-- [MetaCPAN]([metaCPAN](https://metacpan.org/)) - Search the CPAN
+- [MetaCPAN](https://metacpan.org/) - Search the CPAN
 - [YaBB](http://www.yabbforum.com/) - Forum engine
 - [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
 - [Slashcode](https://github.com/SoylentNews/slashcode) - - News platform engine  and questions/answers platform (Slashdot is powered by this)
