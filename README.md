@@ -28,12 +28,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod)
 - [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
-## Officiel
+## Official
 - [perl.org](https://www.perl.org/) - The Perl's "home"
 - [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
 - [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
 
-## Modules et installeurs
+## Modules and installers
 - Modern CPAN modules installer [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
 - [Perl binaries installer Perlbrew](https://perlbrew.pl/)
 - Another Perl binaries handler [plenv](https://github.com/tokuhirom/plenv). [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
@@ -71,9 +71,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) - The [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead)
 - Some [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC), especially the frecnh mongers, mojolicious, dancer, catalyst, etc...
 - [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
-- [Perlbuzz](https://perlbuzz.com/) - Newsfeed
+- [Perl Buzz](https://perlbuzz.com/) - Newsfeed
+- [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 
-## Docs officielles
+## Official documentations
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html)
 - [perlre](https://perldoc.perl.org/perlre.html) - Regular expression documentation and [tuto](https://perldoc.perl.org/perlretut.html) and  [quick start](https://perldoc.perl.org/perlrequick.html) 
 
@@ -119,7 +120,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## Tutorials meta-site
 - [Perl tutorials meta site](http://perl-tutorial.org/).
 
-## Folklore autour de Perl
+## Perl folklore
 - "perl" et "Perl" : **Perl** est le langage, **perl** en est l’interpréteur
 - JAPH : [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker)
 - Secrets operators and their nice nicknames : [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod)
@@ -213,7 +214,7 @@ Successfully installed XML-LibXML-2.0201 (upgraded from 2.0128)
 
 Reinstalling a set of COAN modules can be done simply by launching a bunch of **cpanm** commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) for the setup).
 
-## Les linters
+## Linters
 Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale/) or [syntastic](https://github.com/vim-syntastic/syntastic)).
 
 - [`perl -c`](https://perldoc.perl.org/perlrun.html), to check the syntax. Warning it does more than only checking syntax, it actually executes the blocks `BEGIN` and `END` (compilation step). This *design* is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
@@ -266,7 +267,7 @@ If a module goes out of core distribution it's not dramatic as it continues to b
 
 - And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focus on speed while being compatible with **Perl::Critic**.
 
-## Comment compiler perl
+## How to compile perl
 [How to compile perl](https://www.cpan.org/src/). Actually it will give this :
     
 ```bash
