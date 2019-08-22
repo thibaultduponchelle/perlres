@@ -124,7 +124,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## Perl folklore
 - "perl" et "Perl" : **Perl** is the langage, **perl** is the interpreter
-- JAPH : [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker)
+- [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
 - [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
 - [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
@@ -132,21 +132,30 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
 - [Perl Golf](http://perlgolf.sourceforge.net/) [DEAD] - Code Golf
 - [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
+- [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
+- Get the job done
+- Baby Perl - Programming using Perl with a reduced set of builtins and idioms
+- [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
+
+## Logos
 - The camel logo (from the book Programming Perl from O’Reilly Media) :
 
 ![Camel](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
 
 - The onion logo :
 
-![Oignon](https://upload.wikimedia.org/wikipedia/en/a/a4/Onion_64x64.png)
+![Onion](https://upload.wikimedia.org/wikipedia/en/a/a4/Onion_64x64.png)
 
-- DWIM
-- Get the job done
-- Baby Perl
-- Principle of least astonishment
+- Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor) : 
+
+![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  
+
+
+
 
 ## Perl Ecosystem
-- It is commonly accepted that the Perl _killer app_ is [CPAN](https://www.cpan.org/) ([metaCPAN](https://metacpan.org/))
+- [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN
+- [MetaCPAN]([metaCPAN](https://metacpan.org/)) - Search the CPAN
 - [YaBB](http://www.yabbforum.com/) - Forum engine
 - [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
 - [Slashcode](https://github.com/SoylentNews/slashcode) - - News platform engine  and questions/answers platform (Slashdot is powered by this)
