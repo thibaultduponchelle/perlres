@@ -46,15 +46,15 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave
 - [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl)
 - [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html)
-- [List dependencies from a CPAN module](http://deps.cpantesters.org/)
 - [Discuss modules before CPAN upload](http://prepan.org/)
 - [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
 - [perlmeme.org](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
 
 ## Around the CPAN
-- [CPAN doc](https://cpandoc.grinnz.com/) [NEW] - Documentation of some important modules
+- [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
+- [CPAN Doc](https://cpandoc.grinnz.com/) [NEW] - Documentation of some important modules
 - [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
-- [CPAN map](http://mapofcpan.org) - Namespaces map of CPAN modules
+- [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
 - [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
 - [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
 - [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
@@ -177,6 +177,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Tau Station](https://taustation.space/) [NEW] - A text based web space game 
 - [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - [AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([GitHub](https://github.com/eldy/awstats))
+- [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
 - [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
 - [Oddmuse](https://oddmuse.org/) - Wiki engine
 - [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
