@@ -106,6 +106,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl Tutorial Points](https://www.tutorialspoint.com/perl/)
 - [Perl Tutorial](https://www.perltutorial.org/)
 - [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
+- [Perl Newvbie](https://newbie.perlzemi.com/) [NEW]
 
 ## French tutorials
 - [Guide Perl](http://formation-perl.fr/guide-perl.html)
@@ -149,9 +150,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor) : 
 
 ![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  
-
-
-
 
 ## Perl Ecosystem
 - [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN
