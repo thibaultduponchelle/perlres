@@ -59,6 +59,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
 - [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
 - [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
+- [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
 
 ## Social
 - [Perl Reddit](https://www.reddit.com/r/perl/)
