@@ -183,6 +183,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [TWiki](https://twiki.org/) - Wiki engine
 - [ACT](http://act.mongueurs.net/) ([GitHub](https://github.com/book/Act)) - CMS for conferences
 - [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
+- [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
 - [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
 - [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - [DuckDuckGo Instant Answer](https://duck.co/ia) ([GitHub](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
