@@ -71,7 +71,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl Weekly Challenge](https://perlweeklychallenge.org) - Code Golf Perl5 and Perl6
 - [Perl Hacks](https://perlhacks.com/) - A blog
 - [Perl Sphere](http://perlsphere.net/) - Newsfeed
-- Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) - The [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead) and [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) or [Patch.pm -pn](http://patch.pm) or Perl QA Hackathon 
+- Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) or the [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead) and [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) or [Patch.pm -pn](http://patch.pm) or Perl QA Hackathon or Perl Toolchain Summit
 - [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
 - [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
 - [Perl Buzz](https://perlbuzz.com/) - Newsfeed
