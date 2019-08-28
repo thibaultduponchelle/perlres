@@ -196,7 +196,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 
 ## Execute Perl online
-- [Perl Banjo](https://perlbanjo.com/) [NEW] - <3 <3
+- [Perl Banjo](https://perlbanjo.com/) [NEW] - :heart:
 - [Web Perl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - [TIO](https://tio.run/#perl5)
 - [Perlbot](https://perl.bot/)
