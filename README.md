@@ -194,6 +194,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
 - [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
 - [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
+- [Kritika.io](https://kritika.io/) - Static code analyzer
 
 ## Execute Perl online
 - [Perl Banjo](https://perlbanjo.com/) [NEW] - :heart:
