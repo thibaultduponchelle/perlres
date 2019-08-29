@@ -169,7 +169,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
 - [Gearman](http://gearman.org/) - Job server 
 - [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
-- [Request Tracker](https://bestpractical.com/request-tracker) - Bug Tracker
+- [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
+- [OTRS](https://otrs.com/) - Ticket tracker ([GitHub](https://github.com/OTRS/otrs))
 - [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - [BugZilla](https://www.bugzilla.org/) - bugtracker ([GitHub](https://github.com/bugzilla/bugzilla))
 - [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
