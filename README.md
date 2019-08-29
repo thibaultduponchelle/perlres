@@ -139,6 +139,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - Get the job done
 - Baby Perl - Programming using Perl with a reduced set of builtins and idioms
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
+- [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
 ## Logos
 - The camel logo (from the book Programming Perl from O’Reilly Media) :
