@@ -109,7 +109,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl Tutorial Points](https://www.tutorialspoint.com/perl/)
 - [Perl Tutorial](https://www.perltutorial.org/)
 - [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
-- [Perl Newvbie](https://newbie.perlzemi.com/) [NEW]
+- [Perl Newbie](https://newbie.perlzemi.com/) [NEW]
 
 ## French tutorials
 - [Guide Perl](http://formation-perl.fr/guide-perl.html)
