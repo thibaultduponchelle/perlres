@@ -160,6 +160,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
 - [Slashcode](https://github.com/SoylentNews/slashcode) - - News platform engine  and questions/answers platform (Slashdot is powered by this)
 - [Movable Type](https://www.movabletype.org/) - CMS
+- [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
 - [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
 - [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/)
 - [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
