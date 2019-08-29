@@ -184,6 +184,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Oddmuse](https://oddmuse.org/) - Wiki engine
 - [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
 - [TWiki](https://twiki.org/) - Wiki engine
+- [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System
 - [ACT](http://act.mongueurs.net/) ([GitHub](https://github.com/book/Act)) - CMS for conferences
 - [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
 - [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
