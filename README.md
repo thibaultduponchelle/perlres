@@ -127,9 +127,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl tutorials meta site](http://perl-tutorial.org/).
 
 ## Perl folklore
-- "perl" et "Perl" : **Perl** is the langage, **perl** is the interpreter
+- "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies
 - [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
+- [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/) 
 - [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
 - [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
 - [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
