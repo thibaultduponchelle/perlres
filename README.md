@@ -77,6 +77,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl Buzz](https://perlbuzz.com/) - Newsfeed
 - [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 - [Cultured Perl](https://culturedperl.com) - A Blog about Perl
+- [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
 
 ## Official documentations
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html)
