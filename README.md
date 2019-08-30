@@ -54,6 +54,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
 - [CPAN Doc](https://cpandoc.grinnz.com/) [NEW] - Documentation of some important modules
 - [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
+- [BackPAN](http://backpan.cpantesters.org/) - The CPAN with all history
 - [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
 - [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
 - [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
