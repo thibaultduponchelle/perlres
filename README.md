@@ -46,6 +46,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html) - Web interface to the tool `corelist`
 - [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
 - [Perl Meme](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
+- [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 
 ## :fuelpump: Around the CPAN
 - [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
@@ -74,7 +75,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
 - [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
 - :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
-- [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 - [Cultured Perl](https://culturedperl.com) - A Blog about Perl
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
 
