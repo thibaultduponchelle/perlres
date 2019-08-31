@@ -18,13 +18,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :construction_worker: Perl core development
 - :octocat: [Perl git](https://perl5.git.perl.org/perl.git) - Where is located the **Perl interpreter source code** (as of today) and its [GitHub mirror](https://github.com/Perl/perl5)
-- :bug: :ant: [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) - Uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
+- :bug: [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) - Uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
 - [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
 - :hammer: [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want/need to compile it by hand (if we don't want Perl vendor)
 - [Perl Delta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) - The latest changelog
 - :scroll: [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html) - Date and major changes from Perl creation to today
-- :older_man: :older_woman: [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
-- :penguin: :monkey: :sheep: :elephant: [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
+- :older_woman: [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
+- :penguin: [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## :necktie: Official
 - :house: [perl.org](https://www.perl.org/) - The Perl's "home"
