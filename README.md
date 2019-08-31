@@ -16,9 +16,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ----
 
-## Useful links
+## :link: Useful links
 
-### Perl core development
+### :hammer_and_wrench: Perl core development
 - [Perl git](https://perl5.git.perl.org/perl.git) - Where is located the **Perl interpreter source code** (as of today) and its [GitHub mirror](https://github.com/Perl/perl5)
 - [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) - Uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
 - [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
@@ -31,13 +31,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## Official
 - :house: [perl.org](https://www.perl.org/) - The Perl's "home"
 - :european_castle: [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
-- [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
+- :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
 
 ## Modules and installers
 - [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
 - [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
 - [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
-- [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (use [cpanfile](https://github.com/miyagawa/cpanfile))
+- :gift: [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (use [cpanfile](https://github.com/miyagawa/cpanfile))
 - [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules 
 - [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 
@@ -62,7 +62,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
 - [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
 
-## Social
+## :beers: Social
 - [Perl Reddit](https://www.reddit.com/r/perl/) - Sub Reddit for Perl
 - [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
 - [Perl Mongers](https://www.pm.org/) - Perl Mongers
@@ -80,7 +80,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Cultured Perl](https://culturedperl.com) - A Blog about Perl
 - [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
 
-## Official documentations
+## :book: Official documentations
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html)
 - [Perlre](https://perldoc.perl.org/perlre.html) - Regular expression documentation and [tuto](https://perldoc.perl.org/perlretut.html) and  [quick start](https://perldoc.perl.org/perlrequick.html) 
 
@@ -96,7 +96,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Degugger documentation](https://perldoc.perl.org/perldebug.html) - The Perl debugger is itself written in Perl :muscle: 
 - Object Oriented Programming in Perl ? Documentation [perlobj](https://perldoc.perl.org/perlobj.html) and [tuto oo](https://perldoc.perl.org/perlootut.html).
 
-## Books 
+## :orange_book: Books 
 - [Some books](https://perldoc.perl.org/perlbook.html) about Perl : 
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)   
@@ -127,7 +127,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :school: Tutorials meta-site
 - [Perl tutorials meta site](http://perl-tutorial.org/).
 
-## :shipit: Perl folklore
+## :squirrel: Perl folklore
 - "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies
 - [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
@@ -157,7 +157,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  
 
-## Perl Ecosystem
+## :jack_o_lantern: Perl Ecosystem
 - [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN
 - [MetaCPAN](https://metacpan.org/) - Search the CPAN
 - [YaBB](http://www.yabbforum.com/) - Forum engine
@@ -208,13 +208,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - [Kritika.io](https://kritika.io/) - Static code analyzer
 
-## Execute Perl online
+## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - :heart: :muscle:
 - [Web Perl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - [TIO](https://tio.run/#perl5)
 - [Perlbot](https://perl.bot/)
 
-## Execute Perl online (sites not dedicated to Perl)
+## :ghost: Execute Perl online (sites not dedicated to Perl)
 - [Tutorial Points](https://www.tutorialspoint.com/execute_perl_online.php)
 - [Rextester](https://rextester.com/l/perl_online_compiler)
 - [JDoodle](https://www.jdoodle.com/execute-perl-online)
@@ -222,8 +222,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - [JS.do](https://js.do/perl/)
 
-# Develop with Perl
-## Install CPAN modules
+# :rocket: Develop with Perl
+## :arrow_down: :fuelpump: Install CPAN modules
 The **modern way** consist to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The toot is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
     
 ```bash
@@ -243,7 +243,7 @@ Successfully installed XML-LibXML-2.0201 (upgraded from 2.0128)
 
 Reinstalling a set of COAN modules can be done simply by launching a bunch of **cpanm** commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) or `cpan --installdeps .` for the setup).
 
-## Linters
+## :heavy_check_mark: Linters
 Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale/) or [syntastic](https://github.com/vim-syntastic/syntastic)).
 
 - [`perl -c`](https://perldoc.perl.org/perlrun.html), to check the syntax. Warning it does more than only checking syntax, it actually executes the blocks `BEGIN` and `END` (compilation step). This *design* is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
@@ -279,7 +279,7 @@ If a module goes out of core distribution it's not dramatic as it continues to b
 
 - And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focus on speed while being compatible with **Perl::Critic**.
 
-## :hammer: How to compile perl
+## :hammer_and_wrench: How to compile perl
 [How to compile perl](https://www.cpan.org/src/). Actually it will give this :
     
 ```bash
@@ -292,10 +292,10 @@ make test
 make install
 ```
 
-## Compile modules
+## :hammer_and_pink: Compile modules
 If we decide to use or not a module like [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), at the end the module is compiled using [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) or [Module::Build](https://metacpan.org/pod/Module::Build). [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) is a _core module_, while [Module::Build](https://metacpan.org/pod/Module::Build) was added then removed (**5.9 → 5.19**). David Golden explains in a blog post why [he requested to remove Module::Build](https://xdg.me/blog/paying-respect-to-modulebuild/).
 
-### ExtUtils::MakeMaker
+### :wrench: ExtUtils::MakeMaker
 The module [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) generate a **makefile** from `Makefile.PL` :
     
 ``` bash
@@ -304,7 +304,7 @@ make
 make install
 ```
 
-### Module::Build
+### :pick: Module::Build
 The module [Module::Build](https://metacpan.org/pod/Module::Build) serves the same goal but generates a file **Build** from the file `BUILD.PL` :
     
 ```
