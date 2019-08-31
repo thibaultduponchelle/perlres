@@ -178,12 +178,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [BugZilla](https://www.bugzilla.org/) - bugtracker ([GitHub](https://github.com/bugzilla/bugzilla))
 - [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
 - [PDL](http://pdl.perl.org/) - For scientific calculations
-- [Mojolicious](https://mojolicious.org/) :cloud: - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
-- [Minion](https://github.com/mojolicious/minion) :octopus: - A high performance job queue 
-- [Catalyst](http://www.catalystframework.org/) - Web framework
-- [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
-- [Tau Station](https://taustation.space/) [NEW] - A text based web space game 
-- [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
+- :cloud: [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
+- :octopus: [Minion](https://github.com/mojolicious/minion) - A high performance job queue 
+- :dizzy: [Catalyst](http://www.catalystframework.org/) - Web framework
+- :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
+- :new: :space_invader: [Tau Station](https://taustation.space/) [NEW] - A text based web space game 
+- :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - [AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([GitHub](https://github.com/eldy/awstats))
 - [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
 - [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
@@ -198,13 +198,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
 - [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
 - [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
-- [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
+- :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - [DuckDuckGo Instant Answer](https://duck.co/ia) ([GitHub](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
 - A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The _Open Build Service_ platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
 - [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
-- [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
-- [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
-- [Kritika.io](https://kritika.io/) - Static code analyzer
+- :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
+- :octocat: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
+- :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - :heart: :muscle:
