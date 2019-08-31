@@ -61,7 +61,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
 
 ## :beers: Social
-- [Perl Reddit](https://www.reddit.com/r/perl/) - Sub Reddit for Perl
+- [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
 - [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
 - [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
@@ -76,7 +76,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
 - [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 - [Cultured Perl](https://culturedperl.com) - A Blog about Perl
-- [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
+- :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
 
 ## :book: Official documentations
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html)
