@@ -86,7 +86,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 - [Operators list](https://perldoc.perl.org/perlop.html) and [built‑in functions](https://perldoc.perl.org/perlfunc.html)
 - [How to write modules/packages](https://perldoc.perl.org/perlmod.html) or [here](https://perldoc.perl.org/perlmodlib.html) - Write a new module](https://perldoc.perl.org/perlnewmod.html), advices to [respect the style](https://perldoc.perl.org/perlmodstyle.html) in modules
-- [Perl syntax](https://perldoc.perl.org/perlsyn.html) - 
+- [Perl syntax](https://perldoc.perl.org/perlsyn.html) - Doc about Perl syntax
 - [References](https://perldoc.perl.org/perlref.html) and [tutorial](https://perldoc.perl.org/perlreftut.html)
 - [Documetation about IPC](https://perldoc.perl.org/perlipc.html)
 - [Perl security](https://perldoc.perl.org/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_ or _alorithm complexity attacks_
