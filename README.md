@@ -44,7 +44,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## General
 - [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
 - [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
-- [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl)
+- [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl) :new:
 - [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html) - Web interface to the tool `corelist`
 - [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
 - [perlmeme.org](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
@@ -110,7 +110,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl Tutorial Points](https://www.tutorialspoint.com/perl/)
 - [Perl Tutorial](https://www.perltutorial.org/)
 - [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
-- [Perl Newbie](https://newbie.perlzemi.com/) [NEW]
+- :new: [Perl Newbie](https://newbie.perlzemi.com/)
 
 ## :school: French tutorials :fr:
 - [Guide Perl](http://formation-perl.fr/guide-perl.html)
@@ -124,7 +124,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Learn Perl](https://www.learn-perl.org/)
 - [TryPerl](http://tryperl.pl) 
 
-## Tutorials meta-site
+## :school: Tutorials meta-site
 - [Perl tutorials meta site](http://perl-tutorial.org/).
 
 ## Perl folklore
@@ -140,7 +140,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - Get the job done
-- Baby Perl :baby_symbol: - Programming using Perl with a reduced set of builtins and idioms
+- Baby :baby_symbol: Perl - Programming using Perl with a reduced set of builtins and idioms
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
 - [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
@@ -209,7 +209,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Kritika.io](https://kritika.io/) - Static code analyzer
 
 ## Execute Perl online
-- [Perl Banjo](https://perlbanjo.com/) :new: - :heart:
+- :new: [Perl Banjo](https://perlbanjo.com/) - :heart: :muscle:
 - [Web Perl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - [TIO](https://tio.run/#perl5)
 - [Perlbot](https://perl.bot/)
