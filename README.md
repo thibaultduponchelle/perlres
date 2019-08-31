@@ -22,15 +22,15 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl git](https://perl5.git.perl.org/perl.git) - Where is located the **Perl interpreter source code** (as of today) and its [GitHub mirror](https://github.com/Perl/perl5)
 - [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) - Uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
 - [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
-- [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want/need to compile it by hand (if we don't want Perl vendor)
+- :hammer: [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want/need to compile it by hand (if we don't want Perl vendor)
 - [Perl Delta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) - The latest changelog
 - [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html) - Date and major changes from Perl creation to today
 - [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
 - [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## Official
-- [perl.org](https://www.perl.org/) - The Perl's "home"
-- [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
+- :house: [perl.org](https://www.perl.org/) - The Perl's "home"
+- :european_castle: [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
 - [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
 
 ## Modules and installers
@@ -127,12 +127,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :school: Tutorials meta-site
 - [Perl tutorials meta site](http://perl-tutorial.org/).
 
-## Perl folklore
+## :shipit: Perl folklore
 - "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies
 - [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
 - [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/) 
-- [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
+- :dollar: [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
 - [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
 - [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
@@ -279,7 +279,7 @@ If a module goes out of core distribution it's not dramatic as it continues to b
 
 - And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focus on speed while being compatible with **Perl::Critic**.
 
-## How to compile perl
+## :hammer: How to compile perl
 [How to compile perl](https://www.cpan.org/src/). Actually it will give this :
     
 ```bash
