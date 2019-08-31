@@ -45,16 +45,16 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
 - [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
 - [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl)
-- [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html)
-- [Discuss modules before CPAN upload](http://prepan.org/)
+- [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html) - Web interface to the tool `corelist`
 - [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
 - [perlmeme.org](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
 
 ## Around the CPAN
 - [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
-- [CPAN Doc](https://cpandoc.grinnz.com/) [NEW] - Documentation of some important modules
+- [CPAN Doc](https://cpandoc.grinnz.com/) :new: - Documentation of some important modules
 - [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
 - [BackPAN](http://backpan.cpantesters.org/) - The CPAN with all history
+- [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
 - [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
 - [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
 - [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
@@ -63,10 +63,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
 
 ## Social
-- [Perl Reddit](https://www.reddit.com/r/perl/)
-- [Blogs about Perl](http://blogs.perl.org/)
-- [Perl Mongers](https://www.pm.org/)
-- [French Perl Mongers](http://www.mongueurs.net/)
+- [Perl Reddit](https://www.reddit.com/r/perl/) - Sub Reddit for Perl
+- [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
+- [Perl Mongers](https://www.pm.org/) - Perl Mongers
+- [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
 - [Nice Perl blog](http://niceperl.blogspot.com/)
 - [Weekly Newsletter](http://perlweekly.com/)
 - [Perl Weekly Challenge](https://perlweeklychallenge.org) - Code Golf Perl5 and Perl6
@@ -209,7 +209,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Kritika.io](https://kritika.io/) - Static code analyzer
 
 ## Execute Perl online
-- [Perl Banjo](https://perlbanjo.com/) [NEW] - :heart:
+- [Perl Banjo](https://perlbanjo.com/) :new: - :heart:
 - [Web Perl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - [TIO](https://tio.run/#perl5)
 - [Perlbot](https://perl.bot/)
@@ -241,7 +241,7 @@ Successfully installed XML-LibXML-2.0201 (upgraded from 2.0128)
 13 distributions installed
 ```
 
-Reinstalling a set of COAN modules can be done simply by launching a bunch of **cpanm** commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) for the setup).
+Reinstalling a set of COAN modules can be done simply by launching a bunch of **cpanm** commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) or `cpan --installdeps .` for the setup).
 
 ## Linters
 Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale/) or [syntastic](https://github.com/vim-syntastic/syntastic)).
