@@ -180,7 +180,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [BugZilla](https://www.bugzilla.org/) - bugtracker ([GitHub](https://github.com/bugzilla/bugzilla))
 - [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
 - [PDL](http://pdl.perl.org/) - For scientific calculations
-- [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI))
+- [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) :octopus:
+- [Minion](https://github.com/mojolicious/minion) - A high performance job queue :octopus: 
 - [Catalyst](http://www.catalystframework.org/) - Web framework
 - [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 - [Tau Station](https://taustation.space/) [NEW] - A text based web space game 
