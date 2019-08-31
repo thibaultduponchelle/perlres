@@ -49,7 +49,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :fuelpump: Around the CPAN
 - [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
-- [CPAN Doc](https://cpandoc.grinnz.com/) :new: - Documentation of some important modules
+- :new: [CPAN Doc](https://cpandoc.grinnz.com/) - Documentation of some important modules
 - [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
 - [BackPAN](http://backpan.cpantesters.org/) - The CPAN with all history
 - [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
