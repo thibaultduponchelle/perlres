@@ -66,8 +66,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
 - [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
-- [Nice Perl blog](http://niceperl.blogspot.com/)
-- :newspaper: [Weekly Newsletter](http://perlweekly.com/)
+- [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
+- :newspaper: [Weekly Newsletter](http://perlweekly.com/) - Newsletter gathering Perl news and links
 - [Perl Weekly Challenge](https://perlweeklychallenge.org) - Code Golf Perl5 and Perl6
 - [Perl Hacks](https://perlhacks.com/) - A blog
 - :newspaper: [Perl Sphere](http://perlsphere.net/) - Newsfeed
@@ -79,14 +79,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
 
 ## :book: Official documentations
-- [Perl FAQ](https://perldoc.perl.org/perlfaq.html)
+- [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
 - [Perlre](https://perldoc.perl.org/perlre.html) - Regular expression documentation and [tuto](https://perldoc.perl.org/perlretut.html) and  [quick start](https://perldoc.perl.org/perlrequick.html) 
 
 ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)
 
 - [Operators list](https://perldoc.perl.org/perlop.html) and [built‑in functions](https://perldoc.perl.org/perlfunc.html) ;
 - [How to write modules/packages](https://perldoc.perl.org/perlmod.html) or [here](https://perldoc.perl.org/perlmodlib.html) - Write a new module](https://perldoc.perl.org/perlnewmod.html), advices to [respect the style](https://perldoc.perl.org/perlmodstyle.html) in modules
-- [Perl syntax](https://perldoc.perl.org/perlsyn.html) ;
+- [Perl syntax](https://perldoc.perl.org/perlsyn.html) - 
 - [References](https://perldoc.perl.org/perlref.html) and [tutorial](https://perldoc.perl.org/perlreftut.html)
 - [Documetation about IPC](https://perldoc.perl.org/perlipc.html) ;
 - [Perl security](https://perldoc.perl.org/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_, protection against alorithm complexity attacks ;
@@ -120,16 +120,16 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :vibration_mode: Interactive tutorials
 - [Perltuts](http://perltuts.com/tutorials/quick-start/hello-world)
 - [Learn Perl](https://www.learn-perl.org/)
-- [TryPerl](http://tryperl.pl) 
+- :chocolate_bar: [TryPerl](http://tryperl.pl) - TryRuby clone for Perl :heart:
 
 ## :school: Tutorials meta-site
-- [Perl tutorials meta site](http://perl-tutorial.org/).
+- [Perl tutorials](http://perl-tutorial.org/) - Perl turorials meta site
 
 ## :squirrel: Perl folklore
-- "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies
-- [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
+- "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
+- :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
-- [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/) 
+- :heavy_plus_sign: [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/) 
 - :heavy_dollar_sign: [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
 - [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
 - [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
