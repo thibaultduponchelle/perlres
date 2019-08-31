@@ -43,7 +43,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## General
 - [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
-- [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave
+- [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
 - [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl)
 - [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html)
 - [Discuss modules before CPAN upload](http://prepan.org/)
