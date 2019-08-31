@@ -6,7 +6,7 @@ List of resources about Perl :dromedary_camel:
 
 Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## Summary 
+## :clipboard: Summary 
 
 Derivated from LinuxFR french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne) 
 
@@ -28,12 +28,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
 - [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
-## Official
+## :necktie: Official
 - :house: [perl.org](https://www.perl.org/) - The Perl's "home"
 - :european_castle: [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
 
-## Modules and installers
+## :hammer_and_wrench: Modules and installers
 - [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
 - [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
 - [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
@@ -41,7 +41,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules 
 - [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 
-## General
+## :dromedary_camel: General
 - [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
 - [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
 - [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl) :new:
@@ -49,7 +49,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
 - [perlmeme.org](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
 
-## Around the CPAN
+## :fuelpump: Around the CPAN
 - [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
 - [CPAN Doc](https://cpandoc.grinnz.com/) :new: - Documentation of some important modules
 - [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
@@ -96,7 +96,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Degugger documentation](https://perldoc.perl.org/perldebug.html) - The Perl debugger is itself written in Perl :muscle: 
 - Object Oriented Programming in Perl ? Documentation [perlobj](https://perldoc.perl.org/perlobj.html) and [tuto oo](https://perldoc.perl.org/perlootut.html).
 
-## :orange_book: Books 
+## :books: Books 
 - [Some books](https://perldoc.perl.org/perlbook.html) about Perl : 
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)   
@@ -140,7 +140,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - Get the job done
-- Baby :baby_symbol: Perl - Programming using Perl with a reduced set of builtins and idioms
+- Baby :baby_symbol: Perl - Programming using Perl with a reduced set of builtins and idioms :baby_bottle:
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
 - [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
