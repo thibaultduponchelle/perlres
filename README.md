@@ -99,7 +99,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)   
 
-## :school: Tutorials :us:
+## :us: Tutorials 
 - [Perl Maven](https://perlmaven.com/perl-tutorial)
 - [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
 - [Minimum Viable Perl (MVP)](http://mvp.kablamo.org/)
@@ -110,14 +110,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
 - :new: [Perl Newbie](https://newbie.perlzemi.com/)
 
-## :school: French tutorials :fr:
+## :fr: French tutorials
 - [Guide Perl](http://formation-perl.fr/guide-perl.html)
 - [Formation-Perl](http://formation-perl.fr/)
 - [Guide de programmation pour apprendre Perl](https://lhullier.developpez.com/tutoriels/perl/intro/)
 - [Site du zero](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
 - [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
 
-## :school: Interactive tutorials :us: :vibration_mode:
+## :vibration_mode: Interactive tutorials
 - [Perltuts](http://perltuts.com/tutorials/quick-start/hello-world)
 - [Learn Perl](https://www.learn-perl.org/)
 - [TryPerl](http://tryperl.pl) 
