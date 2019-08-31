@@ -85,7 +85,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)
 
 - [Operators list](https://perldoc.perl.org/perlop.html) and [built‑in functions](https://perldoc.perl.org/perlfunc.html)
-- [How to write modules/packages](https://perldoc.perl.org/perlmod.html) or [here](https://perldoc.perl.org/perlmodlib.html) - Write a new module](https://perldoc.perl.org/perlnewmod.html), advices to [respect the style](https://perldoc.perl.org/perlmodstyle.html) in modules
+- [How to write modules/packages](https://perldoc.perl.org/perlmod.html) or [here](https://perldoc.perl.org/perlmodlib.html) - or [write a new module](https://perldoc.perl.org/perlnewmod.html). Some advices to [respect the style](https://perldoc.perl.org/perlmodstyle.html) in modules
 - [Perl syntax](https://perldoc.perl.org/perlsyn.html) - Doc about Perl syntax
 - [References](https://perldoc.perl.org/perlref.html) and [tutorial](https://perldoc.perl.org/perlreftut.html)
 - [Documetation about IPC](https://perldoc.perl.org/perlipc.html)
