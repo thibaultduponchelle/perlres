@@ -45,7 +45,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl) :new:
 - [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html) - Web interface to the tool `corelist`
 - [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
-- [perlmeme.org](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
+- [Perl Meme](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
 
 ## :fuelpump: Around the CPAN
 - [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
@@ -142,7 +142,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
-## Logos
+## :dromadary_camel: Logos
 - The camel logo (from the book Programming Perl from O’Reilly Media) :
 
 ![Camel](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
@@ -212,7 +212,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [TIO](https://tio.run/#perl5)
 - [Perlbot](https://perl.bot/)
 
-## :ghost: Execute Perl online (sites not dedicated to Perl)
+## :boom: Execute Perl online (sites not dedicated to Perl)
 - [Tutorial Points](https://www.tutorialspoint.com/execute_perl_online.php)
 - [Rextester](https://rextester.com/l/perl_online_compiler)
 - [JDoodle](https://www.jdoodle.com/execute-perl-online)
@@ -221,7 +221,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [JS.do](https://js.do/perl/)
 
 # :rocket: Develop with Perl
-## :arrow_down: :fuelpump: Install CPAN modules
+## :arrow_down: Install CPAN modules
 The **modern way** consist to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The toot is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
     
 ```bash
