@@ -101,7 +101,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)   
 
-## Tutorials
+## Tutorials :school: :us:
 - [Perl Maven](https://perlmaven.com/perl-tutorial)
 - [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
 - [Minimum Viable Perl (MVP)](http://mvp.kablamo.org/)
@@ -112,14 +112,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
 - [Perl Newbie](https://newbie.perlzemi.com/) [NEW]
 
-## French tutorials
+## French tutorials :school: :fr:
 - [Guide Perl](http://formation-perl.fr/guide-perl.html)
 - [Formation-Perl](http://formation-perl.fr/)
 - [Guide de programmation pour apprendre Perl](https://lhullier.developpez.com/tutoriels/perl/intro/)
 - [Site du zero](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
 - [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
 
-## Interactive tutorials
+## Interactive tutorials :school: :us: :vibration_mode:
 - [Perltuts](http://perltuts.com/tutorials/quick-start/hello-world)
 - [Learn Perl](https://www.learn-perl.org/)
 - [TryPerl](http://tryperl.pl) 
@@ -140,7 +140,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - Get the job done
-- Baby Perl - Programming using Perl with a reduced set of builtins and idioms
+- Baby Perl :baby_symbol: - Programming using Perl with a reduced set of builtins and idioms
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
 - [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
