@@ -35,7 +35,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## Modules and installers
 - [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
-- [Perl binaries installer Perlbrew](https://perlbrew.pl/)
+- [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
 - [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
 - [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (use [cpanfile](https://github.com/miyagawa/cpanfile))
 - [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules 
@@ -122,7 +122,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## Interactive tutorials
 - [Perltuts](http://perltuts.com/tutorials/quick-start/hello-world)
 - [Learn Perl](https://www.learn-perl.org/)
-- [TryPerl](http://tryperl.pl)
+- [TryPerl](http://tryperl.pl) 
 
 ## Tutorials meta-site
 - [Perl tutorials meta site](http://perl-tutorial.org/).
