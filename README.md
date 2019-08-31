@@ -142,7 +142,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
-## :dromadary_camel: Logos
+## :dromedary_camel: Logos
 - The camel logo (from the book Programming Perl from O’Reilly Media) :
 
 ![Camel](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
@@ -290,7 +290,7 @@ make test
 make install
 ```
 
-## :hammer_and_pink: Compile modules
+## :hammer_and_pick: Compile modules
 If we decide to use or not a module like [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), at the end the module is compiled using [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) or [Module::Build](https://metacpan.org/pod/Module::Build). [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) is a _core module_, while [Module::Build](https://metacpan.org/pod/Module::Build) was added then removed (**5.9 → 5.19**). David Golden explains in a blog post why [he requested to remove Module::Build](https://xdg.me/blog/paying-respect-to-modulebuild/).
 
 ### :wrench: ExtUtils::MakeMaker
