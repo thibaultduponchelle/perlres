@@ -17,14 +17,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ----
 
 ## :construction_worker: Perl core development
-- [Perl git](https://perl5.git.perl.org/perl.git) - Where is located the **Perl interpreter source code** (as of today) and its [GitHub mirror](https://github.com/Perl/perl5)
-- [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) - Uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
+- :octocat: [Perl git](https://perl5.git.perl.org/perl.git) - Where is located the **Perl interpreter source code** (as of today) and its [GitHub mirror](https://github.com/Perl/perl5)
+- :bug: :ant: [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) - Uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system)
 - [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
 - :hammer: [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want/need to compile it by hand (if we don't want Perl vendor)
 - [Perl Delta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) - The latest changelog
-- [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html) - Date and major changes from Perl creation to today
-- [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
-- [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
+- :scroll: [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html) - Date and major changes from Perl creation to today
+- :older_man: :older_woman: [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
+- :penguin: :monkey: :sheep: :elephant: [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## :necktie: Official
 - :house: [perl.org](https://www.perl.org/) - The Perl's "home"
@@ -66,14 +66,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
 - [Nice Perl blog](http://niceperl.blogspot.com/)
-- [Weekly Newsletter](http://perlweekly.com/)
+- :newspaper: [Weekly Newsletter](http://perlweekly.com/)
 - [Perl Weekly Challenge](https://perlweeklychallenge.org) - Code Golf Perl5 and Perl6
 - [Perl Hacks](https://perlhacks.com/) - A blog
-- [Perl Sphere](http://perlsphere.net/) - Newsfeed
+- :newspaper: [Perl Sphere](http://perlsphere.net/) - Newsfeed
 - Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) or the [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead) and [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) or [Patch.pm -pn](http://patch.pm) or Perl QA Hackathon or Perl Toolchain Summit
 - [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
 - [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
-- [Perl Buzz](https://perlbuzz.com/) - Newsfeed
+- :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
 - [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 - [Cultured Perl](https://culturedperl.com) - A Blog about Perl
 - [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
@@ -130,17 +130,17 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
 - [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/) 
-- :dollar: [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
+- :heavy_dollar_sign: [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
 - [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
 - [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
-- [Perl Golf](http://perlgolf.sourceforge.net/) [DEAD] - Code Golf
+- :golf: [Perl Golf](http://perlgolf.sourceforge.net/) [DEAD] - Code Golf
 - [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - Get the job done
 - Baby :baby_symbol: Perl - Programming using Perl with a reduced set of builtins and idioms :baby_bottle:
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
-- [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
+- :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
 ## Logos
 - The camel logo (from the book Programming Perl from O’Reilly Media) :
