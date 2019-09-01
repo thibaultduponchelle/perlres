@@ -32,21 +32,21 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
 
 ## :hammer_and_wrench: Modules and installers
-- [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
-- [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
-- [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
+- :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
+- :hammer: [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
+- :wrench: [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
 - :gift: [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (use [cpanfile](https://github.com/miyagawa/cpanfile))
-- [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules 
-- [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
+- :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules 
+- :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 
 ## :dromedary_camel: General
 - :man_with_turban: [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
 - :man_with_turban: [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
 - :book: [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl) :new:
-- [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html) - Web interface to the tool `corelist`
-- [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
-- [Perl Meme](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
-- [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
+- :moneybag: [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html) - Web interface to the tool `corelist`
+- :book: [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
+- :books: [Perl Meme](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
+- :school: [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 
 ## :fuelpump: Around the CPAN
 - :ocean: [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
