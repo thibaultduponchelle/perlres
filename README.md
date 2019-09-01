@@ -118,28 +118,28 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :book: [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
 
 ## :vibration_mode: Interactive tutorials
-- :bowling:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world)
-- :tennis: [Learn Perl](https://www.learn-perl.org/)
+- :pizza:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world)
+- :fries: [Learn Perl](https://www.learn-perl.org/)
 - :chocolate_bar: [TryPerl](http://tryperl.pl) - TryRuby clone for Perl :heart:
 
 ## :school: Tutorials meta-site
 - :books: [Perl tutorials](http://perl-tutorial.org/) - Perl turorials meta site
 
 ## :squirrel: Perl folklore
-- "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
+- :nerd_face: "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
 - :heavy_plus_sign: [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/) 
 - :heavy_dollar_sign: [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
-- [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
-- [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
+- :100: [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
+- :recycle: [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
 - :golf: [Perl Golf](http://perlgolf.sourceforge.net/) [DEAD] - Code Golf
-- [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
-- [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
+- :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
+- :sunglasses: [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - Get the job done
 - Baby :baby_symbol: Perl - Programming using Perl with a reduced set of builtins and idioms :baby_bottle:
-- [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
+- :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
 ## :dromedary_camel: Logos
@@ -156,21 +156,21 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  
 
 ## :jack_o_lantern: Perl Ecosystem
-- [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN
-- [MetaCPAN](https://metacpan.org/) - Search the CPAN
+- :fuelpump: [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN
+- :pill: [MetaCPAN](https://metacpan.org/) - Search the CPAN
 - :speech_balloon: [YaBB](http://www.yabbforum.com/) - Forum engine
 - :speech_balloon: [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
 - :speech_balloon: [Slashcode](https://github.com/SoylentNews/slashcode) - - News platform engine  and questions/answers platform (Slashdot is powered by this)
-- [Movable Type](https://www.movabletype.org/) - CMS
-- [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
-- [WebGui](http://www.webgui.org/) - CMS
+- :memo: [Movable Type](https://www.movabletype.org/) - CMS
+- :memo: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
+- :memo: [WebGui](http://www.webgui.org/) - CMS
 - :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
-- [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/)
-- [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
+- :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/)
+- :hocho: [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
 - :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
-- [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
-- [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
-- [Gearman](http://gearman.org/) - Job server 
+- :cd: [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
+- :cd: [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
+- :construction_worker: [Gearman](http://gearman.org/) - Job server 
 - :chart_with_upwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
 - :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
 - :bug: [OTRS](https://otrs.com/) - Ticket tracker ([GitHub](https://github.com/OTRS/otrs))
@@ -191,7 +191,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pencil2: [TWiki](https://twiki.org/) - Wiki engine
 - :pencil2: [FosWiki](https://foswiki.org/) - Wiki engine ([GitHub](https://github.com/foswiki))
 - :books: [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([GitWeb](http://git.koha-community.org/gitweb/))
-- [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([GitHub](https://github.com/eprints/eprints))
+- :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([GitHub](https://github.com/eprints/eprints))
 - :seat: [ACT](http://act.mongueurs.net/) ([GitHub](https://github.com/book/Act)) - CMS for conferences
 - :speech_balloon: [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
@@ -208,17 +208,17 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - :heart: :muscle:
-- [Web Perl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
-- [TIO](https://tio.run/#perl5)
-- [Perlbot](https://perl.bot/)
+- :doughnut: [Web Perl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
+- :candy: [TIO](https://tio.run/#perl5)
+- :cake: [Perlbot](https://perl.bot/)
 
 ## :boom: Execute Perl online (sites not dedicated to Perl)
-- [Tutorial Points](https://www.tutorialspoint.com/execute_perl_online.php)
-- [Rextester](https://rextester.com/l/perl_online_compiler)
-- [JDoodle](https://www.jdoodle.com/execute-perl-online)
-- [Paiza](https://paiza.io/en/projects/new?language=perl)
-- [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
-- [JS.do](https://js.do/perl/)
+- :banana: [Tutorial Points](https://www.tutorialspoint.com/execute_perl_online.php)
+- :corn: [Rextester](https://rextester.com/l/perl_online_compiler)
+- :cookie: [JDoodle](https://www.jdoodle.com/execute-perl-online)
+- :icecream: [Paiza](https://paiza.io/en/projects/new?language=perl)
+- :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
+- :hamburger: [JS.do](https://js.do/perl/)
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
