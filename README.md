@@ -51,7 +51,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :fuelpump: Around the CPAN
 - :ocean: [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
 - :new: [CPAN Doc](https://cpandoc.grinnz.com/) - Documentation of some important modules
-- :nerd_face: [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
+- :nerd_face: [CPAN Testers](http://cpantesters.org/) - Build and test reports of CPAN modules
 - :scroll: [BackPAN](http://backpan.cpantesters.org/) - The CPAN with all history
 - :speech_balloon: [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
 - :earth_africa: [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
@@ -222,7 +222,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
-The **modern way** consist to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The toot is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
+The **modern way** consists to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The toot is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
     
 ```bash
 --> Working on XML::LibXML
