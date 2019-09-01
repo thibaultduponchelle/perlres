@@ -199,7 +199,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :speech_balloon: [DuckDuckGo Instant Answer](https://duck.co/ia) ([GitHub](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
-- A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The _Open Build Service_ platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
+- :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The _Open Build Service_ platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
 - :floppy_disk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
