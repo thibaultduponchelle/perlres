@@ -64,8 +64,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :beers: Social
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
 - :speech_balloon: [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
-- [Perl Mongers](https://www.pm.org/) - Perl Mongers
-- [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
+- :neckbeard: [Perl Mongers](https://www.pm.org/) - Perl Mongers
+- :neckbeard: [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
 - :speech_balloon: [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
 - :newspaper: [Weekly Newsletter](http://perlweekly.com/) - Newsletter gathering Perl news and links
 - :golf: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Code Golf Perl5 and Perl6
