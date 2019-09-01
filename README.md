@@ -62,20 +62,20 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
 
 ## :beers: Social
-- [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
-- [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
+- :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
+- :speech_balloon: [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
 - [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
-- [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
+- :speech_balloon: [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
 - :newspaper: [Weekly Newsletter](http://perlweekly.com/) - Newsletter gathering Perl news and links
-- [Perl Weekly Challenge](https://perlweeklychallenge.org) - Code Golf Perl5 and Perl6
-- [Perl Hacks](https://perlhacks.com/) - A blog
+- :golf: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Code Golf Perl5 and Perl6
+- :speech_balloon: [Perl Hacks](https://perlhacks.com/) - A blog
 - :newspaper: [Perl Sphere](http://perlsphere.net/) - Newsfeed
 - Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) or the [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead) and [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) or [Patch.pm -pn](http://patch.pm) or Perl QA Hackathon or Perl Toolchain Summit
-- [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
+- :speech_balloon: [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
 - [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
 - :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
-- [Cultured Perl](https://culturedperl.com) - A Blog about Perl
+- :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
 
 ## :book: Official documentations
@@ -158,50 +158,50 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :jack_o_lantern: Perl Ecosystem
 - [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN
 - [MetaCPAN](https://metacpan.org/) - Search the CPAN
-- [YaBB](http://www.yabbforum.com/) - Forum engine
-- [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
-- [Slashcode](https://github.com/SoylentNews/slashcode) - - News platform engine  and questions/answers platform (Slashdot is powered by this)
+- :speech_balloon: [YaBB](http://www.yabbforum.com/) - Forum engine
+- :speech_balloon: [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
+- :speech_balloon: [Slashcode](https://github.com/SoylentNews/slashcode) - - News platform engine  and questions/answers platform (Slashdot is powered by this)
 - [Movable Type](https://www.movabletype.org/) - CMS
 - [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
 - [WebGui](http://www.webgui.org/) - CMS
 - :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
 - [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/)
 - [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
-- [Sympa](https://www.sympa.org/) - Mailing lists engine
+- :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
 - [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
 - [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
 - [Gearman](http://gearman.org/) - Job server 
 - :chart_with_upwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
-- [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
-- [OTRS](https://otrs.com/) - Ticket tracker ([GitHub](https://github.com/OTRS/otrs))
+- :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
+- :bug: [OTRS](https://otrs.com/) - Ticket tracker ([GitHub](https://github.com/OTRS/otrs))
+- :bug: [BugZilla](https://www.bugzilla.org/) - bugtracker ([GitHub](https://github.com/bugzilla/bugzilla))
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
-- [BugZilla](https://www.bugzilla.org/) - bugtracker ([GitHub](https://github.com/bugzilla/bugzilla))
-- [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
-- [PDL](http://pdl.perl.org/) - For scientific calculations
+- :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
+- :1234: [PDL](http://pdl.perl.org/) - For scientific calculations
 - :cloud: [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
 - :octopus: [Minion](https://github.com/mojolicious/minion) - A high performance job queue 
 - :dizzy: [Catalyst](http://www.catalystframework.org/) - Web framework
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 - :new: :space_invader: [Tau Station](https://taustation.space/) [NEW] - A text based web space game 
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
-- [AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([GitHub](https://github.com/eldy/awstats))
-- [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
-- [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
+- :chart_with_upwards_trend:[AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([GitHub](https://github.com/eldy/awstats))
+- :speech_balloon: [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
 - [Oddmuse](https://oddmuse.org/) - Wiki engine
-- [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
-- [TWiki](https://twiki.org/) - Wiki engine
-- [FosWiki](https://foswiki.org/) - Wiki engine ([GitHub](https://github.com/foswiki))
-- [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([GitWeb](http://git.koha-community.org/gitweb/))
+- :pencil2: [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
+- :pencil2: [TWiki](https://twiki.org/) - Wiki engine
+- :pencil2: [FosWiki](https://foswiki.org/) - Wiki engine ([GitHub](https://github.com/foswiki))
+- :books: [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([GitWeb](http://git.koha-community.org/gitweb/))
 - [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([GitHub](https://github.com/eprints/eprints))
 - [ACT](http://act.mongueurs.net/) ([GitHub](https://github.com/book/Act)) - CMS for conferences
-- [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
-- [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
-- [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
-- [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
+- :speech_balloon: [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
+- :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
+- :speech_balloon: [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
+- :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
-- [DuckDuckGo Instant Answer](https://duck.co/ia) ([GitHub](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
+- :speech_balloon: [DuckDuckGo Instant Answer](https://duck.co/ia) ([GitHub](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
 - A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The _Open Build Service_ platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
-- [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
+- :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
+- :floppy_disk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
 - :octocat: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
@@ -277,7 +277,7 @@ If a module goes out of core distribution it's not dramatic as it continues to b
 
 - And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focus on speed while being compatible with **Perl::Critic**.
 
-## :hammer_and_wrench: How to compile perl
+## :hammer_and_pick: How to compile perl
 [How to compile perl](https://www.cpan.org/src/). Actually it will give this :
     
 ```bash
