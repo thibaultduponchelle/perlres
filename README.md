@@ -164,14 +164,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Movable Type](https://www.movabletype.org/) - CMS
 - [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
 - [WebGui](http://www.webgui.org/) - CMS
-- :watermelon: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
+- :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
 - [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/)
 - [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
 - [Sympa](https://www.sympa.org/) - Mailing lists engine
 - [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
 - [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
 - [Gearman](http://gearman.org/) - Job server 
-- :watermelon: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
+- :chart_with_upwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
 - [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
 - [OTRS](https://otrs.com/) - Ticket tracker ([GitHub](https://github.com/OTRS/otrs))
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
