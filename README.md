@@ -79,17 +79,17 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
 
 ## :book: Official documentations
-- [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
+- :question: [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
 - :symbols: [Perlre](https://perldoc.perl.org/perlre.html) - Regular expression documentation and [tuto](https://perldoc.perl.org/perlretut.html) and  [quick start](https://perldoc.perl.org/perlrequick.html) 
 
 ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)
 
-- [Operators list](https://perldoc.perl.org/perlop.html) and [built‑in functions](https://perldoc.perl.org/perlfunc.html)
-- [How to write modules/packages](https://perldoc.perl.org/perlmod.html) or [here](https://perldoc.perl.org/perlmodlib.html) - or [write a new module](https://perldoc.perl.org/perlnewmod.html). Some advices to [respect the style](https://perldoc.perl.org/perlmodstyle.html) in modules
-- [Perl syntax](https://perldoc.perl.org/perlsyn.html) - Doc about Perl syntax
+- :symbols: [Operators list](https://perldoc.perl.org/perlop.html) and [built‑in functions](https://perldoc.perl.org/perlfunc.html)
+- :pill: [How to write modules/packages](https://perldoc.perl.org/perlmod.html) or [here](https://perldoc.perl.org/perlmodlib.html) - or [write a new module](https://perldoc.perl.org/perlnewmod.html). Some advices to [respect the style](https://perldoc.perl.org/perlmodstyle.html) in modules
+- :symbols: [Perl syntax](https://perldoc.perl.org/perlsyn.html) - Doc about Perl syntax
 - [References](https://perldoc.perl.org/perlref.html) and [tutorial](https://perldoc.perl.org/perlreftut.html)
 - [Documetation about IPC](https://perldoc.perl.org/perlipc.html)
-- [Perl security](https://perldoc.perl.org/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_ or _alorithm complexity attacks_
+- :underage: [Perl security](https://perldoc.perl.org/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_ or _alorithm complexity attacks_
 - [Reports generation thanks to formats](https://perldoc.perl.org/perlform.html)  — Documentation about formats. *Formats* are a reason of the initial creation of Perl, but they are limited and less and less used
 - [Degugger documentation](https://perldoc.perl.org/perldebug.html) - The Perl debugger is itself written in Perl :muscle: 
 - [perlobj](https://perldoc.perl.org/perlobj.html) and [tuto oo](https://perldoc.perl.org/perlootut.html) -  Object Oriented Programming in Perl
