@@ -40,25 +40,25 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 
 ## :dromedary_camel: General
-- [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
-- [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
-- [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl) :new:
+- :man_with_turban: [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
+- :man_with_turban: [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
+- :book: [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl) :new:
 - [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html) - Web interface to the tool `corelist`
 - [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
 - [Perl Meme](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
 - [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 
 ## :fuelpump: Around the CPAN
-- [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
+- :ocean: [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
 - :new: [CPAN Doc](https://cpandoc.grinnz.com/) - Documentation of some important modules
-- [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
+- :nerd_face: [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
 - [BackPAN](http://backpan.cpantesters.org/) - The CPAN with all history
-- [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
-- [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
-- [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
-- [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
-- [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
-- [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
+- :speech_balloon: [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
+- :earth_africa: [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
+- :heavy_check_mark: [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
+- :heavy_check_mark: [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
+- :mortar_board: [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
+- :octocat: [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
 - [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
 
 ## :beers: Social
