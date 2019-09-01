@@ -174,7 +174,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_upwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
 - :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
 - :bug: [OTRS](https://otrs.com/) - Ticket tracker ([GitHub](https://github.com/OTRS/otrs))
-- :bug: [BugZilla](https://www.bugzilla.org/) - bugtracker ([GitHub](https://github.com/bugzilla/bugzilla))
+- :bug: [BugZilla](https://www.bugzilla.org/) - Bug tracker ([GitHub](https://github.com/bugzilla/bugzilla))
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
 - :1234: [PDL](http://pdl.perl.org/) - For scientific calculations
@@ -182,7 +182,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octopus: [Minion](https://github.com/mojolicious/minion) - A high performance job queue 
 - :dizzy: [Catalyst](http://www.catalystframework.org/) - Web framework
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
-- :new: :space_invader: [Tau Station](https://taustation.space/) [NEW] - A text based web space game 
+- :new: :space_invader: [Tau Station](https://taustation.space/) - A text based web space game 
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - :chart_with_upwards_trend:[AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([GitHub](https://github.com/eldy/awstats))
 - :speech_balloon: [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
