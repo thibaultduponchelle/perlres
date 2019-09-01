@@ -52,14 +52,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :ocean: [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
 - :new: [CPAN Doc](https://cpandoc.grinnz.com/) - Documentation of some important modules
 - :nerd_face: [CPAN Testers](http://cpantesters.org/) - A website to follow teh build and test reports of CPAN modules
-- [BackPAN](http://backpan.cpantesters.org/) - The CPAN with all history
+- :scroll: [BackPAN](http://backpan.cpantesters.org/) - The CPAN with all history
 - :speech_balloon: [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
 - :earth_africa: [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
 - :heavy_check_mark: [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
 - :heavy_check_mark: [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
 - :mortar_board: [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
 - :octocat: [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
-- [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
+- :floppy_disk: [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
 
 ## :beers: Social
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
@@ -73,14 +73,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :newspaper: [Perl Sphere](http://perlsphere.net/) - Newsfeed
 - :seat: Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) or the [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead) and [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) or [Patch.pm -pn](http://patch.pm) or Perl QA Hackathon or Perl Toolchain Summit
 - :speech_balloon: [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
-- [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
+- :newspaper: [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
 - :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
 
 ## :book: Official documentations
 - [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
-- [Perlre](https://perldoc.perl.org/perlre.html) - Regular expression documentation and [tuto](https://perldoc.perl.org/perlretut.html) and  [quick start](https://perldoc.perl.org/perlrequick.html) 
+- :symbols: [Perlre](https://perldoc.perl.org/perlre.html) - Regular expression documentation and [tuto](https://perldoc.perl.org/perlretut.html) and  [quick start](https://perldoc.perl.org/perlrequick.html) 
 
 ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)
 
