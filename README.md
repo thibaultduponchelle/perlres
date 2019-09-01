@@ -100,22 +100,22 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ![](https://i.imgur.com/Z3F34XQ.jpg)   
 
 ## :us: Tutorials 
-- :book: [Perl Maven](https://perlmaven.com/perl-tutorial)
-- :book: [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
-- :book: [Minimum Viable Perl (MVP)](http://mvp.kablamo.org/)
-- :book: [Perl Begin](http://perl-begin.org/)
-- :book: [Perl101](https://perl101.org/)
-- :book: [Perl Tutorial Points](https://www.tutorialspoint.com/perl/)
-- :book: [Perl Tutorial](https://www.perltutorial.org/)
-- :book: [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
+- :closed_book: [Perl Maven](https://perlmaven.com/perl-tutorial)
+- :clock230: [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
+- :green_book: [Minimum Viable Perl (MVP)](http://mvp.kablamo.org/)
+- :blue_book: [Perl Begin](http://perl-begin.org/)
+- :100: [Perl101](https://perl101.org/)
+- :orange_book: [Perl Tutorial Points](https://www.tutorialspoint.com/perl/)
+- :notebook: [Perl Tutorial](https://www.perltutorial.org/)
+- :ledger: [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
 - :book: :new: [Perl Newbie](https://newbie.perlzemi.com/)
 
 ## :fr: French tutorials
-- :book: [Guide Perl](http://formation-perl.fr/guide-perl.html)
-- :book: [Formation-Perl](http://formation-perl.fr/)
-- :book: [Guide de programmation pour apprendre Perl](https://lhullier.developpez.com/tutoriels/perl/intro/)
-- :book: [Site du zero](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
-- :book: [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
+- :scroll: [Guide Perl](http://formation-perl.fr/guide-perl.html)
+- :triangular_ruler: [Formation-Perl](http://formation-perl.fr/)
+- :straight_ruler: [Guide de programmation pour apprendre Perl](https://lhullier.developpez.com/tutoriels/perl/intro/)
+- :zero: [Site du zero](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
+- :school: [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
 
 ## :vibration_mode: Interactive tutorials
 - :pizza:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world)
