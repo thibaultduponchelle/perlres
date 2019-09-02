@@ -165,7 +165,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
 - :memo: [WebGui](http://www.webgui.org/) - CMS
 - :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
-- :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/)
+- :chart_with_upwards_trend: [Monitorix](https://github.com/mikaku/Monitorix) -  Lightweight system monitoring tool
+- :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/) - WebSSO, Access Management and Identity Federation
 - :hocho: [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
 - :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
 - :cd: [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
