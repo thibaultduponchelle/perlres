@@ -205,6 +205,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
 - :octocat: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
+- :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - :heart: :muscle:
