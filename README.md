@@ -213,7 +213,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization in the terminal
 - :speech_balloon: [DuckDuckGo Instant Answer](https://duck.co/ia) ([GitHub](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
-- :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The _Open Build Service_ platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
+- :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The **Open Build Service** platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
 - :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
 - :floppy_disk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
@@ -261,7 +261,7 @@ Successfully installed XML-LibXML-2.0201 (upgraded from 2.0128)
 13 distributions installed
 ```
 
-Reinstalling a set of COAN modules can be done simply by launching a bunch of **cpanm** commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) or `cpan --installdeps .` for the setup).
+Reinstalling a set of COAN modules can be done simply by launching a bunch of `cpanm` commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) or `cpanm --installdeps .` for the setup).
 
 ## :heavy_check_mark: Linters
 Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale/) or [syntastic](https://github.com/vim-syntastic/syntastic)).
