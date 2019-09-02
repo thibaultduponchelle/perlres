@@ -176,6 +176,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bug: [OTRS](https://otrs.com/) - Ticket tracker ([GitHub](https://github.com/OTRS/otrs))
 - :bug: [BugZilla](https://www.bugzilla.org/) - Bug tracker ([GitHub](https://github.com/bugzilla/bugzilla))
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
+- :minidisc: [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
 - :1234: [PDL](http://pdl.perl.org/) - For scientific calculations
 - :cloud: [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
@@ -195,6 +196,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :seat: [ACT](http://act.mongueurs.net/) ([GitHub](https://github.com/book/Act)) - CMS for conferences
 - :speech_balloon: [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
+- :tada: [Diff So Fancy](https://github.com/so-fancy/diff-so-fancy) - The best-lookin' diffs
 - :speech_balloon: [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
@@ -202,10 +204,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [DuckDuckGo Instant Answer](https://duck.co/ia) ([GitHub](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
 - :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The _Open Build Service_ platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
+- :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
 - :floppy_disk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
 - :octocat: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
+- :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories  
 
