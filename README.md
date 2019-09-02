@@ -139,7 +139,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - :sunglasses: [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - :construction_worker: Get the job done
-- :poop: **PHP** sometimes was sometimes refered as **P**eople **H**ate **P**erl
+- :poop: **PHP** was sometimes refered as **P**eople **H**ate **P**erl :grin:
 - :baby_bottle: Baby Perl - Programming using Perl with a reduced set of builtins and idioms :baby_bottle:
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
