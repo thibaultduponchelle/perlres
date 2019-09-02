@@ -68,7 +68,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :neckbeard: [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
 - :speech_balloon: [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
 - :newspaper: [Weekly Newsletter](http://perlweekly.com/) - Newsletter gathering Perl news and links
-- :golf: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Code Golf Perl5 and Perl6
+- :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition Perl5 and Perl6
 - :speech_balloon: [Perl Hacks](https://perlhacks.com/) - A blog
 - :newspaper: [Perl Sphere](http://perlsphere.net/) - Newsfeed
 - :seat: Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) or the [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead) and [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) or [Patch.pm -pn](http://patch.pm) or Perl QA Hackathon or Perl Toolchain Summit
