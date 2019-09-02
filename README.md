@@ -138,8 +138,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :golf: [Anarchy Golf](http://golf.shinh.org/) - Code golf (not dedicated to Perl)
 - :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - :sunglasses: [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
+- :grin: State of the onion
+- :trollface: **ACME** modules - Purely entertainment modules
+- :baby_chick: Easy things should be easy and hard things should be possible :chicken:
 - :construction_worker: Get the job done :thumbsup:
 - :poop: **PHP** was sometimes refered as **P**eople **H**ate **P**erl :grin:
+- :poop: [Write Only Language](https://en.wikipedia.org/wiki/Write-only_language) - Relatively common :grin:
 - :baby_bottle: **Baby Perl** - Programming using Perl with a reduced set of builtins and idioms :baby:
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers :stuck_out_tongue_winking_eye:
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
@@ -165,6 +169,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Slashcode](https://github.com/SoylentNews/slashcode) - - News platform engine  and questions/answers platform (Slashdot is powered by this)
 - :memo: [Movable Type](https://www.movabletype.org/) - CMS
 - :memo: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
+- :older_man: [GNU Automake](https://www.gnu.org/software/automake/) - Automatically generates Makefile.in files 
 - :memo: [WebGui](http://www.webgui.org/) - CMS
 - :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
 - :chart_with_upwards_trend: [Monitorix](https://github.com/mikaku/Monitorix) -  Lightweight system monitoring tool
@@ -176,6 +181,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :construction_worker: [Gearman](http://gearman.org/) - Job server 
 - :chart_with_upwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
 - :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
+- :chart_with_upwards_trend: [MRTG](https://oss.oetiker.ch/mrtg/) - Monitoring traffic load on network links
 - :bug: [OTRS](https://otrs.com/) - Ticket tracker ([GitHub](https://github.com/OTRS/otrs))
 - :bug: [BugZilla](https://www.bugzilla.org/) - Bug tracker ([GitHub](https://github.com/bugzilla/bugzilla))
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
@@ -217,6 +223,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
+- :handbag: [Fink Project](http://finkproject.org/) - Tool to help porting software from UNIX like to macOS
+- :vhs: [Stormons](https://sourceforge.net/projects/stormons/) - Monitoring and mapping SAN storage devices.
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
