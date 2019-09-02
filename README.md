@@ -135,9 +135,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :recycle: [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - :notes: The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
 - :golf: [Perl Golf](http://perlgolf.sourceforge.net/) [DEAD] - Code Golf
+- :golf: [Anarchy Golf](http://golf.shinh.org/) - Code golf (not dedicated to Perl)
 - :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - :sunglasses: [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - :construction_worker: Get the job done
+- :poop: **PHP** sometimes was sometimes refered as **P**eople **H**ate **P**erl
 - :baby_bottle: Baby Perl - Programming using Perl with a reduced set of builtins and idioms :baby_bottle:
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
