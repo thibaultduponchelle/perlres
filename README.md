@@ -176,6 +176,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/) - WebSSO, Access Management and Identity Federation
 - :hocho: [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
 - :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
+- :mailbox: [Dada Mail](https://github.com/justingit/dada-mail) - Mailing lists engine
+- :mailbox: [Majordomo](http://old.greatcircle.com/majordomo) - Mailing lists engine (seems dead)
 - :cd: [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
 - :cd: [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
 - :construction_worker: [Gearman](http://gearman.org/) - Job server 
