@@ -215,7 +215,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
-- :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories  
+- :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
+- :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
