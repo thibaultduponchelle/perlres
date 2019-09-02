@@ -143,11 +143,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
 ## :dromedary_camel: Logos
-- The camel logo (from the book Programming Perl from O’Reilly Media) :
+- :dromedary_camel: The camel logo (from the book Programming Perl from O’Reilly Media) :
 
 ![Camel](https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png)
 
-- The onion logo :
+- :melon: The onion logo :
 
 ![Onion](https://upload.wikimedia.org/wikipedia/en/a/a4/Onion_64x64.png)
 
