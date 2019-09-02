@@ -31,7 +31,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :european_castle: [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
 
-## :hammer_and_wrench: Modules and installers
+## :hammer_and_pick: Modules and installers
 - :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
 - :hammer: [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
 - :wrench: [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
@@ -126,7 +126,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :books: [Perl tutorials](http://perl-tutorial.org/) - Perl turorials meta site
 
 ## :squirrel: Perl folklore
-- :nerd_face: "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
+- :bomb: "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
 - :heavy_plus_sign: [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/) 
@@ -138,7 +138,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - :sunglasses: [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - :construction_worker: Get the job done
-- :baby_symbol: Baby Perl - Programming using Perl with a reduced set of builtins and idioms :baby_bottle:
+- :baby_bottle: Baby Perl - Programming using Perl with a reduced set of builtins and idioms :baby_bottle:
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
