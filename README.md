@@ -216,10 +216,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories  
 
 ## :ghost: Execute Perl online
-- :new: [Perl Banjo](https://perlbanjo.com/) - :heart: :muscle:
-- :doughnut: [Web Perl](https://webperl.zero-g.net/) WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
-- :candy: [TIO](https://tio.run/#perl5)
-- :cake: [Perlbot](https://perl.bot/)
+- :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
+- :doughnut: [Web Perl](https://webperl.zero-g.net/) - WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
+- :candy: [TIO](https://tio.run/#perl5) - Try It Online
+- :cake: [Perlbot](https://perl.bot/) - Run and share Perl code
 
 ## :boom: Execute Perl online (sites not dedicated to Perl)
 - :banana: [Tutorial Points](https://www.tutorialspoint.com/execute_perl_online.php)
