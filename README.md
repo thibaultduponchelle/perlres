@@ -118,8 +118,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :school: [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
 
 ## :vibration_mode: Interactive tutorials
-- :pizza:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world)
-- :fries: [Learn Perl](https://www.learn-perl.org/)
+- :pizza:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world) - Learn modern Perl any time and from everywhere :purple_heart: 
+- :fries: [Learn Perl](https://www.learn-perl.org/) - Free interactive Perl tutorial :blue_heart:
 - :chocolate_bar: [TryPerl](http://tryperl.pl) - TryRuby clone for Perl :heart:
 
 ## :school: Tutorials meta-site
@@ -151,7 +151,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![Onion](https://upload.wikimedia.org/wikipedia/en/a/a4/Onion_64x64.png)
 
-- Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor) : 
+- :turtle: Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor) : 
 
 ![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  
 
