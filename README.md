@@ -209,7 +209,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :floppy_disk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
 - :octocat: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
-- :octocat: [GitPrep](https://github.com/yuki-kimoto/gitprep) - Portable GitHub system
+- :octocat: [GitPrep](http://gitprep.yukikimoto.com/) - Portable GitHub system ([github](https://github.com/yuki-kimoto/gitprep))
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
