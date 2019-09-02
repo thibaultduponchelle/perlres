@@ -142,6 +142,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :trollface: **ACME** modules - Purely entertainment modules
 - :baby_chick: Easy things should be easy and hard things should be possible :chicken:
 - :construction_worker: Get the job done :thumbsup:
+
+![](https://imgs.xkcd.com/comics/11th_grade.png)
+
 - :poop: **PHP** was sometimes refered as **P**eople **H**ate **P**erl :grin:
 - :poop: [Write Only Language](https://en.wikipedia.org/wiki/Write-only_language) - Relatively common :grin:
 - :baby_bottle: **Baby Perl** - Programming using Perl with a reduced set of builtins and idioms :baby:
