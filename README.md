@@ -19,7 +19,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ----
 
 ## :construction_worker: Perl core development
-- :octocat: [Perl git](https://perl5.git.perl.org/perl.git) - Where is located the **Perl interpreter source code** (as of today) and its [GitHub mirror](https://github.com/Perl/perl5)
+- :octocat: [Perl git](https://perl5.git.perl.org/perl.git) - Where is located the **Perl interpreter source code** (as of today) and its [github mirror](https://github.com/Perl/perl5)
 - :bug: [Perl 5 bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) - Uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system
 - :mailbox: [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
 - :hammer: [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want/need to compile it by hand (if we don't want Perl vendor)
@@ -232,6 +232,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
+- :computer: [Padre](http://padre.perlide.org/) - IDE ([github](https://github.com/PadreIDE/Padre))
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
 - :handbag: [Fink Project](http://finkproject.org/) - Tool to help porting software from UNIX like to macOS
