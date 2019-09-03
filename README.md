@@ -210,7 +210,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pencil2: [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
 - :pencil2: [TWiki](https://twiki.org/) - Wiki engine
 - :pencil2: [FosWiki](https://foswiki.org/) - Wiki engine ([github](https://github.com/foswiki))
-- :books: [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([GitWeb](http://git.koha-community.org/gitweb/))
+- :books: [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([gitweb](http://git.koha-community.org/gitweb/))
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :rainbow: [Markdown](https://daringfireball.net/projects/markdown/) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl
 - :seat: [ACT](http://act.mongueurs.net/) ([github](https://github.com/book/Act)) - CMS for conferences
