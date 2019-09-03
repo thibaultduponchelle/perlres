@@ -128,13 +128,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :squirrel: Perl folklore
 - :bomb: "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
-- [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
+- :stars: [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
 - :heavy_plus_sign: [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/)
 
 ![](https://imgs.xkcd.com/comics/regular_expressions.png)
 
 - :heavy_dollar_sign: [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
-- :100: [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There’s more than one way to do it
+- :100: [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There's more than one way to do it
 - :recycle: [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - :notes: The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
 - :golf: [Perl Golf](http://perlgolf.sourceforge.net/) [DEAD] - Code Golf
@@ -150,7 +150,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 - :poop: **PHP** was sometimes refered as **P**eople **H**ate **P**erl :grin:
 - :poop: [Write Only Language](https://en.wikipedia.org/wiki/Write-only_language) - Relatively common :grin:
-- :baby_bottle: **Baby Perl** - Programming using Perl with a reduced set of builtins and idioms :baby:
+- :baby_bottle: **Baby Perl** - Programming with a reduced set of builtins and idioms :baby:
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers :stuck_out_tongue_winking_eye:
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 
@@ -172,7 +172,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pill: [MetaCPAN](https://metacpan.org/) - Search the CPAN
 - :speech_balloon: [YaBB](http://www.yabbforum.com/) - Forum engine
 - :speech_balloon: [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
-- :speech_balloon: [Slashcode](https://github.com/SoylentNews/slashcode) - - News platform engine  and questions/answers platform (Slashdot is powered by this)
+- :speech_balloon: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine (Slashdot is powered by this)
 - :memo: [Movable Type](https://www.movabletype.org/) - CMS
 - :memo: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
 - :older_man: [GNU Automake](https://www.gnu.org/software/automake/) - Automatically generates Makefile.in files 
@@ -250,7 +250,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
-The **modern way** consists to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The toot is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
+The **modern way** consists to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The tool is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
     
 ```bash
 --> Working on XML::LibXML
