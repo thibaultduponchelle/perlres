@@ -270,13 +270,13 @@ Successfully installed XML-LibXML-2.0201 (upgraded from 2.0128)
 13 distributions installed
 ```
 
-Reinstalling a set of COAN modules can be done simply by launching a bunch of `cpanm` commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) or `cpanm --installdeps .` for the setup).
+Reinstalling a set of CPAN modules can be done simply by launching a bunch of `cpanm` commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) or `cpanm --installdeps .` for the setup).
 
 ## :heavy_check_mark: Linters
 Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale/) or [syntastic](https://github.com/vim-syntastic/syntastic)).
 
-- [`perl -c`](https://perldoc.perl.org/perlrun.html), to check the syntax. Warning it does more than only checking syntax, it actually executes the blocks `BEGIN` and `END` (compilation step). This *design* is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
-The syntax check in Perl is great (as the error messages from the interpreter are... I :heart: Perl)
+- [`perl -c`](https://perldoc.perl.org/perlrun.html), to check the syntax. Be careful that it does more than only checking syntax, it actually _executes_ the blocks `BEGIN` and `END` (compilation step). This _design_ is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
+The syntax checking in Perl is great (as well as the error messages from the interpreter... I :heart: Perl)
 
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic), that *criticize*  your coding style but do not check syntax. For instance, the file `bad.pl` contains :
     
