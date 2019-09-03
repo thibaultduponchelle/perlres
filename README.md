@@ -276,7 +276,7 @@ Reinstalling a set of COAN modules can be done simply by launching a bunch of `c
 Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale/) or [syntastic](https://github.com/vim-syntastic/syntastic)).
 
 - [`perl -c`](https://perldoc.perl.org/perlrun.html), to check the syntax. Warning it does more than only checking syntax, it actually executes the blocks `BEGIN` and `END` (compilation step). This *design* is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
-The syntax check in Perl is great (as the error messages from the interpreter are... I <3 Perl)
+The syntax check in Perl is great (as the error messages from the interpreter are... I :heart: Perl)
 
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic), that *criticize*  your coding style but do not check syntax. For instance, the file `bad.pl` contains :
     
@@ -322,10 +322,10 @@ make install
 ```
 
 ## :hammer_and_pick: Compile modules
-If we decide to use or not a module like [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), at the end the module is compiled using [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) or [Module::Build](https://metacpan.org/pod/Module::Build). [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) is a _core module_, while [Module::Build](https://metacpan.org/pod/Module::Build) was added then removed (**5.9 → 5.19**). David Golden explains in a blog post why [he requested to remove Module::Build](https://xdg.me/blog/paying-respect-to-modulebuild/).
+If we decide to use or not a module like [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), at the end the module is compiled using [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) or [Module::Build](https://metacpan.org/pod/Module::Build). [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) is a _core module_, while [Module::Build](https://metacpan.org/pod/Module::Build) was added then removed (**5.9 → 5.19**). **David Golden** explains in a blog post why [he requested to remove Module::Build](https://xdg.me/blog/paying-respect-to-modulebuild/).
 
 ### :wrench: ExtUtils::MakeMaker
-The module [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) generate a **makefile** from `Makefile.PL` :
+The module [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) generate a **Makefile** from `Makefile.PL` :
     
 ``` bash
 perl Makefile.PL
