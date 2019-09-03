@@ -212,7 +212,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pencil2: [FosWiki](https://foswiki.org/) - Wiki engine ([GitHub](https://github.com/foswiki))
 - :books: [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([GitWeb](http://git.koha-community.org/gitweb/))
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([GitHub](https://github.com/eprints/eprints))
-- :rainbow: [Markdown](https://daringfireball.net/projects/markdown/) - Markdown format was originally created by **John Gruber** and **Aaron Schwartz** and implemented in Perl
+- :rainbow: [Markdown](https://daringfireball.net/projects/markdown/) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl
 - :seat: [ACT](http://act.mongueurs.net/) ([GitHub](https://github.com/book/Act)) - CMS for conferences
 - :speech_balloon: [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
