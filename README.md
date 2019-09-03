@@ -192,8 +192,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_upwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
 - :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
 - :chart_with_upwards_trend: [MRTG](https://oss.oetiker.ch/mrtg/) - Monitoring traffic load on network links
-- :bug: [OTRS](https://otrs.com/) - Ticket tracker ([GitHub](https://github.com/OTRS/otrs))
-- :bug: [BugZilla](https://www.bugzilla.org/) - Bug tracker ([GitHub](https://github.com/bugzilla/bugzilla))
+- :bug: [OTRS](https://otrs.com/) - Ticket tracker ([github](https://github.com/OTRS/otrs))
+- :bug: [BugZilla](https://www.bugzilla.org/) - Bug tracker ([github](https://github.com/bugzilla/bugzilla))
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - :minidisc: [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
@@ -204,16 +204,16 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 - :new: :space_invader: [Tau Station](https://taustation.space/) - A text based web space game 
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
-- :chart_with_upwards_trend:[AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([GitHub](https://github.com/eldy/awstats))
+- :chart_with_upwards_trend:[AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([github](https://github.com/eldy/awstats))
 - :speech_balloon: [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
 - :pencil2: [Oddmuse](https://oddmuse.org/) - Wiki engine
 - :pencil2: [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
 - :pencil2: [TWiki](https://twiki.org/) - Wiki engine
-- :pencil2: [FosWiki](https://foswiki.org/) - Wiki engine ([GitHub](https://github.com/foswiki))
+- :pencil2: [FosWiki](https://foswiki.org/) - Wiki engine ([github](https://github.com/foswiki))
 - :books: [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([GitWeb](http://git.koha-community.org/gitweb/))
-- :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([GitHub](https://github.com/eprints/eprints))
+- :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :rainbow: [Markdown](https://daringfireball.net/projects/markdown/) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl
-- :seat: [ACT](http://act.mongueurs.net/) ([GitHub](https://github.com/book/Act)) - CMS for conferences
+- :seat: [ACT](http://act.mongueurs.net/) ([github](https://github.com/book/Act)) - CMS for conferences
 - :speech_balloon: [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
 - :tada: [Diff So Fancy](https://github.com/so-fancy/diff-so-fancy) - The best-lookin' diffs
@@ -221,8 +221,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
-- :speech_balloon: [DuckDuckGo Instant Answer](https://duck.co/ia) ([GitHub](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
-- :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE GitHub](https://github.com/openSUSE) - The **Open Build Service** platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
+- :speech_balloon: [DuckDuckGo Instant Answer](https://duck.co/ia) ([github](https://github.com/duckduckgo/duckduckgo)) - A questions/answers platform
+- :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE github](https://github.com/openSUSE) - The **Open Build Service** platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
 - :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
 - :floppy_disk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
