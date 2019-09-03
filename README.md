@@ -31,7 +31,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :necktie: Official
 - :house: [perl.org](https://www.perl.org/) - The Perl's "home"
 - :european_castle: [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
-- :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly award for important contribution to Perl (not only with code)
+- :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly awards for important contribution to Perl (not only with code)
 
 ## :hammer_and_pick: Modules and installers
 - :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
