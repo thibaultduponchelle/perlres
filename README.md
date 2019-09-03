@@ -16,9 +16,7 @@ As a reminder, [Perl](https://www.perl.org/) is a general-purpose progamming lan
 
 Quoted from [perldelta](https://metacpan.org/pod/distribution/perl/pod/perldelta.pod#Acknowledgements). 
 
-Perl is distributed under a dual licence : [Artistic Licence](https://opensource.org/licenses/Artistic-2.0) and [GPL v1+](https://www.gnu.org/licenses/gpl-3.0.html). 
-
-Most of CPAN modules [follow the same rule](https://www.cpan.org/misc/cpan-faq.html#How_is_Perl_licensed).
+Perl is distributed under a dual licence : [Artistic Licence](https://opensource.org/licenses/Artistic-2.0) and [GPL v1+](https://www.gnu.org/licenses/gpl-3.0.html). Most of CPAN modules [follow the same rule](https://www.cpan.org/misc/cpan-faq.html#How_is_Perl_licensed).
 
 ----
 
