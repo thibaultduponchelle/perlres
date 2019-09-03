@@ -10,7 +10,11 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 
 Derivated from [LinuxFR](https://linuxfr.org/) french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne) 
 
-As a reminder, [Perl](https://www.perl.org/) is a general-purpose progamming langage created in 1987 by [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall). "Perl continues to flourish into its fourth decade thanks to a vibrant community of users and developers", dixit [perldelta](https://metacpan.org/pod/distribution/perl/pod/perldelta.pod#Acknowledgements). 
+As a reminder, [Perl](https://www.perl.org/) is a general-purpose progamming langage created in 1987 by [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall). 
+
+> Perl continues to flourish into its fourth decade thanks to a vibrant community of users and developers 
+
+(dixit [perldelta](https://metacpan.org/pod/distribution/perl/pod/perldelta.pod#Acknowledgements)) 
 
 Perl is distributed under a dual licence : [Artistic Licence](https://opensource.org/licenses/Artistic-2.0) and [GPL v1+](https://www.gnu.org/licenses/gpl-3.0.html). Most of CPAN modules [follow the same rule](https://www.cpan.org/misc/cpan-faq.html#How_is_Perl_licensed).
 
