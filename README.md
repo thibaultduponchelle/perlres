@@ -96,85 +96,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :wrench: [Degugger documentation](https://perldoc.perl.org/perldebug.html) - The Perl debugger is itself written in Perl :muscle: 
 - :alien: [perlobj](https://perldoc.perl.org/perlobj.html) and [tuto oo](https://perldoc.perl.org/perlootut.html) -  Object Oriented Programming in Perl
 
-## :books: Books 
-- [Some books](https://perldoc.perl.org/perlbook.html) and [some others](https://learn.perl.org/books/) 
-
-![](https://i.imgur.com/Z3F34XQ.jpg)
-
-- :closed_book: Programming Perl (Camel book)
-- :green_book: The Perl cookbook (Ram book)
-- :blue_book: Learning Perl  (Llama book)
-- :orange_book: Intermediate Perl (Alpaca book)
-- :notebook: Mastering Perl
-- :notebook_with_decorative_cover: Modern Perl
-- :ledger: Perl Best Practices
-- :blue_book: Beginning Perl (Curtis "Ovid" Poe)
-- :notebook: Perl pocket reference
-- :orange_book: Perl hacks
-- :green_book: High Order Perl
-- :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
-- :orange_book: XML and Perl
-- :blue_book: Perl for system administration
-- :green_book: Programming the perl DBI
-- :notebook: CGI programming with Perl
-- :closed_book: Perl & LWP
-- :blue_book: Perl for dummies
-- :notebook: Mastering algorithms with Perl
-- :orange_book: Impatient Perl
-- :closed_book: Extreme Perl
-- :green_book: Perl Template Toolkit
-- :notebook_with_decorative_cover: Web Services avec Perl
-- :notebook: Perl Testing
-- :closed_book: Practical vim
-- :blue_book: Perl one liners
-- :closed_book: Practical mod_perl
-- :notebook: Object Oriented Perl
-- :closed_book: Perl in a nutshell
-- :green_book: Perl testing a developer notebook
-- :blue_book: Beginning Perl for bioinformatics
-- :notebook: Network programming with Perl
-- :orange_book: Perl by exmaple
-- :notebook_with_decorative_cover: Perl black book
-- :ledger: Extending and embedding Perl
-- :blue_book: Mod_perl developer cookbooks
-- :blue_book: Effective Perl programming
-- :orange_book: Perl core language little black book
-- :green_book: Writing apache modules with Perl and CGI
-- :notebook: Data munging with Perl
-- :notebook: Pro Perl debugging
-- :closed_book: Regular Expression Pocket Reference
-- :orange_book: Perl Debugger Pocket Reference
-- :notebook_with_decorative_cover: Writing CGI applications with Perl
-- :blue_book: Automating System administration with Perl
-- :green_book: Minimal Perl
-- :closed_book: Embedding Perl in HML web MASON
-- :orange_book: Perl for website management
-- :green_book: Beg perl Simon cozen
-- :notebook: Picking up Perl
-- :notebook_with_decorative_cover: Real World SQL Server Administration with Perl
-- :blue_book: Perl 5 internals
-- :closed_book: Beginning Perl (James D Lee)
-- :notebook: Practical text mining with perl
-- :orange_book: Beginning perl web development 
-- :green_book: Mastering Perl for bioinformatics
-- :blue_book: Programming for linguist Perl for language researchers
-- :closed_book: Perl/Tk
-- :notebook: Perl for C programmers
-- :orange_book: Effective Perl programming
-- :blue_book: Learning Perl the hard way
-- :notebook: Perl the programmer's companion
-- :green_book: Beginning Perl Web development from novice to professional Steve Suehring
-- :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) - E-Book about coding competition 
-- :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
-- :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
-- :blue_book: Welcome to Perl Country :jp:
-- :notebook: How to Write Perl :jp:
-- :orange_book: Introduction to Perl :jp:
-- :green_book: Philippe Banquet, Les fondamentaux du langage Perl 5 : Apprentissage par la pratique :fr:
-- :blue_book: Perl moderne :fr:
-- :notebook: Perl reference de poche :fr:
-- :notebook_with_decorative_cover: Perl en action :fr:
-
 ## :us: Tutorials 
 - :closed_book: [Perl Maven](https://perlmaven.com/perl-tutorial)
 - :clock230: [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
@@ -325,6 +246,85 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :icecream: [Paiza](https://paiza.io/en/projects/new?language=perl)
 - :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - :hamburger: [JS.do](https://js.do/perl/)
+
+## :books: Books 
+- [Some books](https://perldoc.perl.org/perlbook.html) and [some others](https://learn.perl.org/books/) 
+
+![](https://i.imgur.com/Z3F34XQ.jpg)
+
+- :closed_book: Programming Perl (Camel book)
+- :green_book: The Perl cookbook (Ram book)
+- :blue_book: Learning Perl  (Llama book)
+- :orange_book: Intermediate Perl (Alpaca book)
+- :notebook: Mastering Perl
+- :notebook_with_decorative_cover: Modern Perl
+- :ledger: Perl Best Practices
+- :blue_book: Beginning Perl (Curtis "Ovid" Poe)
+- :notebook: Perl pocket reference
+- :orange_book: Perl hacks
+- :green_book: High Order Perl
+- :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
+- :orange_book: XML and Perl
+- :blue_book: Perl for system administration
+- :green_book: Programming the perl DBI
+- :notebook: CGI programming with Perl
+- :closed_book: Perl & LWP
+- :blue_book: Perl for dummies
+- :notebook: Mastering algorithms with Perl
+- :orange_book: Impatient Perl
+- :closed_book: Extreme Perl
+- :green_book: Perl Template Toolkit
+- :notebook_with_decorative_cover: Web Services avec Perl
+- :notebook: Perl Testing
+- :closed_book: Practical vim
+- :blue_book: Perl one liners
+- :closed_book: Practical mod_perl
+- :notebook: Object Oriented Perl
+- :closed_book: Perl in a nutshell
+- :green_book: Perl testing a developer notebook
+- :blue_book: Beginning Perl for bioinformatics
+- :notebook: Network programming with Perl
+- :orange_book: Perl by exmaple
+- :notebook_with_decorative_cover: Perl black book
+- :ledger: Extending and embedding Perl
+- :blue_book: Mod_perl developer cookbooks
+- :blue_book: Effective Perl programming
+- :orange_book: Perl core language little black book
+- :green_book: Writing apache modules with Perl and CGI
+- :notebook: Data munging with Perl
+- :notebook: Pro Perl debugging
+- :closed_book: Regular Expression Pocket Reference
+- :orange_book: Perl Debugger Pocket Reference
+- :notebook_with_decorative_cover: Writing CGI applications with Perl
+- :blue_book: Automating System administration with Perl
+- :green_book: Minimal Perl
+- :closed_book: Embedding Perl in HML web MASON
+- :orange_book: Perl for website management
+- :green_book: Beg perl Simon cozen
+- :notebook: Picking up Perl
+- :notebook_with_decorative_cover: Real World SQL Server Administration with Perl
+- :blue_book: Perl 5 internals
+- :closed_book: Beginning Perl (James D Lee)
+- :notebook: Practical text mining with perl
+- :orange_book: Beginning perl web development 
+- :green_book: Mastering Perl for bioinformatics
+- :blue_book: Programming for linguist Perl for language researchers
+- :closed_book: Perl/Tk
+- :notebook: Perl for C programmers
+- :orange_book: Effective Perl programming
+- :blue_book: Learning Perl the hard way
+- :notebook: Perl the programmer's companion
+- :green_book: Beginning Perl Web development from novice to professional Steve Suehring
+- :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) - E-Book about coding competition 
+- :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
+- :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
+- :blue_book: Welcome to Perl Country :jp:
+- :notebook: How to Write Perl :jp:
+- :orange_book: Introduction to Perl :jp:
+- :green_book: Philippe Banquet, Les fondamentaux du langage Perl 5 : Apprentissage par la pratique :fr:
+- :blue_book: Perl moderne :fr:
+- :notebook: Perl reference de poche :fr:
+- :notebook_with_decorative_cover: Perl en action :fr:
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
