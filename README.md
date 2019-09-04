@@ -259,11 +259,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Mastering Perl
 - :notebook_with_decorative_cover: Modern Perl
 - :ledger: Perl Best Practices
-- :blue_book: Beginning Perl (Curtis "Ovid" Poe)
-- :notebook: Perl pocket reference
 - :orange_book: Perl hacks
 - :green_book: High Order Perl
 - :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
+- :blue_book: Beginning Perl (Curtis "Ovid" Poe)
+- :green_book: Beginning Perl (Simon cozen)
+- :closed_book: Beginning Perl (James D Lee)
+- :notebook: Perl pocket reference
 - :orange_book: XML and Perl
 - :blue_book: Perl for system administration
 - :green_book: Programming the perl DBI
@@ -300,11 +302,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Minimal Perl
 - :closed_book: Embedding Perl in HML web MASON
 - :orange_book: Perl for website management
-- :green_book: Beg perl Simon cozen
 - :notebook: Picking up Perl
 - :notebook_with_decorative_cover: Real World SQL Server Administration with Perl
 - :blue_book: Perl 5 internals
-- :closed_book: Beginning Perl (James D Lee)
 - :notebook: Practical text mining with perl
 - :orange_book: Beginning perl web development 
 - :green_book: Mastering Perl for bioinformatics
