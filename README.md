@@ -314,7 +314,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Effective Perl programming
 - :blue_book: Learning Perl the hard way
 - :notebook: Perl the programmer's companion
-- :green_book: Beginning Perl Web development from novice to professional Steve Suehring
+- :green_book: Beginning Perl Web development from novice to professional
+- :orange_book: [Single Page Application with Perl Dancer](https://leanpub.com/dancer-spa/) - E-Book about Dancer webframework
+- :construction: [Mojolicious book](https://metacpan.org/pod/release/KRAIH/Mojo-0.999904/lib/Mojolicious/Book.pod)
 - :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) - E-Book about coding competition 
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
 - :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
