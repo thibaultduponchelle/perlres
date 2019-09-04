@@ -101,14 +101,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
-- :closed_book: Programming Perl (the "Camel Book")
-- :green_book: The Perl cookbook (The "Ram Book")
-- :blue_book: Learning Perl  (the "Llama Book")
-- :orange_book: Intermediate Perl (the "Alpaca Book")
+- :closed_book: Programming Perl (Camel book)
+- :green_book: The Perl cookbook (Ram book)
+- :blue_book: Learning Perl  (Llama book)
+- :orange_book: Intermediate Perl (Alpaca book)
 - :notebook: Mastering Perl
 - :notebook_with_decorative_cover: Modern Perl
 - :ledger: Perl Best Practices
-- :blue_book: Beginning Perl (**Curtis "Ovid" Poe**)
+- :blue_book: Beginning Perl (Curtis "Ovid" Poe)
 - :notebook: Perl pocket reference
 - :orange_book: Perl hacks
 - :green_book: High Order Perl
@@ -153,7 +153,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Picking up Perl
 - :notebook_with_decorative_cover: Real World SQL Server Administration with Perl
 - :blue_book: Perl 5 internals
-- :closed_book: Beginning Perl (**James D Lee**)
+- :closed_book: Beginning Perl (James D Lee)
 - :notebook: Practical text mining with perl
 - :orange_book: Beginning perl web development 
 - :green_book: Mastering Perl for bioinformatics
