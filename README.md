@@ -267,16 +267,21 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: [Perl pocket reference](http://shop.oreilly.com/product/0636920018476.do)
 - :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
 - :orange_book: XML and Perl
+- :green_book: [Perl and XML](http://shop.oreilly.com/product/9780596002053.do)
 - :blue_book: Perl for system administration
 - :green_book: Programming the perl DBI
 - :notebook: CGI programming with Perl
 - :closed_book: Perl & LWP
+- :orange_book: [Perl graphics Programming](http://shop.oreilly.com/product/9780596002190.do)
 - :blue_book: Perl for dummies
-- :notebook: Mastering algorithms with Perl
+- :notebook: [Mastering algorithms with Perl](http://shop.oreilly.com/product/9781565923980.do)
 - :orange_book: Impatient Perl
 - :closed_book: Extreme Perl
+- :blue_book: [Web, Graphics & Perl/Tk Programming](http://shop.oreilly.com/product/9780596003111.do)
+- :closed_book: [Games, Diversions and Perl Culture](http://shop.oreilly.com/product/9780596003128.do)
 - :green_book: Perl Template Toolkit
 - :notebook_with_decorative_cover: Web Services avec Perl
+- :orange_book: [Perl for Oracle DBAs](http://shop.oreilly.com/product/9780596002107.do)
 - :notebook: Perl Testing
 - :closed_book: Practical vim
 - :blue_book: Perl one liners
