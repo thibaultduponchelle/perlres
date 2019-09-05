@@ -253,19 +253,19 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
 - :closed_book: [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl) (Camel book)
-- :green_book: The Perl cookbook (Ram book)
-- :blue_book: Learning Perl  (Llama book)
-- :orange_book: Intermediate Perl (Alpaca book)
-- :notebook: Mastering Perl
-- :notebook_with_decorative_cover: Modern Perl
-- :ledger: Perl Best Practices
-- :orange_book: Perl hacks
-- :green_book: High Order Perl
-- :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
-- :blue_book: Beginning Perl (Curtis "Ovid" Poe)
-- :green_book: Beginning Perl (Simon cozen)
+- :green_book: [Perl cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book)
+- :blue_book: [Learning Perl](https://en.wikipedia.org/wiki/Learning_Perl)  (Llama book)
+- :orange_book: [Intermediate Perl](https://en.wikipedia.org/wiki/Intermediate_Perl) (Alpaca book)
+- :notebook: [Mastering Perl](http://shop.oreilly.com/product/9780596527242.do)
+- :notebook_with_decorative_cover: [Modern Perl](http://modernperlbooks.com/)
+- :ledger: [Perl Best Practices](https://en.wikipedia.org/wiki/Perl_Best_Practices)
+- :orange_book: [Perl hacks](http://shop.oreilly.com/product/9780596526740.do)
+- :green_book: [High Order Perl](https://en.wikipedia.org/wiki/Higher-Order_Perl)
+- :blue_book: [Beginning Perl](http://shop.oreilly.com/product/9781118013847.do) (Curtis "Ovid" Poe)
+- :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl/)
 - :closed_book: Beginning Perl (James D Lee)
-- :notebook: Perl pocket reference
+- :notebook: [Perl pocket reference](http://shop.oreilly.com/product/0636920018476.do)
+- :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
 - :orange_book: XML and Perl
 - :blue_book: Perl for system administration
 - :green_book: Programming the perl DBI
