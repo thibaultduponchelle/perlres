@@ -317,9 +317,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Perl 5 internals
 - :notebook: Practical text mining with perl
 - :orange_book: Beginning perl web development 
-- :green_book: Mastering Perl for bioinformatics
 - :blue_book: Programming for linguist Perl for language researchers
-- :closed_book: Perl/Tk
 - :notebook: Perl for C programmers
 - :orange_book: Effective Perl programming
 - :blue_book: Learning Perl the hard way
