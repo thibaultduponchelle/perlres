@@ -290,6 +290,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: Perl in a nutshell
 - :green_book: Perl testing a developer notebook
 - :blue_book: Beginning Perl for bioinformatics
+- :closed_book: [Mastering Perl for Bioinformatics](http://shop.oreilly.com/product/9781565923140.do)
 - :notebook: Network programming with Perl
 - :orange_book: Perl by exmaple
 - :notebook_with_decorative_cover: Perl black book
@@ -299,6 +300,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Perl core language little black book
 - :green_book: Writing apache modules with Perl and CGI
 - :notebook: Data munging with Perl
+- :green_book: [Learning Perl/Tk](http://shop.oreilly.com/product/9781565923140.do)
+- :blue_book: [Mastering Perl/Tk](http://shop.oreilly.com/product/9781565927162.do)
+- :orange_book: [Perl/Tk Pocket Reference](http://shop.oreilly.com/product/9781565925175.do)
 - :notebook: Pro Perl debugging
 - :closed_book: Regular Expression Pocket Reference
 - :orange_book: Perl Debugger Pocket Reference
@@ -332,6 +336,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Perl moderne :fr:
 - :notebook: Perl reference de poche :fr:
 - :notebook_with_decorative_cover: Perl en action :fr:
+- :blue_book: Introductions a Perl/Tk: Interfaces graphiques avec Perl :fr: 
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
