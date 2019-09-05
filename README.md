@@ -252,7 +252,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
-- :closed_book: Programming Perl (Camel book)
+- :closed_book: [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl) (Camel book)
 - :green_book: The Perl cookbook (Ram book)
 - :blue_book: Learning Perl  (Llama book)
 - :orange_book: Intermediate Perl (Alpaca book)
