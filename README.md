@@ -282,6 +282,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Perl Template Toolkit
 - :notebook_with_decorative_cover: Web Services avec Perl
 - :orange_book: [Perl for Oracle DBAs](http://shop.oreilly.com/product/9780596002107.do)
+- :blue_book: [Advanced Perl Programming](http://shop.oreilly.com/product/9780596004569.do)
 - :notebook: Perl Testing
 - :closed_book: Practical vim
 - :blue_book: Perl one liners
