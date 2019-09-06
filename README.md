@@ -34,7 +34,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly awards for important contribution to Perl (not only with code)
 
 ## :hammer_and_pick: Modules and installers
-- :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([profil CPAN](https://metacpan.org/author/MIYAGAWA))
+- :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([CPAN profile](https://metacpan.org/author/MIYAGAWA))
 - :hammer: [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
 - :wrench: [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
 - :gift: [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (uses [cpanfile](https://github.com/miyagawa/cpanfile))
