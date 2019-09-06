@@ -293,7 +293,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Beginning Perl for bioinformatics
 - :closed_book: [Mastering Perl for Bioinformatics](http://shop.oreilly.com/product/9781565923140.do)
 - :notebook: Network programming with Perl
-- :orange_book: Perl by exmaple
+- :orange_book: Perl by example
 - :notebook_with_decorative_cover: Perl black book
 - :ledger: Extending and embedding Perl
 - :blue_book: Mod_perl developer cookbooks
