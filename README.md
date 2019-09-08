@@ -150,6 +150,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :baby_bottle: **Baby Perl** - Programming with a reduced set of builtins and idioms :baby:
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers :stuck_out_tongue_winking_eye:
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
+- :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.perl.org/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer
 
 ## :dromedary_camel: Logos
 - :dromedary_camel: The camel logo (from the book Programming Perl from O’Reilly Media) :
@@ -232,6 +233,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
 - :handbag: [Fink Project](http://finkproject.org/) - Tool to help porting software from UNIX like to macOS
 - :vhs: [Stormons](https://sourceforge.net/projects/stormons/) - Monitoring and mapping SAN storage devices.
+- :cloud: [cPanel](https://cpanel.net/) - Hosting platform
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
@@ -328,6 +330,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) - E-Book about coding competition 
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
 - :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
+- :orange_book: RT Essentials
 - :blue_book: Welcome to Perl Country :jp:
 - :notebook: How to Write Perl :jp:
 - :orange_book: Introduction to Perl :jp:
