@@ -173,6 +173,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine (Slashdot is powered by this)
 - :memo: [Movable Type](https://www.movabletype.org/) - CMS
 - :memo: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
+- :memo: [Bricolage](http://bricolagecms.org) - CMS ([github](https://github.com/bricoleurs/bricolage)
 - :older_man: [GNU Automake](https://www.gnu.org/software/automake/) - Automatically generates Makefile.in files 
 - :memo: [WebGui](http://www.webgui.org/) - CMS
 - :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
@@ -198,6 +199,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octopus: [Minion](https://github.com/mojolicious/minion) - A high performance job queue
 - :dizzy: [Catalyst](http://www.catalystframework.org/) - Web framework
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
+- :crocodile: [Jifty](https://metacpan.org/pod/Jifty) - Web framework
 - :new: :space_invader: [Tau Station](https://taustation.space/) - A text based web space game 
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - :chart_with_upwards_trend:[AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([github](https://github.com/eldy/awstats))
