@@ -151,6 +151,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers :stuck_out_tongue_winking_eye:
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 - :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.perl.org/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer
+- :paperclip: Perl is often considered as being "the duct tape of the Internet"
 
 ## :dromedary_camel: Logos
 - :dromedary_camel: The camel logo (from the book Programming Perl from O’Reilly Media) :
