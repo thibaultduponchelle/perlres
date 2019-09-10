@@ -240,6 +240,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [WebGui](http://www.webgui.org/) - CMS
 - :memo: [Callisto](https://sourceforge.net/projects/callistocms/) - CMS
 - :memo: [Spine](http://spine.sourceforge.net/) - CMS
+- :chart_with_upwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
