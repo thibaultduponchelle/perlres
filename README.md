@@ -79,6 +79,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
+- :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj/) - E-Zine about Perl
 
 ## :book: Official documentations
 - :question: [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
@@ -142,6 +143,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :trollface: **ACME** modules - Purely entertainment modules
 - :baby_chick: Easy things should be easy and hard things should be possible :chicken:
 - :construction_worker: Get the job done :thumbsup:
+- :smiling_imp: [Obfuscated Perl Contest]() - [OPC 0](http://www.foo.be/docs/tpj/issues/vol1_3/tpj0103-0010.html), [OPC 1](https://www.foo.be/docs/tpj/issues/vol2_2/tpj0202-0010.html), ~~OPC 1~~, [OPC 2] [OPC 3](http://www.foo.be/docs/tpj/issues/vol3_2/tpj0302-0012.html), [OPC 4](https://www.foo.be/docs/tpj/issues/vol4_3/tpj0403-0017.html) and [OPC 5](https://www.foo.be/docs/tpj/issues/vol5_3/tpj0503-0014.html)
+- :notes: [Perl Poetry Contest] - [PPC 1](https://www.foo.be/docs/tpj/issues/vol5_1/tpj0501-0012.html), [PPC 2](http://mkweb.bcgsc.ca/intranet/sapj/tpj/issues/vol5_5/sam05050005/tpj0505-0005.htm)
+- :walking: [NeoCPANisms](http://neilb.org/neocpanisms/) - Sit well and release new dists each month :smirk_cat:
 
 ![](https://imgs.xkcd.com/comics/11th_grade.png)
 
