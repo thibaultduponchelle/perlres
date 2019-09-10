@@ -351,6 +351,15 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
 - :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
 - :orange_book: RT Essentials
+- :blue_book: Automating Windows with Perl
+- :closed_book: Perl Developer's Dictionary
+- :orange_book: Instant CGI/Perl
+- :notebook_with_decorative_cover: Web Programming with Perl 5
+- :notebook: CGI Developer's Resource: Web programming in Tcl and Perl
+- :blue_book: Cross Platform Perl
+- :closed_book: Developing CGI Applications with Perl
+- :blue_book: Perl 5 Interactive Course
+- :orange_book: Teach Yourself CGI Programming with Perl 5 in a week
 - :blue_book: Welcome to Perl Country :jp:
 - :notebook: How to Write Perl :jp:
 - :orange_book: Introduction to Perl :jp:
