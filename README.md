@@ -360,6 +360,19 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: Developing CGI Applications with Perl
 - :blue_book: Perl 5 Interactive Course
 - :orange_book: Teach Yourself CGI Programming with Perl 5 in a week
+- :green_book: Penetration Testing with Perl
+- :closed_book: Hands-On Penetration Testing with Python
+- :orange_book: Perl Scripting for Windows Security
+- Perl and Apache: Your visual blueprint for developing dynamic Web content
+- Developing Web Applications with Perl, memcached, MySQL and Apache
+- Minimal Perl: For UNIX and Linux People
+- Building Tag Clouds in Perl and PHP
+- Wicked Cool Perl Scripts
+- Pro Perl
+- Perl Medic: Transforming Legacy Code
+- Computer Science & Perl Programming
+- Programming PERL in the .NET Environment
+- Teach Yourself Perl in 21 Days
 - :blue_book: Welcome to Perl Country :jp:
 - :notebook: How to Write Perl :jp:
 - :orange_book: Introduction to Perl :jp:
