@@ -327,6 +327,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Effective Perl programming
 - :blue_book: Learning Perl the hard way
 - :notebook: Perl the programmer's companion
+- :green_book: Programming with Perl modules
 - :green_book: Beginning Perl Web development from novice to professional
 - :orange_book: [Single Page Application with Perl Dancer](https://leanpub.com/dancer-spa/) - E-Book about Dancer webframework
 - :construction: [Mojolicious book](https://metacpan.org/pod/release/KRAIH/Mojo-0.999904/lib/Mojolicious/Book.pod)
