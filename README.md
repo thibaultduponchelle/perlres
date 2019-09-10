@@ -195,6 +195,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :minidisc: [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
 - :1234: [PDL](http://pdl.perl.org/) - For scientific calculations
+- :mag: [Cloc](https://github.com/AlDanial/cloc) - Famous "count line of code" utility 
 - :cloud: [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
 - :octopus: [Minion](https://github.com/mojolicious/minion) - A high performance job queue
 - :dizzy: [Catalyst](http://www.catalystframework.org/) - Web framework
