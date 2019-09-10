@@ -301,6 +301,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: Practical vim
 - :blue_book: Perl one liners
 - :closed_book: Practical mod_perl
+- :green_book: Mod_perl pocket reference
+- :blue_book: Mod_perl 2 user guide
 - :notebook: Object Oriented Perl
 - :closed_book: Perl in a nutshell
 - :green_book: Perl testing a developer notebook
@@ -313,8 +315,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Mod_perl developer cookbooks
 - :blue_book: Effective Perl programming
 - :orange_book: Perl core language little black book
-- :green_book: Writing apache modules with Perl and CGI
+- :green_book: Writing apache modules with Perl and C
+- :blue_book: Running weblogs with Slash
+- :orange_book: Core Perl
+- :closed_book: Perl for the Web
 - :notebook: Data munging with Perl
+- :notebook_with_decorative_cover: [MySQL and Perl for the Web](http://www.kitebird.com/mysql-perl/)
+- :notebook: [Open Source Web Development with LAMP](http://www.opensourcewebbook.com/)
 - :green_book: [Learning Perl/Tk](http://shop.oreilly.com/product/9781565923140.do)
 - :blue_book: [Mastering Perl/Tk](http://shop.oreilly.com/product/9781565927162.do)
 - :orange_book: [Perl/Tk Pocket Reference](http://shop.oreilly.com/product/9781565925175.do)
