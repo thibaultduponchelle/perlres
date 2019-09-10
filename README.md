@@ -173,9 +173,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine (Slashdot is powered by this)
 - :memo: [Movable Type](https://www.movabletype.org/) - CMS
 - :memo: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
-- :memo: [Bricolage](http://bricolagecms.org) - CMS ([github](https://github.com/bricoleurs/bricolage)
+- :memo: [Bricolage](http://bricolagecms.org) - CMS ([github](https://github.com/bricoleurs/bricolage))
 - :older_man: [GNU Automake](https://www.gnu.org/software/automake/) - Automatically generates Makefile.in files 
-- :memo: [WebGui](http://www.webgui.org/) - CMS
 - :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
 - :chart_with_upwards_trend: [Monitorix](https://github.com/mikaku/Monitorix) -  Lightweight system monitoring tool
 - :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/) - WebSSO, Access Management and Identity Federation
@@ -237,6 +236,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :handbag: [Fink Project](http://finkproject.org/) - Tool to help porting software from UNIX like to macOS
 - :vhs: [Stormons](https://sourceforge.net/projects/stormons/) - Monitoring and mapping SAN storage devices.
 - :cloud: [cPanel](https://cpanel.net/) - Hosting platform
+- :memo: [Krang](http://krang.sourceforge.net/) - CMS
+- :memo: [WebGui](http://www.webgui.org/) - CMS
+- :memo: [Callisto](https://sourceforge.net/projects/callistocms/) - CMS
+- :memo: [Spine](http://spine.sourceforge.net/) - CMS
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
