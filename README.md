@@ -363,16 +363,22 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Penetration Testing with Perl
 - :closed_book: Hands-On Penetration Testing with Python
 - :orange_book: Perl Scripting for Windows Security
-- Perl and Apache: Your visual blueprint for developing dynamic Web content
-- Developing Web Applications with Perl, memcached, MySQL and Apache
-- Minimal Perl: For UNIX and Linux People
-- Building Tag Clouds in Perl and PHP
-- Wicked Cool Perl Scripts
-- Pro Perl
-- Perl Medic: Transforming Legacy Code
-- Computer Science & Perl Programming
-- Programming PERL in the .NET Environment
-- Teach Yourself Perl in 21 Days
+- :green_book: Perl and Apache: Your visual blueprint for developing dynamic Web content
+- :notebook: Developing Web Applications with Perl, memcached, MySQL and Apache
+- :orange_book: Minimal Perl: For UNIX and Linux People
+- :blue_book: Building Tag Clouds in Perl and PHP
+- :green_book: Wicked Cool Perl Scripts
+- :notebook: Pro Perl
+- :orange_book: Perl Medic: Transforming Legacy Code
+- :green_book: Computer Science & Perl Programming
+- :orange_book: Programming PERL in the .NET Environment
+- :notebook: Teach Yourself Perl in 21 Days
+- :orange_book: Teach Yourself Perl in 24 Hours
+- :green_book: Perl Debugged
+- :orange_book: Programming Web Graphics with Perl and GNU Software
+- :notebook: Web Client Programming with Perl
+- :orange_book: Learning Perl on Win32 Systems
+- :green_book: Win32 Perl Programming: The Standard Extensions, Second Edition
 - :blue_book: Welcome to Perl Country :jp:
 - :notebook: How to Write Perl :jp:
 - :orange_book: Introduction to Perl :jp:
