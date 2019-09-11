@@ -240,6 +240,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
 - :computer: [Padre](http://padre.perlide.org/) - IDE ([github](https://github.com/PadreIDE/Padre))
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
+- :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML5 user interface for Perl 5 desktop applications
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
 - :handbag: [Fink Project](http://finkproject.org/) - Tool to help porting software from UNIX like to macOS
 - :vhs: [Stormons](https://sourceforge.net/projects/stormons/) - Monitoring and mapping SAN storage devices.
