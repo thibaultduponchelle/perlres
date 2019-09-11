@@ -157,6 +157,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 - :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.perl.org/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer
 - :paperclip: Perl is often considered as being "the duct tape of the Internet"
+- :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry/) 
 
 ## :dromedary_camel: Logos
 - :dromedary_camel: The camel logo (from the book Programming Perl from O’Reilly Media) :
@@ -226,6 +227,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
+- :minidisc: [MySQL-Tuner](https://github.com/major/MySQLTuner-perl) - MySQL configuration and tuning
+- :muscle: [RPerl](http://rperl.org/) - Restricted Perl, an optimizing compiler ([github](https://github.com/wbraswell/rperl))
+- [CPerl](https://github.com/perl11/cperl) - Alternative Perl interpreter
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
 - :speech_balloon: [DuckDuckGo Instant Answer](https://duck.co/ia) ([github](https://github.com/duckduckgo/duckduckgo)) - An aggregator of questions/answers platform
 - :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE github](https://github.com/openSUSE) - The **Open Build Service** platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
@@ -236,20 +240,28 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octocat: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - :octocat: [GitPrep](http://gitprep.yukikimoto.com/) - Portable GitHub system ([github](https://github.com/yuki-kimoto/gitprep))
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
+- :gift: [PAR:Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables
+- :gift: [TinyPerl](http://tinyperl.sourceforge.net/) - Very compact Perl binary to be shipped with your scripts
+- :gift: [StaticPerl](http://software.schmorp.de/pkg/App-Staticperl.html) - Helper script to create self contained statically linked Perl binary + script
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
-- :computer: [Padre](http://padre.perlide.org/) - IDE ([github](https://github.com/PadreIDE/Padre))
+- :computer: [Padre](http://padre.perlide.org/) - IDE ([github](https://github.com/PadreIDE/Padre)) :door: :apple: :penguin:
+- :computer: [Open Perl IDE](https://sourceforge.net/projects/open-perl-ide/) - IDE for Windows :door:
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
 - :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML5 user interface for Perl 5 desktop applications
+- :cloud: [Perloku](https://github.com/judofyr/perloku) - Deploy Perl apps on Heroku
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
 - :handbag: [Fink Project](http://finkproject.org/) - Tool to help porting software from UNIX like to macOS
 - :vhs: [Stormons](https://sourceforge.net/projects/stormons/) - Monitoring and mapping SAN storage devices.
+- :wrench: [Devel::hdb](https://github.com/brummett/Devel-hdb) - Another Perl debugger
 - :cloud: [cPanel](https://cpanel.net/) - Hosting platform
 - :memo: [Krang](http://krang.sourceforge.net/) - CMS
 - :memo: [WebGui](http://www.webgui.org/) - CMS
 - :memo: [Callisto](https://sourceforge.net/projects/callistocms/) - CMS
 - :memo: [Spine](http://spine.sourceforge.net/) - CMS
 - :chart_with_upwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
+- :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc/) - Perl to C compiler
+- :dromadery_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
