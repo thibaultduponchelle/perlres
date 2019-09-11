@@ -73,7 +73,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
 - :speech_balloon: [Perl Hacks](https://perlhacks.com/) - A blog
 - :newspaper: [Perl Sphere](http://perlsphere.net/) - Newsfeed
-- :seat: Conferences [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) or [YAPC](https://www.yapc.org/), [YAPC Europe](http://www.yapceurope.org/) or [PerlCon](https://perlcon.eu/) or the [french Perl workshop](https://journeesperl.fr/jp2019/) and [OSDC](http://www.osdc.fr/) (seems like a bit dead) and [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) or [Patch.pm -pn](http://patch.pm) or Perl QA Hackathon or Perl Toolchain Summit
+- :seat: [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) - [YAPC](https://www.yapc.org/) - [YAPC Europe](http://www.yapceurope.org/) - [PerlCon](https://perlcon.eu/) - [French Perl Workshop](https://journeesperl.fr/jp2019/) - [OSDC](http://www.osdc.fr/) [DEAD] - [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) - [Patch.pm -pn](http://patch.pm) - **Perl QA Hackathon** - **Perl Toolchain Summit** - Conferences
 - :speech_balloon: [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
 - :newspaper: [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
 - :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
