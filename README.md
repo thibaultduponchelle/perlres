@@ -206,6 +206,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :dizzy: [Catalyst](http://www.catalystframework.org/) - Web framework
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 - :crocodile: [Jifty](https://metacpan.org/pod/Jifty) - Web framework
+- :cloud: Various Web frameworks, adapters or servers like [Plack](https://github.com/plack/Plack), [HTTP::Server::Simple](https://github.com/bestpractical/http-server-simple), [HTTP::Daemon](https://github.com/libwww-perl/HTTP-Daemon), [Continuity](https://metacpan.org/pod/Continuity), [Starman] [Twiggy](https://github.com/miyagawa/Twiggy), [Starlet](https://github.com/kazuho/Starlet), [Corona](https://github.com/miyagawa/Corona), [Gazelle](https://github.com/kazeburo/Gazelle), [Arriba](https://github.com/odyniec/p5-Arriba), [Perlbal](https://github.com/perlbal/Perlbal), [Feersum](https://github.com/stash/Feersum),
 -:speech: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
 - :new: :space_invader: [Tau Station](https://taustation.space/) - A text based web space game 
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
