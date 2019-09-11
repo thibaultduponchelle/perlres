@@ -207,7 +207,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 - :crocodile: [Jifty](https://metacpan.org/pod/Jifty) - Web framework
 - :cloud: [Plack](https://github.com/plack/Plack) - [HTTP::Server::Simple](https://github.com/bestpractical/http-server-simple) - [HTTP::Daemon](https://github.com/libwww-perl/HTTP-Daemon) - [HTTP::Tiny](https://github.com/chansen/p5-http-tiny) - [Continuity](https://metacpan.org/pod/Continuity) - [Starman](https://github.com/miyagawa/Starman) - [Twiggy](https://github.com/miyagawa/Twiggy) - [Starlet](https://github.com/kazuho/Starlet) - [Corona](https://github.com/miyagawa/Corona) - [Gazelle](https://github.com/kazeburo/Gazelle) - [Arriba](https://github.com/odyniec/p5-Arriba) - [Perlbal](https://github.com/perlbal/Perlbal) - [Feersum](https://github.com/stash/Feersum) - Various Web frameworks, adapters or servers
-- :speech: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
+- :speech_balloon: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
 - :new: :space_invader: [Tau Station](https://taustation.space/) - A text based web space game 
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - :chart_with_upwards_trend:[AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([github](https://github.com/eldy/awstats))
