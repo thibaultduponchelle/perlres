@@ -81,7 +81,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
 - :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj/) - E-Zine about Perl
 - :christmas_tree: [Perl Advent Calendar](http://www.perladvent.org) - Avent Calendar about Perl
-- :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious
+- :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious web framework
+- :santa: [Dancer Advent Calendar](http://advent.perldancer.org) - Advent calendar about Dancer web framework
 
 ## :book: Official documentations
 - :question: [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
