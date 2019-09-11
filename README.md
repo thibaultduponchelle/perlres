@@ -211,7 +211,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
 - :new: :space_invader: [Tau Station](https://taustation.space/) - A text based web space game 
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
-- :chart_with_upwards_trend:[AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([github](https://github.com/eldy/awstats))
+- :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([github](https://github.com/eldy/awstats))
 - :speech_balloon: [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
 - :pencil2: [Oddmuse](https://oddmuse.org/) - Wiki engine
 - :pencil2: [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
@@ -229,7 +229,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :minidisc: [MySQL-Tuner](https://github.com/major/MySQLTuner-perl) - MySQL configuration and tuning
 - :muscle: [RPerl](http://rperl.org/) - Restricted Perl, an optimizing compiler ([github](https://github.com/wbraswell/rperl))
-- [CPerl](https://github.com/perl11/cperl) - Alternative Perl interpreter
+- :wrench: [CPerl](https://github.com/perl11/cperl) - Alternative Perl interpreter
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
 - :speech_balloon: [DuckDuckGo Instant Answer](https://duck.co/ia) ([github](https://github.com/duckduckgo/duckduckgo)) - An aggregator of questions/answers platform
 - :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE github](https://github.com/openSUSE) - The **Open Build Service** platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
