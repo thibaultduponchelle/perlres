@@ -40,6 +40,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :gift: [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (uses [cpanfile](https://github.com/miyagawa/cpanfile))
 - :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules 
 - :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
+- :metal: [CPAN](https://metacpan.org/pod/CPAN) - Venerable old CPAN modules installer (core module, configurable) 
+- :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ old CPAN modules installer)
 
 ## :dromedary_camel: General
 - :man_with_turban: [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
