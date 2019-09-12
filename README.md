@@ -162,7 +162,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 - :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.perl.org/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer
 - :paperclip: Perl is often considered as being **the duct tape of the Internet**
-- :dromadery_camel: [Larry Wall Homepage](http://www.wall.org/~larry/) - Prepare your eyes
+- :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry/) - Prepare your eyes
 
 ## :dromedary_camel: Logos
 - :dromedary_camel: The camel logo (from the book Programming Perl from O’Reilly Media) :
@@ -266,7 +266,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [Spine](http://spine.sourceforge.net/) - CMS
 - :chart_with_upwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
 - :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc/) - Perl to C compiler
-- :dromadery_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
+- :dromedary_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
