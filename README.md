@@ -249,11 +249,19 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :gift: [PAR:Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables
 - :gift: [TinyPerl](http://tinyperl.sourceforge.net/) - Very compact Perl binary to be shipped with your scripts
 - :gift: [StaticPerl](http://software.schmorp.de/pkg/App-Staticperl.html) - Helper script to create self contained statically linked Perl binary + script
+- :chart_with_upwards_trend:  [Octopussy](https://octopussy.pm) - Log analyzer
+- :chart_with_upwards_trend:  [Squid](http://squidanalyzer.darold.net) - Log analyzer
+- :chart_with_upwards_trend:  [W3Perl](http://w3perl.com) - Log analyzer
+- :chart_with_upwards_trend:  [Yaala](http://www.yaala.org/) - Log analyzer
+- :chart_with_upwards_trend:  [Log Watch](https://sourceforge.net/projects/logwatch/) - Log analyzer
+- :chart_with_upwards_trend:  [SEC](http://simple-evcorr.github.io/) - Log analyzer
+- :books: [Evergreen ILS](http://evergreen-ils.org) - Library management
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
 - :computer: [Padre](http://padre.perlide.org/) - IDE ([github](https://github.com/PadreIDE/Padre)) for Windows/OSX/Linux :door: :apple: :penguin:
 - :computer: [Open Perl IDE](https://sourceforge.net/projects/open-perl-ide/) - IDE for Windows :door:
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
+- :phone: [Ledger SMB](https://ledgersmb.org) - ERP
 - :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML5 user interface for Perl 5 desktop applications
 - :cloud: [Perloku](https://github.com/judofyr/perloku) - Deploy Perl apps on Heroku
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
@@ -263,12 +271,32 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cloud: [cPanel](https://cpanel.net/) - Hosting platform
 - :memo: [Krang](http://krang.sourceforge.net/) - CMS
 - :memo: [WebGui](http://www.webgui.org/) - CMS
+- :memo: [Simpleness](http://cms.simpleness.org/) - CMS
 - :memo: [Callisto](https://sourceforge.net/projects/callistocms/) - CMS
 - :memo: [Spine](http://spine.sourceforge.net/) - CMS
+- :memo: [XIMS](http://xims.info/) - CMS
+- :speech_balloon: [Dreamwitdh](https://www.dreamwidth.org/) - Shared blogging
 - :beer: [Cider Mail](http://ciderwebmail.org/news/index.html) - Webmail application
+- :cloud: [Cyclone 3](http://www.cyclone3.org/) - Web application framework
+- :speech_balloon: [Blaze Blogger](http://blaze.blackened.cz) - CMS
+- :memo: [Galileo](http://galileo-cms.herokuapp.com/page/home) - CMS
+- :memo: [Blio](https://github.com/domm/Blio) - CMS
+- :speech_balloon: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
+- :vhs: [ETL](https://sourceforge.net/projects/eplsiteetl) - Data migration helper
+- :mag: [Dezi](https://dezi.org) - Search platform
+- :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform
+- :credit_card: [Surf Shop](http://www.surfshopcart.com) - Shopping cart
+- :credit_card: [Agora Cart](http://www.agoracart.com) - Shopping cart
+- :heavy_dollar_sign: [Ack](https://beyondgrep.com) - Grep replacement
+- :pencil2: [Kephra](http://kephra.sourceforge.net/site/en/home_news.shtml) - Editor
+- :vhs: [QDepo](https://sourceforge.net/projects/tpda-qrt) - Graphical software to convert various DB data to various office formats
+
 - :video_game: [Lacuna Expanse](https://github.com/plainblack/Lacuna-Server-Open) - Space game
 - :camera: **Shutter** - Screenshot utility
+- :mailbox: [Minimalist](https://github.com/madroach/minimalist) - Mailing list engine
+- :chart_with_upwards_trend: [Open Smart](http://opensmart.sourceforge.net/) - Network and application monitoring
 - :chart_with_upwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
+- :chart_with_upwards_trend: [OPS View](https://www.opsview.com/) - Network and application monitoring
 - :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc/) - Perl to C compiler
 - :dromedary_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
 
