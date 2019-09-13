@@ -41,7 +41,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules
 - :rocket: [Awesome Perl](https://github.com/hachiojipm/awesome-perl/blob/master/README.md) - List of selected modules
 - :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
-- :metal: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable old CPAN modules installer (core module, configurable) 
+- :older_man: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable old CPAN modules installer (core module, configurable) 
 - :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ old CPAN modules installer)
 
 ## :dromedary_camel: General
@@ -56,7 +56,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :fuelpump: Around the CPAN
 - :ocean: [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
 - :new: [CPAN Doc](https://cpandoc.grinnz.com/) - Documentation of some important modules
-- :nerd_face: [CPAN Testers](http://cpantesters.org/) - Build and test reports of CPAN modules
+- :heavy_check_mark: [CPAN Testers](http://cpantesters.org/) - Build and test reports of CPAN modules
 - :scroll: [BackPAN](http://backpan.cpantesters.org/) - The CPAN with all history
 - :speech_balloon: [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
 - :earth_africa: [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
