@@ -101,8 +101,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :fr: [OSDC](http://www.osdc.fr/) (DEAD ?) 
 - :seat: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) 
 - :fr: [Patch.pm -pn](http://patch.pm) 
-- ::heavy_check_mark:: **Perl QA Hackathon** 
-- :dromadery_camel: **Perl Toolchain Summit**
+- :heavy_check_mark: **Perl QA Hackathon** 
+- :dromedary_camel: **Perl Toolchain Summit**
 
 ## :book: Official documentations
 - :question: [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
