@@ -81,21 +81,21 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Newsfeeds
 - :newspaper: [Perl Sphere](http://perlsphere.net/) - Newsfeed
-- :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - Newsfeed
+- :clipboard: [Medium Perl tag](https://medium.com/tag/perl/latest) - Newsfeed
 - :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
-- :newspaper: [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
-- :newspaper: [Weekly Newsletter](http://perlweekly.com/) - Newsletter gathering Perl news and links
+- :memo: [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
+- :clipboard: [Weekly Newsletter](http://perlweekly.com/) - Newsletter gathering Perl news and links
 
 ### Blogs
 - :speech_balloon: [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
-- :speech_balloon: [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
+- :family: [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
-- :speech_balloon: [Perl Hacks](https://perlhacks.com/) - A blog
+- :couple: [Perl Hacks](https://perlhacks.com/) - A blog
 
 ### Conferences
 - :heavy_dollar_sign: [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) 
 - :seat: [YAPC](https://www.yapc.org/) 
-- :seat: [YAPC Europe](http://www.yapceurope.org/) 
+- :couple: [YAPC Europe](http://www.yapceurope.org/) 
 - :seat: [PerlCon](https://perlcon.eu/) 
 - :fr: [French Perl Workshop](https://journeesperl.fr/jp2019/) 
 - :fr: [OSDC](http://www.osdc.fr/) (DEAD ?) 
