@@ -289,6 +289,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Dreamwitdh](https://www.dreamwidth.org/) - Shared blogging
 - :beer: [Cider Mail](http://ciderwebmail.org/news/index.html) - Webmail application
 - :cloud: [Cyclone 3](http://www.cyclone3.org/) - Web application framework
+- :cloud: [Amon](https://github.com/tokuhirom/Amon) - Web application framework
+- :cloud: [Poet](https://github.com/jonswar/perl-poet) - Web application framework
+- :cloud: [Gantry](https://metacpan.org/pod/Gantry) - Web application framework
+- :cloud: [Kossy](https://github.com/kazeburo/Kossy) - Simple web application framework
 - :speech_balloon: [Blaze Blogger](http://blaze.blackened.cz) - CMS
 - :memo: [Galileo](http://galileo-cms.herokuapp.com/page/home) - CMS
 - :memo: [Blio](https://github.com/domm/Blio) - CMS
@@ -300,6 +304,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :credit_card: [Agora Cart](http://www.agoracart.com) - Shopping cart
 - :heavy_dollar_sign: [Ack](https://beyondgrep.com) - Grep replacement
 - :pencil2: [Kephra](http://kephra.sourceforge.net/site/en/home_news.shtml) - Editor
+- :wave: [Mason](https://github.com/jonswar/perl-mason) - Templating system
+- :wave: [EmbPerl](https://metacpan.org/pod/Embperl) - Templating system
+- :arrows_counterclockwise: [Reply](https://github.com/doy/reply) - Perl REPL
+- :wrench: [Daiku](https://github.com/tokuhirom/Daiku) - Kind of make
+- :grapes: [Raison](https://github.com/khrt/Raisin) - REST API micro framework
+- :japanese_ogre: [Server::Starter](https://github.com/kazuho/p5-Server-Starter) - Super Daemon to handle hot deployment of server programs
 - :vhs: [QDepo](https://sourceforge.net/projects/tpda-qrt) - Graphical software to convert various DB data to various office formats
 - :video_game: [Lacuna Expanse](https://github.com/plainblack/Lacuna-Server-Open) - Space game
 - :camera: **Shutter** - Screenshot utility
