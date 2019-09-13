@@ -362,7 +362,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :turtle: [GitPrep](http://gitprep.yukikimoto.com/) - Portable GitHub system ([github](https://github.com/yuki-kimoto/gitprep))
 
 ### Database tooling
-- :minidisc: [MySQL-Tuner](https://github.com/major/MySQLTuner-perl) - MySQL configuration and tuning
+- :minidisc: [MySQL Tuner](https://github.com/major/MySQLTuner-perl) - MySQL configuration and tuning
 - :cd: [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application
 - :vhs: [ETL](https://sourceforge.net/projects/eplsiteetl) - Data migration helper
 - :dvd: [QDepo](https://sourceforge.net/projects/tpda-qrt) - Graphical software to convert various DB data to various office formats
