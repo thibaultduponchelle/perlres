@@ -96,12 +96,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :heavy_dollar_sign: [YAPC](https://www.yapc.org/) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
 - :couple: [YAPC Europe](http://www.yapceurope.org/) 
 - :seat: [PerlCon](https://perlcon.eu/) 
-- :fr: [French Perl Workshop](https://journeesperl.fr/jp2019/) 
-- :fr: [OSDC](http://www.osdc.fr/) (DEAD ?) 
-- :seat: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) 
-- :fr: [Patch.pm -pn](http://patch.pm) 
 - :heavy_check_mark: **Perl QA Hackathon** 
 - :dromedary_camel: **Perl Toolchain Summit**
+- :fr: [French Perl Workshop](https://journeesperl.fr/jp2019/) 
+- :fr: [OSDC](http://www.osdc.fr/) (DEAD ?) 
+- :fr: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) 
+- :fr: [Patch.pm -pn](http://patch.pm) 
 
 ## :book: Official documentations
 - :question: [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
