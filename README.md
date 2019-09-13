@@ -200,47 +200,47 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pill: [MetaCPAN](https://metacpan.org/) - Search the CPAN
 
 ### News and forums engines
-- :speech_balloon: [YaBB](http://www.yabbforum.com/) - Forum engine
+- :family: [YaBB](http://www.yabbforum.com/) - Forum engine
 - :speech_balloon: [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
-- :speech_balloon: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine (Slashdot is powered by this)
-- :speech_balloon: [DuckDuckGo Instant Answer](https://duck.co/ia) ([github](https://github.com/duckduckgo/duckduckgo)) - An aggregator of questions/answers platform
+- :couple: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine (Slashdot is powered by this)
+- :family: [DuckDuckGo Instant Answer](https://duck.co/ia) ([github](https://github.com/duckduckgo/duckduckgo)) - An aggregator of questions/answers platform
 
 ### CMS
 - :memo: [Movable Type](https://www.movabletype.org/) - CMS
-- :memo: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
+- :page_with_curl: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
 - :seat: [ACT](http://act.mongueurs.net/) ([github](https://github.com/book/Act)) - CMS for conferences
 - :memo: [Bricolage](http://bricolagecms.org) - CMS ([github](https://github.com/bricoleurs/bricolage))
-- :memo: [Krang](http://krang.sourceforge.net/) - CMS
+- :bookmark_tabs: [Krang](http://krang.sourceforge.net/) - CMS
 - :memo: [WebGui](http://www.webgui.org/) - CMS
-- :memo: [Simpleness](http://cms.simpleness.org/) - CMS
-- :memo: [Callisto](https://sourceforge.net/projects/callistocms/) - CMS
+- :page_with_curl: [Simpleness](http://cms.simpleness.org/) - CMS
+- :bookmark_tabs: [Callisto](https://sourceforge.net/projects/callistocms/) - CMS
 - :memo: [Spine](http://spine.sourceforge.net/) - CMS
-- :memo: [XIMS](http://xims.info/) - CMS
+- :clipboard: [XIMS](http://xims.info/) - CMS
 - :memo: [Blaze Blogger](http://blaze.blackened.cz) - CMS
-- :memo: [Galileo](http://galileo-cms.herokuapp.com/page/home) - CMS
+- :page_with_curl: [Galileo](http://galileo-cms.herokuapp.com/page/home) - CMS
 - :memo: [Blio](https://github.com/domm/Blio) - CMS
 - :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
 
 ### Blogging
 - :speech_balloon: [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
-- :speech_balloon: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
-- :speech_balloon: [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
+- :family: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
+- :couple: [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
-- :speech_balloon: [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
+- :family: [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
-- :speech_balloon: [Dreamwitdh](https://www.dreamwidth.org/) - Shared blogging
-- :speech_balloon: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
+- :family: [Dreamwitdh](https://www.dreamwidth.org/) - Shared blogging
+- :couple: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
 
 ### Mailing list engines
 - :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
-- :mailbox: [Minimalist](https://github.com/madroach/minimalist) - Mailing list engine
-- :mailbox: [Dada Mail](https://github.com/justingit/dada-mail) - Mailing lists engine
-- :mailbox: [Majordomo](http://old.greatcircle.com/majordomo) - Mailing lists engine (seems dead)
+- ::mailbox_with_mail:: [Minimalist](https://github.com/madroach/minimalist) - Mailing list engine
+- :mailbox_closed: [Dada Mail](https://github.com/justingit/dada-mail) - Mailing lists engine
+- :mailbox_with_no_mail: [Majordomo](http://old.greatcircle.com/majordomo) - Mailing lists engine (seems dead)
 
 ### Email filtering
 - :hocho: [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
 - :email: [Amavis](https://amavis.org) - Email filter interface
-- :email: [POP file](http://getpopfile.org) - Email filtering
+- :mailbox_with_mail: [POP file](http://getpopfile.org) - Email filtering
 - :no_entry: [ASSP](http://www.thockar.com/assp-home/) - Anti Spam
 
 ### Email
@@ -249,12 +249,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Monitoring
 - :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
-- :chart_with_upwards_trend: [Monitorix](https://github.com/mikaku/Monitorix) -  Lightweight system monitoring tool
-- :chart_with_upwards_trend: [MRTG](https://oss.oetiker.ch/mrtg/) - Monitoring traffic load on network links
-- :chart_with_upwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
+- :chart_with_downwards_trend: [Monitorix](https://github.com/mikaku/Monitorix) -  Lightweight system monitoring tool
+- :bar_chart: [MRTG](https://oss.oetiker.ch/mrtg/) - Monitoring traffic load on network links
+- :chart_with_downwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
 - :chart_with_upwards_trend: [Open Smart](http://opensmart.sourceforge.net/) - Network and application monitoring
-- :chart_with_upwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
-- :chart_with_upwards_trend: [OPS View](https://www.opsview.com/) - Network and application monitoring
+- :chart_with_downwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
+- :bar_chart: [OPS View](https://www.opsview.com/) - Network and application monitoring
 - :hourglass_flowing_sand: [Net Disco](http://netdisco.org/) - Network management tool
 - :smoking: [Smoke Ping](https://oss.oetiker.ch/smokeping) - Monitor network latency
 - :vhs: [Stormons](https://sourceforge.net/projects/stormons/) - Monitoring and mapping SAN storage devices.
@@ -265,46 +265,46 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([github](https://github.com/eldy/awstats))
 - :octopus: [Octopussy](https://octopussy.pm) - Log analyzer
 - :chart_with_upwards_trend: [Squid](http://squidanalyzer.darold.net) - Log analyzer
-- :chart_with_upwards_trend: [W3Perl](http://w3perl.com) - Log analyzer
-- :chart_with_upwards_trend: [Yaala](http://www.yaala.org/) - Log analyzer
+- :chart_with_downwards_trend: [W3Perl](http://w3perl.com) - Log analyzer
+- :bar_chart: [Yaala](http://www.yaala.org/) - Log analyzer
 - :chart_with_upwards_trend: [Log Watch](https://sourceforge.net/projects/logwatch/) - Log analyzer
-- :chart_with_upwards_trend: [SEC](http://simple-evcorr.github.io/) - Log analyzer
+- :chart_with_downwards_trend: [SEC](http://simple-evcorr.github.io/) - Log analyzer
 - :chart_with_upwards_trend: [Cricket](http://cricket.sourceforge.net) - Collect and print data series
-- :chart_with_upwards_trend: [Torrus](http://torrus.org/) - Collect and print data series
+- :chart_with_downwards_trend: [Torrus](http://torrus.org/) - Collect and print data series
 
 ### Job queues
 - :octopus: [Minion](https://github.com/mojolicious/minion) - A high performance job queue
 - :construction_worker: [Gearman](http://gearman.org/) - Job server
 - :octopus: [Qudo](https://github.com/nekokak/qudo) - Job queue manager
-- :octopus: [Resque](https://github.com/diegok/resque-perl) - Job queue manager
+- :construction_worker: [Resque](https://github.com/diegok/resque-perl) - Job queue manager
 - :octopus: [TheSchwartz](https://github.com/akiym/TheSchwartz) - Job queue manager 
 
 ### Tickets trackers
 - :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
-- :bug: [OTRS](https://otrs.com/) - Ticket tracker ([github](https://github.com/OTRS/otrs))
-- :bug: [BugZilla](https://www.bugzilla.org/) - Bug tracker ([github](https://github.com/bugzilla/bugzilla))
+- :honeybee: [OTRS](https://otrs.com/) - Ticket tracker ([github](https://github.com/OTRS/otrs))
+- :ant: [BugZilla](https://www.bugzilla.org/) - Bug tracker ([github](https://github.com/bugzilla/bugzilla))
 
 ### Wiki
 - :pencil2: [Oddmuse](https://oddmuse.org/) - Wiki engine
-- :pencil2: [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
-- :pencil2: [TWiki](https://twiki.org/) - Wiki engine
+- :pencil: [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
+- :memo: [TWiki](https://twiki.org/) - Wiki engine
 - :pencil2: [FosWiki](https://foswiki.org/) - Wiki engine ([github](https://github.com/foswiki))
 
 ### E-Commerce
 - :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform
-- :credit_card: [Surf Shop](http://www.surfshopcart.com) - Shopping cart
+- :dollar: [Surf Shop](http://www.surfshopcart.com) - Shopping cart
 - :credit_card: [Agora Cart](http://www.agoracart.com) - Shopping cart
 
 ### Backup tools
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
-- :floppy_disk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup tool
-- :floppy_disk: [Backup PC](https://backuppc.github.io/backuppc) - Backup tool
+- :minidisk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup tool
+- :cd: [Backup PC](https://backuppc.github.io/backuppc) - Backup tool
 
 ### Games
 - :new: :space_invader: [Tau Station](https://taustation.space/) - A text based web space game 
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - :video_game: [Lacuna Expanse](https://github.com/plainblack/Lacuna-Server-Open) - Space game
-- :video_game: [Construder](https://github.com/elmex/Construder) - Minecraft-like game 
+- :house: [Construder](https://github.com/elmex/Construder) - Minecraft-like game 
 
 ### Web application framework
 - :cloud: [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
@@ -312,50 +312,50 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 - :crocodile: [Jifty](https://metacpan.org/pod/Jifty) - Web framework
 - :cloud: [Cyclone 3](http://www.cyclone3.org/) - Web application framework
-- :cloud: [Amon](https://github.com/tokuhirom/Amon) - Web application framework
-- :cloud: [Poet](https://github.com/jonswar/perl-poet) - Web application framework
-- :cloud: [Gantry](https://metacpan.org/pod/Gantry) - Web application framework
-- :cloud: [Kossy](https://github.com/kazeburo/Kossy) - Simple web application framework
-- :cloud: [Squatting](https://github.com/beppu/squatting) - Web microframework
+- :snake: [Amon](https://github.com/tokuhirom/Amon) - Web application framework
+- :sheep: [Poet](https://github.com/jonswar/perl-poet) - Web application framework
+- :elephant: [Gantry](https://metacpan.org/pod/Gantry) - Web application framework
+- :bird: [Kossy](https://github.com/kazeburo/Kossy) - Simple web application framework
+- :panda_face: [Squatting](https://github.com/beppu/squatting) - Web microframework
 
 ### Web frameworks, adapters and servers
-- :cloud: [Plack](https://github.com/plack/Plack) 
-- :cloud: [HTTP::Server::Simple](https://github.com/bestpractical/http-server-simple) 
-- :cloud: [HTTP::Daemon](https://github.com/libwww-perl/HTTP-Daemon) 
-- :cloud: [HTTP::Tiny](https://github.com/chansen/p5-http-tiny) 
-- :cloud: [Continuity](https://metacpan.org/pod/Continuity) 
-- :cloud: [Starman](https://github.com/miyagawa/Starman) 
-- :cloud: [Twiggy](https://github.com/miyagawa/Twiggy)
-- :cloud: [Starlet](https://github.com/kazuho/Starlet) 
-- :cloud: [Corona](https://github.com/miyagawa/Corona) 
-- :cloud: [Gazelle](https://github.com/kazeburo/Gazelle) 
-- :cloud: [Arriba](https://github.com/odyniec/p5-Arriba) 
-- :cloud: [Tatsumaki](https://github.com/miyagawa/Tatsumaki) 
-- :cloud: [Perlbal](https://github.com/perlbal/Perlbal) 
-- :cloud: [HTTP::Engine](https://github.com/http-engine/HTTP-Engine) 
-- :cloud: [Feersum](https://github.com/stash/Feersum)
+- :pig: [Plack](https://github.com/plack/Plack) 
+- :boar: [HTTP::Server::Simple](https://github.com/bestpractical/http-server-simple) 
+- :tiger: [HTTP::Daemon](https://github.com/libwww-perl/HTTP-Daemon) 
+- :rabbit: [HTTP::Tiny](https://github.com/chansen/p5-http-tiny) 
+- :dog: [Continuity](https://metacpan.org/pod/Continuity) 
+- :mouse: [Starman](https://github.com/miyagawa/Starman) 
+- :cat: [Twiggy](https://github.com/miyagawa/Twiggy)
+- :bear: [Starlet](https://github.com/kazuho/Starlet) 
+- :frog: [Corona](https://github.com/miyagawa/Corona) 
+- :racehose: [Gazelle](https://github.com/kazeburo/Gazelle) 
+- :horse: [Arriba](https://github.com/odyniec/p5-Arriba) 
+- :wolf: [Tatsumaki](https://github.com/miyagawa/Tatsumaki) 
+- :hamster: [Perlbal](https://github.com/perlbal/Perlbal) 
+- :ox: [HTTP::Engine](https://github.com/http-engine/HTTP-Engine) 
+- :dog2: [Feersum](https://github.com/stash/Feersum)
 - :grapes: [Raison](https://github.com/khrt/Raisin) - REST API micro framework
 - :japanese_ogre: [Server::Starter](https://github.com/kazuho/p5-Server-Starter) - Super Daemon to handle hot deployment of server programs
 
 ### Templating
 - :wave: [Mason](https://github.com/jonswar/perl-mason) - Templating system
-- :wave: [EmbPerl](https://metacpan.org/pod/Embperl) - Templating system
+- :clap: [EmbPerl](https://metacpan.org/pod/Embperl) - Templating system
 
 ### Compiler and alternative interpreters
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
 - :muscle: [RPerl](http://rperl.org/) - Restricted Perl, an optimizing compiler ([github](https://github.com/wbraswell/rperl))
 - :wrench: [CPerl](https://github.com/perl11/cperl) - Alternative Perl interpreter
 - :gift: [PAR:Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables
-- :gift: [TinyPerl](http://tinyperl.sourceforge.net/) - Very compact Perl binary to be shipped with your scripts
-- :gift: [StaticPerl](http://software.schmorp.de/pkg/App-Staticperl.html) - Helper script to create self contained statically linked Perl binary + script
+- :hammer: [TinyPerl](http://tinyperl.sourceforge.net/) - Very compact Perl binary to be shipped with your scripts
+- :money_with_wings: [StaticPerl](http://software.schmorp.de/pkg/App-Staticperl.html) - Helper script to create self contained statically linked Perl binary + script
 - :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc/) - Perl to C compiler
 - :dromedary_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
 
 ### Assets management
 - :cd: [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
-- :cd: [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
+- :dvd: [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
 - :books: [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([gitweb](http://git.koha-community.org/gitweb/))
-- :books: [Evergreen ILS](http://evergreen-ils.org) - Library management
+- :green_book: [Evergreen ILS](http://evergreen-ils.org) - Library management
 
 ### Git 
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
@@ -364,13 +364,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Database tooling
 - :minidisc: [MySQL-Tuner](https://github.com/major/MySQLTuner-perl) - MySQL configuration and tuning
-- :minidisc: [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application
+- :cd: [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application
 - :vhs: [ETL](https://sourceforge.net/projects/eplsiteetl) - Data migration helper
-- :vhs: [QDepo](https://sourceforge.net/projects/tpda-qrt) - Graphical software to convert various DB data to various office formats
+- :dvd: [QDepo](https://sourceforge.net/projects/tpda-qrt) - Graphical software to convert various DB data to various office formats
 
 ### IDE
 - :computer: [Padre](http://padre.perlide.org/) - IDE ([github](https://github.com/PadreIDE/Padre)) for Windows/OSX/Linux :door: :apple: :penguin:
-- :computer: [Open Perl IDE](https://sourceforge.net/projects/open-perl-ide/) - IDE for Windows :door:
+- :tv: [Open Perl IDE](https://sourceforge.net/projects/open-perl-ide/) - IDE for Windows :door:
 
 ### Continuous Integration
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
@@ -404,7 +404,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net/) - Hosting platform
-- :cloud: [Perloku](https://github.com/judofyr/perloku) - Deploy Perl apps on Heroku
+- :satellite: [Perloku](https://github.com/judofyr/perloku) - Deploy Perl apps on Heroku
 
 ### Uncategorized 
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
