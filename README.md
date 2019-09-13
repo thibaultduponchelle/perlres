@@ -241,7 +241,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE github](https://github.com/openSUSE) - The **Open Build Service** platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
 - :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
-- :floppy_disk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup Tool
+- :floppy_disk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup tool
+- :floppy_disk: [Backup PC](https://backuppc.github.io/backuppc) - Backup tool
+- :underage: [Web Sorrow](https://code.google.com/archive/p/web-sorrow) - Security scanner
+- :hourglass_flowing_sand: [Net Disco](http://netdisco.org/) - Network management tool
+- :smoking: [Smoke Ping](https://oss.oetiker.ch/smokeping) - Monitor network latency
+- :email: [Amavis](https://amavis.org) - Email filter interface
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
 - :octocat: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - :octocat: [GitPrep](http://gitprep.yukikimoto.com/) - Portable GitHub system ([github](https://github.com/yuki-kimoto/gitprep))
@@ -249,7 +254,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :gift: [PAR:Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables
 - :gift: [TinyPerl](http://tinyperl.sourceforge.net/) - Very compact Perl binary to be shipped with your scripts
 - :gift: [StaticPerl](http://software.schmorp.de/pkg/App-Staticperl.html) - Helper script to create self contained statically linked Perl binary + script
-- :chart_with_upwards_trend:  [Octopussy](https://octopussy.pm) - Log analyzer
+- :octopus:  [Octopussy](https://octopussy.pm) - Log analyzer
 - :chart_with_upwards_trend:  [Squid](http://squidanalyzer.darold.net) - Log analyzer
 - :chart_with_upwards_trend:  [W3Perl](http://w3perl.com) - Log analyzer
 - :chart_with_upwards_trend:  [Yaala](http://www.yaala.org/) - Log analyzer
