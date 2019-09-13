@@ -290,7 +290,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :heavy_dollar_sign: [Ack](https://beyondgrep.com) - Grep replacement
 - :pencil2: [Kephra](http://kephra.sourceforge.net/site/en/home_news.shtml) - Editor
 - :vhs: [QDepo](https://sourceforge.net/projects/tpda-qrt) - Graphical software to convert various DB data to various office formats
-
 - :video_game: [Lacuna Expanse](https://github.com/plainblack/Lacuna-Server-Open) - Space game
 - :camera: **Shutter** - Screenshot utility
 - :mailbox: [Minimalist](https://github.com/madroach/minimalist) - Mailing list engine
