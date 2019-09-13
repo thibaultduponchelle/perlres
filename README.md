@@ -258,13 +258,18 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :gift: [TinyPerl](http://tinyperl.sourceforge.net/) - Very compact Perl binary to be shipped with your scripts
 - :gift: [StaticPerl](http://software.schmorp.de/pkg/App-Staticperl.html) - Helper script to create self contained statically linked Perl binary + script
 - :octopus:  [Octopussy](https://octopussy.pm) - Log analyzer
-- :chart_with_upwards_trend:  [Squid](http://squidanalyzer.darold.net) - Log analyzer
-- :chart_with_upwards_trend:  [W3Perl](http://w3perl.com) - Log analyzer
-- :chart_with_upwards_trend:  [Yaala](http://www.yaala.org/) - Log analyzer
-- :chart_with_upwards_trend:  [Log Watch](https://sourceforge.net/projects/logwatch/) - Log analyzer
-- :chart_with_upwards_trend:  [SEC](http://simple-evcorr.github.io/) - Log analyzer
-- :chart_with_upwards_trend:  [Cricket](http://cricket.sourceforge.net) - Collect and print data series
-- :chart_with_upwards_trend:  [Torrus](http://torrus.org/) - Collect and print data series
+- :chart_with_upwards_trend: [Squid](http://squidanalyzer.darold.net) - Log analyzer
+- :chart_with_upwards_trend: [W3Perl](http://w3perl.com) - Log analyzer
+- :chart_with_upwards_trend: [Yaala](http://www.yaala.org/) - Log analyzer
+- :chart_with_upwards_trend: [Log Watch](https://sourceforge.net/projects/logwatch/) - Log analyzer
+- :chart_with_upwards_trend: [SEC](http://simple-evcorr.github.io/) - Log analyzer
+- :chart_with_upwards_trend: [Cricket](http://cricket.sourceforge.net) - Collect and print data series
+- :chart_with_upwards_trend: [Torrus](http://torrus.org/) - Collect and print data series
+- :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
+- :octopus: [Qudo](https://github.com/nekokak/qudo) - Job queue manager
+- :octopus: [Resque](https://github.com/diegok/resque-perl) - Job queue manager
+- :octopus: [TheSchwartz](https://github.com/akiym/TheSchwartz) - Job queue manager 
+- :chart_with_upwards_trend: [Proclet](https://github.com/kazeburo/Proclet) - Minimalist supervisor
 - :no_entry: [ASSP](http://www.thockar.com/assp-home/) - Anti Spam
 - :books: [Evergreen ILS](http://evergreen-ils.org) - Library management
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
