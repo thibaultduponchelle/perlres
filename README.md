@@ -68,25 +68,41 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cloud: [StratoPAN](https://stratopan.com) - Private CPAN repositories in the cloud
 
 ## :beers: Social
+### Community
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
-- :speech_balloon: [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
 - :neckbeard: [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - :neckbeard: [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
-- :speech_balloon: [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
-- :newspaper: [Weekly Newsletter](http://perlweekly.com/) - Newsletter gathering Perl news and links
-- :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
-- :speech_balloon: [Perl Hacks](https://perlhacks.com/) - A blog
-- :newspaper: [Perl Sphere](http://perlsphere.net/) - Newsfeed
-- :seat: [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) - [YAPC](https://www.yapc.org/) - [YAPC Europe](http://www.yapceurope.org/) - [PerlCon](https://perlcon.eu/) - [French Perl Workshop](https://journeesperl.fr/jp2019/) - [OSDC](http://www.osdc.fr/) (DEAD ?) - [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) - [Patch.pm -pn](http://patch.pm) - **Perl QA Hackathon** - **Perl Toolchain Summit** - Conferences
 - :speech_balloon: [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
-- :newspaper: [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
-- :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
-- :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
-- :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - A newsfeed
+- :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
 - :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj/) - E-Zine about Perl
 - :santa: [Perl Advent Calendar](http://www.perladvent.org) - Avent Calendar about Perl
 - :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious web framework
 - :christmas_tree: [Dancer Advent Calendar](http://advent.perldancer.org) - Advent calendar about Dancer web framework
+
+### Newsfeeds
+- :newspaper: [Perl Sphere](http://perlsphere.net/) - Newsfeed
+- :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - Newsfeed
+- :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
+- :newspaper: [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
+- :newspaper: [Weekly Newsletter](http://perlweekly.com/) - Newsletter gathering Perl news and links
+
+### Blogs
+- :speech_balloon: [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
+- :speech_balloon: [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
+- :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
+- :speech_balloon: [Perl Hacks](https://perlhacks.com/) - A blog
+
+### Conferences
+- :heavy_dollar_sign: [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) 
+- :seat: [YAPC](https://www.yapc.org/) 
+- :seat: [YAPC Europe](http://www.yapceurope.org/) 
+- :seat: [PerlCon](https://perlcon.eu/) 
+- :fr: [French Perl Workshop](https://journeesperl.fr/jp2019/) 
+- :fr: [OSDC](http://www.osdc.fr/) (DEAD ?) 
+- :seat: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) 
+- :fr: [Patch.pm -pn](http://patch.pm) 
+- ::heavy_check_mark:: **Perl QA Hackathon** 
+- :dromadery_camel: **Perl Toolchain Summit**
 
 ## :book: Official documentations
 - :question: [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
