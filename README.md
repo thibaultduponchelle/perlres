@@ -65,6 +65,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mortar_board: [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
 - :octocat: [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
 - :floppy_disk: [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
+- :cloud: [StratoPAN](https://stratopan.com) - Private CPAN repositories in the cloud
 
 ## :beers: Social
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
@@ -340,8 +341,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - :hamburger: [JS.do](https://js.do/perl/)
 
+## Lint Perl online
+- :zap: [PerlCritic](http://perlcritic.com) - Web frontend to Perl::Critic
+
 ## :books: Books 
-- [Some books](https://perldoc.perl.org/perlbook.html) and [some others](https://learn.perl.org/books/) 
+- :books: [Some books](https://perldoc.perl.org/perlbook.html) and [some others](https://learn.perl.org/books/) 
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
