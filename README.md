@@ -297,7 +297,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Backup tools
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
-- :minidisk: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup tool
+- :minidisc: [ABT](https://github.com/mguyard/another-backup-tool) - Another Backup tool
 - :cd: [Backup PC](https://backuppc.github.io/backuppc) - Backup tool
 
 ### Games
@@ -328,7 +328,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cat: [Twiggy](https://github.com/miyagawa/Twiggy)
 - :bear: [Starlet](https://github.com/kazuho/Starlet) 
 - :frog: [Corona](https://github.com/miyagawa/Corona) 
-- :racehose: [Gazelle](https://github.com/kazeburo/Gazelle) 
+- :racehorse: [Gazelle](https://github.com/kazeburo/Gazelle) 
 - :horse: [Arriba](https://github.com/odyniec/p5-Arriba) 
 - :wolf: [Tatsumaki](https://github.com/miyagawa/Tatsumaki) 
 - :hamster: [Perlbal](https://github.com/perlbal/Perlbal) 
