@@ -309,6 +309,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_upwards_trend: [OPS View](https://www.opsview.com/) - Network and application monitoring
 - :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc/) - Perl to C compiler
 - :dromedary_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
+- :cocktail: [A Perl Products List](https://perlmaven.com/perl-based-open-source-products) - Perl products according to Perl Maven (a lot of them are already in the list above) 
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
