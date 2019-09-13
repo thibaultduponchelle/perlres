@@ -233,7 +233,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Mailing list engines
 - :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
-- ::mailbox_with_mail:: [Minimalist](https://github.com/madroach/minimalist) - Mailing list engine
+- :mailbox_with_mail: [Minimalist](https://github.com/madroach/minimalist) - Mailing list engine
 - :mailbox_closed: [Dada Mail](https://github.com/justingit/dada-mail) - Mailing lists engine
 - :mailbox_with_no_mail: [Majordomo](http://old.greatcircle.com/majordomo) - Mailing lists engine (seems dead)
 
