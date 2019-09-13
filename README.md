@@ -93,8 +93,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :couple: [Perl Hacks](https://perlhacks.com/) - A blog
 
 ### Conferences
-- :heavy_dollar_sign: [Yet Another Perl Conference](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference) 
-- :seat: [YAPC](https://www.yapc.org/) 
+- :heavy_dollar_sign: [YAPC](https://www.yapc.org/) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
 - :couple: [YAPC Europe](http://www.yapceurope.org/) 
 - :seat: [PerlCon](https://perlcon.eu/) 
 - :fr: [French Perl Workshop](https://journeesperl.fr/jp2019/) 
