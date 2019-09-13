@@ -202,12 +202,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :family: [YaBB](http://www.yabbforum.com/) - Forum engine
 - :speech_balloon: [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
 - :couple: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine (Slashdot is powered by this)
-- :family: [DuckDuckGo Instant Answer](https://duck.co/ia) ([github](https://github.com/duckduckgo/duckduckgo)) - An aggregator of questions/answers platform
+- :family: [DuckDuckGo Instant Answer](https://duck.co/ia) - An aggregator of questions/answers platform ([github](https://github.com/duckduckgo/duckduckgo))
 
 ### CMS
 - :memo: [Movable Type](https://www.movabletype.org/) - CMS
 - :page_with_curl: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
-- :seat: [ACT](http://act.mongueurs.net/) ([github](https://github.com/book/Act)) - CMS for conferences
+- :seat: [ACT](http://act.mongueurs.net/) - CMS for conferences ([github](https://github.com/book/Act))
 - :memo: [Bricolage](http://bricolagecms.org) - CMS ([github](https://github.com/bricoleurs/bricolage))
 - :bookmark_tabs: [Krang](http://krang.sourceforge.net/) - CMS
 - :memo: [WebGui](http://www.webgui.org/) - CMS
@@ -223,11 +223,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Blogging
 - :speech_balloon: [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
 - :family: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
-- :couple: [Statocles](http://preaction.me/statocles/) - Static blog generator ([code source](https://github.com/preaction/Statocles))
+- :couple: [Statocles](http://preaction.me/statocles/) - Static blog generator ([github](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
 - :family: [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
-- :family: [Dreamwitdh](https://www.dreamwidth.org/) - Shared blogging
+- :family: [Dreamwitdh](https://www.dreamwidth.org) - Shared blogging
 - :couple: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
 
 ### Mailing list engines
@@ -359,7 +359,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Git 
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
 - :octopus: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
-- :turtle: [GitPrep](http://gitprep.yukikimoto.com/) - Portable GitHub system ([github](https://github.com/yuki-kimoto/gitprep))
+- :turtle: [GitPrep](http://gitprep.yukikimoto.com/) - Portable github system ([github](https://github.com/yuki-kimoto/gitprep))
 
 ### Database tooling
 - :minidisc: [MySQL Tuner](https://github.com/major/MySQLTuner-perl) - MySQL configuration and tuning
@@ -373,7 +373,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Continuous Integration
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
-- :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([GitHub d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE github](https://github.com/openSUSE) - The **Open Build Service** platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
+- :penguin: A part of [openSUSE Buid Service](https://build.opensuse.org/) ([github d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE github](https://github.com/openSUSE) - The **Open Build Service** platform is an infrastructure to build packages for multiple package managers and distributions and architectures.
 
 ###  Desktop
 - :camera: **Shutter** - Screenshot utility
