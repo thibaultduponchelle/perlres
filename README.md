@@ -38,7 +38,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :hammer: [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
 - :wrench: [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
 - :gift: [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (uses [cpanfile](https://github.com/miyagawa/cpanfile))
-- :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules 
+- :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules
+- :rocket: [Awesome Perl](https://github.com/hachiojipm/awesome-perl/blob/master/README.md) - List of selected modules
 - :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 - :metal: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable old CPAN modules installer (core module, configurable) 
 - :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ old CPAN modules installer)
@@ -264,6 +265,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [WebGui](http://www.webgui.org/) - CMS
 - :memo: [Callisto](https://sourceforge.net/projects/callistocms/) - CMS
 - :memo: [Spine](http://spine.sourceforge.net/) - CMS
+- :beer: [Cider Mail](http://ciderwebmail.org/news/index.html) - Webmail application
+- :video_game: [Lacuna Expanse](https://github.com/plainblack/Lacuna-Server-Open) - Space game
+- :camera: **Shutter** - Screenshot utility
 - :chart_with_upwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
 - :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc/) - Perl to C compiler
 - :dromedary_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
