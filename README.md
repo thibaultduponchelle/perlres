@@ -247,6 +247,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :hourglass_flowing_sand: [Net Disco](http://netdisco.org/) - Network management tool
 - :smoking: [Smoke Ping](https://oss.oetiker.ch/smokeping) - Monitor network latency
 - :email: [Amavis](https://amavis.org) - Email filter interface
+- :email: [POP file](http://getpopfile.org) - Email filtering
+- :email: [Ashafix](https://github.com/mbethke/Ashafix) - Postfixadmin port in Perl
+- :octopus: [Plain VM](https://github.com/mgechev/plainvm) - Controle multiple VMs
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
 - :octocat: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - :octocat: [GitPrep](http://gitprep.yukikimoto.com/) - Portable GitHub system ([github](https://github.com/yuki-kimoto/gitprep))
@@ -260,6 +263,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_upwards_trend:  [Yaala](http://www.yaala.org/) - Log analyzer
 - :chart_with_upwards_trend:  [Log Watch](https://sourceforge.net/projects/logwatch/) - Log analyzer
 - :chart_with_upwards_trend:  [SEC](http://simple-evcorr.github.io/) - Log analyzer
+- :chart_with_upwards_trend:  [Cricket](http://cricket.sourceforge.net) - Collect and print data series
+- :chart_with_upwards_trend:  [Torrus](http://torrus.org/) - Collect and print data series
+- :no_entry: [ASSP](http://www.thockar.com/assp-home/) - Anti Spam
 - :books: [Evergreen ILS](http://evergreen-ils.org) - Library management
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
