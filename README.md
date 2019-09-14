@@ -232,7 +232,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Mailing list engines
 - :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
-- :mailbox_with_mail: [Minimalist](https://github.com/madroach/minimalist) - Mailing list engine
+- :mailbox_with_mail: [Minimalist](https://github.com/madroach/minimalist) - Mailing lists engine
 - :mailbox_closed: [Dada Mail](https://github.com/justingit/dada-mail) - Mailing lists engine
 - :mailbox_with_no_mail: [Majordomo](http://old.greatcircle.com/majordomo) - Mailing lists engine (seems dead)
 
@@ -316,24 +316,24 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :elephant: [Gantry](https://metacpan.org/pod/Gantry) - Web application framework
 - :bird: [Kossy](https://github.com/kazeburo/Kossy) - Simple web application framework
 - :panda_face: [Squatting](https://github.com/beppu/squatting) - Web microframework
-
-### Web frameworks, adapters and servers
-- :pig: [Plack](https://github.com/plack/Plack) 
-- :boar: [HTTP::Server::Simple](https://github.com/bestpractical/http-server-simple) 
-- :tiger: [HTTP::Daemon](https://github.com/libwww-perl/HTTP-Daemon) 
-- :rabbit: [HTTP::Tiny](https://github.com/chansen/p5-http-tiny) 
-- :dog: [Continuity](https://metacpan.org/pod/Continuity) 
-- :mouse: [Starman](https://github.com/miyagawa/Starman) 
-- :cat: [Twiggy](https://github.com/miyagawa/Twiggy)
-- :bear: [Starlet](https://github.com/kazuho/Starlet) 
-- :frog: [Corona](https://github.com/miyagawa/Corona) 
-- :racehorse: [Gazelle](https://github.com/kazeburo/Gazelle) 
-- :horse: [Arriba](https://github.com/odyniec/p5-Arriba) 
-- :wolf: [Tatsumaki](https://github.com/miyagawa/Tatsumaki) 
-- :hamster: [Perlbal](https://github.com/perlbal/Perlbal) 
-- :ox: [HTTP::Engine](https://github.com/http-engine/HTTP-Engine) 
-- :dog2: [Feersum](https://github.com/stash/Feersum)
+- :wolf: [Tatsumaki](https://github.com/miyagawa/Tatsumaki) - Non-blocking web framework based on Plack and AnyEvent
 - :grapes: [Raison](https://github.com/khrt/Raisin) - REST API micro framework
+
+### PSGI adapters and web servers
+- :pig: [Plack](https://github.com/plack/Plack) - PSGI toolkit and server adapter
+- :boar: [HTTP::Server::Simple](https://github.com/bestpractical/http-server-simple) - Simple standalone HTTP daemon
+- :tiger: [HTTP::Daemon](https://github.com/libwww-perl/HTTP-Daemon) - Simple http server class
+- :rabbit: [HTTP::Tiny](https://github.com/chansen/p5-http-tiny) - Minimalist HTTP client
+- :dog: [Continuity](https://metacpan.org/pod/Continuity) - Library to simplify web applications (including a web server)
+- :mouse: [Starman](https://github.com/miyagawa/Starman) - High-performance preforking PSGI server
+- :cat: [Twiggy](https://github.com/miyagawa/Twiggy) - AnyEvent HTTP server for PSGI
+- :bear: [Starlet](https://github.com/kazuho/Starlet) - Simple and high-performance PSGI server
+- :frog: [Corona](https://github.com/miyagawa/Corona) - Asynchronous PSGI server
+- :racehorse: [Gazelle](https://github.com/kazeburo/Gazelle) - Preforked Plack Handler for performance freaks
+- :horse: [Arriba](https://github.com/odyniec/p5-Arriba) - PSGI server with [SPDY](https://en.wikipedia.org/wiki/SPDY) support
+- :hamster: [Perlbal](https://github.com/perlbal/Perlbal) - HTTP Load Balancer
+- :ox: [HTTP::Engine](https://github.com/http-engine/HTTP-Engine) - Web server
+- :dog2: [Feersum](https://github.com/stash/Feersum) - PSGI engine based on EV/libev
 - :japanese_ogre: [Server::Starter](https://github.com/kazuho/p5-Server-Starter) - Super Daemon to handle hot deployment of server programs
 
 ### Templating
