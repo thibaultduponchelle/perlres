@@ -146,7 +146,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :books: [Perl tutorials](http://perl-tutorial.org/) - Perl turorials meta site
 
 ## :squirrel: Perl folklore
-- :bomb: "Perl" and "perl" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
+- :bomb: "**Perl**" and "**perl**" : **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - :stars: [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
 - :heavy_plus_sign: [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/)
