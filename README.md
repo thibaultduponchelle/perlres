@@ -114,7 +114,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :symbols: [Perl syntax](https://perldoc.perl.org/perlsyn.html) - Doc about Perl syntax
 - :book: [References](https://perldoc.perl.org/perlref.html) and [tutorial](https://perldoc.perl.org/perlreftut.html)
 - :book: [Documentation about IPC](https://perldoc.perl.org/perlipc.html)
-- :underage: [Perl security](https://perldoc.perl.org/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_ or _alorithm complexity attacks_
+- :underage: [Perl security](https://perldoc.perl.org/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_ or _algorithm complexity attacks_
 - :straight_ruler: [Reports generation thanks to formats](https://perldoc.perl.org/perlform.html)  — Documentation about formats. *Formats* are a reason of the initial creation of Perl, but they are limited and less and less used
 - :wrench: [Degugger documentation](https://perldoc.perl.org/perldebug.html) - The Perl debugger is itself written in Perl :muscle: 
 - :alien: [perlobj](https://perldoc.perl.org/perlobj.html) and [tuto oo](https://perldoc.perl.org/perlootut.html) -  Object Oriented Programming in Perl
