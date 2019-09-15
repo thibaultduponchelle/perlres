@@ -439,7 +439,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - :hamburger: [JS.do](https://js.do/perl/)
 
-## Lint Perl online
+## :bear: Lint Perl online
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
 - :zap: [PerlCritic](http://perlcritic.com) - Web frontend to Perl::Critic
 
