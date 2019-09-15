@@ -128,7 +128,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: [Perl Tutorial Points](https://www.tutorialspoint.com/perl/)
 - :notebook: [Perl Tutorial](https://www.perltutorial.org/)
 - :ledger: [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
-- :book: :construction: [Perl Newbie](https://newbie.perlzemi.com/)
+- :construction: [Perl Newbie](https://newbie.perlzemi.com/)
 
 ## :fr: French tutorials
 - :scroll: [Guide Perl](http://formation-perl.fr/guide-perl.html)
