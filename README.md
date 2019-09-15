@@ -68,7 +68,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cloud: [StratoPAN](https://stratopan.com) - Private CPAN repositories in the cloud
 
 ## :beers: Social
-### Community
+### :neckbeard: Community
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
 - :neckbeard: [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - :neckbeard: [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
