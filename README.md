@@ -388,6 +388,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :movie_camera: **Shutter** - Screenshot utility
 - :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML5 user interface for Perl 5 desktop applications
 - :pencil2: [Kephra](http://kephra.sourceforge.net/site/en/home_news.shtml) - Editor
+- :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
 
 ### Tooling for devs
 - :older_man: [GNU Automake](https://www.gnu.org/software/automake/) - Automatically generates Makefile.in files 
