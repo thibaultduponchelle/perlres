@@ -292,8 +292,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### E-Commerce
 - :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform
-- :dollar: [Surf Shop](http://www.surfshopcart.com) - Shopping cart
-- :credit_card: [Agora Cart](http://www.agoracart.com) - Shopping cart
+- :moneybag: [Surf Shop](http://www.surfshopcart.com) - Shopping cart
+- :money_with_wings: [Agora Cart](http://www.agoracart.com) - Shopping cart
 
 ### Backup tools
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
