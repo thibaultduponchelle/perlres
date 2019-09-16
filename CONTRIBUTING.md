@@ -20,24 +20,24 @@ Produces :
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 
 
-### Emojies
+### Emojis
 Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 
-#### Emojies in titles
+#### Emojis in titles
 - Categories (means `## :rocket: Second level title`) should have an emoji.
 - Sub Categories (means `### Third level title`) should NOT have an emoji 
 
-#### Emojies in list items
+#### Emojis in list items
 
-Emojies does not always have a meaning for instance for **CMS** software I use :memo: :pencil2: :clipboard: and friends...
+Emojis does not always have a meaning for instance for **CMS** software I use :memo: :pencil2: :clipboard: and friends...
 
 Sometimes I use something else related to the software itself : **ACT** has a :seat: because it's related to conferences and people sitting in a room to listen talks.
 
-Webframeworks are generaly animals :cow: :bear: :frog: :hamster: because I needed a lot of different emojies and they are cool :relieved:
+Webframeworks are generaly animals :cow: :bear: :frog: :hamster: because I needed a lot of different emojis and they are cool :relieved:
 
 We could have used the same emoji for all CMS, but having different one and putting them randomly looks *prettier* :innocent:
 
-:warning: Some emojies are not compatible with mobiles, please do not use them.
+:warning: Some emojis are not compatible with mobiles, please do not use them.
 
 ## Tips
 
