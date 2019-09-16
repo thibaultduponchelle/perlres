@@ -48,11 +48,11 @@ Stay concise.
 
 ## Quality Standard
 
-This list is not for *people who do not know much about Perl*. 
+This list is not for *people with a minimum Perl background*. 
 
-It could be used by these people of course but the main target is people with a minimum Perl background.
+It can be used by people that do not know Perl but you don't have to make this list fully accessible for them.
 
-Old softwares could appear, even if not maintained for years, but only if they seems not completely dead (some help needed already on this topic).
+Old softwares could appear, even if not maintained for years, but only if they seems not completely dead.
 
 ## Rule
 
