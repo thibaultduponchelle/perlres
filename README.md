@@ -276,7 +276,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octopus: [Minion](https://github.com/mojolicious/minion) - A high performance job queue
 - :construction_worker: [Gearman](http://gearman.org/) - Job server
 - :suspension_railway: [Qudo](https://github.com/nekokak/qudo) - Job queue manager
-- :construction_worker: [Resque](https://github.com/diegok/resque-perl) - Job queue manager
+- :mountain_railway: [Resque](https://github.com/diegok/resque-perl) - Job queue manager
 - :aerial_tramway: [TheSchwartz](https://github.com/akiym/TheSchwartz) - Job queue manager 
 
 ### Tickets trackers
