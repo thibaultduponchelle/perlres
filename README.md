@@ -645,7 +645,7 @@ make test
 make install
 ```
 
-## :hammer_and_pick: Compile modules
+## :pill: Compile modules
 If we decide to use or not a module like [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm), at the end the module is compiled using [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) or [Module::Build](https://metacpan.org/pod/Module::Build). [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) is a _core module_, while [Module::Build](https://metacpan.org/pod/Module::Build) was added then removed (**5.9 → 5.19**). **David Golden** explains in a blog post why [he requested to remove Module::Build](https://xdg.me/blog/paying-respect-to-modulebuild/).
 
 ### :wrench: ExtUtils::MakeMaker
