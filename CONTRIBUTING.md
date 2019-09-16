@@ -20,13 +20,14 @@ This guide is inspired by awesome-perl [Contribution Guidelines](https://github.
 Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 
 #### Emojies in titles
-- Categories (means `## Second level title`) should have an emoji.
+- Categories (means `## :rocket: Second level title`) should have an emoji.
 - Sub Categories (means `### Tird level title`) should NOT have an emoji 
 
 #### Emojies in list items
-- Emojies does not always have a meaning
-For instance for **CMS** software I use :memo:, :pencil:, :clipboard: and friends...
-But sometimes I use something else related to the software itself : **ACT** has a seat because it's related to conferences and people sitting in a room to listen talks.
+
+Emojies does not always have a meaning for instance for **CMS** software I use :memo:, :pencil:, :clipboard: and friends...
+
+Sometimes I use something else related to the software itself : **ACT** has a seat because it's related to conferences and people sitting in a room to listen talks.
 
 Another example is webframeworks that are generaly are animals (because I needed a lot of different emojies). 
 
