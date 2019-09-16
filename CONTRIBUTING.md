@@ -6,8 +6,8 @@ This guide is inspired by awesome-perl [Contribution Guidelines](https://github.
 
 # Contribution Guidelines
 
-* **To add to the list**: Submit a pull request
-* **To remove from the list**: Open an issue (you must describe a reason!)
+* **To add to the list** : Submit a pull request
+* **To remove from the list** : Open an issue (you must describe a reason!)
 
 ## Formatting
 ### Example of Item of List
