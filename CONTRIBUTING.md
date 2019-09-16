@@ -16,6 +16,10 @@ This guide is inspired by awesome-perl [Contribution Guidelines](https://github.
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 ```
 
+Produces : 
+- :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
+
+
 ### Emojies
 Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 
