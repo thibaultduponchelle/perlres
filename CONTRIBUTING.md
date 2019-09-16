@@ -27,7 +27,7 @@ Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 
 Emojies does not always have a meaning for instance for **CMS** software I use :memo: :pencil2: :clipboard: and friends...
 
-Sometimes I use something else related to the software itself : **ACT** has a seat because it's related to conferences and people sitting in a room to listen talks.
+Sometimes I use something else related to the software itself : **ACT** has a :seat: because it's related to conferences and people sitting in a room to listen talks.
 
 Another example is webframeworks that are generaly are animals (because I needed a lot of different emojies and they are cool). 
 
@@ -37,11 +37,12 @@ We could have used the same emoji for all CMS, but having different one and putt
 
 ## Tips
 
-For the links, choose first the official website (if any) then the github repository then the metaCPAN.
+For the links, choose first the official website (if any) then the [github repository](https://github.com/) then the [metaCPAN](https://metacpan.org/)
 
-If you put official website first, you can provide a github link (or a metaCPAN link) at the end of the line.
+If you put official website first, you can provide a [github link](https://github.com/) (or a [metaCPAN link](https://metacpan.org/)) at the end of the line.
 
-Remember that this is not stricly a module list like [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) otherwise I would have chosen in priority the metaCPAN link.
+Remember that this is not stricly a module list like [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) otherwise I would have chosen in priority the [metaCPAN link](https://metacpan.org/)
+.
 
 Stay concise.
 
