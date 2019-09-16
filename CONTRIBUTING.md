@@ -25,7 +25,7 @@ Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 
 #### Emojies in titles
 - Categories (means `## :rocket: Second level title`) should have an emoji.
-- Sub Categories (means `### Tird level title`) should NOT have an emoji 
+- Sub Categories (means `### Third level title`) should NOT have an emoji 
 
 #### Emojies in list items
 
@@ -57,7 +57,3 @@ This list is not for *people with a minimum Perl background*.
 It can be used by people that do not know Perl but you don't have to make this list fully accessible for them.
 
 Old softwares could appear, even if not maintained for years, but only if they seems not completely dead.
-
-## Rule
-
-* Add a few modules to one category in one pull-request.
