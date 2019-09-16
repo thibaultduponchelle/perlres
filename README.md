@@ -663,3 +663,7 @@ perl Build.PL
 ./Build test
 ./Build install
 ```
+
+## :headphones: How to contribute ?
+
+Please read [CONTRIBUTION.md](CONTRIBUTING.md)
