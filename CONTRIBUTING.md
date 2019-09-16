@@ -29,7 +29,7 @@ Emojies does not always have a meaning for instance for **CMS** software I use :
 
 Sometimes I use something else related to the software itself : **ACT** has a seat because it's related to conferences and people sitting in a room to listen talks.
 
-Another example is webframeworks that are generaly are animals (because I needed a lot of different emojies and they looks cool). 
+Another example is webframeworks that are generaly are animals (because I needed a lot of different emojies and they are cool). 
 
 We could have used the same emoji for all CMS, but having different one and putting them randomly looks *prettier* :innocent:
 
