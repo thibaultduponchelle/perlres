@@ -66,6 +66,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octocat: [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
 - :floppy_disk: [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
 - :cloud: [StratoPAN](https://stratopan.com) - Private CPAN repositories in the cloud
+- :under_age: [CPAN Audit](https://github.com/vti/cpan-audit) - Audit CPAN modules for security vulnerabilities
 
 ## :beers: Social
 ### Community
