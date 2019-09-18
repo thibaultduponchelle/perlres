@@ -95,8 +95,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Conferences
 - :heavy_dollar_sign: [YAPC](https://www.yapc.org/) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
-- :couple: [YAPC Europe](http://www.yapceurope.org/) 
-- :seat: [PerlCon](https://perlcon.eu/) 
+- :couple: [YAPC Europe](http://www.yapceurope.org/) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu/) 
 - :heavy_check_mark: **Perl QA Hackathon** 
 - :dromedary_camel: **Perl Toolchain Summit**
 - :fr: [French Perl Workshop](https://journeesperl.fr/jp2019/) 
