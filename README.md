@@ -281,7 +281,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :aerial_tramway: [TheSchwartz](https://github.com/akiym/TheSchwartz) - Job queue manager 
 
 ### Tickets trackers
-- :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker
+- :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker ([github](https://github.com/bestpractical/rt))
 - :honeybee: [OTRS](https://otrs.com/) - Ticket tracker ([github](https://github.com/OTRS/otrs))
 - :ant: [BugZilla](https://www.bugzilla.org/) - Bug tracker ([github](https://github.com/bugzilla/bugzilla))
 
