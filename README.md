@@ -99,6 +99,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :walking: [YAPC::NA](http://www.yapcna.org/) - North America flavor of YAPC. Since 2017 it is renamed as [TPC](https://perlconference.us)
 - :couple: [YAPC::Europe](http://www.yapceurope.org/) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu) 
 - :family: [YAPC::Asia](http://yapcasia.org) - Asian flavor of YAPC
+- :runner: **YAPC::SA** - Sud America flavor of YAPC
 - :heavy_check_mark: **Perl QA Hackathon** 
 - :dromedary_camel: **Perl Toolchain Summit**
 - :kissing_cat: [OSDC](https://fr.wikipedia.org/wiki/Open_Source_Developers%27_Conference) - Various events like [Israel OSDC](http://osdc.org.il), [French OSDC](http://www.osdc.fr/), **Taiwan OSDC**, **Australia OSDC** or **Malaysia OSDC** 
