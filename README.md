@@ -79,6 +79,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :santa: [Perl Advent Calendar](http://www.perladvent.org) - Avent Calendar about Perl
 - :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious web framework
 - :christmas_tree: [Dancer Advent Calendar](http://advent.perldancer.org) - Advent calendar about Dancer web framework
+- :octocat: [PullRequestClub](https://pullrequest.club/hello) - Linking maintainers with contributors
 
 ### Newsfeeds
 - :clipboard: [Perl Sphere](http://perlsphere.net/) - Newsfeed
@@ -95,7 +96,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Conferences
 - :heavy_dollar_sign: [YAPC](https://www.yapc.org/) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
-- :couple: [YAPC Europe](http://www.yapceurope.org/) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu/) 
+- :couple: [YAPC::Europe](http://www.yapceurope.org/) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu/) 
+- :family: [YAPC::Asia](http://yapcasia.org) - Asian flavor of YAPC
 - :heavy_check_mark: **Perl QA Hackathon** 
 - :dromedary_camel: **Perl Toolchain Summit**
 - :fr: [French Perl Workshop](https://journeesperl.fr/jp2019/) 
@@ -422,6 +424,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :phone: [Ledger SMB](https://ledgersmb.org) - ERP
 - :mag: [Dezi](https://dezi.org) - Search platform
+- :octocat: [PRC](https://github.com/kyzn/PRC) - Linking maintainers with contributors
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
