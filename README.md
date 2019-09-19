@@ -101,8 +101,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :family: [YAPC::Asia](http://yapcasia.org) - Asian flavor of YAPC
 - :heavy_check_mark: **Perl QA Hackathon** 
 - :dromedary_camel: **Perl Toolchain Summit**
+- :kissing_cat: [OSDC](https://fr.wikipedia.org/wiki/Open_Source_Developers%27_Conference) - Various events like [Israel OSDC](http://osdc.org.il), [French OSDC](http://www.osdc.fr/), **Taiwan OSDC**, **Australia OSDC** or **Malaysia OSDC** 
 - :fr: [French Perl Workshop](https://journeesperl.fr/jp2019/) 
-- :fr: [OSDC](http://www.osdc.fr/) (DEAD ?) 
 - :fr: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) 
 - :fr: [Patch.pm -pn](http://patch.pm) 
 - :dromedary_camel: [Several others](https://www.yapc.org/old-events.html) - Several Perl workshops or events
