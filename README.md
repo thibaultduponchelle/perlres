@@ -454,7 +454,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :bear: Lint Perl online
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
-- :zap: [PerlCritic](http://perlcritic.com) - Web frontend to Perl::Critic
+- :zap: [PerlCritic](http://perlcritic.com) - Web frontend to [Perl::Critic](https://github.com/Perl-Critic/Perl-Critic)
 
 ## :books: Books 
 - :books: [Some books](https://perldoc.perl.org/perlbook.html) and [some others](https://learn.perl.org/books/) 
