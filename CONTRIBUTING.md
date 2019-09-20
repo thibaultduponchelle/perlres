@@ -7,7 +7,7 @@ This guide is inspired by awesome-perl [Contribution Guidelines](https://github.
 # Contribution Guidelines
 
 * **To add to the list** : Submit a pull request
-* **To remove from the list** : Open an issue (you must describe a reason!)
+* **To remove from the list** : Open an issue (you must describe a reason !)
 
 ## Formatting
 ### Example of Item of List
@@ -24,7 +24,7 @@ Produces :
 Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 
 #### Emojis in titles
-- Categories (means `## :rocket: Second level title`) should have an emoji.
+- Categories (means `## :rocket: Second level title`) should have an emoji
 - Sub Categories (means `### Third level title`) should NOT have an emoji 
 
 #### Emojis in list items
