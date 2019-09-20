@@ -164,7 +164,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :100: [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There's more than one way to do it
 - :recycle: [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - :notes: The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
-- :golf: [Perl Golf](http://perlgolf.sourceforge.net/) [DEAD] - Code Golf
+- :golf: [Perl Golf](http://perlgolf.sourceforge.net/) - Code Golf
 - :golf: [Anarchy Golf](http://golf.shinh.org/) - Code golf (not dedicated to Perl)
 - :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - :sunglasses: [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
@@ -242,7 +242,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
 - :mailbox_with_mail: [Minimalist](https://github.com/madroach/minimalist) - Mailing lists engine
 - :mailbox_closed: [Dada Mail](https://github.com/justingit/dada-mail) - Mailing lists engine
-- :mailbox_with_no_mail: [Majordomo](http://old.greatcircle.com/majordomo) - Mailing lists engine (seems dead)
+- :mailbox_with_no_mail: [Majordomo](http://old.greatcircle.com/majordomo) - Mailing lists engine ([github](https://github.com/Distrotech/majordomo))
 
 ### Email filtering
 - :hocho: [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
