@@ -28,14 +28,17 @@ Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 - Sub Categories (means `### Third level title`) should NOT have an emoji 
 
 #### Emojis in list items
+##### Emojis related to item
+Often emojis are related to the item : see for instance all **CMS** software where I use :memo: :pencil2: :clipboard: and friends...
 
-Emojis does not always have a meaning. For instance for **CMS** software I use :memo: :pencil2: :clipboard: and friends...
-
-Sometimes I use something else related to the software itself : **ACT** has a :seat: because it's related to conferences and people sitting in a room to listen talks.
-
-Webframeworks are generaly animals :cow: :bear: :frog: :hamster: because I needed a lot of different emojis and they are cool :relieved:
+Another example of an emoji related to the software itself : **ACT** has a :seat: because it's related to conferences and people sitting in a room to listen talks.
 
 We could have used the same emoji for all CMS, but having different one and putting them randomly looks *prettier* :innocent:
+
+##### Emojis not related to item
+Sometimes emojis does not always have a meaning at all and only respect a kind of "family". 
+
+Example : webframeworks are generaly animals :cow: :bear: :frog: :hamster: because I needed a lot of different emojis and they are cool :relieved:
 
 :warning: Some emojis are not compatible with mobiles, please do not use them.
 
@@ -46,14 +49,13 @@ For the links, choose first the official website (if any) then the [github repos
 If you put official website first, you can provide a [github link](https://github.com/) (or a [metaCPAN link](https://metacpan.org/)) at the end of the line.
 
 Remember that this is not stricly a module list like [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) otherwise I would have chosen in priority the [metaCPAN link](https://metacpan.org/)
-.
-
-Stay concise.
 
 ## Quality Standard
 
-This list is not for *people with a minimum Perl background*. 
+This list is for *people with a minimum Perl background* 
 
-It can be used by people that do not know Perl but you don't have to make this list fully accessible for them.
+It can be used by people that do not know Perl at all (or very few) but you don't have to make this list fully accessible for these folks.
 
 Old softwares could appear, even if not maintained for years, but only if they seems not completely dead.
+
+Stay concise.
