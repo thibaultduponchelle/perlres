@@ -16,7 +16,7 @@ This guide is inspired by awesome-perl [Contribution Guidelines](https://github.
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 ```
 
-Produces : 
+Will produce : 
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
 
 
