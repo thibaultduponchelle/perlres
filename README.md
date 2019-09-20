@@ -269,33 +269,33 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 
 ### Logs analyzers
-- :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io/) - Weberver logs analyzer ([github](https://github.com/eldy/awstats))
+- :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io) - Weberver logs analyzer ([github](https://github.com/eldy/awstats))
 - :octopus: [Octopussy](https://octopussy.pm) - Log analyzer
 - :chart_with_upwards_trend: [Squid](http://squidanalyzer.darold.net) - Log analyzer
 - :chart_with_downwards_trend: [W3Perl](http://w3perl.com) - Log analyzer
-- :bar_chart: [Yaala](http://www.yaala.org/) - Log analyzer
-- :chart_with_upwards_trend: [Log Watch](https://sourceforge.net/projects/logwatch/) - Log analyzer
-- :mag: [SEC](http://simple-evcorr.github.io/) - Log analyzer
+- :bar_chart: [Yaala](http://www.yaala.org) - Log analyzer
+- :chart_with_upwards_trend: [Log Watch](https://sourceforge.net/projects/logwatch) - Log analyzer
+- :mag: [SEC](http://simple-evcorr.github.io) - Log analyzer
 - :satellite: [Cricket](http://cricket.sourceforge.net) - Collect and print data series
-- :chart_with_downwards_trend: [Torrus](http://torrus.org/) - Collect and print data series
+- :chart_with_downwards_trend: [Torrus](http://torrus.org) - Collect and print data series
 
 ### Job queues
 - :octopus: [Minion](https://github.com/mojolicious/minion) - A high performance job queue
-- :construction_worker: [Gearman](http://gearman.org/) - Job server
+- :construction_worker: [Gearman](http://gearman.org) - Job server
 - :suspension_railway: [Qudo](https://github.com/nekokak/qudo) - Job queue manager
 - :mountain_railway: [Resque](https://github.com/diegok/resque-perl) - Job queue manager
 - :aerial_tramway: [TheSchwartz](https://github.com/akiym/TheSchwartz) - Job queue manager 
 
 ### Tickets trackers
 - :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker ([github](https://github.com/bestpractical/rt))
-- :honeybee: [OTRS](https://otrs.com/) - Ticket tracker ([github](https://github.com/OTRS/otrs))
-- :ant: [BugZilla](https://www.bugzilla.org/) - Bug tracker ([github](https://github.com/bugzilla/bugzilla))
+- :honeybee: [OTRS](https://otrs.com) - Ticket tracker ([github](https://github.com/OTRS/otrs))
+- :ant: [BugZilla](https://www.bugzilla.org) - Bug tracker ([github](https://github.com/bugzilla/bugzilla))
 
 ### Wiki
-- :pencil2: [Oddmuse](https://oddmuse.org/) - Wiki engine
-- :pencil: [Ikiwiki](https://olivier.dossmann.net/wiki/archives/web/ikiwiki/) - Wiki engine
-- :memo: [TWiki](https://twiki.org/) - Wiki engine
-- :pencil2: [FosWiki](https://foswiki.org/) - Wiki engine ([github](https://github.com/foswiki))
+- :pencil2: [Oddmuse](https://oddmuse.org) - Wiki engine
+- :pencil: [Ikiwiki](http://ikiwiki.info) - Wiki engine
+- :memo: [TWiki](https://twiki.org) - Wiki engine
+- :pencil2: [FosWiki](https://foswiki.org) - Wiki engine ([github](https://github.com/foswiki))
 
 ### E-Commerce
 - :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform
