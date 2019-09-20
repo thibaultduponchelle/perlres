@@ -48,7 +48,7 @@ For the links, choose first the official website (if any) then the [github repos
 
 If you put official website first, you can provide a [github link](https://github.com/) (or a [metaCPAN link](https://metacpan.org/)) at the end of the line.
 
-Remember that this is not stricly a module list like [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) otherwise I would have chosen in priority the [metaCPAN link](https://metacpan.org/)
+Remember that this is not strictly a module list like [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) otherwise I would have chosen in priority the [metaCPAN link](https://metacpan.org/)
 
 ## Quality Standard
 
