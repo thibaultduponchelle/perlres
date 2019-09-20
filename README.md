@@ -642,7 +642,9 @@ If a module goes out of core distribution it's not dramatic as it continues to b
 - And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focus on speed while being compatible with **Perl::Critic**.
 
 ## :hammer_and_pick: How to compile perl
-[How to compile perl](https://www.cpan.org/src/). Actually it will give this :
+See [how to compile perl](https://www.cpan.org/src/) 
+
+Actually it will give this :
     
 ```bash
 wget https://www.cpan.org/src/5.0/perl-5.30.0.tar.gz
