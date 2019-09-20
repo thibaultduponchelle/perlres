@@ -29,7 +29,7 @@ Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 
 #### Emojis in list items
 
-Emojis does not always have a meaning for instance for **CMS** software I use :memo: :pencil2: :clipboard: and friends...
+Emojis does not always have a meaning. For instance for **CMS** software I use :memo: :pencil2: :clipboard: and friends...
 
 Sometimes I use something else related to the software itself : **ACT** has a :seat: because it's related to conferences and people sitting in a room to listen talks.
 
