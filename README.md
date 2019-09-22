@@ -16,7 +16,7 @@ As a reminder, [Perl](https://www.perl.org/) is a general-purpose progamming lan
 
 Perl is distributed under a dual licence : [Artistic Licence](https://opensource.org/licenses/Artistic-2.0) and [GPL v1+](https://www.gnu.org/licenses/gpl-3.0.html). Most of CPAN modules [follow the same rule](https://www.cpan.org/misc/cpan-faq.html#How_is_Perl_licensed).
 
-----
+------
 
 ## :construction_worker: Perl core development
 - :octocat: [Perl git](https://perl5.git.perl.org/perl.git) - Where is located the **Perl interpreter source code** (as of today) and its [github mirror](https://github.com/Perl/perl5)
