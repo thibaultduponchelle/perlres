@@ -238,7 +238,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :family: [Dreamwitdh](https://www.dreamwidth.org) - Shared blogging
 - :couple: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
 
-### Mailing list engines
+### Mailing lists engines
 - :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
 - :mailbox_with_mail: [Minimalist](https://github.com/madroach/minimalist) - Mailing lists engine
 - :mailbox_closed: [Dada Mail](https://github.com/justingit/dada-mail) - Mailing lists engine
@@ -430,6 +430,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :phone: [Ledger SMB](https://ledgersmb.org) - ERP
 - :mag: [Dezi](https://dezi.org) - Search platform
 - :octocat: [PRC](https://github.com/kyzn/PRC) - Linking maintainers with contributors
+- :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
