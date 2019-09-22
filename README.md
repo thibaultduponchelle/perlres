@@ -79,7 +79,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :santa: [Perl Advent Calendar](http://www.perladvent.org) - Avent Calendar about Perl
 - :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious web framework
 - :christmas_tree: [Dancer Advent Calendar](http://advent.perldancer.org) - Advent calendar about Dancer web framework
-- :octocat: [PullRequestClub](https://pullrequest.club/hello) - Linking maintainers with contributors
+- :octocat: [Pull Request Club](https://pullrequest.club/hello) - Linking maintainers with contributors
 
 ### Newsfeeds
 - :clipboard: [Perl Sphere](http://perlsphere.net/) - Newsfeed
