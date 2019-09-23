@@ -301,6 +301,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform
 - :moneybag: [Surf Shop](http://www.surfshopcart.com) - Shopping cart
 - :money_with_wings: [Agora Cart](http://www.agoracart.com) - Shopping cart
+- :phone: [Ledger SMB](https://ledgersmb.org) - ERP
 
 ### Backup tools
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
@@ -427,7 +428,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Uncategorized 
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
-- :phone: [Ledger SMB](https://ledgersmb.org) - ERP
 - :mag: [Dezi](https://dezi.org) - Search platform
 - :octocat: [PRC](https://github.com/kyzn/PRC) - Linking maintainers with contributors
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
