@@ -41,7 +41,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules
 - :rocket: [Awesome Perl](https://github.com/hachiojipm/awesome-perl/blob/master/README.md) - List of selected modules
 - :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
-- :older_man: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable CPAN modules installer (core module, configurable) 
+- :older_man: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable CPAN modules installer, part of core distribution, fully configurable ([github](https://github.com/andk/cpanpm))
 - :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ CPAN modules installer)
 
 ## :dromedary_camel: General
