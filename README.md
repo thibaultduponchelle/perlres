@@ -203,7 +203,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  
 
 ## :jack_o_lantern: Perl Ecosystem
-- :fuelpump: [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN
+- :fuelpump: [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN ("**CPAN is the language, Perl is just the syntax**" - quote from [Audrey Tang](https://fr.wikipedia.org/wiki/Audrey_Tang)) 
 - :pill: [MetaCPAN](https://metacpan.org/) - Search the CPAN
 
 ### News and forums engines
