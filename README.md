@@ -99,8 +99,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :heavy_dollar_sign: [YAPC](https://www.yapc.org/) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
 - :walking: [YAPC::NA](http://www.yapcna.org/) - North America flavor of YAPC. Since 2017 it is renamed as [TPC](https://perlconference.us)
 - :couple: [YAPC::Europe](http://www.yapceurope.org/) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu) 
-- :family: [YAPC::Asia](http://yapcasia.org) - Asian flavor of YAPC
-- :sushi: [YAPC::Japan](https://yapcjapan.org) - Japanese flavor of YAPC (supported by [Japan Perl Association](https://japan.perlassociation.org/)
+- :family: [YAPC::Asia](http://yapcasia.org)/[YAPC::Japan](https://yapcjapan.org) - Asian/Japanese flavor of YAPC (supported by [Japan Perl Association](https://japan.perlassociation.org/))
 - :two_men_holding_hands: **YAPC::SA** - Sud America flavor of YAPC
 - :runner: **YAPC::RUSSIA** - Russia flavor of YAPC
 - :two_women_holding_hands: **YAPC::AUSTRALIA** - Australia flavor of YAPC
