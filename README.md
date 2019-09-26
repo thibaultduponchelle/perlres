@@ -73,6 +73,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
 - :neckbeard: [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - :neckbeard: [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
+- :jp: [Perl Entrance](http://www.perl-entrance.org) - Sort of Perl Mongers group in Japan
 - :speech_balloon: [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
 - :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
 - :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj/) - E-Zine about Perl
@@ -99,6 +100,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :walking: [YAPC::NA](http://www.yapcna.org/) - North America flavor of YAPC. Since 2017 it is renamed as [TPC](https://perlconference.us)
 - :couple: [YAPC::Europe](http://www.yapceurope.org/) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu) 
 - :family: [YAPC::Asia](http://yapcasia.org) - Asian flavor of YAPC
+- :sushi: [YAPC::Japan](https://yapcjapan.org) - Japanese flavor of YAPC (supported by [Japan Perl Association](https://japan.perlassociation.org/)
 - :two_men_holding_hands: **YAPC::SA** - Sud America flavor of YAPC
 - :runner: **YAPC::RUSSIA** - Russia flavor of YAPC
 - :two_women_holding_hands: **YAPC::AUSTRALIA** - Australia flavor of YAPC
