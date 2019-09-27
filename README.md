@@ -92,7 +92,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :couple: [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
 - :family: [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
-- :couple: [Perl Hacks](https://perlhacks.com/) - A blog
+- :couple: [Perl Hacks](https://perlhacks.com/) - Just another Perl Hacker's blog
 
 ### Conferences
 - :heavy_dollar_sign: [YAPC](https://www.yapc.org/) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
