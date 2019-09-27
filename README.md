@@ -209,8 +209,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### News and forums engines
 - :family: [YaBB](http://www.yabbforum.com/) - Forum engine
-- :speech_balloon: [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform (PerlMonks is powered by this)
-- :couple: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine (Slashdot is powered by this)
+- :speech_balloon: [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform ([PerlMonks](https://www.perlmonks.org) is powered by this)
+- :couple: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine ([Slashdot](https://slashdot.org) is powered by this)
 - :family: [DuckDuckGo Instant Answer](https://duck.co/ia) - An aggregator of questions/answers platform ([github](https://github.com/duckduckgo/duckduckgo))
 
 ### CMS
