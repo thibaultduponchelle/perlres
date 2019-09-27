@@ -148,7 +148,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :vibration_mode: Interactive tutorials
 - :pizza:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world) - Learn modern Perl any time and from everywhere :purple_heart: 
 - :fries: [Learn Perl](https://www.learn-perl.org/) - Free interactive Perl tutorial :blue_heart:
-- :chocolate_bar: [TryPerl](http://tryperl.pl) - TryRuby clone for Perl :heart:
+- :chocolate_bar: [TryPerl](http://tryperl.pl) - TryRuby clone for Perl :heart: ([github](https://github.com/thibaultduponchelle/tryperl))
 
 ## :school: Tutorials meta-site
 - :books: [Perl tutorials](http://perl-tutorial.org/) - Perl turorials meta site
