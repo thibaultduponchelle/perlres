@@ -39,7 +39,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :wrench: [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
 - :gift: [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (uses [cpanfile](https://github.com/miyagawa/cpanfile))
 - :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules
-- :rocket: [Awesome Perl](https://github.com/hachiojipm/awesome-perl/blob/master/README.md) - List of selected modules
 - :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
 - :older_man: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable CPAN modules installer, part of core distribution, fully configurable ([github](https://github.com/andk/cpanpm))
 - :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ CPAN modules installer)
@@ -436,10 +435,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
-- :cocktail: [A Perl Products List](https://perlmaven.com/perl-based-open-source-products) - Perl products according to Perl Maven (a lot of them are already in the list above) 
-- :heart: [Awesome Perl](https://github.com/hachiojipm/awesome-perl/blob/master/README.md) - Curated list of awesome Perl stuff 
-- :pill: [CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod) - List of Perl modules
+- :cocktail: [A Perl Products List](https://perlmaven.com/perl-based-open-source-products) - Perl products according to Perl Maven (a lot of them are already in the list above)
+- :rocket: [Awesome Perl](https://github.com/hachiojipm/awesome-perl/blob/master/README.md) - Curated list of awesome Perl stuff
 - :purple_heart: [Awesome Perl (again)](https://github.com/uhub/awesome-perl) - Another curated list of awesome Perl stuff
+- :pill: [CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod) - List of Perl modules
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
