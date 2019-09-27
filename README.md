@@ -347,9 +347,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cat: [Twiggy](https://github.com/miyagawa/Twiggy) - AnyEvent HTTP server for PSGI
 - :bear: [Starlet](https://github.com/kazuho/Starlet) - Simple and high-performance PSGI server
 - :frog: [Corona](https://github.com/miyagawa/Corona) - Asynchronous PSGI server
-- :racehorse: [Gazelle](https://github.com/kazeburo/Gazelle) - Preforked Plack Handler for performance freaks
+- :racehorse: [Gazelle](https://github.com/kazeburo/Gazelle) - Preforked Plack handler for performance freaks
 - :horse: [Arriba](https://github.com/odyniec/p5-Arriba) - PSGI server with [SPDY](https://en.wikipedia.org/wiki/SPDY) support
-- :hamster: [Perlbal](https://github.com/perlbal/Perlbal) - HTTP Load Balancer
+- :hamster: [Perlbal](https://github.com/perlbal/Perlbal) - HTTP load balancer
 - :ox: [HTTP::Engine](https://github.com/http-engine/HTTP-Engine) - Web server
 - :dog2: [Feersum](https://github.com/stash/Feersum) - PSGI engine based on EV/libev
 - :japanese_ogre: [Server::Starter](https://github.com/kazuho/p5-Server-Starter) - Super Daemon to handle hot deployment of server programs
