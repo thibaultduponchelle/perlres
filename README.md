@@ -130,13 +130,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :us: Tutorials 
 - :closed_book: [Perl Maven](https://perlmaven.com/perl-tutorial)
 - :clock230: [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
-- :green_book: [Minimum Viable Perl (MVP)](http://mvp.kablamo.org/)
-- :blue_book: [Perl Begin](http://perl-begin.org/)
-- :100: [Perl101](https://perl101.org/)
-- :orange_book: [Perl Tutorial Points](https://www.tutorialspoint.com/perl/)
-- :notebook: [Perl Tutorial](https://www.perltutorial.org/)
+- :green_book: [Minimum Viable Perl (MVP)](http://mvp.kablamo.org)
+- :blue_book: [Perl Begin](http://perl-begin.org)
+- :100: [Perl101](https://perl101.org)
+- :orange_book: [Perl Tutorial Points](https://www.tutorialspoint.com/perl)
+- :notebook: [Perl Tutorial](https://www.perltutorial.org)
 - :ledger: [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
-- :construction: [Perl Newbie](https://newbie.perlzemi.com/)
+- :construction: [Perl Newbie](https://newbie.perlzemi.com)
+- :point_up: [Exercism.io](https://exercism.io/my/tracks/perl5) - Learn Perl wi code practice and mentorship
 
 ## :fr: French tutorials
 - :scroll: [Guide Perl](http://formation-perl.fr/guide-perl.html)
