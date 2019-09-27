@@ -136,7 +136,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: [Perl Tutorial](https://www.perltutorial.org)
 - :ledger: [Perl in 1 day guru99](https://www.guru99.com/perl-tutorials.html)
 - :construction: [Perl Newbie](https://newbie.perlzemi.com)
-- :point_up: [Exercism.io](https://exercism.io/my/tracks/perl5) - Learn Perl wi code practice and mentorship
+- :point_up: [Exercism.io](https://exercism.io/my/tracks/perl5) - Learn Perl with code practice and mentorship
 
 ## :fr: French tutorials
 - :scroll: [Guide Perl](http://formation-perl.fr/guide-perl.html)
