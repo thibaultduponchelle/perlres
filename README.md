@@ -237,7 +237,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
 - :family: [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
-- :family: [Dreamwitdh](https://www.dreamwidth.org) - Shared blogging
+- :family: [Dreamwidth](https://www.dreamwidth.org) - Shared blogging
 - :couple: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
 
 ### Mailing lists engines
