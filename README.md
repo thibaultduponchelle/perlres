@@ -186,7 +186,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :sunglasses: [Perl idioms](http://world.std.com/~swmcd/steven/perl/idiom.html) - Perl offers powerful idiomatic expressions (see [fluent Perl](https://docstore.mik.ua/orelly/perl3/prog/ch24_04.htm) or [this node](https://www.perlmonks.org/?node_id=519396))
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers :stuck_out_tongue_winking_eye:
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
-- :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.perl.org/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer
+- :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.perl.org/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer (currently [Sawyer X](https://github.com/xsawyerx))
 - :paperclip: **Perl** is often considered as being **the duct tape of the Internet**
 - :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry/) - Prepare your eyes
 
