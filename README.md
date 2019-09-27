@@ -318,7 +318,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Web application framework
 - :cloud: [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
 - :dizzy: [Catalyst](http://www.catalystframework.org/) - Web framework
-- :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA)
+- :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA) (see [Dancer 1](https://github.com/PerlDancer/Dancer) and [Dancer 2](https://github.com/PerlDancer/Dancer2))
 - :crocodile: [Jifty](https://metacpan.org/pod/Jifty) - Web framework
 - :cloud: [Cyclone 3](http://www.cyclone3.org/) - Web application framework
 - :snake: [Amon](https://github.com/tokuhirom/Amon) - Web application framework
