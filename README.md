@@ -151,7 +151,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chocolate_bar: [TryPerl](http://tryperl.pl) - TryRuby clone for Perl :heart: ([github](https://github.com/thibaultduponchelle/tryperl))
 
 ## :school: Tutorials meta-site
-- :books: [Perl tutorials](http://perl-tutorial.org/) - Perl turorials meta site
+- :books: [Perl tutorials](http://perl-tutorial.org/) - Perl tutorials meta site
 
 ## :squirrel: Perl folklore
 - :bomb: "**Perl**" vs "**perl**" - **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
