@@ -419,6 +419,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mag: [Dezi](https://dezi.org) - Search platform
 - :octocat: [PRC](https://github.com/kyzn/PRC) - Linking maintainers with contributors
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
+- :gun: [Nipe](https://github.com/GouveaHeitor/nipe) - Script to make Tor network your default gateway
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
