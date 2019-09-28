@@ -23,7 +23,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bug: [Perl bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) - Uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system
 - :mailbox: [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
 - :hammer: [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want to compile it by hand (if you don't want Perl vendor)
-- :small_red_triangle: [Perl Delta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) - The latest changelog
+- :small_red_triangle_down: [Perl Delta](https://perldoc.pl/perldelta) - The latest changelog
+- :small_red_triangle: [All changelogs](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) - All changelogs
 - :scroll: [Very detailed history of Perl versions](https://perldoc.pl/perlhist.html) - Date and major changes from Perl creation to today
 - :older_woman: [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
 - :penguin: [Portability](https://perldoc.pl/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
@@ -73,7 +74,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :neckbeard: [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - :neckbeard: [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
 - :jp: [Perl Entrance](http://www.perl-entrance.org) - Sort of Perl Mongers group in Japan
-- :speech_balloon: [IRC channels](https://perldoc.pl/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
+- :speech_balloon: [IRC channels](https://perldoc.pl/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
 - :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
 - :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj/) - E-Zine about Perl
 - :santa: [Perl Advent Calendar](http://www.perladvent.org) - Avent Calendar about Perl
