@@ -24,9 +24,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mailbox: [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
 - :hammer: [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want to compile it by hand (if you don't want Perl vendor)
 - :small_red_triangle: [Perl Delta 5.30.0](https://metacpan.org/source/XSAWYERX/perl-5.30.0/pod) - The latest changelog
-- :scroll: [Very detailed history of Perl versions](https://perldoc.perl.org/perlhist.html) - Date and major changes from Perl creation to today
+- :scroll: [Very detailed history of Perl versions](https://perldoc.pl/perlhist.html) - Date and major changes from Perl creation to today
 - :older_woman: [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
-- :penguin: [Portability](https://perldoc.perl.org/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
+- :penguin: [Portability](https://perldoc.pl/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## :necktie: Official
 - :house: [perl.org](https://www.perl.org/) - The Perl's "home"
@@ -47,7 +47,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :man_with_turban: [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
 - :man_with_turban: [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
 - :book: [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl) :new:
-- :moneybag: [Core modules list](https://perldoc.perl.org/5.30.0/index-modules-A.html) - Web interface to the tool `corelist`
+- :moneybag: [Core modules list](https://metacpan.org/pod/index-modules-A) - Web interface to the tool `corelist`
 - :book: [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
 - :books: [Perl Meme](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
 - :school: [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
@@ -73,7 +73,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :neckbeard: [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - :neckbeard: [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
 - :jp: [Perl Entrance](http://www.perl-entrance.org) - Sort of Perl Mongers group in Japan
-- :speech_balloon: [IRC channels](https://perldoc.perl.org/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
+- :speech_balloon: [IRC channels](https://perldoc.pl/5.30.0/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
 - :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
 - :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj/) - E-Zine about Perl
 - :santa: [Perl Advent Calendar](http://www.perladvent.org) - Avent Calendar about Perl
@@ -111,20 +111,20 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :dromedary_camel: [Several others](https://www.yapc.org/old-events.html) - Several Perl workshops or events
 
 ## :book: Official documentations
-- :question: [Perl FAQ](https://perldoc.perl.org/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
-- :symbols: [Perlre](https://perldoc.perl.org/perlre.html) - Regular expression documentation and [tuto](https://perldoc.perl.org/perlretut.html) and  [quick start](https://perldoc.perl.org/perlrequick.html) 
+- :question: [Perl FAQ](https://perldoc.pl/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
+- :symbols: [Perlre](https://perldoc.pl/perlre.html) - Regular expression documentation and [tuto](https://perldoc.pl/perlretut.html) and  [quick start](https://perldoc.pl/perlrequick.html) 
 
 ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)
 
-- :symbols: [Operators list](https://perldoc.perl.org/perlop.html) and [built‑in functions](https://perldoc.perl.org/perlfunc.html)
-- :pill: [How to write modules/packages](https://perldoc.perl.org/perlmod.html) or [here](https://perldoc.perl.org/perlmodlib.html) - or [write a new module](https://perldoc.perl.org/perlnewmod.html). Some advices to [respect the style](https://perldoc.perl.org/perlmodstyle.html) in modules
-- :symbols: [Perl syntax](https://perldoc.perl.org/perlsyn.html) - Doc about Perl syntax
-- :book: [References](https://perldoc.perl.org/perlref.html) and [tutorial](https://perldoc.perl.org/perlreftut.html)
-- :book: [Documentation about IPC](https://perldoc.perl.org/perlipc.html)
-- :underage: [Perl security](https://perldoc.perl.org/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_ or _algorithm complexity attacks_
-- :straight_ruler: [Reports generation thanks to formats](https://perldoc.perl.org/perlform.html) - Documentation about formats. *Formats* are a reason of the initial creation of Perl, but they are limited and less and less used
-- :wrench: [Degugger documentation](https://perldoc.perl.org/perldebug.html) - The Perl debugger is itself written in Perl :muscle: 
-- :alien: [perlobj](https://perldoc.perl.org/perlobj.html) and [tuto oo](https://perldoc.perl.org/perlootut.html) -  Object Oriented Programming in Perl
+- :symbols: [Operators list](https://perldoc.pl/perlop.html) and [built‑in functions](https://perldoc.pl/perlfunc.html)
+- :pill: [How to write modules/packages](https://perldoc.pl/perlmod.html) or [here](https://perldoc.pl/perlmodlib.html) - or [write a new module](https://perldoc.pl/perlnewmod.html). Some advices to [respect the style](https://perldoc.pl/perlmodstyle.html) in modules
+- :symbols: [Perl syntax](https://perldoc.pl/perlsyn.html) - Doc about Perl syntax
+- :book: [References](https://perldoc.pl/perlref.html) and [tutorial](https://perldoc.pl/perlreftut.html)
+- :book: [Documentation about IPC](https://perldoc.pl/perlipc.html)
+- :underage: [Perl security](https://perldoc.pl/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_ or _algorithm complexity attacks_
+- :straight_ruler: [Reports generation thanks to formats](https://perldoc.pl/perlform.html) - Documentation about formats. *Formats* are a reason of the initial creation of Perl, but they are limited and less and less used
+- :wrench: [Degugger documentation](https://perldoc.pl/perldebug.html) - The Perl debugger is itself written in Perl :muscle: 
+- :alien: [perlobj](https://perldoc.pl/perlobj.html) and [tuto oo](https://perldoc.pl/perlootut.html) -  Object Oriented Programming in Perl
 
 ## :us: Tutorials 
 - :closed_book: [Perl Maven](https://perlmaven.com/perl-tutorial)
@@ -161,7 +161,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://imgs.xkcd.com/comics/regular_expressions.png)
 
-- :heavy_dollar_sign: [Magic variables](https://perldoc.perl.org/perlvar.html) - Why some hate or love Perl (among other reasons)
+- :heavy_dollar_sign: [Magic variables](https://perldoc.pl/perlvar.html) - Why some hate or love Perl (among other reasons)
 - :100: [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There's more than one way to do it
 - :recycle: [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - :notes: The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
@@ -186,7 +186,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :sunglasses: [Perl idioms](http://world.std.com/~swmcd/steven/perl/idiom.html) - Perl offers powerful idiomatic expressions (see [fluent Perl](https://docstore.mik.ua/orelly/perl3/prog/ch24_04.htm) or [this node](https://www.perlmonks.org/?node_id=519396))
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers :stuck_out_tongue_winking_eye:
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
-- :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.perl.org/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer (currently [Sawyer X](https://github.com/xsawyerx))
+- :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.pl/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer (currently [Sawyer X](https://github.com/xsawyerx))
 - :paperclip: **Perl** is often considered as being **the duct tape of the Internet**
 - :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry/) - Prepare your eyes
 
@@ -447,7 +447,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :zap: [PerlCritic](http://perlcritic.com) - Web frontend to [Perl::Critic](https://github.com/Perl-Critic/Perl-Critic)
 
 ## :books: Books 
-- :books: [Some books](https://perldoc.perl.org/perlbook.html) and [some others](https://learn.perl.org/books/) 
+- :books: [Some books](https://perldoc.pl/perlbook.html) and [some others](https://learn.perl.org/books/) 
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
@@ -598,7 +598,7 @@ Reinstalling a set of CPAN modules can be done simply by launching a bunch of `c
 ## :heavy_check_mark: Linters
 Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale/) or [syntastic](https://github.com/vim-syntastic/syntastic)).
 
-- [`perl -c`](https://perldoc.perl.org/perlrun.html), to check the syntax. Be careful that it does more than only checking syntax, it actually _executes_ the blocks `BEGIN` and `END` (compilation step). This _design_ is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
+- [`perl -c`](https://perldoc.pl/perlrun.html), to check the syntax. Be careful that it does more than only checking syntax, it actually _executes_ the blocks `BEGIN` and `END` (compilation step). This _design_ is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
 The syntax checking in Perl is great (as well as the error messages from the interpreter... I :heart: Perl)
 
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic), that *criticize*  your coding style but do not check syntax. For instance, the file `bad.pl` contains :
