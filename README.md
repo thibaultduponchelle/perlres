@@ -48,7 +48,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :man_with_turban: [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
 - :man_with_turban: [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
 - :book: [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl) :new:
-- :moneybag: [Core modules list](https://metacpan.org/pod/index-modules-A) - Web interface to the tool `corelist`
+- :moneybag: [Core modules list](https://perldoc.pl/modules) - Web interface to the tool `corelist`
 - :book: [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
 - :books: [Perl Meme](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
 - :school: [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
