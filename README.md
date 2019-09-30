@@ -346,7 +346,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Templating
 - :wave: [Mason](https://github.com/jonswar/perl-mason) - Templating system
 - :clap: [EmbPerl](https://metacpan.org/pod/Embperl) - Templating system
-- :snake: [DTL::Fast](https://metacpan.org/pod/DTL::Fast) - Perl5 port of Django templating language
+- :snake: [DTL::Fast](https://metacpan.org/pod/DTL::Fast) - Perl5 port of Django templating language ([:octocat:sources](https://github.com/hurricup/DTL-Fast))
 
 ### Compiler and alternative interpreters
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
@@ -378,7 +378,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### IDE
 - :computer: [Padre](http://padre.perlide.org/) - IDE ([github](https://github.com/PadreIDE/Padre)) for Windows/OSX/Linux :door: :apple: :penguin:
 - :tv: [Open Perl IDE](https://sourceforge.net/projects/open-perl-ide/) - IDE for Windows :door:
-- :camel: [Plugin for Intellij IDEA](https://plugins.jetbrains.com/plugin/7796-perl) - Perl5 support plugin compatible with any JetBrains IDE (Linux/Mac/Windows)
+- :camel: [Plugin for Intellij IDEA](https://plugins.jetbrains.com/plugin/7796-perl) - Perl5 support plugin compatible with any JetBrains IDE on Linux/Mac/Windows ([:octocat:sources](https://github.com/Camelcade/Perl5-IDEA))
 
 ### Continuous Integration
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
