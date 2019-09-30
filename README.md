@@ -346,6 +346,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Templating
 - :wave: [Mason](https://github.com/jonswar/perl-mason) - Templating system
 - :clap: [EmbPerl](https://metacpan.org/pod/Embperl) - Templating system
+- :snake: [DTL::Fast](https://metacpan.org/pod/DTL::Fast) - Perl5 port of Django templating language
 
 ### Compiler and alternative interpreters
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
