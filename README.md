@@ -605,7 +605,7 @@ Executable by hand or directly integrated in your scripts, IDE or editors (vim u
 - [`perl -c`](https://perldoc.pl/perlrun.html), to check the syntax. Be careful that it does more than only checking syntax, it actually _executes_ the blocks `BEGIN` and `END` (compilation step). This _design_ is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
 The syntax checking in Perl is great (as well as the error messages from the interpreter... I :heart: Perl)
 
-- [Perl::Critic](https://metacpan.org/pod/Perl::Critic), that *criticize*  your coding style but do not check syntax. For instance, the file `bad.pl` contains :
+- [Perl::Critic](https://metacpan.org/pod/Perl::Critic), that *criticizes*  your coding style but do not check syntax. For instance, the file `bad.pl` contains :
     
 ```perl
 use strict;
@@ -633,7 +633,7 @@ B::Lint was first released with perl 5.005, deprecated (will be CPAN-only) in v5
     
 If a module goes out of core distribution it's not dramatic as it continues to be available in CPAN of course.
 
-- And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focus on speed while being compatible with **Perl::Critic**.
+- And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focuses on speed while being compatible with **Perl::Critic**.
 
 ## :hammer_and_pick: How to compile perl
 See [how to compile perl](https://www.cpan.org/src/) 
