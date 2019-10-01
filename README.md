@@ -38,6 +38,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([CPAN profile](https://metacpan.org/author/MIYAGAWA))
 - :hammer: [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
 - :wrench: [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
+- :hammer: [berrybrew](https://github.com/dnmfarrell/berrybrew) - The perlbrew for Windows Strawberry Perl
 - :gift: [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (uses [cpanfile](https://github.com/miyagawa/cpanfile))
 - :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules
 - :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
@@ -393,7 +394,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pencil2: [Kephra](http://kephra.sourceforge.net/site/en/home_news.shtml) - Editor
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
 
-### Tooling for devs
+### Tooling for Devs
 - :older_man: [GNU Automake](https://www.gnu.org/software/automake/) - Automatically generates Makefile.in files 
 - :mag: [Cloc](https://github.com/AlDanial/cloc) - Count line of code 
 - :wrench: [Devel::hdb](https://github.com/brummett/Devel-hdb) - Another Perl debugger
@@ -405,6 +406,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :handbag: [Fink Project](http://finkproject.org/) - Tool to help porting software from UNIX like to macOS
 - :arrows_counterclockwise: [Reply](https://github.com/doy/reply) - Perl REPL
 - :heavy_dollar_sign: [Ack](https://beyondgrep.com) - Grep replacement
+- :heavy_dollar_sign: [POD Web View](http://podwebview.odyniec.net/) - Edit POD file with live preview
 
 ### Sysadmin
 - :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
@@ -435,7 +437,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
-- :doughnut: [Web Perl](https://webperl.zero-g.net/) - WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
+- :doughnut: [Web Perl](https://webperl.zero-g.net/) - WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - :candy: [TIO](https://tio.run/#perl5) - Try It Online
 - :cake: [Perlbot](https://perl.bot/) - Run and share Perl code
 
@@ -446,6 +448,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :icecream: [Paiza](https://paiza.io/en/projects/new?language=perl)
 - :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - :hamburger: [JS.do](https://js.do/perl/)
+- :arrow_forward: [Online Perl Interpreter](https://www.onlinegdb.com/online_perl_interpreter) - Code, Compile, Run and Debug Perl script online
 
 ## :bear: Lint Perl online
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
@@ -457,7 +460,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
 - :closed_book: [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl) (Camel book)
-- :green_book: [Perl cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book)
+- :green_book: [Perl cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book) - [read online](https://www.cs.ait.ac.th/~on/O/oreilly/perl/cookbook/index.htm)
 - :blue_book: [Learning Perl](https://en.wikipedia.org/wiki/Learning_Perl)  (Llama book)
 - :orange_book: [Intermediate Perl](https://en.wikipedia.org/wiki/Intermediate_Perl) (Alpaca book)
 - :notebook: [Mastering Perl](http://shop.oreilly.com/product/9780596527242.do)
