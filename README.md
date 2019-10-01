@@ -357,6 +357,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :money_with_wings: [StaticPerl](http://software.schmorp.de/pkg/App-Staticperl.html) - Helper script to create self contained statically linked Perl binary + script
 - :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc/) - Perl to C compiler
 - :dromedary_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
+- :construction_worker: [Perl Build](https://github.com/tokuhirom/Perl-Build) - A Perl builder
 
 ### Assets management
 - :cd: [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
