@@ -8,9 +8,9 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 
 ## :clipboard: Summary 
 
-Derivated from [LinuxFR](https://linuxfr.org/) french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne) 
+Derived from [LinuxFR](https://linuxfr.org/) french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne)
 
-As a reminder, [Perl](https://www.perl.org/) is a general-purpose progamming langage created in 1987 by [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall). 
+As a reminder, [Perl](https://www.perl.org/) is a general-purpose progamming language created in 1987 by [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall).
 
 > "Perl continues to flourish into its fourth decade thanks to a vibrant community of users and developers" (dixit [perldelta](https://metacpan.org/pod/distribution/perl/pod/perldelta.pod#Acknowledgements))
 
@@ -19,18 +19,18 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ------
 
 ## :construction_worker: Perl core development
-- :octocat: [Perl git](https://perl5.git.perl.org/perl.git) - Where is located the **Perl interpreter source code** (as of today) and its [github mirror](https://github.com/Perl/perl5)
+- :octocat: [Perl git](https://perl5.git.perl.org/perl.git) - Which hosts the **Perl interpreter source code** (as of today) and its [github mirror](https://github.com/Perl/perl5)
 - :bug: [Perl bug tracker](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) - Uses Perl software [Request Tracker](https://bestpractical.com/request-tracker) the ticketing system
 - :mailbox: [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
 - :hammer: [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want to compile it by hand (if you don't want Perl vendor)
 - :small_red_triangle_down: [Perl Delta](https://perldoc.pl/perldelta) - The latest changelog
 - :small_red_triangle: [All changelogs]( https://perldoc.pl/perl#Miscellaneous) - All changelogs
 - :scroll: [Very detailed history of Perl versions](https://perldoc.pl/perlhist.html) - Date and major changes from Perl creation to today
-- :older_woman: [Depreciations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
+- :older_woman: [Deprecations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
 - :penguin: [Portability](https://perldoc.pl/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## :necktie: Official
-- :house: [perl.org](https://www.perl.org/) - The Perl's "home"
+- :house: [perl.org](https://www.perl.org/) - Perl's "home"
 - :european_castle: [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly awards for important contribution to Perl (not only with code)
 
@@ -41,7 +41,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :hammer: [berrybrew](https://github.com/dnmfarrell/berrybrew) - The perlbrew for Windows Strawberry Perl
 - :gift: [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (uses [cpanfile](https://github.com/miyagawa/cpanfile))
 - :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules
-- :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **Corelist** used to know _core modules_ shipped in a specific version of Perl.
+- :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **corelist** used to know _core modules_ shipped in a specific version of Perl.
 - :older_man: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable CPAN modules installer, part of core distribution, fully configurable ([github](https://github.com/andk/cpanpm))
 - :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ CPAN modules installer)
 
@@ -55,10 +55,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :school: [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 
 ## :fuelpump: Around the CPAN
-- :ocean: [CPAN Deps](http://deps.cpantesters.org/) - List dependencies from a CPAN module
+- :ocean: [CPAN Deps](http://deps.cpantesters.org/) - List dependencies for a CPAN module
 - :new: [CPAN Doc](https://cpandoc.grinnz.com/) - Documentation of some important modules
 - :heavy_check_mark: [CPAN Testers](http://cpantesters.org/) - Build and test reports of CPAN modules
-- :scroll: [BackPAN](http://backpan.cpantesters.org/) - The CPAN with all history
+- :scroll: [BackPAN](http://backpan.cpantesters.org/) - The entire history of CPAN
 - :speech_balloon: [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
 - :earth_africa: [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
 - :heavy_check_mark: [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
@@ -76,7 +76,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :neckbeard: [Perl Mongers](https://www.pm.org/) - Perl Mongers
 - :neckbeard: [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
 - :jp: [Perl Entrance](http://www.perl-entrance.org) - Sort of Perl Mongers group in Japan
-- :speech_balloon: [IRC channels](https://perldoc.pl/perlcommunity.html#IRC) - IRC channels for the french mongers, mojolicious, dancer, catalyst, etc...
+- :speech_balloon: [IRC channels](https://perldoc.pl/perlcommunity.html#IRC) - IRC channels for the French mongers, Mojolicious, Dancer, Catalyst, etc...
 - :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
 - :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj/) - E-Zine about Perl
 - :santa: [Perl Advent Calendar](http://www.perladvent.org) - Avent Calendar about Perl
@@ -113,9 +113,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :fr: [Patch.pm -pn](http://patch.pm) 
 - :dromedary_camel: [Several others](https://www.yapc.org/old-events.html) - Several Perl workshops or events
 
-## :book: Official documentations
+## :book: Official documentation
 - :question: [Perl FAQ](https://perldoc.pl/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
-- :symbols: [Perlre](https://perldoc.pl/perlre.html) - Regular expression documentation and [tuto](https://perldoc.pl/perlretut.html) and  [quick start](https://perldoc.pl/perlrequick.html) 
+- :symbols: [Perlre](https://perldoc.pl/perlre.html) - Regular expression documentation and [tutorial](https://perldoc.pl/perlretut.html) and  [quick start](https://perldoc.pl/perlrequick.html)
 
 ![Perl regex](http://imgs.xkcd.com/comics/perl_problems.png)
 
@@ -126,7 +126,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :book: [Documentation about IPC](https://perldoc.pl/perlipc.html)
 - :underage: [Perl security](https://perldoc.pl/perlsec.html) - About _taint checking_ (or « _data flow analysis_ »), _setuid_, _clean PATH_ or _algorithm complexity attacks_
 - :straight_ruler: [Reports generation thanks to formats](https://perldoc.pl/perlform.html) - Documentation about formats. *Formats* are a reason of the initial creation of Perl, but they are limited and less and less used
-- :wrench: [Degugger documentation](https://perldoc.pl/perldebug.html) - The Perl debugger is itself written in Perl :muscle: 
+- :wrench: [Debugger documentation](https://perldoc.pl/perldebug.html) - The Perl debugger is itself written in Perl :muscle:
 - :alien: [perlobj](https://perldoc.pl/perlobj.html) and [tuto oo](https://perldoc.pl/perlootut.html) -  Object Oriented Programming in Perl
 
 ## :us: Tutorials 
@@ -141,7 +141,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :construction: [Perl Newbie](https://newbie.perlzemi.com)
 - :point_up: [Exercism.io](https://exercism.io/my/tracks/perl5) - Learn Perl with code practice and mentorship
 
-## :fr: French tutorials
+## :fr: Tutorials in French
 - :scroll: [Guide Perl](http://formation-perl.fr/guide-perl.html)
 - :triangular_ruler: [Formation-Perl](http://formation-perl.fr/)
 - :straight_ruler: [Guide de programmation pour apprendre Perl](https://lhullier.developpez.com/tutoriels/perl/intro/)
@@ -159,7 +159,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :squirrel: Perl folklore
 - :bomb: "**Perl**" vs "**perl**" - **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
-- :stars: [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secrets operators and their nice nicknames
+- :stars: [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secret operators and their nice nicknames
 - :heavy_plus_sign: [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/)
 
 ![](https://imgs.xkcd.com/comics/regular_expressions.png)
@@ -167,7 +167,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :heavy_dollar_sign: [Magic variables](https://perldoc.pl/perlvar.html) - Why some hate or love Perl (among other reasons)
 - :100: [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There's more than one way to do it
 - :recycle: [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
-- :notes: The Perl poetry and for instance the poem [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl) from Larry Wall
+- :notes: Perl poetry, including for instance Larry Wall's [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl)
 - :golf: [Perl Golf](http://perlgolf.sourceforge.net/) - Code Golf
 - :golf: [Anarchy Golf](http://golf.shinh.org/) - Code golf (not dedicated to Perl)
 - :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
@@ -260,7 +260,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 
 ### Logs analyzers
-- :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io) - Weberver logs analyzer ([github](https://github.com/eldy/awstats))
+- :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io) - Webserver logs analyzer ([github](https://github.com/eldy/awstats))
 - :octopus: [Octopussy](https://octopussy.pm) - Log analyzer ([github](https://github.com/Octopussy-Project/Octopussy))
 - :chart_with_upwards_trend: [Squid](http://squidanalyzer.darold.net) - Log analyzer
 - :chart_with_downwards_trend: [W3Perl](http://w3perl.com) - Log analyzer
@@ -584,8 +584,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
-The **modern way** consists to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The tool is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
-    
+The **modern way** is to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The tool is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
+
 ```bash
 --> Working on XML::LibXML
 Fetching http://www.cpan.org/authors/id/S/SH/SHLOMIF/XML-LibXML-2.0201.tar.gz ... OK
