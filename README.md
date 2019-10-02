@@ -61,8 +61,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :scroll: [BackPAN](http://backpan.cpantesters.org/) - The entire history of CPAN
 - :speech_balloon: [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
 - :earth_africa: [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
-- :heavy_check_mark: [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
-- :heavy_check_mark: [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
+- :ballot_box_with_check: [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
+- :white_check_mark: [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
 - :mortar_board: [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
 - :octocat: [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
 - :floppy_disk: [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
