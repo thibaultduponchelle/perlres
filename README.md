@@ -69,6 +69,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cloud: [StratoPAN](https://stratopan.com) - Private CPAN repositories in the cloud
 - :underage: [CPAN Audit](https://github.com/vti/cpan-audit) - Audit CPAN modules for security vulnerabilities
 - :mag_right: [CPANMeta](https://cpanmeta.grinnz.com) - Browse CPAN metadata ([github](https://github.com/Grinnz/cpan-meta-browser))
+- :bowtie: [PAUSE](https://pause.perl.org) - Perl Authors Upload Server ([github](https://github.com/andk/pause)) 
 
 ## :beers: Social
 ### Community
