@@ -38,7 +38,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([CPAN profile](https://metacpan.org/author/MIYAGAWA))
 - :hammer: [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
 - :wrench: [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
-- :hammer: [berrybrew](https://github.com/dnmfarrell/berrybrew) - The perlbrew for Windows Strawberry Perl
+- :strawberry: [Berrybrew](https://github.com/dnmfarrell/berrybrew) - The perlbrew for Windows Strawberry Perl
 - :gift: [Perl carton](https://github.com/perl-carton/carton) - A bundler for Perl (uses [cpanfile](https://github.com/miyagawa/cpanfile))
 - :book: [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - List of important modules
 - :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **corelist** used to know _core modules_ shipped in a specific version of Perl.
