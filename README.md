@@ -356,12 +356,20 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
 - :muscle: [RPerl](http://rperl.org/) - Restricted Perl, an optimizing compiler ([github](https://github.com/wbraswell/rperl))
 - :wrench: [CPerl](https://github.com/perl11/cperl) - Alternative Perl interpreter
-- :gift: [PAR:Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables
 - :hammer: [TinyPerl](http://tinyperl.sourceforge.net/) - Very compact Perl binary to be shipped with your scripts
 - :money_with_wings: [StaticPerl](http://software.schmorp.de/pkg/App-Staticperl.html) - Helper script to create self contained statically linked Perl binary + script
 - :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc/) - Perl to C compiler
 - :dromedary_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
 - :construction_worker: [Perl Build](https://github.com/tokuhirom/Perl-Build) - A Perl builder
+
+### Perl Application Bundlers / Packagers
+Bundle Perl scripts, modules they relies on, and other files into an applicaton that can be distributed to end-users.
+- :gift: [PAR::Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables from Perl programs
+- :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML interface for Perl desktop applications
+- :moneybag: [PerlApp](http://www.activestate.com/perl-dev-kit/) - Convert Perl program into a standalone application (commercial; part of ActiveState Perl Dev Kit)
+- :dollar: [Perl2Exe](http://www.indigostar.com/perl2exe/) - Convert Perl scripts to executable file (commercial)
+- :nut_and_bolt: [App::FatPacker](https://metacpan.org/pod/App::FatPacker) - Pack your dependencies onto your script file
+- :sparkles: Use `PAR::Packer`, `Mojolicious`, and `Mojolicious::Plugin::Loco` to create self-contained "web" application that runs locally, and uses web browser for GUI.
 
 ### Assets management
 - :cd: [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
@@ -391,10 +399,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :gift_heart: [Project Builder](http://www.project-builder.org) - Continuous packaging software ([trac](http://trac.project-builder.org) and [sources](http://trac.project-builder.org/browser))
 - :turtle: [App::Stew](https://github.com/vti/stew) - In-app package manager
 
-### Desktop
+### Desktop Applications
 - :movie_camera: **Shutter** - Screenshot utility
 - :computer: [Ravada](https://github.com/UPC/ravada) - Remote Virtual Desktops Manager
-- :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML5 user interface for Perl 5 desktop applications
 - :pencil2: [Kephra](http://kephra.sourceforge.net/site/en/home_news.shtml) - Editor
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
 
