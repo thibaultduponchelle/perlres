@@ -409,7 +409,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :handbag: [Fink Project](http://finkproject.org/) - Tool to help porting software from UNIX like to macOS
 - :arrows_counterclockwise: [Reply](https://github.com/doy/reply) - Perl REPL
 - :heavy_dollar_sign: [Ack](https://beyondgrep.com) - Grep replacement
-- :heavy_dollar_sign: [POD Web View](http://podwebview.odyniec.net/) - Edit POD file with live preview
+- :memo: [POD Web View](http://podwebview.odyniec.net/) - Edit POD file with live preview
 
 ### Sysadmin
 - :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
