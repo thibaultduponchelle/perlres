@@ -259,6 +259,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :vhs: [Stormons](https://sourceforge.net/projects/stormons/) - Monitoring and mapping SAN storage devices.
 - :chart_with_upwards_trend: [Proclet](https://github.com/kazeburo/Proclet) - Minimalist supervisor
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
+- :watch: [Thruk](https://www.thruk.org) - Multi-backends web interface for monitoring ([github](https://github.com/sni/Thruk))
 
 ### Logs analyzers
 - :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io) - Webserver logs analyzer ([github](https://github.com/eldy/awstats))
