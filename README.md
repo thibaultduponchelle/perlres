@@ -386,7 +386,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Continuous Integration
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
-- :penguin: [Open Build Service](https://openbuildservice.org/) - A part of [openSUSE Buid Service](https://build.opensuse.org/) ([github d'OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE github](https://github.com/openSUSE). **Open Build Service** is a continuous packaging platform.
+- :penguin: [Open Build Service](https://openbuildservice.org/) (partially) - [openSUSE Build Service](https://build.opensuse.org) is a continuous packaging platform ([OBS build scripts](https://github.com/openSUSE/obs-build), [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)) and other repositories on [openSUSE github](https://github.com/openSUSE))
 - :gift_heart: [Project Builder](http://www.project-builder.org) - Continuous packaging software ([trac](http://trac.project-builder.org) and [sources](http://trac.project-builder.org/browser))
 - :turtle: [App::Stew](https://github.com/vti/stew) - In-app package manager
 
