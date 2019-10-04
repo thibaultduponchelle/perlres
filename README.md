@@ -583,6 +583,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Web Client Programming with Perl
 - :orange_book: Learning Perl on Win32 Systems
 - :green_book: Win32 Perl Programming: The Standard Extensions, Second Edition
+- :blue_book: [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.html)
 - :blue_book: Welcome to Perl Country :jp:
 - :notebook: How to Write Perl :jp:
 - :orange_book: Introduction to Perl :jp:
