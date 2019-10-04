@@ -363,7 +363,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :construction_worker: [Perl Build](https://github.com/tokuhirom/Perl-Build) - A Perl builder
 
 ### Perl Application Bundlers / Packagers
-Bundle Perl scripts, modules they relies on, and other files into an applicaton that can be distributed to end-users.
 - :gift: [PAR::Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables from Perl programs
 - :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML interface for Perl desktop applications
 - :moneybag: [PerlApp](http://www.activestate.com/perl-dev-kit/) - Convert Perl program into a standalone application (commercial; part of ActiveState Perl Dev Kit)
