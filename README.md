@@ -222,7 +222,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
 
 ### Blogging
-- :couple: [Bloxsom](http://blosxom.sourceforge.net/) - Blog engine
+- :couple: [Bloxsom](http://blosxom.sourceforge.net/) - Blogging engine
 - :family: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
 - :couple: [Statocles](http://preaction.me/statocles/) - Static blog generator ([github](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
@@ -230,6 +230,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
 - :family: [Dreamwidth](https://www.dreamwidth.org) - Shared blogging
 - :couple: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
+- :family: [Rapi Blog](https://github.com/vanstyn/Rapi-Blog) - Blogging engine (based on [RapidApp](http://www.rapidapp.info))
 
 ### Mailing lists engines
 - :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
@@ -309,11 +310,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :house: [Construder](https://github.com/elmex/Construder) - Minecraft-like game 
 
 ### Web application frameworks
-- :cloud: [Mojolicious](https://mojolicious.org/) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
-- :dizzy: [Catalyst](http://www.catalystframework.org/) - Web framework
+- :cloud: [Mojolicious](https://mojolicious.org) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
+- :dizzy: [Catalyst](http://www.catalystframework.org) - Web framework
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA) (see [Dancer 1](https://github.com/PerlDancer/Dancer) and [Dancer 2](https://github.com/PerlDancer/Dancer2))
 - :crocodile: [Jifty](https://metacpan.org/pod/Jifty) - Web framework
-- :cloud: [Cyclone 3](http://www.cyclone3.org/) - Web application framework
+- :cloud: [Cyclone 3](http://www.cyclone3.org) - Web application framework
 - :snake: [Amon](https://github.com/tokuhirom/Amon) - Web application framework
 - :sheep: [Poet](https://github.com/jonswar/perl-poet) - Web application framework
 - :elephant: [Gantry](https://metacpan.org/pod/Gantry) - Web application framework
@@ -328,7 +329,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :tiger: [Shenker](https://github.com/spiritloose/Schenker) - Web application framework
 - :ox: [Noe](https://github.com/yusukebe/Noe) - Web application framework
 - :leopard: [Kamui](https://github.com/nekokak/p5-Kamui) - Web application framework based on Plack
-- :snail: [Web Nano](https://github.com/zby/WebNano) - Really minimalistic web framework. 
+- :snail: [Web Nano](https://github.com/zby/WebNano) - Really minimalistic web framework.
+- :mouse2: [RapidApp](http://www.rapidapp.info) - Web toolkit and framework based on [Catalyst](http://www.catalystframework.org) ([github](https://github.com/vanstyn/RapidApp))
 
 ### PSGI adapters and web servers
 - :pig: [Plack](https://github.com/plack/Plack) - PSGI toolkit and server adapter
@@ -356,30 +358,30 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
 - :muscle: [RPerl](http://rperl.org/) - Restricted Perl, an optimizing compiler ([github](https://github.com/wbraswell/rperl))
 - :wrench: [CPerl](https://github.com/perl11/cperl) - Alternative Perl interpreter
-- :hammer: [TinyPerl](http://tinyperl.sourceforge.net/) - Very compact Perl binary to be shipped with your scripts
+- :hammer: [TinyPerl](http://tinyperl.sourceforge.net) - Very compact Perl binary to be shipped with your scripts
 - :money_with_wings: [StaticPerl](http://software.schmorp.de/pkg/App-Staticperl.html) - Helper script to create self contained statically linked Perl binary + script
-- :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc/) - Perl to C compiler
+- :wrench: [Compiler PerlC](http://marginalhacks.com/Hacks/perlc) - Perl to C compiler
 - :dromedary_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
 - :construction_worker: [Perl Build](https://github.com/tokuhirom/Perl-Build) - A Perl builder
 
 ### Perl Application Bundlers / Packagers
 - :gift: [PAR::Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables from Perl programs
 - :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML interface for Perl desktop applications
-- :moneybag: [PerlApp](http://www.activestate.com/perl-dev-kit/) - Convert Perl program into a standalone application (commercial; part of ActiveState Perl Dev Kit)
-- :dollar: [Perl2Exe](http://www.indigostar.com/perl2exe/) - Convert Perl scripts to executable file (commercial)
+- :moneybag: [PerlApp](http://www.activestate.com/perl-dev-kit) - Convert Perl program into a standalone application (commercial; part of ActiveState Perl Dev Kit)
+- :dollar: [Perl2Exe](http://www.indigostar.com/perl2exe) - Convert Perl scripts to executable file (commercial)
 - :nut_and_bolt: [App::FatPacker](https://metacpan.org/pod/App::FatPacker) - Pack your dependencies onto your script file
 - :sparkles: Use `PAR::Packer`, `Mojolicious`, and `Mojolicious::Plugin::Loco` to create self-contained "web" application that runs locally, and uses web browser for GUI.
 
 ### Assets management
-- :cd: [FusionInventory](http://fusioninventory.org/) - IT assets web inventory
-- :dvd: [OCS NG](https://ocsinventory-ng.org/) - IT assets web inventory
+- :cd: [FusionInventory](http://fusioninventory.org) - IT assets web inventory
+- :dvd: [OCS NG](https://ocsinventory-ng.org) - IT assets web inventory
 - :books: [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([gitweb](http://git.koha-community.org/gitweb/))
 - :green_book: [Evergreen ILS](http://evergreen-ils.org) - Library management
 
 ### Git 
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
-- :octopus: [Gitolite](https://gitolite.com/gitolite/) - Git hosting ([github](https://github.com/sitaramc/gitolite))
-- :turtle: [GitPrep](http://gitprep.yukikimoto.com/) - Portable github system ([github](https://github.com/yuki-kimoto/gitprep))
+- :octopus: [Gitolite](https://gitolite.com/gitolite) - Git hosting ([github](https://github.com/sitaramc/gitolite))
+- :turtle: [GitPrep](http://gitprep.yukikimoto.com) - Portable github system ([github](https://github.com/yuki-kimoto/gitprep))
 
 ### Database tooling
 - :minidisc: [MySQL Tuner](https://github.com/major/MySQLTuner-perl) - MySQL configuration and tuning
@@ -389,12 +391,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### IDE
 - :computer: [Padre](http://padre.perlide.org/) - IDE ([github](https://github.com/PadreIDE/Padre)) for Windows/OSX/Linux :door: :apple: :penguin:
-- :tv: [Open Perl IDE](https://sourceforge.net/projects/open-perl-ide/) - IDE for Windows :door:
+- :tv: [Open Perl IDE](https://sourceforge.net/projects/open-perl-ide) - IDE for Windows :door:
 - :camel: [Plugin for Intellij IDEA](https://plugins.jetbrains.com/plugin/7796-perl) - Perl5 support plugin compatible with any JetBrains IDE on Linux/Mac/Windows ([:octocat:sources](https://github.com/Camelcade/Perl5-IDEA))
 
 ### Continuous Integration
 - :camel: [Crafty](https://github.com/vti/crafty) - Simple CI server
-- :penguin: [Open Build Service](https://openbuildservice.org/) (partially) - [openSUSE Build Service](https://build.opensuse.org) is a continuous packaging platform. See [OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)
+- :penguin: [Open Build Service](https://openbuildservice.org) (partially) - [openSUSE Build Service](https://build.opensuse.org) is a continuous packaging platform. See [OBS build scripts](https://github.com/openSUSE/obs-build) and [OBS backend](https://github.com/openSUSE/open-build-service/tree/master/src/backend)
 - :gift_heart: [Project Builder](http://www.project-builder.org) - Continuous packaging software ([trac](http://trac.project-builder.org) and [sources](http://trac.project-builder.org/browser))
 - :turtle: [App::Stew](https://github.com/vti/stew) - In-app package manager
 
@@ -413,21 +415,21 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :rainbow: [Markdown](https://daringfireball.net/projects/markdown/) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl
 - :wrench: [Daiku](https://github.com/tokuhirom/Daiku) - Kind of make
 - :1234: [PDL](http://pdl.perl.org/) - For scientific calculations
-- :handbag: [Fink Project](http://finkproject.org/) - Tool to help porting software from UNIX like to macOS
+- :handbag: [Fink Project](http://finkproject.org) - Tool to help porting software from UNIX like to macOS
 - :arrows_counterclockwise: [Reply](https://github.com/doy/reply) - Perl REPL
 - :heavy_dollar_sign: [Ack](https://beyondgrep.com) - Grep replacement
-- :memo: [POD Web View](http://podwebview.odyniec.net/) - Edit POD file with live preview
+- :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview
 
 ### Sysadmin
 - :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :underage: [Web Sorrow](https://code.google.com/archive/p/web-sorrow) - Security scanner
-- :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome/) - WebSSO, Access Management and Identity Federation
+- :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome) - WebSSO, Access Management and Identity Federation
 - :octopus: [Plain VM](https://github.com/mgechev/plainvm) - Controle multiple VMs
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
 
 ### Hosting
-- :cloud: [cPanel](https://cpanel.net/) - Hosting platform
+- :cloud: [cPanel](https://cpanel.net) - Hosting platform
 - :satellite: [Perloku](https://github.com/judofyr/perloku) - Deploy Perl apps on Heroku
 
 ### Uncategorized 
@@ -446,10 +448,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pill: [CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod) - List of Perl modules
 
 ## :ghost: Execute Perl online
-- :new: [Perl Banjo](https://perlbanjo.com/) - Share runnable Perl code :heart: :muscle:
-- :doughnut: [Web Perl](https://webperl.zero-g.net/) - WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
+- :new: [Perl Banjo](https://perlbanjo.com) - Share runnable Perl code :heart: :muscle:
+- :doughnut: [Web Perl](https://webperl.zero-g.net) - WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - :candy: [TIO](https://tio.run/#perl5) - Try It Online
-- :cake: [Perlbot](https://perl.bot/) - Run and share Perl code
+- :cake: [Perlbot](https://perl.bot) - Run and share Perl code
 
 ## :boom: Execute Perl online (sites not dedicated to Perl)
 - :banana: [Tutorial Points](https://www.tutorialspoint.com/execute_perl_online.php)
@@ -457,7 +459,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cookie: [JDoodle](https://www.jdoodle.com/execute-perl-online)
 - :icecream: [Paiza](https://paiza.io/en/projects/new?language=perl)
 - :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
-- :hamburger: [JS.do](https://js.do/perl/)
+- :hamburger: [JS.do](https://js.do/perl)
 - :arrow_forward: [Online Perl Interpreter](https://www.onlinegdb.com/online_perl_interpreter) - Code, Compile, Run and Debug Perl script online
 
 ## :bear: Lint Perl online
@@ -465,7 +467,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :zap: [PerlCritic](http://perlcritic.com) - Web frontend to [Perl::Critic](https://github.com/Perl-Critic/Perl-Critic)
 
 ## :books: Books 
-- :books: [Some books](https://perldoc.pl/perlbook.html) and [some others](https://learn.perl.org/books/) 
+- :books: [Some books](https://perldoc.pl/perlbook.html) and [some others](https://learn.perl.org/books) 
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
@@ -474,12 +476,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: [Learning Perl](https://en.wikipedia.org/wiki/Learning_Perl)  (Llama book)
 - :orange_book: [Intermediate Perl](https://en.wikipedia.org/wiki/Intermediate_Perl) (Alpaca book)
 - :notebook: [Mastering Perl](http://shop.oreilly.com/product/9780596527242.do)
-- :notebook_with_decorative_cover: [Modern Perl](http://modernperlbooks.com/)
+- :notebook_with_decorative_cover: [Modern Perl](http://modernperlbooks.com)
 - :ledger: [Perl Best Practices](https://en.wikipedia.org/wiki/Perl_Best_Practices)
 - :orange_book: [Perl hacks](http://shop.oreilly.com/product/9780596526740.do)
 - :green_book: [High Order Perl](https://en.wikipedia.org/wiki/Higher-Order_Perl)
 - :blue_book: [Beginning Perl](http://shop.oreilly.com/product/9781118013847.do) (Curtis "Ovid" Poe)
-- :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl/)
+- :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl)
 - :closed_book: Beginning Perl (James D Lee)
 - :notebook: [Perl pocket reference](http://shop.oreilly.com/product/0636920018476.do)
 - :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
@@ -523,8 +525,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Core Perl
 - :closed_book: Perl for the Web
 - :notebook: [Data Munging with Perl](https://datamungingwithperl.com/)
-- :notebook_with_decorative_cover: [MySQL and Perl for the Web](http://www.kitebird.com/mysql-perl/)
-- :notebook: [Open Source Web Development with LAMP](http://www.opensourcewebbook.com/)
+- :notebook_with_decorative_cover: [MySQL and Perl for the Web](http://www.kitebird.com/mysql-perl)
+- :notebook: [Open Source Web Development with LAMP](http://www.opensourcewebbook.com)
 - :green_book: [Learning Perl/Tk](http://shop.oreilly.com/product/9781565923140.do)
 - :blue_book: [Mastering Perl/Tk](http://shop.oreilly.com/product/9781565927162.do)
 - :orange_book: [Perl/Tk Pocket Reference](http://shop.oreilly.com/product/9781565925175.do)
@@ -595,7 +597,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
-The **modern way** is to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The tool is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org/), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
+The **modern way** is to use [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) (cpanminus). The tool is able to get the requested module and resolve dependencies. For instance, to install the excellent module [XML::LibXML](https://metacpan.org/pod/XML::LibXML) from [Shlomif](https://github.com/shlomif) which is a wrapper of [libxml2](http://www.xmlsoft.org), we can do ``sudo cpanm XML::LibXML``, that produces the following output (truncated) :
 
 ```bash
 --> Working on XML::LibXML
@@ -615,7 +617,7 @@ Successfully installed XML-LibXML-2.0201 (upgraded from 2.0128)
 Reinstalling a set of CPAN modules can be done simply by launching a bunch of `cpanm` commands or by specifying dependencies in a [cpanfile](https://metacpan.org/pod/cpanfile) (and using then [carton](https://metacpan.org/pod/Carton) or `cpanm --installdeps .` for the setup).
 
 ## :heavy_check_mark: Linters
-Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale/) or [syntastic](https://github.com/vim-syntastic/syntastic)).
+Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale) or [syntastic](https://github.com/vim-syntastic/syntastic)).
 
 - [`perl -c`](https://perldoc.pl/perlrun.html), to check the syntax. Be careful that it does more than only checking syntax, it actually _executes_ the blocks `BEGIN` and `END` (compilation step). This _design_ is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
 The syntax checking in Perl is great (as well as the error messages from the interpreter... I :heart: Perl)
@@ -651,7 +653,7 @@ If a module goes out of core distribution it's not dramatic as it continues to b
 - And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focuses on speed while being compatible with **Perl::Critic**.
 
 ## :hammer_and_pick: How to compile perl
-See [how to compile perl](https://www.cpan.org/src/) 
+See [how to compile perl](https://www.cpan.org/src) 
 
 Actually it will give this :
     
