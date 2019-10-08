@@ -421,6 +421,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview
 
 ### Sysadmin
+- :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
 - :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :underage: [Web Sorrow](https://code.google.com/archive/p/web-sorrow) - Security scanner
