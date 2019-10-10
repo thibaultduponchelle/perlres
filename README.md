@@ -220,7 +220,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :page_with_curl: [Galileo](http://galileo-cms.herokuapp.com/page/home) - CMS
 - :memo: [Blio](https://github.com/domm/Blio) - CMS
 - :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
-- :memo2: [Contentitious](http://mirko.westermeier.de/contenticious) - File based CMS ([github](https://github.com/memowe/contenticious))
+- :bookmark_tabs: [Contentitious](http://mirko.westermeier.de/contenticious) - File based CMS ([github](https://github.com/memowe/contenticious))
 
 ### Blogging
 - :couple: [Bloxsom](http://blosxom.sourceforge.net/) - Blogging engine
