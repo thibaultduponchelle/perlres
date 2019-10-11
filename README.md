@@ -275,6 +275,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mag: [SEC](http://simple-evcorr.github.io) - Log analyzer
 - :satellite: [Cricket](http://cricket.sourceforge.net) - Collect and print data series
 - :chart_with_downwards_trend: [Torrus](http://torrus.org) - Collect and print data series
+- :bar_chart: [pgBadger](http://pgbadger.darold.net) - PostgreSQL log analyzer ([github](https://github.com/darold/pgbadger))
 
 ### Job queues
 - :octopus: [Minion](https://github.com/mojolicious/minion) - A high performance job queue
