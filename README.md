@@ -268,7 +268,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Logs analyzers
 - :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io) - Webserver logs analyzer ([github](https://github.com/eldy/awstats))
 - :octopus: [Octopussy](https://octopussy.pm) - Log analyzer ([github](https://github.com/Octopussy-Project/Octopussy))
-- :chart_with_upwards_trend: [Squid](http://squidanalyzer.darold.net) - Log analyzer
+- :chart_with_upwards_trend: [Squid](http://squidanalyzer.darold.net) - Log analyzer ([github](https://github.com/darold/squidanalyzer))
 - :chart_with_downwards_trend: [W3Perl](http://w3perl.com) - Log analyzer
 - :bar_chart: [Yaala](http://www.yaala.org) - Log analyzer
 - :chart_with_upwards_trend: [Log Watch](https://sourceforge.net/projects/logwatch) - Log analyzer
