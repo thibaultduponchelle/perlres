@@ -697,3 +697,7 @@ perl Build.PL
 # :headphones: How to contribute ?
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md)
+
+# :bow: Contributors
+
+Thank you to all the [fantastic contributors](https://github.com/thibaultduponchelle/perlres/graphs/contributors) :heartpulse:
