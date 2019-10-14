@@ -647,7 +647,7 @@ bad.pl had compilation errors.
 But `perlcritic bad.pl` tells us that eveything is fine `bad.pl source OK` (but is not happy with the missing  `use strict`).
 
 - A module that was part of the core distribution of Perl but was finally removed in Perl **5.19** : [B::Lint](https://metacpan.org/pod/B::Lint).
-While we are here, how to know the history of a module in the core distribution ? Use **corelist** ! `corelist B::Lint` that gives us : 
+While we are here, how to know the history of a module in the core distribution ? Use [corelist](https://perldoc.pl/corelist.html) ! `corelist B::Lint` that gives us : 
     
 ```
 Data for 2017-09-22
