@@ -368,7 +368,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :dromedary_camel: [Relocatable Perl](https://github.com/skaji/relocatable-perl) - Patched Perl binary to make it relocatable
 - :construction_worker: [Perl Build](https://github.com/tokuhirom/Perl-Build) - A Perl builder
 - :hammer: [Perl Cross](https://github.com/arsv/perl-cross) - Configure and cross-compile perl
-- :gift: [Static perl](http://software.schmorp.de/pkg/App-Staticperl.html) - Perl, libc, 100 modules : all in one self-contained 
 
 ### Perl Application Bundlers / Packagers
 - :gift: [PAR::Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables from Perl programs
