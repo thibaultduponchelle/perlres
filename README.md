@@ -57,17 +57,17 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :school: [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 
 ## :fuelpump: Around the CPAN
-- :ocean: [CPAN Deps](http://deps.cpantesters.org/) - List dependencies for a CPAN module
-- :new: [CPAN Doc](https://cpandoc.grinnz.com/) - Documentation of some important modules
-- :heavy_check_mark: [CPAN Testers](http://cpantesters.org/) - Build and test reports of CPAN modules
-- :scroll: [BackPAN](http://backpan.cpantesters.org/) - The entire history of CPAN
-- :speech_balloon: [PrePAN](http://prepan.org/) - Discuss modules before CPAN upload
+- :ocean: [CPAN Deps](http://deps.cpantesters.org) - List dependencies for a CPAN module ([github](https://github.com/DrHyde/CPANdeps))
+- :new: [CPAN Doc](https://cpandoc.grinnz.com) - Documentation of some important modules
+- :heavy_check_mark: [CPAN Testers](http://cpantesters.org) - Build and test reports of CPAN modules
+- :scroll: [BackPAN](http://backpan.cpantesters.org) - The entire history of CPAN
+- :speech_balloon: [PrePAN](http://prepan.org) - Discuss modules before CPAN upload
 - :earth_africa: [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
 - :ballot_box_with_check: [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
-- :white_check_mark: [CPAN TS](https://cpants.cpanauthors.org/) - Kwalitee metrics
-- :mortar_board: [CPAN IO](http://cpan.io/) - CPAN authors rankings according to their activity
-- :octocat: [CPAN PRC](http://cpan-prc.org/) - CPAN Pull Request Challenge
-- :floppy_disk: [CPAN Mirrors](http://mirrors.cpan.org/) - The CPAN mirrors around the world
+- :white_check_mark: [CPAN TS](https://cpants.cpanauthors.org) - Kwalitee metrics
+- :mortar_board: [CPAN IO](http://cpan.io) - CPAN authors rankings according to their activity
+- :octocat: [CPAN PRC](http://cpan-prc.org) - CPAN Pull Request Challenge
+- :floppy_disk: [CPAN Mirrors](http://mirrors.cpan.org) - The CPAN mirrors around the world
 - :cloud: [StratoPAN](https://stratopan.com) - Private CPAN repositories in the cloud
 - :underage: [CPAN Audit](https://github.com/vti/cpan-audit) - Audit CPAN modules for security vulnerabilities
 - :mag_right: [CPANMeta](https://cpanmeta.grinnz.com) - Browse CPAN metadata ([github](https://github.com/Grinnz/cpan-meta-browser))
@@ -75,44 +75,44 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :beers: Social
 ### Community
-- :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl/) - Subreddit for Perl
-- :neckbeard: [Perl Mongers](https://www.pm.org/) - Perl Mongers
-- :neckbeard: [French Perl Mongers](http://www.mongueurs.net/) - French Perl Mongers group
+- :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl) - Subreddit for Perl
+- :neckbeard: [Perl Mongers](https://www.pm.org) - Perl Mongers
+- :neckbeard: [French Perl Mongers](http://www.mongueurs.net) - French Perl Mongers group
 - :jp: [Perl Entrance](http://www.perl-entrance.org) - Sort of Perl Mongers group in Japan
 - :speech_balloon: [IRC channels](https://perldoc.pl/perlcommunity.html#IRC) - IRC channels for the French mongers, Mojolicious, Dancer, Catalyst, etc...
 - :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
-- :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj/) - E-Zine about Perl
+- :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj) - E-Zine about Perl
 - :santa: [Perl Advent Calendar](http://www.perladvent.org) - Avent Calendar about Perl
 - :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious web framework
 - :christmas_tree: [Dancer Advent Calendar](http://advent.perldancer.org) - Advent calendar about Dancer web framework
 - :octocat: [Pull Request Club](https://pullrequest.club/hello) - Linking maintainers with contributors
 
 ### Newsfeeds
-- :clipboard: [Perl Sphere](http://perlsphere.net/) - Newsfeed
+- :clipboard: [Perl Sphere](http://perlsphere.net) - Newsfeed
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - Newsfeed
-- :newspaper: [Perl Buzz](https://perlbuzz.com/) - Newsfeed
-- :memo: [Perl.com](https://www.perl.com/) - Recent domain (despite its name....), a newsfeed
-- :clipboard: [Weekly Newsletter](http://perlweekly.com/) - Newsletter gathering Perl news and links
+- :newspaper: [Perl Buzz](https://perlbuzz.com) - Newsfeed
+- :memo: [Perl.com](https://www.perl.com) - Recent domain (despite its name....), a newsfeed
+- :clipboard: [Weekly Newsletter](http://perlweekly.com) - Newsletter gathering Perl news and links
 
 ### Blogs
-- :couple: [Blogs about Perl](http://blogs.perl.org/) - Blog service for Perl folks
-- :family: [Nice Perl blog](http://niceperl.blogspot.com/) - An important blog 
+- :couple: [Blogs about Perl](http://blogs.perl.org) - Blog service for Perl folks
+- :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog 
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
-- :couple: [Perl Hacks](https://perlhacks.com/) - Just another Perl Hacker's blog
+- :couple: [Perl Hacks](https://perlhacks.com) - Just another Perl Hacker's blog
 
 ### Conferences
-- :heavy_dollar_sign: [YAPC](https://www.yapc.org/) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
-- :walking: [YAPC::NA](http://www.yapcna.org/) - North American flavor of YAPC. Since 2017 it is renamed as [TPC](https://perlconference.us)
-- :couple: [YAPC::Europe](http://www.yapceurope.org/) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu) 
-- :family: [YAPC::Asia](http://yapcasia.org) / [YAPC::Japan](https://yapcjapan.org) - Asian/Japanese flavor of YAPC (supported by [Japan Perl Association](https://japan.perlassociation.org/))
+- :heavy_dollar_sign: [YAPC](https://www.yapc.org) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
+- :walking: [YAPC::NA](http://www.yapcna.org) - North American flavor of YAPC. Since 2017 it is renamed as [TPC](https://perlconference.us)
+- :couple: [YAPC::Europe](http://www.yapceurope.org) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu) 
+- :family: [YAPC::Asia](http://yapcasia.org) / [YAPC::Japan](https://yapcjapan.org) - Asian/Japanese flavor of YAPC (supported by [Japan Perl Association](https://japan.perlassociation.org))
 - :two_men_holding_hands: **YAPC::SA** - Sud American flavor of YAPC
 - :runner: **YAPC::RUSSIA** - Russian flavor of YAPC
 - :two_women_holding_hands: **YAPC::AUSTRALIA** - Australian flavor of YAPC
 - :heavy_check_mark: **Perl QA Hackathon** 
 - :dromedary_camel: **Perl Toolchain Summit**
-- :kissing_cat: [OSDC](https://fr.wikipedia.org/wiki/Open_Source_Developers%27_Conference) - Various events like [Israel OSDC](http://osdc.org.il), [French OSDC](http://www.osdc.fr/), **Taiwan OSDC**, **Australia OSDC** or **Malaysia OSDC** 
-- :fr: [French Perl Workshop](https://journeesperl.fr/jp2019/) 
-- :fr: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again/) 
+- :kissing_cat: [OSDC](https://fr.wikipedia.org/wiki/Open_Source_Developers%27_Conference) - Various events like [Israel OSDC](http://osdc.org.il), [French OSDC](http://www.osdc.fr), **Taiwan OSDC**, **Australia OSDC** or **Malaysia OSDC** 
+- :fr: [French Perl Workshop](https://journeesperl.fr/jp2019) 
+- :fr: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again) 
 - :fr: [Patch.pm -pn](http://patch.pm) 
 - :dromedary_camel: [Several others](https://www.yapc.org/old-events.html) - Several Perl workshops or events
 
