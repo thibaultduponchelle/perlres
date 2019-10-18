@@ -413,14 +413,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
 
 ### Tooling for Devs
-- :older_man: [GNU Automake](https://www.gnu.org/software/automake/) - Automatically generates Makefile.in files 
+- :older_man: [GNU Automake](https://www.gnu.org/software/automake) - Automatically generates Makefile.in files 
 - :mag: [Cloc](https://github.com/AlDanial/cloc) - Count line of code 
 - :wrench: [Devel::hdb](https://github.com/brummett/Devel-hdb) - Another Perl debugger
 - :tada: [Diff So Fancy](https://github.com/so-fancy/diff-so-fancy) - The best-lookin' diffs
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
-- :rainbow: [Markdown](https://daringfireball.net/projects/markdown/) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl
+- :rainbow: [Markdown](https://daringfireball.net/projects/markdown) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl
 - :wrench: [Daiku](https://github.com/tokuhirom/Daiku) - Kind of make
-- :1234: [PDL](http://pdl.perl.org/) - For scientific calculations
+- :1234: [PDL](http://pdl.perl.org) - For scientific calculations
 - :handbag: [Fink Project](http://finkproject.org) - Tool to help porting software from UNIX like to macOS
 - :arrows_counterclockwise: [Reply](https://github.com/doy/reply) - Perl REPL
 - :heavy_dollar_sign: [Ack](https://beyondgrep.com) - Grep replacement
