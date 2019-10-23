@@ -10,7 +10,7 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 
 Derived from [LinuxFR](https://linuxfr.org/) french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne)
 
-As a reminder, [Perl](https://www.perl.org/) is a general-purpose progamming language created in 1987 by [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall).
+As a reminder, [Perl](https://www.perl.org/) is a general-purpose programming language created in 1987 by [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall).
 
 > "Perl continues to flourish into its fourth decade thanks to a vibrant community of users and developers" (dixit [perldelta](https://metacpan.org/pod/distribution/perl/pod/perldelta.pod#Acknowledgements))
 
@@ -31,7 +31,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :necktie: Official
 - :house: [perl.org](https://www.perl.org/) - Perl's "home"
-- :european_castle: [Perl Fundation](https://www.perlfoundation.org/) - The Perl fundation
+- :european_castle: [Perl Foundation](https://www.perlfoundation.org/) - The Perl Foundation
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly awards for important contribution to Perl (not only with code)
 
 ## :hammer_and_pick: Modules and installers
@@ -82,7 +82,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [IRC channels](https://perldoc.pl/perlcommunity.html#IRC) - IRC channels for the French mongers, Mojolicious, Dancer, Catalyst, etc...
 - :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
 - :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj) - E-Zine about Perl
-- :santa: [Perl Advent Calendar](http://www.perladvent.org) - Avent Calendar about Perl
+- :santa: [Perl Advent Calendar](http://www.perladvent.org) - Advent Calendar about Perl
 - :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious web framework
 - :christmas_tree: [Dancer Advent Calendar](http://advent.perldancer.org) - Advent calendar about Dancer web framework
 - :octocat: [Pull Request Club](https://pullrequest.club/hello) - Linking maintainers with contributors
@@ -160,7 +160,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :books: [Perl tutorials](http://perl-tutorial.org/) - Perl tutorials meta site
 
 ## :squirrel: Perl folklore
-- :bomb: "**Perl**" vs "**perl**" - **Perl** is the langage, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
+- :bomb: "**Perl**" vs "**perl**" - **Perl** is the language, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - :stars: [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secret operators and their nice nicknames
 - :heavy_plus_sign: [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/)
@@ -186,7 +186,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://imgs.xkcd.com/comics/11th_grade.png)
 
-- :poop: **PHP** was sometimes refered as **P**eople **H**ate **P**erl :grin:
+- :poop: **PHP** was sometimes referred as **P**eople **H**ate **P**erl :grin:
 - :poop: [Write Only Language](https://en.wikipedia.org/wiki/Write-only_language) - Relatively common :grin:
 - :baby_bottle: **Baby Perl** - Programming with a reduced set of builtins and idioms :baby:
 - :sunglasses: [Perl idioms](http://world.std.com/~swmcd/steven/perl/idiom.html) - Perl offers powerful idiomatic expressions (see [fluent Perl](https://docstore.mik.ua/orelly/perl3/prog/ch24_04.htm) or [this node](https://www.perlmonks.org/?node_id=519396))
@@ -646,7 +646,7 @@ Missing right curly or square bracket at bad.pl line 3, at end of line
 bad.pl had compilation errors.
 ```
     
-But `perlcritic bad.pl` tells us that eveything is fine `bad.pl source OK` (but is not happy with the missing  `use strict`).
+But `perlcritic bad.pl` tells us that everything is fine `bad.pl source OK` (but is not happy with the missing  `use strict`).
 
 - A module that was part of the core distribution of Perl but was finally removed in Perl **5.19** : [B::Lint](https://metacpan.org/pod/B::Lint).
 While we are here, how to know the history of a module in the core distribution ? Use [corelist](https://perldoc.pl/corelist.html) ! `corelist B::Lint` that gives us : 
