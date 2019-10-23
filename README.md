@@ -195,7 +195,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.pl/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer (currently [Sawyer X](https://github.com/xsawyerx))
 - :paperclip: **Perl** is often considered as being **the duct tape of the Internet**
 - :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry/) - Prepare your eyes
-- :gem: **Pearl of great price** - The biblical reference that inspired Larry Wall to name **Perl** 
+- :gem: **Pearl of great price** - The biblical reference that inspired Larry Wall to name Perl
 
 ## :jack_o_lantern: Perl Ecosystem
 - :fuelpump: [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN (*"CPAN is the language, Perl is just the syntax"* - [Audrey Tang](https://fr.wikipedia.org/wiki/Audrey_Tang)) 
