@@ -82,7 +82,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [IRC channels](https://perldoc.pl/perlcommunity.html#IRC) - IRC channels for the French mongers, Mojolicious, Dancer, Catalyst, etc...
 - :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition
 - :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj) - E-Zine about Perl
-- :santa: [Perl Advent Calendar](http://www.perladvent.org) - Advent Calendar about Perl
+- :santa: [Perl Advent Calendar](http://www.perladvent.org) - Advent calendar about Perl
 - :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious web framework
 - :christmas_tree: [Dancer Advent Calendar](http://advent.perldancer.org) - Advent calendar about Dancer web framework
 - :octocat: [Pull Request Club](https://pullrequest.club/hello) - Linking maintainers with contributors
