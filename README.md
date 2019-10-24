@@ -490,6 +490,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: [High Order Perl](https://en.wikipedia.org/wiki/Higher-Order_Perl)
 - :blue_book: [Beginning Perl](http://shop.oreilly.com/product/9781118013847.do) (Curtis "Ovid" Poe)
 - :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl)
+- :blue_book: Perl receptury
 - :closed_book: Beginning Perl (James D Lee)
 - :notebook: [Perl pocket reference](http://shop.oreilly.com/product/0636920018476.do)
 - :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
