@@ -23,7 +23,7 @@ Will produce :
 ### Emojis
 Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 
-Some emojis are more "portable" than others, please check on a smartphone and tablet if possible.
+:warning: Some emojis are not compatible with mobiles, please do not use them.
 
 #### Emojis in titles
 - Categories (means `## :rocket: Second level title`) should have an emoji
@@ -41,8 +41,6 @@ We could have used the same emoji for all CMS, but having different one and putt
 Sometimes emojis does not always have a meaning at all and only respect a kind of "family". 
 
 Typical example is webframeworks that are generaly represented by animals :cow: :bear: :frog: :hamster: simply because I needed a lot of different emojis and they are so cool :relieved:
-
-:warning: Some emojis are not compatible with mobiles, please do not use them.
 
 ## Tips
 
