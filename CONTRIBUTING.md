@@ -23,6 +23,8 @@ Will produce :
 ### Emojis
 Take github emojis from this [list](https://gist.github.com/rxaviers/7360908)
 
+Some emojis are more "portable" than others, please check on a smartphone and tablet if possible.
+
 #### Emojis in titles
 - Categories (means `## :rocket: Second level title`) should have an emoji
 - Sub Categories (means `### Third level title`) should NOT have an emoji 
