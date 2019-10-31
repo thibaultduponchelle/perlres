@@ -194,6 +194,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers :stuck_out_tongue_winking_eye:
 - :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
 - :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.pl/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer (currently [Sawyer X](https://github.com/xsawyerx))
+- :heartpulse: [Blead](https://github.com/Perl/perl5/tree/blead) - Blead is the default development branch for Perl
 - :paperclip: **Perl** is often considered as being **the duct tape of the Internet**
 - :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry/) - Prepare your eyes
 - :gem: **Pearl of great price** - The biblical reference that inspired Larry Wall to name Perl
