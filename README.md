@@ -431,7 +431,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :arrows_counterclockwise: [Reply](https://github.com/doy/reply) - Perl REPL
 - :smirk_cat: [Ack](https://beyondgrep.com) - Grep replacement, optimized for developers
 - :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview
-- :checkered_flag: [GNU Parallel](https://www.gnu.org/software/parallel/) - Shell tool to execute commands in parallel ([github](https://git.savannah.gnu.org/cgit/parallel.git)
+- :checkered_flag: [GNU Parallel](https://www.gnu.org/software/parallel/) - Shell tool to execute commands in parallel ([github](https://git.savannah.gnu.org/cgit/parallel.git))
 
 ### Sysadmin
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
