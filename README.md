@@ -429,7 +429,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :1234: [PDL](http://pdl.perl.org) - For scientific calculations
 - :handbag: [Fink Project](http://finkproject.org) - Tool to help porting software from UNIX like to macOS
 - :arrows_counterclockwise: [Reply](https://github.com/doy/reply) - Perl REPL
-- :heavy_dollar_sign: [Ack](https://beyondgrep.com) - Grep replacement
+- :smirk_cat: [Ack](https://beyondgrep.com) - Grep replacement, optimized for developers
 - :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview
 
 ### Sysadmin
