@@ -252,6 +252,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :email: [Amavis](https://amavis.org) - Email filter interface
 - :mailbox_with_mail: [POP file](http://getpopfile.org) - Email filtering
 - :no_entry: [ASSP](http://www.thockar.com/assp-home/) - Anti Spam
+- :open_hands: [PostGrey](https://postgrey.schweikert.ch) - Postfix policy server implementing greylisting ([github](https://github.com/schweikert/postgrey))
 
 ### Email
 - :beer: [Cider Mail](http://ciderwebmail.org/news/index.html) - Webmail application
@@ -271,6 +272,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_upwards_trend: [Proclet](https://github.com/kazeburo/Proclet) - Minimalist supervisor
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :watch: [Thruk](https://www.thruk.org) - Multi-backends web interface for monitoring ([github](https://github.com/sni/Thruk))
+- :chart_with_upwards_trend: [Mailgraph](http://mailgraph.schweikert.ch) - Mail statistics graphs ([github](https://github.com/schweikert/mailgraph))
 
 ### Logs analyzers
 - :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io) - Webserver logs analyzer ([github](https://github.com/eldy/awstats))
