@@ -256,7 +256,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Communication
 - :beer: [Cider Mail](http://ciderwebmail.org/news/index.html) - Webmail application
-- :email: [Ashafix](https://github.com/mbethke/Ashafix) - Postfixadmin port in Perl
 - :speech_balloon: [Convos](https://convos.by) - IRC web client ([github](https://github.com/Nordaaker/convos))
 
 ### Monitoring
@@ -444,6 +443,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome) - WebSSO, Access Management and Identity Federation
 - :octopus: [Plain VM](https://github.com/mgechev/plainvm) - Controle multiple VMs
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
+- :email: [Ashafix](https://github.com/mbethke/Ashafix) - Postfixadmin port in Perl
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
