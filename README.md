@@ -254,9 +254,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :no_entry: [ASSP](http://www.thockar.com/assp-home/) - Anti Spam
 - :open_hands: [PostGrey](https://postgrey.schweikert.ch) - Postfix policy server implementing greylisting ([github](https://github.com/schweikert/postgrey))
 
-### Email
+### Communication
 - :beer: [Cider Mail](http://ciderwebmail.org/news/index.html) - Webmail application
 - :email: [Ashafix](https://github.com/mbethke/Ashafix) - Postfixadmin port in Perl
+- :speech_balloon: [Convos](https://convos.by) - IRC web client ([github](https://github.com/Nordaaker/convos))
 
 ### Monitoring
 - :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
