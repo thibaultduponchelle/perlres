@@ -201,6 +201,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 - :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry/) - Prepare your eyes
 - :gem: **Pearl of great price** - The biblical reference that inspired Larry Wall to name Perl
+- :cookie: [Perl fortunes](https://github.com/thibaultduponchelle/perl-fortunes) - Collection of Perl related quotes to be used as a fortune database  
 
 ## :jack_o_lantern: Perl Ecosystem
 - :fuelpump: [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN (*"CPAN is the language, Perl is just the syntax"* - [Audrey Tang](https://fr.wikipedia.org/wiki/Audrey_Tang)) 
