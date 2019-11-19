@@ -416,6 +416,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :gift_heart: [Project Builder](http://www.project-builder.org) - Continuous packaging software ([trac](http://trac.project-builder.org) and [sources](http://trac.project-builder.org/browser))
 - :turtle: [App::Stew](https://github.com/vti/stew) - In-app package manager
 - :snail: [Repositorio](https://github.com/RexOps/repositorio) - A tool to mirror and administrate linux repositories (yum, apt, yast, dockerhub...).
+- :full_moon_with_face: [OpenQA](http://open.qa) - Automated test tool based on QEMU ([github](https://github.com/os-autoinst/openQA))
 
 ### Desktop Applications
 - :movie_camera: **Shutter** - Screenshot utility
