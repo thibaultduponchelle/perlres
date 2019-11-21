@@ -116,7 +116,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :fr: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again) 
 - :fr: [Patch.pm -pn](http://patch.pm) 
 - :dromedary_camel: [Several others](https://www.yapc.org/old-events.html) - Several Perl workshops or events
-- :family: [Perl conferences using Act](http://act.mongueurs.net/conferences.html) - A list of (past) Perl conferences
+- :family: [Perl conferences using Act](http://act.mongueurs.net/conferences.html) - A list of Perl conferences
 
 ## :book: Official documentation
 - :question: [Perl FAQ](https://perldoc.pl/perlfaq.html) - Perl FAQ table of content (several FAQ pages)
