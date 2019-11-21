@@ -2,7 +2,7 @@
 
 List of resources about Perl :dromedary_camel:
 
-![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)  
+![Perl 5 raptor](https://camo.githubusercontent.com/039c0b770fdaff0f1418c5afa4296dfaba5f2875/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61737465722f6578616d706c652e706e67)
 
 Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -106,9 +106,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :walking: [YAPC::NA](http://www.yapcna.org) - North American flavor of YAPC. Since 2017 it is renamed as [TPC](https://perlconference.us)
 - :couple: [YAPC::Europe](http://www.yapceurope.org) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu) 
 - :family: [YAPC::Asia](http://yapcasia.org) / [YAPC::Japan](https://yapcjapan.org) - Asian/Japanese flavor of YAPC (supported by [Japan Perl Association](https://japan.perlassociation.org))
-- :two_men_holding_hands: **YAPC::SA** - Sud American flavor of YAPC
-- :runner: **YAPC::RUSSIA** - Russian flavor of YAPC
-- :two_women_holding_hands: **YAPC::AUSTRALIA** - Australian flavor of YAPC
+- :two_men_holding_hands: **YAPC::SA** - South American flavor of YAPC
+- :runner: [YAPC::Russia](http://yapcrussia.org/) - Russian flavor of YAPC
+- :two_women_holding_hands: **YAPC::Australia** - Australian flavor of YAPC
 - :heavy_check_mark: **Perl QA Hackathon** 
 - :dromedary_camel: **Perl Toolchain Summit**
 - :kissing_cat: [OSDC](https://fr.wikipedia.org/wiki/Open_Source_Developers%27_Conference) - Various events like [Israel OSDC](http://osdc.org.il), [French OSDC](http://www.osdc.fr), **Taiwan OSDC**, **Australia OSDC** or **Malaysia OSDC** 
@@ -461,6 +461,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
 - :gun: [Nipe](https://github.com/GouveaHeitor/nipe) - Script to make Tor network your default gateway
 - :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
+- :calling: [PerlyBook](http://perlybook.org/) - convert POD to EPUB/MOBI books
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
@@ -575,6 +576,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Beginning Perl Web development from novice to professional
 - :orange_book: [Single Page Application with Perl Dancer](https://leanpub.com/dancer-spa/) - E-Book about Dancer webframework
 - :construction: [Mojolicious book](https://metacpan.org/pod/release/KRAIH/Mojo-0.999904/lib/Mojolicious/Book.pod)
+- :iphone: [Mojolicious Web Clients (Kindle Edition)](https://www.amazon.com/dp/B0815XLYJX/ref=cm_sw_em_r_mt_dp_U_H8A1Db9NAV5DW)
 - :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) - E-Book about coding competition 
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
 - :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
