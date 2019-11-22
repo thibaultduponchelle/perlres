@@ -73,7 +73,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :underage: [CPAN Audit](https://github.com/vti/cpan-audit) - Audit CPAN modules for security vulnerabilities
 - :mag_right: [CPANMeta](https://cpanmeta.grinnz.com) - Browse CPAN metadata ([github](https://github.com/Grinnz/cpan-meta-browser))
 - :bowtie: [PAUSE](https://pause.perl.org) - Perl Authors Upload Server ([github](https://github.com/andk/pause))
-- :minidisk: [CPANMetaDB](https://cpanmetadb.plackperl.org) - (Yet another) CPAN metadata database ([github](https://github.com/miyagawa/cpanmetadb-perl))
+- :minidisc: [CPANMetaDB](https://cpanmetadb.plackperl.org) - (Yet another) CPAN metadata database ([github](https://github.com/miyagawa/cpanmetadb-perl))
 
 ## :beers: Social
 ### Community
