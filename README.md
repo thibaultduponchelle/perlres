@@ -437,7 +437,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :handbag: [Fink Project](http://finkproject.org) - Tool to help porting software from UNIX like to macOS
 - :arrows_counterclockwise: [Reply](https://github.com/doy/reply) - Perl REPL
 - :smirk_cat: [Ack](https://beyondgrep.com) - Grep replacement, optimized for developers ([ack 1](https://github.com/beyondgrep/ack1), [ack 2](https://github.com/beyondgrep/ack2) and [ack 3](https://github.com/beyondgrep/ack3/))
-- :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview
+- :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview ([github](https://github.com/odyniec/POD-Web-View))
 - :checkered_flag: [GNU Parallel](https://www.gnu.org/software/parallel/) - Shell tool to execute commands in parallel ([github](https://git.savannah.gnu.org/cgit/parallel.git))
 
 ### Sysadmin
