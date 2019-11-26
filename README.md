@@ -440,6 +440,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :smirk_cat: [Ack](https://beyondgrep.com) - Grep replacement, optimized for developers ([ack 1](https://github.com/beyondgrep/ack1), [ack 2](https://github.com/beyondgrep/ack2) and [ack 3](https://github.com/beyondgrep/ack3/))
 - :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview ([github](https://github.com/odyniec/POD-Web-View))
 - :checkered_flag: [GNU Parallel](https://www.gnu.org/software/parallel/) - Shell tool to execute commands in parallel ([github](https://git.savannah.gnu.org/cgit/parallel.git))
+- :bar_chart: [Git Spark](https://github.com/kablamo/git-spark) - Plot git commit history with sparklines
 
 ### Sysadmin
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
