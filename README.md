@@ -583,6 +583,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
 - :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
 - :orange_book: RT Essentials
+- :green_book: [Writing Perl Modules for CPAN](https://www.apress.com/fr/book/9781590590188) 
 - :blue_book: Automating Windows with Perl
 - :closed_book: Perl Developer's Dictionary (Clinton Pierce)
 - :orange_book: Instant CGI/Perl
