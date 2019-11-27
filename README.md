@@ -452,6 +452,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octopus: [Plain VM](https://github.com/mgechev/plainvm) - Controle multiple VMs
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
 - :email: [Ashafix](https://github.com/mbethke/Ashafix) - Postfixadmin port in Perl
+- :rocket: [Proxmox VE](https://www.proxmox.com/en/) - A virtualization and LXC platform
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
