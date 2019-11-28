@@ -389,6 +389,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :dollar: [Perl2Exe](http://www.indigostar.com/perl2exe) - Convert Perl scripts to executable file (commercial)
 - :nut_and_bolt: [App::FatPacker](https://metacpan.org/pod/App::FatPacker) - Pack your dependencies onto your script file
 - :sparkles: Use `PAR::Packer`, `Mojolicious`, and `Mojolicious::Plugin::Loco` to create self-contained "web" application that runs locally, and uses web browser for GUI.
+- :gift: [PPM](https://en.wikipedia.org/wiki/Perl_package_manager) - Perl Package Manager
 
 ### Assets management
 - :cd: [FusionInventory](http://fusioninventory.org) - IT assets web inventory
