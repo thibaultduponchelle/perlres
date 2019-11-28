@@ -56,6 +56,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :black_square_button: [Square Perl](https://squareperl.com) - Multilingual site about Perl programming
 - :school: [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
 - :eyes: [P3rl.org](https://p3rl.org) - Documentation portal about Perl
+- :star2: [BIP](http://builtinperl.com) - Blog, job board, companies directory
 
 ## :fuelpump: Around the CPAN
 - :ocean: [CPAN Deps](http://deps.cpantesters.org) - List dependencies for a CPAN module ([github](https://github.com/DrHyde/CPANdeps))
@@ -615,6 +616,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Teach Yourself Perl in 21 Days
 - :orange_book: Teach Yourself Perl in 24 Hours
 - :green_book: Perl Debugged
+- :blue_book: Perl Power
 - :orange_book: Programming Web Graphics with Perl and GNU Software
 - :notebook: Web Client Programming with Perl
 - :orange_book: Learning Perl on Win32 Systems
