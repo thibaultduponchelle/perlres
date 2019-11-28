@@ -596,6 +596,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Official Guide to Programming with CGI.pm
 - :notebook: CGI Developer's Resource: Web programming in Tcl and Perl
 - :blue_book: Cross Platform Perl
+- :green_book: Pro Perl Parsing
 - :closed_book: Developing CGI Applications with Perl
 - :blue_book: Perl 5 Interactive Course
 - :orange_book: Teach Yourself CGI Programming with Perl 5 in a week
