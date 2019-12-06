@@ -307,6 +307,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pencil: [Ikiwiki](http://ikiwiki.info) - Wiki engine
 - :memo: [TWiki](https://twiki.org) - Wiki engine
 - :pencil2: [FosWiki](https://foswiki.org) - Wiki engine ([github](https://github.com/foswiki))
+- :black_nib: [UseMod](http://usemod.com) - Wiki engine
+- :stars: [WikiWikiWeb](http://wiki.c2.com) - First wiki ever
 
 ### E-Commerce
 - :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform
