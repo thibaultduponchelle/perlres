@@ -47,16 +47,16 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :fast_forward: [cpm](https://github.com/skaji/cpm) - A fast, parallel CPAN module installer
 
 ## :dromedary_camel: General
-- :man_with_turban: [Perl Monks](https://www.perlmonks.org/) - The Perl _Stack Overflow_
-- :man_with_turban: [Perl Monks… **again**](https://www.perlmonks.org/) - Because it's so cool, even if it looks like a cave :speak_no_evil:
-- :book: [Perldoc from perl.org](https://perldoc.perl.org/) and [perldoc from grinnz](https://perldoc.pl) :new:
+- :man_with_turban: [Perl Monks](https://www.perlmonks.org) - The Perl _Stack Overflow_
+- :man_with_turban: [Perl Monks… **again**](https://www.perlmonks.org) - Because it's so cool, even if it looks like a cave :speak_no_evil:
+- :book: [Perldoc from perl.org](https://perldoc.perl.org) and [perldoc from grinnz](https://perldoc.pl) :new:
 - :moneybag: [Core modules list](https://perldoc.pl/modules) - Web interface to the tool `corelist`
-- :book: [Perl Maven](https://fr.perlmaven.com/) - A huge website about Perl
-- :books: [Perl Meme](http://perlmeme.org/) - A website about Perl (tutorials, FAQ and more)
+- :book: [Perl Maven](https://fr.perlmaven.com) - A huge website about Perl
+- :books: [Perl Meme](http://perlmeme.org) - A website about Perl (tutorials, FAQ and more)
 - :black_square_button: [Square Perl](https://squareperl.com) - Multilingual site about Perl programming
-- :school: [Enlightened Perl](https://ww2.enlightenedperl.org/) - An organization supporting Perl
+- :school: [Enlightened Perl](https://ww2.enlightenedperl.org) - An organization supporting Perl
 - :eyes: [P3rl.org](https://p3rl.org) - Documentation portal about Perl
-- :star2: [BIP](http://builtinperl.com) - Blog, job board, companies directory
+- :star2: [BIP](http://builtinperl.com) - Blog, job board and companies directory
 
 ## :fuelpump: Around the CPAN
 - :ocean: [CPAN Deps](http://deps.cpantesters.org) - List dependencies for a CPAN module ([github](https://github.com/DrHyde/CPANdeps))
@@ -150,24 +150,24 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :fr: Tutorials in French
 - :scroll: [Guide Perl](http://formation-perl.fr/guide-perl.html)
-- :triangular_ruler: [Formation-Perl](http://formation-perl.fr/)
-- :straight_ruler: [Guide de programmation pour apprendre Perl](https://lhullier.developpez.com/tutoriels/perl/intro/)
+- :triangular_ruler: [Formation-Perl](http://formation-perl.fr)
+- :straight_ruler: [Guide de programmation pour apprendre Perl](https://lhullier.developpez.com/tutoriels/perl/intro)
 - :racehorse: [Site du zero](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
-- :school: [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl/)
+- :school: [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl)
 
 ## :vibration_mode: Interactive tutorials
 - :pizza:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world) - Learn modern Perl any time and from everywhere :purple_heart: 
-- :fries: [Learn Perl](https://www.learn-perl.org/) - Free interactive Perl tutorial :blue_heart:
+- :fries: [Learn Perl](https://www.learn-perl.org) - Free interactive Perl tutorial :blue_heart:
 - :chocolate_bar: [TryPerl](http://tryperl.pl) - TryRuby clone for Perl :heart: ([github](https://github.com/thibaultduponchelle/tryperl))
 
 ## :school: Tutorials meta-site
-- :books: [Perl tutorials](http://perl-tutorial.org/) - Perl tutorials meta site
+- :books: [Perl tutorials](http://perl-tutorial.org) - Perl tutorials meta site
 
 ## :squirrel: Perl folklore
 - :bomb: "**Perl**" vs "**perl**" - **Perl** is the language, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - :stars: [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secret operators and their nice nicknames
-- :heavy_plus_sign: [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net/)
+- :heavy_plus_sign: [$A++](http://paris.mongueurs.net/aplusplus.html) - More than three hundred ways to increment `$A`, by the [Paris Perl Mongers](http://paris.mongueurs.net)
 
 ![](https://imgs.xkcd.com/comics/regular_expressions.png)
 
@@ -175,8 +175,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :100: [TIMTOWTDI](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it) - There's more than one way to do it
 - :recycle: [Only perl can parse Perl](https://www.perlmonks.org/?node_id=663393) or [PPI](https://metacpan.org/pod/PPI#Background)
 - :notes: Perl poetry, including for instance Larry Wall's [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl)
-- :golf: [Perl Golf](http://perlgolf.sourceforge.net/) - Code Golf
-- :golf: [Anarchy Golf](http://golf.shinh.org/) - Code golf (not dedicated to Perl)
+- :golf: [Perl Golf](http://perlgolf.sourceforge.net) - Code Golf
+- :golf: [Anarchy Golf](http://golf.shinh.org) - Code golf (not dedicated to Perl)
 - :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
 - :sunglasses: [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - :grin: State of the onion
@@ -186,7 +186,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :smiling_imp: [Obfuscated Perl Contest]() - [OPC 0](http://www.foo.be/docs/tpj/issues/vol1_3/tpj0103-0010.html), [OPC 1](https://www.foo.be/docs/tpj/issues/vol2_2/tpj0202-0010.html), ~~OPC 2~~, [OPC 3](http://www.foo.be/docs/tpj/issues/vol3_2/tpj0302-0012.html), [OPC 4](https://www.foo.be/docs/tpj/issues/vol4_3/tpj0403-0017.html) and [OPC 5](https://www.foo.be/docs/tpj/issues/vol5_3/tpj0503-0014.html)
 - :notes: [Perl Poetry Contest](https://www.foo.be/docs/tpj/issues/vol4_4/tpj0404-0015.html) - [PPC 1](https://www.foo.be/docs/tpj/issues/vol5_1/tpj0501-0012.html), [PPC 2](http://mkweb.bcgsc.ca/intranet/sapj/tpj/issues/vol5_5/sam05050005/tpj0505-0005.htm)
 - :jp: Perl Haiku Contest
-- :walking: [NeoCPANisms](http://neilb.org/neocpanisms/) - Sit well and (try to) release new dists each month :smirk_cat:
+- :walking: [NeoCPANisms](http://neilb.org/neocpanisms) - Sit well and (try to) release new dists each month :smirk_cat:
 
 ![](https://imgs.xkcd.com/comics/11th_grade.png)
 
@@ -202,17 +202,17 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://imgs.xkcd.com/comics/lisp.jpg)
 
-- :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry/) - Prepare your eyes
+- :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry) - Prepare your eyes
 - :gem: **Pearl of great price** - The biblical reference that inspired Larry Wall to name Perl
 - :cookie: [Perl fortunes](https://github.com/thibaultduponchelle/perl-fortunes) - Collection of Perl related quotes to be used as a fortune database  
 
 ## :jack_o_lantern: Perl Ecosystem
-- :fuelpump: [CPAN](https://www.cpan.org/) - It is commonly accepted that the Perl _killer app_ is CPAN (*"CPAN is the language, Perl is just the syntax"* - [Audrey Tang](https://fr.wikipedia.org/wiki/Audrey_Tang)) 
-- :pill: [MetaCPAN](https://metacpan.org/) - Search the CPAN
+- :fuelpump: [CPAN](https://www.cpan.org) - It is commonly accepted that the Perl _killer app_ is CPAN (*"CPAN is the language, Perl is just the syntax"* - [Audrey Tang](https://fr.wikipedia.org/wiki/Audrey_Tang)) 
+- :pill: [MetaCPAN](https://metacpan.org) - Search the CPAN
 
 ### News and forums engines
-- :family: [YaBB](http://www.yabbforum.com/) - Forum engine
-- :speech_balloon: [Everything Engine](https://www.everything2.com/) - News platform engine  and questions/answers platform ([PerlMonks](https://www.perlmonks.org) is powered by this)
+- :family: [YaBB](http://www.yabbforum.com) - Forum engine
+- :speech_balloon: [Everything Engine](https://www.everything2.com) - News platform engine  and questions/answers platform ([PerlMonks](https://www.perlmonks.org) is powered by this)
 - :couple: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine ([Slashdot](https://slashdot.org) is powered by this)
 - :family: [DuckDuckGo Instant Answer](https://duck.co/ia) - An aggregator of questions/answers platform ([github](https://github.com/duckduckgo/duckduckgo))
 
