@@ -99,6 +99,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Blogs
 - :couple: [Blogs about Perl](http://blogs.perl.org) - Blog service for Perl folks
+- :saxophone: [Typepad](https://www.typepad.com) - Blogging platform based on [Movable Type](https://movabletype.org)
 - :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog 
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
 - :couple: [Perl Hacks](https://perlhacks.com) - Just another Perl Hacker's blog
