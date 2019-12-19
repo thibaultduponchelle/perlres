@@ -98,7 +98,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [Perl.com](https://www.perl.com) - Recent domain (despite its name....), a newsfeed
 - :clipboard: [Weekly Newsletter](http://perlweekly.com) - Newsletter gathering Perl news and links
 
-### Blogs
+### Blogging
 - :couple: [Blogs about Perl](http://blogs.perl.org) - Blog service for Perl folks
 - :saxophone: [Typepad](https://www.typepad.com) - Blogging platform based on [Movable Type](https://movabletype.org)
 - :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog 
