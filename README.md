@@ -57,7 +57,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :school: [Enlightened Perl](https://ww2.enlightenedperl.org) - An organization supporting Perl
 - :eyes: [P3rl.org](https://p3rl.org) - Documentation portal about Perl
 - :star2: [BIP](http://builtinperl.com) - Blog, job board and companies directory
-- :floppy_disk: [use.perl.org Archive](https://use-perl.github.io) - Archive of Perl-specific blogging website with lots of articles
 
 ## :fuelpump: Around the CPAN
 - :ocean: [CPAN Deps](http://deps.cpantesters.org) - List dependencies for a CPAN module ([github](https://github.com/DrHyde/CPANdeps))
@@ -100,6 +99,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Blogging
 - :couple: [Blogs about Perl](http://blogs.perl.org) - Blog service for Perl folks
+- :floppy_disk: [use.perl.org Archive](https://use-perl.github.io) - Archive of Perl-specific blogging website with lots of articles
 - :saxophone: [Typepad](https://www.typepad.com) - Blogging platform based on [Movable Type](https://movabletype.org)
 - :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog 
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
