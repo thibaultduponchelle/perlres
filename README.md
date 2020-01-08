@@ -102,7 +102,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :floppy_disk: [use.perl.org Archive](https://use-perl.github.io) - Archive of Perl-specific blogging website with lots of articles
 - :saxophone: [Typepad](https://www.typepad.com) - Blogging platform based on [Movable Type](https://movabletype.org)
 - :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog 
-- :speech_balloon: [Cultured Perl](https://culturedperl.com) - A Blog about Perl
+- :speech_balloon: [Cultured Perl](https://culturedperl.com) - A blog about Perl
 - :couple: [Perl Hacks](https://perlhacks.com) - Just another Perl Hacker's blog
 
 ### Conferences
