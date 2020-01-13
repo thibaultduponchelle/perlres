@@ -626,6 +626,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Teach Yourself Perl in 24 Hours
 - :green_book: Perl Debugged
 - :blue_book: Perl Power
+- :green_book: [Perl XML::LibXML by Example](http://grantm.github.io/perl-libxml-by-example)
 - :orange_book: Programming Web Graphics with Perl and GNU Software
 - :notebook: Web Client Programming with Perl
 - :orange_book: Learning Perl on Win32 Systems
