@@ -458,6 +458,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :underage: [Web Sorrow](https://code.google.com/archive/p/web-sorrow) - Security scanner
 - :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome) - WebSSO, Access Management and Identity Federation
+- :suspect: [PacketFence](https://packetfence.org) - Network access control (NAC) solution ([github](https://github.com/inverse-inc/packetfence))
 - :octopus: [Plain VM](https://github.com/mgechev/plainvm) - Controle multiple VMs
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
 - :email: [Ashafix](https://github.com/mbethke/Ashafix) - Postfixadmin port in Perl
