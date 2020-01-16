@@ -34,8 +34,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :european_castle: [Perl Foundation](https://www.perlfoundation.org/) - The Perl Foundation
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel/) - Yearly awards for important contribution to Perl (not only with code)
 
-## :hammer_and_pick: Modules and installers
+## :hammer_and_pick: Distributions, modules and installers
 - :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([CPAN profile](https://metacpan.org/author/MIYAGAWA))
+- :volcano: [ActivePerl](https://www.activestate.com/products/perl) - Perl distribution for Windows/OSX/Linux :door: :apple: :penguin: ([github](https://github.com/ActiveState))
+- :strawberry: [Strawberry Perl](http://strawberryperl.com) - Perl distribution for Windows ([github](https://github.com/StrawberryPerl))
 - :hammer: [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
 - :wrench: [plenv](https://github.com/tokuhirom/plenv) - Another Perl binaries handler. [Differences between perlbrew and plenv](https://weblog.bulknews.net/plenv-alternative-for-perlbrew-7b5bf00a419e)
 - :strawberry: [Berrybrew](https://github.com/dnmfarrell/berrybrew) - The perlbrew for Windows Strawberry Perl
@@ -393,7 +395,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Perl Application Bundlers / Packagers
 - :gift: [PAR::Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables from Perl programs
 - :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML interface for Perl desktop applications
-- :moneybag: [PerlApp](http://www.activestate.com/perl-dev-kit) - Convert Perl program into a standalone application (commercial; part of ActiveState Perl Dev Kit)
+- :moneybag: [PerlApp](http://www.activestate.com/perl-dev-kit) - Convert Perl program into a standalone application (commercial : part of ActiveState Perl Dev Kit)
 - :dollar: [Perl2Exe](http://www.indigostar.com/perl2exe) - Convert Perl scripts to executable file (commercial)
 - :nut_and_bolt: [App::FatPacker](https://metacpan.org/pod/App::FatPacker) - Pack your dependencies onto your script file
 - :sparkles: Use `PAR::Packer`, `Mojolicious`, and `Mojolicious::Plugin::Loco` to create self-contained "web" application that runs locally, and uses web browser for GUI.
