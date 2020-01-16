@@ -88,7 +88,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :santa: [Perl Advent Calendar](http://www.perladvent.org) - Advent calendar about Perl
 - :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious web framework
 - :christmas_tree: [Dancer Advent Calendar](http://advent.perldancer.org) - Advent calendar about Dancer web framework
-- :octocat: [Pull Request Club](https://pullrequest.club/hello) - Linking maintainers with contributors
+- :octocat: [Pull Request Club](https://pullrequest.club/hello) - Linking maintainers with contributors ([github](https://github.com/kyzn/PRC))
 
 ### Newsfeeds
 - :clipboard: [Perl Sphere](http://perlsphere.net) - Newsfeed
@@ -473,7 +473,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :mag: [Dezi](https://dezi.org) - Search platform
-- :octocat: [PRC](https://github.com/kyzn/PRC) - Linking maintainers with contributors
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
 - :gun: [Nipe](https://github.com/GouveaHeitor/nipe) - Script to make Tor network your default gateway
 - :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
