@@ -317,7 +317,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :newspaper: [Socialtext Open](https://github.com/audreyt/socialtext-open) - Wiki engine
 
 ### E-Commerce
-- :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform
+- :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform ([github](https://github.com/interchange/interchange))
 - :moneybag: [Surf Shop](http://www.surfshopcart.com) - Shopping cart
 - :money_with_wings: [Agora Cart](http://www.agoracart.com) - Shopping cart
 - :phone: [Ledger SMB](https://ledgersmb.org) - ERP
@@ -380,6 +380,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :clap: [EmbPerl](https://metacpan.org/pod/Embperl) - Templating system
 - :snake: [DTL::Fast](https://metacpan.org/pod/DTL::Fast) - Perl port of Django templating language ([:octocat:sources](https://github.com/hurricup/DTL-Fast))
 - :wavy_dash: [Template::Mustache](https://metacpan.org/pod/Template::Mustache) - Templating system [Mustache](https://mustache.github.io) ([:octocat:sources](https://github.com/yanick/Template-Mustache))
+- :art: [Template::Flute](https://github.com/racke/Template-Flute) - Templating system for designers
 
 ### Compiler and alternative interpreters
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
