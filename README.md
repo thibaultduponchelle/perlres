@@ -1,3 +1,4 @@
+[![Language Perl](https://img.shields.io/badge/Language-Perl-blue)](https://www.perl.org/) [![PullRequestClub](https://img.shields.io/badge/PullRequest-Club-brightgreen)](https://pullrequest.club/hello)
 # perlres
 
 List of resources about Perl :dromedary_camel:
