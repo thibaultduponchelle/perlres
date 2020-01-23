@@ -1,3 +1,5 @@
+[![PullRequestClub](https://img.shields.io/badge/PullRequest-Club-brightgreen)](https://pullrequest.club/hello)
+
 # perlres
 
 List of resources about Perl :dromedary_camel:
@@ -747,3 +749,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md)
 # :bow: Contributors
 
 Thank you to all the [fantastic contributors](https://github.com/thibaultduponchelle/perlres/graphs/contributors) :heartpulse:
+
