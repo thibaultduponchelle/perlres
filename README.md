@@ -380,7 +380,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Templating
 - :wave: [Mason](https://github.com/jonswar/perl-mason) - Templating system
 - :clap: [EmbPerl](https://metacpan.org/pod/Embperl) - Templating system
-- :hamster: [Template::Toolkit](http://template-toolkit.org) - Templating system ([github](https://github.com/abw/Template2)
+- :hamster: [Template Toolkit](http://template-toolkit.org) - Templating system ([github](https://github.com/abw/Template2))
 - :snake: [DTL::Fast](https://metacpan.org/pod/DTL::Fast) - Perl port of Django templating language ([github](https://github.com/hurricup/DTL-Fast))
 - :wavy_dash: [Template::Mustache](https://metacpan.org/pod/Template::Mustache) - Templating system [Mustache](https://mustache.github.io) ([github](https://github.com/yanick/Template-Mustache))
 - :art: [Template::Flute](https://github.com/racke/Template-Flute) - Templating system for designers
