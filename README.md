@@ -277,7 +277,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_downwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
 - :bar_chart: [OPS View](https://www.opsview.com/) - Network and application monitoring
 - :hourglass_flowing_sand: [Net Disco](http://netdisco.org/) - Network management tool
-- :smoking: [Smoke Ping](https://oss.oetiker.ch/smokeping) - Monitor network latency
+- :smoking: [SmokePing](https://oss.oetiker.ch/smokeping) - Monitor network latency ([github](https://github.com/oetiker/SmokePing))
 - :vhs: [Stormons](https://sourceforge.net/projects/stormons/) - Monitoring and mapping SAN storage devices.
 - :chart_with_upwards_trend: [Proclet](https://github.com/kazeburo/Proclet) - Minimalist supervisor
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
