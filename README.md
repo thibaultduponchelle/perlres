@@ -584,6 +584,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: Embedding Perl in HTML with MASON
 - :orange_book: Perl for website management
 - :notebook: Picking up Perl
+- :orange_book: Perls or wisdom
+- :blue_book: Perl annotated archives
 - :notebook_with_decorative_cover: Real World SQL Server Administration with Perl
 - :blue_book: Perl 5 internals
 - :notebook: Practical text mining with perl
