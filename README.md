@@ -528,6 +528,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl)
 - :blue_book: Perl receptury
 - :closed_book: Beginning Perl (James D Lee)
+- :blue_book: Beginning Perl Programming : From novice to professionnal (William Rothwell)
 - :notebook: [Perl pocket reference](http://shop.oreilly.com/product/0636920018476.do)
 - :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
 - :orange_book: XML and Perl
