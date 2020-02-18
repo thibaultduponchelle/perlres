@@ -537,6 +537,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Programming the perl DBI
 - :notebook: CGI programming with Perl
 - :closed_book: Perl & LWP
+- :notebook: Perl programming for the absolute beginner
 - :orange_book: [Perl graphics Programming](http://shop.oreilly.com/product/9780596002190.do)
 - :blue_book: Perl for dummies
 - :notebook: [Mastering algorithms with Perl](http://shop.oreilly.com/product/9781565923980.do)
