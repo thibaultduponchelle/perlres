@@ -608,6 +608,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Automating Windows with Perl
 - :closed_book: Perl Developer's Dictionary (Clinton Pierce)
 - :orange_book: Instant CGI/Perl
+- :green_book: Advanced programming in Perl for beginners
 - :notebook_with_decorative_cover: Web Programming with Perl 5
 - :blue_book: Official Guide to Programming with CGI.pm
 - :notebook: CGI Developer's Resource: Web programming in Tcl and Perl
