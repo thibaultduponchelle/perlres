@@ -563,7 +563,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook_with_decorative_cover: Perl black book
 - :ledger: Extending and embedding Perl
 - :blue_book: Mod_perl developer cookbooks
-- :blue_book: Effective Perl programming
 - :orange_book: Perl core language little black book
 - :green_book: Writing apache modules with Perl and C
 - :blue_book: Running weblogs with Slash
