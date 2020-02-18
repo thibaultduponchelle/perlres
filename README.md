@@ -652,6 +652,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Philippe Banquet, Les fondamentaux du langage Perl 5 : Apprentissage par la pratique :fr:
 - :blue_book: Perl moderne :fr:
 - :notebook: Perl reference de poche :fr:
+- :orange_book: Perl pour l’impatient :fr:
 - :notebook_with_decorative_cover: Perl en action :fr:
 - :blue_book: Introductions a Perl/Tk: Interfaces graphiques avec Perl :fr: 
 
