@@ -580,6 +580,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook_with_decorative_cover: Writing CGI applications with Perl
 - :blue_book: Automating System administration with Perl
 - :green_book: Minimal Perl
+- :blue_book: Perl programming language (Step-by-step Perl programming book)
 - :closed_book: Embedding Perl in HTML with MASON
 - :orange_book: Perl for website management
 - :notebook: Picking up Perl
