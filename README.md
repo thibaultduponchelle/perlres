@@ -649,7 +649,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Welcome to Perl Country :jp:
 - :notebook: How to Write Perl :jp:
 - :orange_book: Introduction to Perl :jp:
-- :green_book: Philippe Banquet, Les fondamentaux du langage Perl 5 : Apprentissage par la pratique :fr:
+- :green_book: Les fondamentaux du langage Perl 5 : Apprentissage par la pratique (Philippe Banquet) :fr:
 - :blue_book: Perl moderne :fr:
 - :orange_book: Perl 5 (David Till) :fr:
 - :notebook: Perl reference de poche :fr:
