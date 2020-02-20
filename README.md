@@ -620,7 +620,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: Developing CGI Applications with Perl
 - :blue_book: Perl 5 Interactive Course
 - :green_book: [Selenium and Perl](https://perlschool.com/books/selenium-perl)
-- :notebook: [Perl taster](https://perlschool.com/books/perl-taster)
+- :notebook: [Perl Taster](https://perlschool.com/books/perl-taster)
+- :blue_book: [Learning Perl Exercises](https://perlschool.com/books/learning-perl-exercises)
+- :green_book: [Cucumber and Perl](https://perlschool.com/books/cucumber-and-perl) 
 - :orange_book: Teach Yourself CGI Programming with Perl 5 in a week
 - :green_book: Penetration Testing with Perl
 - :closed_book: Hands-On Penetration Testing with Python
