@@ -609,7 +609,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) - E-Book about coding competition 
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
 - :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
-- :orange_book: RT Essentials
+- :orange_book: [RT Essentials](http://shop.oreilly.com/product/9780596006686.do)
 - :green_book: [Writing Perl Modules for CPAN](https://www.apress.com/fr/book/9781590590188) 
 - :blue_book: Automating Windows with Perl
 - :closed_book: Perl Developer's Dictionary (Clinton Pierce)
