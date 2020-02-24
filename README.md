@@ -350,7 +350,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bird: [Kossy](https://github.com/kazeburo/Kossy) - Simple web application framework
 - :panda_face: [Squatting](https://github.com/beppu/squatting) - Web microframework
 - :wolf: [Tatsumaki](https://github.com/miyagawa/Tatsumaki) - Non-blocking web framework based on Plack and AnyEvent
-- :grapes: [Raison](https://github.com/khrt/Raisin) - REST API micro framework
+- :grapes: [Raisin](https://github.com/khrt/Raisin) - REST API micro framework
 - :whale2: [Maypole](https://metacpan.org/pod/Maypole) - MVC web application framework
 - :dolphin: [Angelos](https://github.com/dann/angelos) - Web application framework
 - :fish: [Web::Simple](http://git.shadowcat.co.uk/gitweb/gitweb.cgi?p=catagits/Web-Simple.git) - Simple web application framework
