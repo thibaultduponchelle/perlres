@@ -455,7 +455,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :wrench: [Devel::hdb](https://github.com/brummett/Devel-hdb) - Another Perl debugger
 - :tada: [Diff So Fancy](https://github.com/so-fancy/diff-so-fancy) - The best-lookin' diffs
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
-- :rainbow: [Markdown](https://daringfireball.net/projects/markdown) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl
+- :rainbow: [Markdown](https://daringfireball.net/projects/markdown) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl ([git](https://repo.or.cz/markdown))
 - :wrench: [Daiku](https://github.com/tokuhirom/Daiku) - Kind of make
 - :1234: [PDL](http://pdl.perl.org) - For scientific calculations
 - :handbag: [Fink Project](http://finkproject.org) - Tool to help porting software from UNIX like to macOS
