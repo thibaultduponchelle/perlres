@@ -422,6 +422,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octopus: [Gitolite](https://gitolite.com/gitolite) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - :turtle: [GitPrep](http://gitprep.yukikimoto.com) - Portable github system ([github](https://github.com/yuki-kimoto/gitprep))
 - :ant: [Gitalist](https://github.com/broquaint/Gitalist) - Modern git viewer
+- :boar: [Girocco](https://repo.or.cz/girocco) - Git hosting system behind the first public git hosting [https://repo.or.cz](https://repo.or.cz)
 
 ### Database tooling
 - :minidisc: [MySQL Tuner](https://github.com/major/MySQLTuner-perl) - MySQL configuration and tuning
