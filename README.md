@@ -479,6 +479,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :email: [Ashafix](https://github.com/mbethke/Ashafix) - Postfixadmin port in Perl
 - :rocket: [Proxmox VE](https://www.proxmox.com/en/) - A virtualization and LXC platform
 - :arrow_right_hook: [Shorewall](http://shorewall.org) - Gateway/firewall configuration tool
+- :wrench: [NicTool](https://www.nictool.com) - A DNS management solution ([github](https://github.com/msimerson/NicTool))
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
