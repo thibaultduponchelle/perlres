@@ -244,6 +244,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bookmark_tabs: [Contenticious](http://mirko.westermeier.de/contenticious) - File based CMS ([github](https://github.com/memowe/contenticious))
 - :beer: [CiderCMS](http://cidercms.org) - Flexible CMS for small to mid sized websites ([github](https://github.com/niner/CiderCMS))
 - :memo: [Gruta](https://triptico.com/software/gruta.html) - A web content management system ([git](https://repo.or.cz/gruta))
+- :page_with_curl: [Plerd](https://github.com/jmacdotorg/plerd) - A blogging engine based on markdown and dropbox
 
 ### Blogging
 - :couple: [Bloxsom](http://blosxom.sourceforge.net/) - Blogging engine
