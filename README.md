@@ -82,6 +82,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :flashlight: [grep::cpan](https://grep.metacpan.org/) - Grep the CPAN
 - :mag: [CPAN->grep](http://grep.cpan.me/) - Search code on CPAN
 - :eyeglasses: [CPAN::Groonga](https://grep.cpanauthors.org/) - Yet another CPAN grep service
+- :vibration_mode: [PerlModules.net](https://www.perlmodules.net) - Track changes in CPAN modules (changelog, RSS...)
 
 ## :beers: Social
 ### Community
