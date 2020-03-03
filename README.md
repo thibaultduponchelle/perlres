@@ -656,6 +656,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Teach Yourself Perl in 24 Hours
 - :green_book: Perl Debugged
 - :blue_book: Perl Power
+- :orange_book: Spidering hacks
 - :green_book: [Perl XML::LibXML by Example](http://grantm.github.io/perl-libxml-by-example) ([github](https://github.com/grantm/perl-libxml-by-example))
 - :blue_book: [The Perl Language](https://github.com/rfilipo/The-Perl-Language) (WIP)
 - :orange_book: Programming Web Graphics with Perl and GNU Software
@@ -672,7 +673,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Perl reference de poche :fr:
 - :orange_book: Perl pour l’impatient :fr:
 - :notebook_with_decorative_cover: Perl en action :fr:
-- :blue_book: Introductions a Perl/Tk: Interfaces graphiques avec Perl :fr: 
+- :blue_book: Introductions a Perl/Tk: Interfaces graphiques avec Perl :fr:
+- :greend_book: De Perl a Java : Programmation des expressions regulieres :fr:
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
