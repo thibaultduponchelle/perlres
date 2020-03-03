@@ -308,7 +308,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :construction_worker: [Gearman](http://gearman.org) - Job server
 - :suspension_railway: [Qudo](https://github.com/nekokak/qudo) - Job queue manager
 - :mountain_railway: [Resque](https://github.com/diegok/resque-perl) - Job queue manager
-- :aerial_tramway: [TheSchwartz](https://github.com/akiym/TheSchwartz) - Job queue manager 
+- :aerial_tramway: [TheSchwartz](https://github.com/akiym/TheSchwartz) - Job queue manager
+- :satellite: [Helios](https://github.com/logicalhelion/helios) - Distributed job processing and application framework 
 
 ### Tickets trackers
 - :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker ([github](https://github.com/bestpractical/rt))
