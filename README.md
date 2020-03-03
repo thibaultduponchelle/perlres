@@ -481,6 +481,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :rocket: [Proxmox VE](https://www.proxmox.com/en/) - A virtualization and LXC platform
 - :arrow_right_hook: [Shorewall](http://shorewall.org) - Gateway/firewall configuration tool
 - :wrench: [NicTool](https://www.nictool.com) - A DNS management solution ([github](https://github.com/msimerson/NicTool))
+- :lock: [Ferm](https://github.com/MaxKellermann/ferm) - A frontend for iptables
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
