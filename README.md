@@ -244,7 +244,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bookmark_tabs: [Contenticious](http://mirko.westermeier.de/contenticious) - File based CMS ([github](https://github.com/memowe/contenticious))
 - :beer: [CiderCMS](http://cidercms.org) - Flexible CMS for small to mid sized websites ([github](https://github.com/niner/CiderCMS))
 - :memo: [Gruta](https://triptico.com/software/gruta.html) - A web content management system ([git](https://repo.or.cz/gruta))
-- :page_with_curl: [Plerd](https://github.com/jmacdotorg/plerd) - A blogging engine based on markdown and dropbox
 
 ### Blogging
 - :couple: [Bloxsom](http://blosxom.sourceforge.net/) - Blogging engine
@@ -255,6 +254,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
 - :family: [Dreamwidth](https://www.dreamwidth.org) - Shared blogging
 - :couple: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
+- :page_with_curl: [Plerd](https://github.com/jmacdotorg/plerd) - A blogging engine based on markdown and dropbox
 - :family: [Rapi Blog](https://github.com/vanstyn/Rapi-Blog) - Blogging engine (based on [RapidApp](http://www.rapidapp.info))
 - :couple: [TumbleBlog](https://github.com/john-bokma/tumblelog) - A static microblog generator
 
