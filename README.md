@@ -644,6 +644,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Minimal Perl: For UNIX and Linux People
 - :blue_book: Building Tag Clouds in Perl and PHP
 - :green_book: Wicked Cool Perl Scripts
+- :blue_book: Perl Web Site Workshop
 - :notebook: Pro Perl
 - :blue_book: Perl : best 2020
 - :orange_book: Perl Medic: Transforming Legacy Code
