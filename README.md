@@ -568,7 +568,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: Practical mod_perl
 - :green_book: Mod_perl pocket reference
 - :blue_book: Mod_perl 2 user guide
-- :notebook: Object Oriented Perl
+- :notebook: [Object Oriented Perl](http://perltraining.com.au/notes/perloo.pdf)
 - :closed_book: Perl in a nutshell
 - :green_book: Perl testing a developer notebook
 - :blue_book: Beginning Perl for bioinformatics
