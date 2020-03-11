@@ -583,6 +583,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Running weblogs with Slash
 - :orange_book: Core Perl
 - :closed_book: Perl for the Web
+- :blue_book: The Definitive Guide to Catalyst: Writing Extendable, Scalable and Maintainable Perl-Based Web Applications
 - :notebook: [Data Munging with Perl](https://datamungingwithperl.com/)
 - :notebook_with_decorative_cover: [MySQL and Perl for the Web](http://www.kitebird.com/mysql-perl)
 - :notebook: [Open Source Web Development with LAMP](http://www.opensourcewebbook.com)
