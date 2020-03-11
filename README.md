@@ -222,21 +222,21 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### News and forums engines
 - :family: [YaBB](http://www.yabbforum.com) - Forum engine
-- :speech_balloon: [Everything Engine](https://www.everything2.com) - News platform engine  and questions/answers platform ([PerlMonks](https://www.perlmonks.org) is powered by this)
+- :speech_balloon: [Everything Engine](https://sourceforge.net/projects/everydevel) - News platform engine and questions/answers platform ([PerlMonks](https://www.perlmonks.org) is powered by this)
 - :couple: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine ([Slashdot](https://slashdot.org) is powered by this)
 - :family: [DuckDuckGo Instant Answer](https://duck.co/ia) - An aggregator of questions/answers platform ([github](https://github.com/duckduckgo/duckduckgo))
 
 ### CMS
 - :bookmark_tabs: [Movable Type](https://www.movabletype.org/) - CMS ([github](https://github.com/movabletype/movabletype))
 - :page_with_curl: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
-- :seat: [ACT](http://act.mongueurs.net/) - CMS for conferences ([github](https://github.com/book/Act))
+- :seat: [ACT](http://act.mongueurs.net) - CMS for conferences ([github](https://github.com/book/Act))
 - :memo: [Bricolage](http://bricolagecms.org) - CMS ([github](https://github.com/bricoleurs/bricolage))
-- :bookmark_tabs: [Krang](http://krang.sourceforge.net/) - CMS
-- :memo: [WebGui](http://www.webgui.org/) - CMS
-- :page_with_curl: [Simpleness](http://cms.simpleness.org/) - CMS
-- :bookmark_tabs: [Callisto](https://sourceforge.net/projects/callistocms/) - CMS
-- :memo: [Spine](http://spine.sourceforge.net/) - CMS
-- :clipboard: [XIMS](http://xims.info/) - CMS
+- :bookmark_tabs: [Krang](http://krang.sourceforge.net) - CMS
+- :memo: [WebGui](http://www.webgui.org) - CMS
+- :page_with_curl: [Simpleness](http://cms.simpleness.org) - CMS
+- :bookmark_tabs: [Callisto](https://sourceforge.net/projects/callistocms) - CMS
+- :memo: [Spine](http://spine.sourceforge.net) - CMS
+- :clipboard: [XIMS](http://xims.info) - CMS
 - :memo: [Blaze Blogger](http://blaze.blackened.cz) - CMS
 - :page_with_curl: [Galileo](http://galileo-cms.herokuapp.com/page/home) - CMS
 - :memo: [Blio](https://github.com/domm/Blio) - CMS
@@ -246,9 +246,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [Gruta](https://triptico.com/software/gruta.html) - A web content management system ([git](https://repo.or.cz/gruta))
 
 ### Blogging
-- :couple: [Bloxsom](http://blosxom.sourceforge.net/) - Blogging engine
+- :couple: [Bloxsom](http://blosxom.sourceforge.net) - Blogging engine
 - :family: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
-- :couple: [Statocles](http://preaction.me/statocles/) - Static blog generator ([github](https://github.com/preaction/Statocles))
+- :couple: [Statocles](http://preaction.me/statocles) - Static blog generator ([github](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
 - :family: [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
 - :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
@@ -259,16 +259,16 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :couple: [TumbleBlog](https://github.com/john-bokma/tumblelog) - A static microblog generator
 
 ### Mailing lists engines
-- :mailbox: [Sympa](https://www.sympa.org/) - Mailing lists engine
+- :mailbox: [Sympa](https://www.sympa.org) - Mailing lists engine
 - :mailbox_with_mail: [Minimalist](https://github.com/madroach/minimalist) - Mailing lists engine
 - :mailbox_closed: [Dada Mail](https://github.com/justingit/dada-mail) - Mailing lists engine
 - :mailbox_with_no_mail: [Majordomo](http://old.greatcircle.com/majordomo) - Mailing lists engine ([github](https://github.com/Distrotech/majordomo))
 
 ### Email filtering
-- :hocho: [SpamAssassin](https://spamassassin.apache.org/) - Email spam filtering
+- :hocho: [SpamAssassin](https://spamassassin.apache.org) - Email spam filtering
 - :email: [Amavis](https://amavis.org) - Email filter interface
 - :mailbox_with_mail: [POP file](http://getpopfile.org) - Email filtering
-- :no_entry: [ASSP](http://www.thockar.com/assp-home/) - Anti Spam
+- :no_entry: [ASSP](http://www.thockar.com/assp-home) - Anti Spam
 - :open_hands: [PostGrey](https://postgrey.schweikert.ch) - Postfix policy server implementing greylisting ([github](https://github.com/schweikert/postgrey))
 
 ### Communication
@@ -276,16 +276,16 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Convos](https://convos.by) - IRC web client ([github](https://github.com/Nordaaker/convos))
 
 ### Monitoring
-- :chart_with_upwards_trend: [Munin](http://munin-monitoring.org/) - Supervision software (like Nagios and Shinken)
+- :chart_with_upwards_trend: [Munin](http://munin-monitoring.org) - Supervision software (like Nagios and Shinken)
 - :chart_with_downwards_trend: [Monitorix](https://github.com/mikaku/Monitorix) -  Lightweight system monitoring tool
-- :bar_chart: [MRTG](https://oss.oetiker.ch/mrtg/) - Monitoring traffic load on network links ([github](https://github.com/oetiker/mrtg))
+- :bar_chart: [MRTG](https://oss.oetiker.ch/mrtg) - Monitoring traffic load on network links ([github](https://github.com/oetiker/mrtg))
 - :chart_with_downwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
 - :mag: [Open Smart](http://opensmart.sourceforge.net/) - Network and application monitoring
 - :chart_with_downwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
-- :bar_chart: [OPS View](https://www.opsview.com/) - Network and application monitoring
-- :hourglass_flowing_sand: [Net Disco](http://netdisco.org/) - Network management tool
+- :bar_chart: [OPS View](https://www.opsview.com) - Network and application monitoring
+- :hourglass_flowing_sand: [Net Disco](http://netdisco.org) - Network management tool
 - :smoking: [SmokePing](https://oss.oetiker.ch/smokeping) - Monitor network latency ([github](https://github.com/oetiker/SmokePing))
-- :vhs: [Stormons](https://sourceforge.net/projects/stormons/) - Monitoring and mapping SAN storage devices.
+- :vhs: [Stormons](https://sourceforge.net/projects/stormons) - Monitoring and mapping SAN storage devices.
 - :chart_with_upwards_trend: [Proclet](https://github.com/kazeburo/Proclet) - Minimalist supervisor
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :watch: [Thruk](https://www.thruk.org) - Multi-backends web interface for monitoring ([github](https://github.com/sni/Thruk))
@@ -338,7 +338,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cd: [Backup PC](https://backuppc.github.io/backuppc) - Backup tool
 
 ### Games
-- :new: [Tau Station](https://taustation.space/) - A text based web space game 
+- :new: [Tau Station](https://taustation.space) - A text based web space game 
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - :video_game: [Lacuna Expanse](https://github.com/plainblack/Lacuna-Server-Open) - Space game
 - :house: [Construder](https://github.com/elmex/Construder) - Minecraft-like game 
