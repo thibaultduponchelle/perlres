@@ -63,8 +63,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :star2: [BIP](http://builtinperl.com) - Blog, job board and companies directory
 
 ## :fuelpump: Around the CPAN
-- :ocean: [CPAN Deps CPANTesters](http://deps.cpantesters.org) - List dependencies for a CPAN module ([github](https://github.com/DrHyde/CPANdeps))
-- :cyclone: [CPAN Deps](https://cpandeps.grinnz.com) - Visually (graph) list dependencies for a CPAN module ([github](https://github.com/Grinnz/cpan-deps-graph))
+- :ocean: [CPAN Deps](http://deps.cpantesters.org) - List dependencies for a CPAN module ([github](https://github.com/DrHyde/CPANdeps))
+- :cyclone: [CPAN Deps Graph](https://cpandeps.grinnz.com) - Visually (graph) list dependencies for a CPAN module ([github](https://github.com/Grinnz/cpan-deps-graph))
 - :new: [CPAN Doc](https://cpandoc.grinnz.com) - Documentation of some important modules
 - :heavy_check_mark: [CPAN Testers](http://cpantesters.org) - Build and test reports of CPAN modules
 - :scroll: [BackPAN](http://backpan.cpantesters.org) - The entire history of CPAN
