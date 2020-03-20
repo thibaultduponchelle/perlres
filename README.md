@@ -508,14 +508,14 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com) - Share runnable Perl code :heart: :muscle:
-- :doughnut: [Web Perl](https://webperl.zero-g.net) - WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
-- :candy: [TIO](https://tio.run/#perl5) - Try It Online
+- :doughnut: [WebPerl](https://webperl.zero-g.net) - WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - :cake: [Perlbot](https://perl.bot) - Run and share Perl code
 
 ## :boom: Execute Perl online (sites not dedicated to Perl)
 - :banana: [Tutorial Points](https://www.tutorialspoint.com/execute_perl_online.php)
 - :corn: [Rextester](https://rextester.com/l/perl_online_compiler)
 - :cookie: [JDoodle](https://www.jdoodle.com/execute-perl-online)
+- :candy: [TIO](https://tio.run/#perl5) - Try It Online
 - :icecream: [Paiza](https://paiza.io/en/projects/new?language=perl)
 - :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - :hamburger: [JS.do](https://js.do/perl)
