@@ -565,6 +565,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: [Perl for Oracle DBAs](http://shop.oreilly.com/product/9780596002107.do)
 - :blue_book: [Advanced Perl Programming](http://shop.oreilly.com/product/9780596004569.do)
 - :notebook: Perl Testing
+- :blue_book: [Practical Magick with C, PDL, and PDL::PP](https://www.boulder.swri.edu/~deforest/ewExternalFiles/PP-practical-magick.pdf)
 - :closed_book: Practical vim
 - :blue_book: Perl one liners
 - :closed_book: Practical mod_perl
