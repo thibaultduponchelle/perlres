@@ -479,6 +479,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :suspect: [PacketFence](https://packetfence.org) - Network access control (NAC) solution ([github](https://github.com/inverse-inc/packetfence))
 - :octopus: [Plain VM](https://github.com/mgechev/plainvm) - Controle multiple VMs
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
+- :school_satchel: [Trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - :email: [Ashafix](https://github.com/mbethke/Ashafix) - Postfixadmin port in Perl
 - :rocket: [Proxmox VE](https://www.proxmox.com/en/) - A virtualization and LXC platform
 - :arrow_right_hook: [Shorewall](http://shorewall.org) - Gateway/firewall configuration tool
