@@ -486,6 +486,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :arrow_right_hook: [Shorewall](http://shorewall.org) - Gateway/firewall configuration tool
 - :wrench: [NicTool](https://www.nictool.com) - A DNS management solution ([github](https://github.com/msimerson/NicTool))
 - :lock: [Ferm](https://github.com/MaxKellermann/ferm) - A frontend for iptables
+- :black_joker: [SQLFairy](http://sqlfairy.sourceforge.net) - Convert SQL statements to graphs ([github](https://github.com/dbsrgits/sql-translator))
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
