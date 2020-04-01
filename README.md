@@ -248,7 +248,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bookmark_tabs: [Mira](https://miraxy.github.io) - Static website generator ([github](https://github.com/kiamazi/mira))
 
 ### Blogging
-- :couple: [Bloxsom](http://blosxom.sourceforge.net) - Blogging engine
+- :couple: [Blosxom](http://blosxom.sourceforge.net) - Blogging engine
 - :family: [PearlBee](https://github.com/Perl-Evozon/PearlBee) - Blogging platform
 - :couple: [Statocles](http://preaction.me/statocles) - Static blog generator ([github](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
