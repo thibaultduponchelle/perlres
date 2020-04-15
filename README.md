@@ -428,7 +428,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :octopus: [Gitolite](https://gitolite.com/gitolite) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - :turtle: [GitPrep](http://gitprep.yukikimoto.com) - Portable github system ([github](https://github.com/yuki-kimoto/gitprep))
 - :ant: [Gitalist](https://github.com/broquaint/Gitalist) - Modern git viewer
-- :boar: [Girocco](https://repo.or.cz/girocco) - Git hosting system behind the first public git hosting [https://repo.or.cz](https://repo.or.cz)
+- :boar: [Girocco](https://repo.or.cz/girocco) - Git hosting system behind the first public git hosting [https://repo.or.cz]
+(https://repo.or.cz)
+- :bar_chart: [Git Spark](https://github.com/kablamo/git-spark) - Plot git commit history with sparklines
 
 ### Database tooling
 - :minidisc: [MySQL Tuner](https://github.com/major/MySQLTuner-perl) - MySQL configuration and tuning
@@ -470,7 +472,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :smirk_cat: [Ack](https://beyondgrep.com) - Grep replacement, optimized for developers ([ack 1](https://github.com/beyondgrep/ack1), [ack 2](https://github.com/beyondgrep/ack2) and [ack 3](https://github.com/beyondgrep/ack3/))
 - :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview ([github](https://github.com/odyniec/POD-Web-View))
 - :checkered_flag: [GNU Parallel](https://www.gnu.org/software/parallel/) - Shell tool to execute commands in parallel ([github](https://git.savannah.gnu.org/cgit/parallel.git))
-- :bar_chart: [Git Spark](https://github.com/kablamo/git-spark) - Plot git commit history with sparklines
+- :tv: [Hl](https://github.com/lyokha/hl) - PCRE-based highlighter for terminal
 - :chart_with_upwards_trend: [st](https://github.com/nferraz/st) - Simple statistics from the command line
 
 ### Sysadmin
@@ -479,6 +481,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :minidisc: [CloneZilla](https://clonezilla.org) - Partition and disk imaging/cloning program
 - :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
+- :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
 - :underage: [Web Sorrow](https://code.google.com/archive/p/web-sorrow) - Security scanner
 - :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome) - WebSSO, Access Management and Identity Federation
 - :suspect: [PacketFence](https://packetfence.org) - Network access control (NAC) solution ([github](https://github.com/inverse-inc/packetfence))
@@ -491,6 +494,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :lock: [Ferm](https://github.com/MaxKellermann/ferm) - A frontend for iptables
 - :black_joker: [SQLFairy](http://sqlfairy.sourceforge.net) - Convert SQL statements to graphs ([github](https://github.com/dbsrgits/sql-translator))
 - :computer: [RemoteBox](http://remotebox.knobgoblin.org.uk) - VirtualBox Client with Remote Management 
+- :gun: [Nipe](https://github.com/GouveaHeitor/nipe) - Script to make Tor network your default gateway
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
@@ -501,10 +505,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :mag: [Dezi](https://dezi.org) - Search platform
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
-- :gun: [Nipe](https://github.com/GouveaHeitor/nipe) - Script to make Tor network your default gateway
-- :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
 - :calling: [PerlyBook](http://perlybook.org/) - Convert POD to EPUB/MOBI books ([github](https://github.com/reneeb/cpan2ebook))
-- :tv: [Hl](https://github.com/lyokha/hl) - PCRE-based highlighter for terminal
+
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
