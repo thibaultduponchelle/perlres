@@ -473,6 +473,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Sysadmin
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
+- :rocket: [Proxmox VE](https://www.proxmox.com/en/) - A virtualization and LXC platform
+- :minidisc: [CloneZilla](https://clonezilla.org) - Partition and disk imaging/cloning program
 - :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :underage: [Web Sorrow](https://code.google.com/archive/p/web-sorrow) - Security scanner
@@ -482,7 +484,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :baggage_claim: [Urpmi](https://en.wikipedia.org/wiki/Urpmi) - Package manager
 - :school_satchel: [Trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - :email: [Ashafix](https://github.com/mbethke/Ashafix) - Postfixadmin port in Perl
-- :rocket: [Proxmox VE](https://www.proxmox.com/en/) - A virtualization and LXC platform
 - :arrow_right_hook: [Shorewall](http://shorewall.org) - Gateway/firewall configuration tool
 - :wrench: [NicTool](https://www.nictool.com) - A DNS management solution ([github](https://github.com/msimerson/NicTool))
 - :lock: [Ferm](https://github.com/MaxKellermann/ferm) - A frontend for iptables
