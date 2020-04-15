@@ -471,6 +471,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview ([github](https://github.com/odyniec/POD-Web-View))
 - :checkered_flag: [GNU Parallel](https://www.gnu.org/software/parallel/) - Shell tool to execute commands in parallel ([github](https://git.savannah.gnu.org/cgit/parallel.git))
 - :bar_chart: [Git Spark](https://github.com/kablamo/git-spark) - Plot git commit history with sparklines
+- :chart_with_upwards_trend: [st](https://github.com/nferraz/st) - Simple statistics from the command line
 
 ### Sysadmin
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
