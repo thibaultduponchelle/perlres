@@ -495,6 +495,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :black_joker: [SQLFairy](http://sqlfairy.sourceforge.net) - Convert SQL statements to graphs ([github](https://github.com/dbsrgits/sql-translator))
 - :computer: [RemoteBox](http://remotebox.knobgoblin.org.uk) - VirtualBox Client with Remote Management 
 - :gun: [Nipe](https://github.com/GouveaHeitor/nipe) - Script to make Tor network your default gateway
+- :robot: [Nikto](https://cirt.net/Nikto2) - Webservers security scanner
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
