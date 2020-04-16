@@ -500,6 +500,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :computer: [RemoteBox](http://remotebox.knobgoblin.org.uk) - VirtualBox Client with Remote Management 
 - :gun: [Nipe](https://github.com/GouveaHeitor/nipe) - Script to make Tor network your default gateway
 - :robot: [Nikto](https://cirt.net/Nikto2) - Webservers security scanner
+- :minidisc: [ZnapZend](https://github.com/oetiker/znapzend) - Backup ZFS with remote capabilities
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
