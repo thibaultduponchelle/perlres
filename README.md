@@ -478,8 +478,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Sysadmin
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
-- :rocket: [Proxmox VE](https://www.proxmox.com/en/) - A virtualization and LXC platform
+- :rocket: [Proxmox VE](https://www.proxmox.com/en) - A virtualization and LXC platform
 - :minidisc: [CloneZilla](https://clonezilla.org) - Partition and disk imaging/cloning program
+- :satellite: [Zevenet](https://www.zevenet.com) - Load balancer ([github](https://github.com/zevenet/zlb))
 - :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
