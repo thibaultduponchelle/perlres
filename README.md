@@ -333,7 +333,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform ([github](https://github.com/interchange/interchange))
 - :moneybag: [Surf Shop](http://www.surfshopcart.com) - Shopping cart
 - :money_with_wings: [Agora Cart](http://www.agoracart.com) - Shopping cart
-- :phone: [Ledger SMB](https://ledgersmb.org) - ERP
+- :iphone: [Ledger SMB](https://ledgersmb.org) - ERP ([github](https://github.com/ledgersmb/LedgerSMB))
+- :phone: [SQL-Ledger](https://www.sql-ledger.com) - ERP
 
 ### Backup tools
 - :floppy_disk: [RSnapshot](https://github.com/rsnapshot/rsnapshot) -  Backup utility based on rsync
