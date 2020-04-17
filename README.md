@@ -100,6 +100,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :christmas_tree: [Dancer Advent Calendar](http://advent.perldancer.org) - Advent calendar about Dancer web framework
 - :octocat: [Pull Request Club](https://pullrequest.club/hello) - Linking maintainers with contributors ([github](https://github.com/kyzn/PRC))
 - :movie_camera: [Perl Cast](http://www.perlcast.com) - Podcasts about Perl (also [perlcast.net](http://perlcast.net))
+- :european_castle: [Perl Master Plan](http://perlcommunity.org) - Marketing materials about Perl
 
 ### Newsfeeds
 - :clipboard: [Perl Sphere](http://perlsphere.net) - Newsfeed
