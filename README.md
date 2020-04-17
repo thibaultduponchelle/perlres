@@ -177,7 +177,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :school: Tutorials meta-site
 - :books: [Perl tutorials](http://perl-tutorial.org) - Perl tutorials meta site
 
-## :squirrel: Perl folklore
+## :trollface: Perl folklore
 - :bomb: "**Perl**" vs "**perl**" - **Perl** is the language, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
 - :stars: [PerlSecret](https://metacpan.org/pod/distribution/perlsecret/lib/perlsecret.pod) - Secret operators and their nice nicknames
