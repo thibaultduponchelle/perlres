@@ -517,6 +517,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mag: [Dezi](https://dezi.org) - Search platform
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
 - :calling: [PerlyBook](http://perlybook.org/) - Convert POD to EPUB/MOBI books ([github](https://github.com/reneeb/cpan2ebook))
+- :wrench: [ExifTool](https://exiftool.org) - Meta informations reader/writer ([github](https://github.com/exiftool/exiftool))
 
 
 ### Other Perl lists
