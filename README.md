@@ -378,6 +378,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :snowflake: [Kelp](http://naturalist.github.io/kelp) - A web framework light ([github](https://github.com/naturalist/kelp))
 - :innocent: [Marquee](http://mrqe.jamadam.com) - Yet another Mojo based web framework ([github](https://github.com/jamadam/Marquee))
 - :pig: [Piggly](https://github.com/ensilon/piggly) - A straight forward PSGI web framework
+- :bug: [PEF::Front](https://github.com/jef-sure/pef-front-psgi-dist) - A web framework
 
 ### PSGI adapters and web servers
 - :pig: [Plack](https://github.com/plack/Plack) - PSGI toolkit and server adapter
