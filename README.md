@@ -396,6 +396,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :ox: [HTTP::Engine](https://github.com/http-engine/HTTP-Engine) - Web server
 - :dog2: [Feersum](https://github.com/stash/Feersum) - PSGI engine based on EV/libev
 - :japanese_ogre: [Server::Starter](https://github.com/kazuho/p5-Server-Starter) - Super Daemon to handle hot deployment of server programs
+- :mouse2: [Starlight](https://github.com/dex4er/Starlight) - PSGI/Plack HTTP server with pre-forks 
 
 ### Templating
 - :wave: [Mason](https://github.com/jonswar/perl-mason) - Templating system
