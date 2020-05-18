@@ -118,6 +118,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog 
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A blog about Perl
 - :couple: [Perl Hacks](https://perlhacks.com) - Just another Perl Hacker's blog
+- :couple: [Effective Perl Programming](https://www.effectiveperlprogramming.com) - Perl's new features, and using Perl well
 
 ### Conferences
 - :heavy_dollar_sign: [YAPC](https://www.yapc.org) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
@@ -544,7 +545,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :icecream: [Paiza](https://paiza.io/en/projects/new?language=perl)
 - :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - :hamburger: [JS.do](https://js.do/perl)
-- :arrow_forward: [Online Perl Interpreter](https://www.onlinegdb.com/online_perl_interpreter) - Online Perl interpreter
+- :arrow_forward: [Online Perl Interpreter](https://www.onlinegdb.com/online_perl_interpreter) - Code, Compile, Run and Debug Perl script online
 
 ## :bear: Lint Perl online
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
@@ -555,15 +556,16 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
-- :closed_book: [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl) (Camel book)
-- :green_book: [Perl cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book) - [read online](https://www.cs.ait.ac.th/~on/O/oreilly/perl/cookbook/index.htm)
-- :blue_book: [Learning Perl](https://en.wikipedia.org/wiki/Learning_Perl)  (Llama book)
-- :orange_book: [Intermediate Perl](https://en.wikipedia.org/wiki/Intermediate_Perl) (Alpaca book)
-- :notebook: [Mastering Perl](http://shop.oreilly.com/product/9780596527242.do)
+- :closed_book: [Programming Perl](https://www.programmingperl.org) (Camel book)
+- :green_book: [Perl Cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book)
+- :blue_book: [Learning Perl](https://www.learning-perl.com)  (Llama book)
+- :orange_book: [Intermediate Perl](https://www.intermediateperl.com) (Alpaca book)
+- :notebook: [Mastering Perl](https://www.masteringperl.org)
+- :notebook: [Effective Perl Programming](https://www.effectiveperlprogramming.com)
 - :notebook_with_decorative_cover: [Modern Perl](http://modernperlbooks.com)
 - :ledger: [Perl Best Practices](https://en.wikipedia.org/wiki/Perl_Best_Practices)
 - :orange_book: [Perl hacks](http://shop.oreilly.com/product/9780596526740.do)
-- :green_book: [High Order Perl](https://en.wikipedia.org/wiki/Higher-Order_Perl)
+- :green_book: [Higher Order Perl](https://hop.perl.plover.com)
 - :blue_book: [Beginning Perl](http://shop.oreilly.com/product/9781118013847.do) (Curtis "Ovid" Poe)
 - :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl)
 - :blue_book: Perl receptury
@@ -638,7 +640,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Beginning perl web development 
 - :blue_book: Programming for linguist Perl for language researchers
 - :notebook: Perl for C programmers
-- :orange_book: Effective Perl programming
 - :blue_book: Learning Perl the hard way
 - :notebook: Perl the programmer's companion
 - :green_book: Programming with Perl modules
@@ -664,8 +665,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Perl 5 Interactive Course
 - :green_book: [Selenium and Perl](https://perlschool.com/books/selenium-perl)
 - :notebook: [Perl Taster](https://perlschool.com/books/perl-taster)
-- :blue_book: [Learning Perl Exercises](https://perlschool.com/books/learning-perl-exercises)
-- :green_book: [Cucumber and Perl](https://perlschool.com/books/cucumber-and-perl) 
+- :blue_book: [Learning Perl Exercises](https://leanpub.com/learning_perl_exercises)
+- :green_book: [Cucumber and Perl](https://perlschool.com/books/cucumber-and-perl)
+- :green_book: [Mojolicious Web Clients](https://leanpub.com/mojo_web_clients)
 - :orange_book: Teach Yourself CGI Programming with Perl 5 in a week
 - :green_book: Penetration Testing with Perl
 - :closed_book: Hands-On Penetration Testing with Python
