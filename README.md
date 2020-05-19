@@ -175,7 +175,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :es: Tutorials in Spanish
 - :scroll: [Perl en español](https://perlenespanol.com)
 - :straight_ruler: [Perl en Bioinformática](https://eead-csic-compbio.github.io/perl_bioinformatica)
-- :racehorse: [Oneliners en Español](https://eead-csic-compbio.github.io/perl_bioinformatica/node88.html)
+- :racehorse: [One liners](https://eead-csic-compbio.github.io/perl_bioinformatica/node88.html)
 - :school: [#!/perl/bioinfo](https://bioinfoperl.blogspot.com)
 
 ## :vibration_mode: Interactive tutorials
