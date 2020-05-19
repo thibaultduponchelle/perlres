@@ -36,7 +36,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel) - Yearly awards for important social contribution to Perl (also [whitecamel.org](http://whitecamel.org))
 
 ## :hammer_and_pick: Distributions, modules and installers
-- :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([CPAN profile](https://metacpan.org/author/MIYAGAWA))
+- :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer
+- :fast_forward: [cpm](https://github.com/skaji/cpm) - A fast, parallel CPAN module installerby [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([CPAN profile](https://metacpan.org/author/MIYAGAWA))
 - :volcano: [ActivePerl](https://www.activestate.com/products/perl) - Perl distribution for Windows/OSX/Linux :door: :apple: :penguin: ([github](https://github.com/ActiveState))
 - :strawberry: [Strawberry Perl](http://strawberryperl.com) - Perl distribution for Windows ([github](https://github.com/StrawberryPerl))
 - :hammer: [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
@@ -48,7 +49,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **corelist** used to know _core modules_ shipped in a specific version of Perl.
 - :older_man: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable CPAN modules installer, part of core distribution, fully configurable ([github](https://github.com/andk/cpanpm))
 - :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ CPAN modules installer)
-- :fast_forward: [cpm](https://github.com/skaji/cpm) - A fast, parallel CPAN module installer
 - :construction: [cnext](https://next-cpan.github.io/cnext/) - Experimental CPAN module installer [based on an alternative index](https://github.com/next-cpan/next-indexes) ([github](https://github.com/next-cpan/cnext)) 
 
 ## :dromedary_camel: General
@@ -109,7 +109,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - Newsfeed
 - :newspaper: [Perl Buzz](https://perlbuzz.com) - Newsfeed
 - :memo: [Perl.com](https://www.perl.com) - Newsfeed
-- :clipboard: [Weekly Newsletter](http://perlweekly.com) - Newsletter gathering Perl news and links
+- :clipboard: [Perl Weekly](http://perlweekly.com) - Newsletter gathering Perl news and links
 
 ### Blogging
 - :couple: [Blogs about Perl](http://blogs.perl.org) - Blog service for Perl folks
@@ -545,7 +545,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :icecream: [Paiza](https://paiza.io/en/projects/new?language=perl)
 - :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - :hamburger: [JS.do](https://js.do/perl)
-- :arrow_forward: [Online Perl Interpreter](https://www.onlinegdb.com/online_perl_interpreter) - Online Perl interpreter
+- :arrow_forward: [Online GDB](https://www.onlinegdb.com/online_perl_interpreter) - Online Perl interpreter
 
 ## :bear: Lint Perl online
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
