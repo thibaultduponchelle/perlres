@@ -713,7 +713,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Perl pour l’impatient :fr:
 - :notebook_with_decorative_cover: Perl en action :fr:
 - :blue_book: Introductions a Perl/Tk: Interfaces graphiques avec Perl :fr:
-- :greend_book: De Perl a Java : Programmation des expressions regulieres :fr:
+- :green_book: De Perl a Java : Programmation des expressions regulieres :fr:
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
