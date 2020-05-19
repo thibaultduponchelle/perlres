@@ -172,6 +172,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :racehorse: [Site du zero](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
 - :school: [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl)
 
+## :fr: Tutorials in Spanish
+- :scroll: [Perl en español](https://perlenespanol.com)
+- :straight_ruler: [Perl en Bioinformática](https://eead-csic-compbio.github.io/perl_bioinformatica)
+- :school: [#!/perl/bioinfo](https://bioinfoperl.blogspot.com)
+
 ## :vibration_mode: Interactive tutorials
 - :pizza:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world) - Learn modern Perl any time and from everywhere :purple_heart: 
 - :fries: [Learn Perl](https://www.learn-perl.org) - Free interactive Perl tutorial :blue_heart:
