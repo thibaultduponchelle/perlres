@@ -471,7 +471,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :battery: [Hydra](https://github.com/NixOS/hydra) - A [Nix](https://nixos.org)-based continuous build system 
 
 ### Desktop Applications
-- :movie_camera: **Shutter** - Screenshot utility
+- :movie_camera: [Shutter](https://shutter-project.org) - Screenshot utility
 - :computer: [Ravada](https://github.com/UPC/ravada) - Remote Virtual Desktops Manager
 - :pencil2: [Kephra](http://kephra.sourceforge.net/site/en/home_news.shtml) - Editor
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
