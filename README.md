@@ -561,6 +561,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :zap: [PerlCritic](http://perlcritic.com) - Web frontend to [Perl::Critic](https://github.com/Perl-Critic/Perl-Critic)
 
 ## :books: Books 
+- :school: [PerlSchool](https://perlschool.com) - Online catalog of low cost high quality Perl books
 - :books: [Some books](https://perldoc.pl/perlbook.html) and [some others](https://learn.perl.org/books) 
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
