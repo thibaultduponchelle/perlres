@@ -518,6 +518,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :gun: [Nipe](https://github.com/GouveaHeitor/nipe) - Script to make Tor network your default gateway
 - :robot: [Nikto](https://cirt.net/Nikto2) - Webservers security scanner
 - :minidisc: [ZnapZend](https://github.com/oetiker/znapzend) - Backup ZFS with remote capabilities
+- :alarm_clock: [NTPPool](https://www.ntppool.org) - Virtual cluster of timeservers ([github](https://github.com/abh/ntppool))
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
