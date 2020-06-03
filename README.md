@@ -532,6 +532,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :calling: [PerlyBook](http://perlybook.org/) - Convert POD to EPUB/MOBI books ([github](https://github.com/reneeb/cpan2ebook))
 - :wrench: [ExifTool](https://exiftool.org) - Meta informations reader/writer ([github](https://github.com/exiftool/exiftool))
 - :beetle: [BioPerl](https://bioperl.org) - BioPerl distribution ([github](https://github.com/bioperl/bioperl-live/blob/master/README.md))
+- :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - Search and stream videos on Youtube
 
 
 ### Other Perl lists
