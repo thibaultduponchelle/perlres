@@ -210,6 +210,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notes: [Perl Poetry Contest](https://www.foo.be/docs/tpj/issues/vol4_4/tpj0404-0015.html) - [PPC 1](https://www.foo.be/docs/tpj/issues/vol5_1/tpj0501-0012.html), [PPC 2](http://mkweb.bcgsc.ca/intranet/sapj/tpj/issues/vol5_5/sam05050005/tpj0505-0005.htm)
 - :jp: Perl Haiku Contest
 - :walking: [NeoCPANisms](http://neilb.org/neocpanisms) - Sit well and (try to) release new dists each month :smirk_cat:
+- :trophy: **Larry Wall Awards** - Annual award to the best contribution assigned during the TPC (old editions)
 
 ![](https://imgs.xkcd.com/comics/11th_grade.png)
 
