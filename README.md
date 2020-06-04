@@ -36,8 +36,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel) - Yearly awards for important social contribution to Perl (also [whitecamel.org](http://whitecamel.org))
 
 ## :hammer_and_pick: Distributions, modules and installers
-- :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer
-- :fast_forward: [cpm](https://github.com/skaji/cpm) - A fast, parallel CPAN module installerby [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([CPAN profile](https://metacpan.org/author/MIYAGAWA))
+- :pill: [cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm) - Modern CPAN modules installer by [Tatsuhiko Miyagawa](https://github.com/miyagawa) ([CPAN profile](https://metacpan.org/author/MIYAGAWA))
+- :fast_forward: [cpm](https://github.com/skaji/cpm) - A fast, parallel CPAN module installer
 - :volcano: [ActivePerl](https://www.activestate.com/products/perl) - Perl distribution for Windows/OSX/Linux :door: :apple: :penguin: ([github](https://github.com/ActiveState))
 - :strawberry: [Strawberry Perl](http://strawberryperl.com) - Perl distribution for Windows ([github](https://github.com/StrawberryPerl))
 - :hammer: [Perlbrew](https://perlbrew.pl/) - Perl binaries installer
