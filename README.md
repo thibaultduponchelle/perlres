@@ -108,7 +108,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :clipboard: [Perl Sphere](http://perlsphere.net) - Newsfeed
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - Newsfeed
 - :newspaper: [Perl Buzz](https://perlbuzz.com) - Newsfeed
-- :memo: [Perl.com](https://www.perl.com) - Newsfeed
+- :memo: [Perl.com](https://www.perl.com) - Newsfeed ([github](https://github.com/tpf/perldotcom))
 - :clipboard: [Perl Weekly](http://perlweekly.com) - Newsletter gathering Perl news and links
 
 ### Blogging
