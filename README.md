@@ -252,7 +252,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bookmark_tabs: [Callisto](https://sourceforge.net/projects/callistocms) - CMS
 - :memo: [Spine](http://spine.sourceforge.net) - CMS
 - :clipboard: [XIMS](http://xims.info) - CMS
-- :memo: [Blaze Blogger](http://blaze.blackened.cz) - CMS
+- :memo: [Blaze Blogger](http://blaze.blackened.cz) - Static site generator
 - :page_with_curl: [Galileo](http://galileo-cms.herokuapp.com/page/home) - CMS
 - :memo: [Blio](https://github.com/domm/Blio) - CMS
 - :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
@@ -269,12 +269,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :couple: [Statocles](http://preaction.me/statocles) - Static blog generator ([github](https://github.com/preaction/Statocles))
 - :speech_balloon: [Giblog](https://github.com/yuki-kimoto/giblog) - Static blog generator
 - :family: [Plstblog](https://github.com/linkdd/plstblog) - Static blog generator [written by a LinuxFR user](https://linuxfr.org/users/linkdd/journaux/plstblog-un-g%C3%A9n%C3%A9rateur-de-blog-statique-%C3%A9crit-en-perl)
-- :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on Wallflower)
+- :speech_balloon: [Riji](https://github.com/Songmu/p5-Riji) - Static blog generator (based on [Wallflower](https://metacpan.org/pod/Wallflower))
 - :family: [Dreamwidth](https://www.dreamwidth.org) - Shared blogging
 - :couple: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
 - :page_with_curl: [Plerd](https://github.com/jmacdotorg/plerd) - A blogging engine based on markdown and dropbox
 - :family: [Rapi Blog](https://github.com/vanstyn/Rapi-Blog) - Blogging engine (based on [RapidApp](http://www.rapidapp.info))
 - :couple: [TumbleBlog](https://github.com/john-bokma/tumblelog) - A static microblog generator
+- :family: [Blawd](https://github.com/perigrin/blawd) - A static microblog generator
 
 ### Mailing lists engines
 - :mailbox: [Sympa](https://www.sympa.org) - Mailing lists engine
