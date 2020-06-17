@@ -661,7 +661,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Beginning Perl Web development from novice to professional
 - :orange_book: [Single Page Application with Perl Dancer](https://leanpub.com/dancer-spa/) - E-Book about Dancer webframework
 - :construction: [Mojolicious book](https://metacpan.org/pod/release/KRAIH/Mojo-0.999904/lib/Mojolicious/Book.pod)
-- :iphone: [Mojolicious Web Clients (Kindle Edition)](https://www.amazon.com/dp/B0815XLYJX/ref=cm_sw_em_r_mt_dp_U_H8A1Db9NAV5DW)
 - :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) - E-Book about coding competition 
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
 - :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
