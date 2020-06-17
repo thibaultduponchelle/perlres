@@ -702,7 +702,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Teach Yourself Perl in 21 Days
 - :orange_book: Teach Yourself Perl in 24 Hours
 - :green_book: Perl Debugged
-- :perl: Perl Database Programming
+- :orange_book: Perl Database Programming
 - :blue_book: Perl Power
 - :orange_book: Spidering hacks
 - :green_book: [Perl XML::LibXML by Example](http://grantm.github.io/perl-libxml-by-example) ([github](https://github.com/grantm/perl-libxml-by-example))
