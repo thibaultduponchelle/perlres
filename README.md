@@ -25,7 +25,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mailbox: [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
 - :hammer: [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want to compile it by hand (if you don't want Perl vendor)
 - :small_red_triangle_down: [Perl Delta](https://perldoc.pl/perldelta) - The latest changelog
-- :small_red_triangle: [All changelogs]( https://perldoc.pl/perl#Miscellaneous) - All changelogs
+- :small_red_triangle: [Changelogs]( https://perldoc.pl/perl#Miscellaneous) - All changelogs
 - :scroll: [Very detailed history of Perl versions](https://perldoc.pl/perlhist.html) - Date and major changes from Perl creation to today
 - :older_woman: [Deprecations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
 - :penguin: [Portability](https://perldoc.pl/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
