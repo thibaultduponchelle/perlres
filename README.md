@@ -714,7 +714,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Perl for Exploring DNA
 - :orange_book: Advanced Perl Programming: From Advanced to Expert (William "Bo" Rothwell)
 - :green_book: Pro Perl Programming: From Professional to Advanced (William "Bo" Rothwell)
-- :blue_book: On Perl
+- :blue_book: On Perl: Perl for Students and Professionals
 - :green_book: Language Processing With Perl and Prolog: Theories, Implementation, and Application
 - :blue_book: Catalyst 5.8: the Perl MVC Framework
 - :green_book: Win32 Perl Programming: The Standard Extensions, Second Edition
