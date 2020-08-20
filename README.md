@@ -712,6 +712,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Web Client Programming with Perl
 - :orange_book: Learning Perl on Win32 Systems
 - :notebook: Perl for Exploring DNA
+- :orange_book: Advanced Perl Programming: From Advanced to Expert 
 - :blue_book: On Perl
 - :green_book: Language Processing With Perl and Prolog: Theories, Implementation, and Application
 - :blue_book: Catalyst 5.8: the Perl MVC Framework
