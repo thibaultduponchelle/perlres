@@ -588,6 +588,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Beginning Perl Programming : From novice to professionnal (William Rothwell)
 - :notebook: [Perl pocket reference](http://shop.oreilly.com/product/0636920018476.do)
 - :construction: [A practical guide to testing](https://leanpub.com/perl-testing)
+- :blue_book: [Programming the Raspberry Pi with Perl](https://leanpub.com/programmingtheraspberrypiwithperl)
 - :orange_book: XML and Perl
 - :green_book: [Perl and XML](http://shop.oreilly.com/product/9780596002053.do)
 - :blue_book: Perl for system administration
