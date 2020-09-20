@@ -559,6 +559,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :melon: [Coding Ground](http://www.compileonline.com/execute_perl_online.php)
 - :hamburger: [JS.do](https://js.do/perl)
 - :arrow_forward: [Online GDB](https://www.onlinegdb.com/online_perl_interpreter) - Online Perl interpreter
+- :tongue: [Glot.io](https://glot.io/new/perl) - Runnable, [open source](https://github.com/prasmussen/glot) pastebin snippets with [API](https://glot.io/api)
 
 ## :bear: Lint Perl online
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
