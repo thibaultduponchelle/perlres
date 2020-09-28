@@ -7,7 +7,7 @@ List of resources about Perl :dromedary_camel:
 
 Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## :clipboard: Summary 
+## :clipboard: Summary
 
 Derived from [LinuxFR](https://linuxfr.org/) french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne)
 
@@ -49,7 +49,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :moneybag: [Corelist](http://corelist.rpee.be/) - A web interface of the tool **corelist** used to know _core modules_ shipped in a specific version of Perl.
 - :older_man: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable CPAN modules installer, part of core distribution, fully configurable ([github](https://github.com/andk/cpanpm))
 - :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ CPAN modules installer)
-- :construction: [cnext](https://next-cpan.github.io/cnext/) - Experimental CPAN module installer [based on an alternative index](https://github.com/next-cpan/next-indexes) ([github](https://github.com/next-cpan/cnext)) 
+- :construction: [cnext](https://next-cpan.github.io/cnext/) - Experimental CPAN module installer [based on an alternative index](https://github.com/next-cpan/next-indexes) ([github](https://github.com/next-cpan/cnext))
 
 ## :dromedary_camel: General
 - :man_with_turban: [Perl Monks](https://www.perlmonks.org) - The Perl _Stack Overflow_
@@ -89,9 +89,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :beers: Social
 ### Community
+
+*(See also [Perl Mongers](Perl_Mongers.md))*
+
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl) - Subreddit for Perl
-- :neckbeard: [Perl Mongers](https://www.pm.org) - Perl Mongers
-- :neckbeard: [French Perl Mongers](http://www.mongueurs.net) - French Perl Mongers group
 - :jp: [Perl Entrance](http://www.perl-entrance.org) - Sort of Perl Mongers group in Japan
 - :speech_balloon: [IRC channels](https://perldoc.pl/perlcommunity.html#IRC) - IRC channels for the French mongers, Mojolicious, Dancer, Catalyst, etc...
 - :family: [irc.perl.org](http://www.irc.perl.org) - IRC server with several Perl related channels
@@ -115,7 +116,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :couple: [Blogs about Perl](http://blogs.perl.org) - Blog service for Perl folks
 - :floppy_disk: [use.perl.org Archive](https://use-perl.github.io) - Archive of Perl-specific blogging website with lots of articles
 - :saxophone: [Typepad](https://www.typepad.com) - Blogging platform based on [Movable Type](https://movabletype.org)
-- :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog 
+- :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A blog about Perl
 - :couple: [Perl Hacks](https://perlhacks.com) - Just another Perl Hacker's blog
 - :couple: [Effective Perl Programming](https://www.effectiveperlprogramming.com) - Perl's new features, and using Perl well
@@ -123,17 +124,17 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Conferences
 - :heavy_dollar_sign: [YAPC](https://www.yapc.org) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
 - :walking: [YAPC::NA](http://www.yapcna.org) - North American flavor of YAPC. Since 2017 it is renamed as [TPC](https://perlconference.us)
-- :couple: [YAPC::Europe](http://www.yapceurope.org) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu) 
+- :couple: [YAPC::Europe](http://www.yapceurope.org) - European flavor of YAPC. 2019 edition is known as [PerlCon](https://perlcon.eu)
 - :family: [YAPC::Asia](http://yapcasia.org) / [YAPC::Japan](https://yapcjapan.org) - Asian/Japanese flavor of YAPC (supported by [Japan Perl Association](https://japan.perlassociation.org))
 - :two_men_holding_hands: **YAPC::SA** - South American flavor of YAPC
 - :runner: [YAPC::Russia](http://yapcrussia.org/) - Russian flavor of YAPC
 - :two_women_holding_hands: **YAPC::Australia** - Australian flavor of YAPC
-- :heavy_check_mark: **Perl QA Hackathon** 
+- :heavy_check_mark: **Perl QA Hackathon**
 - :dromedary_camel: **Perl Toolchain Summit**
-- :kissing_cat: [OSDC](https://fr.wikipedia.org/wiki/Open_Source_Developers%27_Conference) - Various events like [Israel OSDC](http://osdc.org.il), [French OSDC](http://www.osdc.fr), **Taiwan OSDC**, **Australia OSDC** or **Malaysia OSDC** 
-- :fr: [French Perl Workshop](https://journeesperl.fr/jp2019) 
-- :fr: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again) 
-- :fr: [Patch.pm -pn](http://patch.pm) 
+- :kissing_cat: [OSDC](https://fr.wikipedia.org/wiki/Open_Source_Developers%27_Conference) - Various events like [Israel OSDC](http://osdc.org.il), [French OSDC](http://www.osdc.fr), **Taiwan OSDC**, **Australia OSDC** or **Malaysia OSDC**
+- :fr: [French Perl Workshop](https://journeesperl.fr/jp2019)
+- :fr: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again)
+- :fr: [Patch.pm -pn](http://patch.pm)
 - :dromedary_camel: [Several others](https://www.yapc.org/old-events.html) - Several Perl workshops or events
 - :family: [Perl conferences using Act](http://act.mongueurs.net/conferences.html) - A list of Perl conferences
 
@@ -153,7 +154,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :wrench: [Debugger documentation](https://perldoc.pl/perldebug.html) - The Perl debugger is itself written in Perl :muscle:
 - :alien: [perlobj](https://perldoc.pl/perlobj.html) and [tuto oo](https://perldoc.pl/perlootut.html) -  Object Oriented Programming in Perl
 
-## :us: Tutorials 
+## :us: Tutorials
 - :closed_book: [Perl Maven](https://perlmaven.com/perl-tutorial)
 - :clock230: [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
 - :green_book: [Minimum Viable Perl (MVP)](http://mvp.kablamo.org)
@@ -179,7 +180,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :school: [#!/perl/bioinfo](https://bioinfoperl.blogspot.com)
 
 ## :vibration_mode: Interactive tutorials
-- :pizza:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world) - Learn modern Perl any time and from everywhere :purple_heart: 
+- :pizza:[Perltuts](http://perltuts.com/tutorials/quick-start/hello-world) - Learn modern Perl any time and from everywhere :purple_heart:
 - :fries: [Learn Perl](https://www.learn-perl.org) - Free interactive Perl tutorial :blue_heart:
 - :chocolate_bar: [TryPerl](http://tryperl.pl) - TryRuby clone for Perl :heart: ([github](https://github.com/thibaultduponchelle/tryperl))
 
@@ -219,7 +220,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :baby_bottle: **Baby Perl** - Programming with a reduced set of builtins and idioms :baby:
 - :sunglasses: [Perl idioms](http://world.std.com/~swmcd/steven/perl/idiom.html) - Perl offers powerful idiomatic expressions (see [fluent Perl](https://docstore.mik.ua/orelly/perl3/prog/ch24_04.htm) or [this node](https://www.perlmonks.org/?node_id=519396))
 - :smirk: [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - Apply to experienced programmers :stuck_out_tongue_winking_eye:
-- :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies 
+- :ocean: [The CPAN river](http://neilb.org/2015/04/20/river-of-cpan.html) - Metaphor about CPAN dependencies
 - :jack_o_lantern: [The keeper of the pumpkin](https://perldoc.pl/perlhist.html#THE-KEEPERS-OF-THE-PUMPKIN) - The Perl maintainer (currently [Sawyer X](https://github.com/xsawyerx))
 - :heartpulse: [Blead](https://github.com/Perl/perl5/tree/blead) - Blead is the default development branch for Perl
 - :paperclip: **Perl** is often considered as being **the duct tape of the Internet**
@@ -228,10 +229,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 - :dromedary_camel: [Larry Wall Homepage](http://www.wall.org/~larry) - Prepare your eyes
 - :gem: **Pearl of great price** - The biblical reference that inspired Larry Wall to name Perl
-- :cookie: [Perl fortunes](https://github.com/thibaultduponchelle/perl-fortunes) - Collection of Perl related quotes to be used as a fortune database  
+- :cookie: [Perl fortunes](https://github.com/thibaultduponchelle/perl-fortunes) - Collection of Perl related quotes to be used as a fortune database
 
 ## :jack_o_lantern: Perl Ecosystem
-- :fuelpump: [CPAN](https://www.cpan.org) - It is commonly accepted that the Perl _killer app_ is CPAN (*"CPAN is the language, Perl is just the syntax"* - [Audrey Tang](https://fr.wikipedia.org/wiki/Audrey_Tang)) 
+- :fuelpump: [CPAN](https://www.cpan.org) - It is commonly accepted that the Perl _killer app_ is CPAN (*"CPAN is the language, Perl is just the syntax"* - [Audrey Tang](https://fr.wikipedia.org/wiki/Audrey_Tang))
 - :pill: [MetaCPAN](https://metacpan.org) - Search the CPAN
 
 ### News and forums engines
@@ -328,7 +329,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :suspension_railway: [Qudo](https://github.com/nekokak/qudo) - Job queue manager
 - :mountain_railway: [Resque](https://github.com/diegok/resque-perl) - Job queue manager
 - :aerial_tramway: [TheSchwartz](https://github.com/akiym/TheSchwartz) - Job queue manager
-- :satellite: [Helios](https://github.com/logicalhelion/helios) - Distributed job processing and application framework 
+- :satellite: [Helios](https://github.com/logicalhelion/helios) - Distributed job processing and application framework
 
 ### Tickets trackers
 - :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker ([github](https://github.com/bestpractical/rt))
@@ -358,13 +359,13 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cd: [Backup PC](https://backuppc.github.io/backuppc) - Backup tool
 
 ### Games
-- :new: [Tau Station](https://taustation.space) - A text based web space game 
+- :new: [Tau Station](https://taustation.space) - A text based web space game
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - :video_game: [Lacuna Expanse](https://github.com/plainblack/Lacuna-Server-Open) - Space game
-- :house: [Construder](https://github.com/elmex/Construder) - Minecraft-like game 
+- :house: [Construder](https://github.com/elmex/Construder) - Minecraft-like game
 
 ### Web application frameworks
-- :cloud: [Mojolicious](https://mojolicious.org) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI)) 
+- :cloud: [Mojolicious](https://mojolicious.org) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI))
 - :dizzy: [Catalyst](http://www.catalystframework.org) - Web framework
 - :dancer: [Dancer](http://perldancer.org/) - Minimalist Web framework created by [Alexis Sukrieh](https://metacpan.org/author/SUKRIA) (see [Dancer 1](https://github.com/PerlDancer/Dancer) and [Dancer 2](https://github.com/PerlDancer/Dancer2))
 - :crocodile: [Jifty](https://metacpan.org/pod/Jifty) - Web framework
@@ -407,7 +408,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :ox: [HTTP::Engine](https://github.com/http-engine/HTTP-Engine) - Web server
 - :dog2: [Feersum](https://github.com/stash/Feersum) - PSGI engine based on EV/libev
 - :japanese_ogre: [Server::Starter](https://github.com/kazuho/p5-Server-Starter) - Super Daemon to handle hot deployment of server programs
-- :mouse2: [Starlight](https://github.com/dex4er/Starlight) - PSGI/Plack HTTP server with pre-forks 
+- :mouse2: [Starlight](https://github.com/dex4er/Starlight) - PSGI/Plack HTTP server with pre-forks
 
 ### Templating
 - :wave: [Mason](https://github.com/jonswar/perl-mason) - Templating system
@@ -444,7 +445,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :books: [Koha](https://en.wikipedia.org/wiki/Koha_(software)) - Integrated Library System ([gitweb](http://git.koha-community.org/gitweb/))
 - :green_book: [Evergreen ILS](http://evergreen-ils.org) - Library management
 
-### Git 
+### Git
 - :octocat: [GitWeb](https://github.com/git/git/blob/master/gitweb/gitweb.perl) - Web interface to git repositories (bundled with git)
 - :octopus: [Gitolite](https://gitolite.com/gitolite) - Git hosting ([github](https://github.com/sitaramc/gitolite))
 - :turtle: [GitPrep](http://gitprep.yukikimoto.com) - Portable github system ([github](https://github.com/yuki-kimoto/gitprep))
@@ -470,7 +471,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :turtle: [App::Stew](https://github.com/vti/stew) - In-app package manager
 - :snail: [Repositorio](https://github.com/RexOps/repositorio) - A tool to mirror and administrate linux repositories (yum, apt, yast, dockerhub...).
 - :full_moon_with_face: [OpenQA](http://open.qa) - Automated test tool based on QEMU ([github](https://github.com/os-autoinst/openQA))
-- :battery: [Hydra](https://github.com/NixOS/hydra) - A [Nix](https://nixos.org)-based continuous build system 
+- :battery: [Hydra](https://github.com/NixOS/hydra) - A [Nix](https://nixos.org)-based continuous build system
 
 ### Desktop Applications
 - :movie_camera: [Shutter](https://shutter-project.org) - Screenshot utility
@@ -479,8 +480,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
 
 ### Tooling for Devs
-- :older_man: [GNU Automake](https://www.gnu.org/software/automake) - Automatically generates Makefile.in files 
-- :mag: [Cloc](https://github.com/AlDanial/cloc) - Count line of code 
+- :older_man: [GNU Automake](https://www.gnu.org/software/automake) - Automatically generates Makefile.in files
+- :mag: [Cloc](https://github.com/AlDanial/cloc) - Count line of code
 - :wrench: [Devel::hdb](https://github.com/brummett/Devel-hdb) - Another Perl debugger
 - :tada: [Diff So Fancy](https://github.com/so-fancy/diff-so-fancy) - The best-lookin' diffs
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
@@ -516,7 +517,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :wrench: [NicTool](https://www.nictool.com) - A DNS management solution ([github](https://github.com/msimerson/NicTool))
 - :lock: [Ferm](https://github.com/MaxKellermann/ferm) - A frontend for iptables
 - :black_joker: [SQLFairy](http://sqlfairy.sourceforge.net) - Convert SQL statements to graphs ([github](https://github.com/dbsrgits/sql-translator))
-- :computer: [RemoteBox](http://remotebox.knobgoblin.org.uk) - VirtualBox Client with Remote Management 
+- :computer: [RemoteBox](http://remotebox.knobgoblin.org.uk) - VirtualBox Client with Remote Management
 - :gun: [Nipe](https://github.com/GouveaHeitor/nipe) - Script to make Tor network your default gateway
 - :robot: [Nikto](https://cirt.net/Nikto2) - Webservers security scanner
 - :minidisc: [ZnapZend](https://github.com/oetiker/znapzend) - Backup ZFS with remote capabilities
@@ -526,7 +527,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
 - :satellite: [Perloku](https://github.com/judofyr/perloku) - Deploy Perl apps on Heroku
 
-### Uncategorized 
+### Uncategorized
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :mag: [Dezi](https://dezi.org) - Search platform
@@ -565,9 +566,9 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
 - :zap: [PerlCritic](http://perlcritic.com) - Web frontend to [Perl::Critic](https://github.com/Perl-Critic/Perl-Critic)
 
-## :books: Books 
+## :books: Books
 - :school: [PerlSchool](https://perlschool.com) - Online catalog of low cost high quality Perl books
-- :books: [Some books](https://perldoc.pl/perlbook.html) and [some others](https://learn.perl.org/books) 
+- :books: [Some books](https://perldoc.pl/perlbook.html) and [some others](https://learn.perl.org/books)
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
@@ -654,7 +655,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook_with_decorative_cover: Real World SQL Server Administration with Perl
 - :blue_book: Perl 5 internals
 - :notebook: Practical text mining with perl
-- :orange_book: Beginning perl web development 
+- :orange_book: Beginning perl web development
 - :blue_book: Programming for linguist Perl for language researchers
 - :notebook: Perl for C programmers
 - :blue_book: Learning Perl the hard way
@@ -664,11 +665,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Beginning Perl Web development from novice to professional
 - :orange_book: [Single Page Application with Perl Dancer](https://leanpub.com/dancer-spa/) - E-Book about Dancer webframework
 - :construction: [Mojolicious book](https://metacpan.org/pod/release/KRAIH/Mojo-0.999904/lib/Mojolicious/Book.pod)
-- :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) - E-Book about coding competition 
+- :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) - E-Book about coding competition
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
 - :notebook: [A practical guide to testing in modern Perl](https://leanpub.com/perl-testing)
 - :orange_book: [RT Essentials](http://shop.oreilly.com/product/9780596006686.do)
-- :green_book: [Writing Perl Modules for CPAN](https://www.apress.com/fr/book/9781590590188) 
+- :green_book: [Writing Perl Modules for CPAN](https://www.apress.com/fr/book/9781590590188)
 - :blue_book: Automating Windows with Perl
 - :closed_book: Perl Developer's Dictionary (Clinton Pierce)
 - :orange_book: Instant CGI/Perl
@@ -758,44 +759,44 @@ Reinstalling a set of CPAN modules can be done simply by launching a bunch of `c
 ## :heavy_check_mark: Linters
 Executable by hand or directly integrated in your scripts, IDE or editors (vim users : [ale](https://github.com/w0rp/ale) or [syntastic](https://github.com/vim-syntastic/syntastic)).
 
-- [`perl -c`](https://perldoc.pl/perlrun.html), to check the syntax. Be careful that it does more than only checking syntax, it actually _executes_ the blocks `BEGIN` and `END` (compilation step). This _design_ is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`). 
+- [`perl -c`](https://perldoc.pl/perlrun.html), to check the syntax. Be careful that it does more than only checking syntax, it actually _executes_ the blocks `BEGIN` and `END` (compilation step). This _design_ is [the reason why](https://github.com/w0rp/ale/issues/1186) the default _linter_ used by the plugin [vim ale](https://github.com/w0rp/ale) is no longer `perl -c` (nor even `perl -w`).
 The syntax checking in Perl is great (as well as the error messages from the interpreter... I :heart: Perl)
 
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic), that *criticizes*  your coding style but do not check syntax. For instance, the file `bad.pl` contains :
-    
+
 ```perl
 use strict;
 print "toto" }{
 ```
 
 And `perl -c bad.pl` prints :
-    
+
 ```
 Unmatched right curly bracket at bad.pl line 3, at end of line
 syntax error at bad.pl line 3, near ""toto" }"
 Missing right curly or square bracket at bad.pl line 3, at end of line
 bad.pl had compilation errors.
 ```
-    
+
 But `perlcritic bad.pl` tells us that everything is fine `bad.pl source OK` (but is not happy with the missing  `use strict`).
 
 - A module that was part of the core distribution of Perl but was finally removed in Perl **5.19** : [B::Lint](https://metacpan.org/pod/B::Lint).
-While we are here, how to know the history of a module in the core distribution ? Use [corelist](https://perldoc.pl/corelist.html) ! `corelist B::Lint` that gives us : 
-    
+While we are here, how to know the history of a module in the core distribution ? Use [corelist](https://perldoc.pl/corelist.html) ! `corelist B::Lint` that gives us :
+
 ```
 Data for 2017-09-22
 B::Lint was first released with perl 5.005, deprecated (will be CPAN-only) in v5.17.9 and removed from v5.19.0
 ```
-    
+
 If a module goes out of core distribution it's not dramatic as it continues to be available in CPAN of course.
 
 - And [Perl::Lint](https://metacpan.org/pod/Perl::Lint) that focuses on speed while being compatible with **Perl::Critic**.
 
 ## :hammer_and_pick: How to compile perl
-See [how to compile perl](https://www.cpan.org/src) 
+See [how to compile perl](https://www.cpan.org/src)
 
 Actually it will give this :
-    
+
 ```bash
 wget https://www.cpan.org/src/5.0/perl-5.30.0.tar.gz
 tar -xzf perl-5.30.0.tar.gz
@@ -811,7 +812,7 @@ If we decide to use or not a module like [cpanm](https://metacpan.org/pod/distri
 
 ### ExtUtils::MakeMaker
 The module [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) generate a **Makefile** from `Makefile.PL` :
-    
+
 ``` bash
 perl Makefile.PL
 make
@@ -820,7 +821,7 @@ make install
 
 ### Module::Build
 The module [Module::Build](https://metacpan.org/pod/Module::Build) serves the same goal but generates a file **Build** from the file `BUILD.PL` :
-    
+
 ```
 perl Build.PL
 ./Build
