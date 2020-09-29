@@ -6,16 +6,18 @@ Some of the groups may not be active.
 
 [Perl Mongers](https://www.pm.org/) ([Twitter](https://twitter.com/perl_mongers), [Facebook group](https://www.facebook.com/groups/perlmonger/))
 
-## North America
+## Americas
+
+### North America
 
 - :us: [Ann Arbor](http://annarbor.pm.org/) ([Facebook group](https://www.facebook.com/groups/295369588223/))
 - :us: [Atlanta](http://atlanta.pm.org) ([Facebook page](https://www.facebook.com/Atlanta-Perl-Mongers-160970284513))
 - :us: [Austin](http://austin.pm/) ([Facebook group](https://www.facebook.com/groups/austinperlmongers/), [GitHub](https://github.com/austin-perl-mongers))
+- :us: [Baltimore](https://baltimore.pm.org/)
 - :us: [Boston](http://boston.pm.org) ([Twitter](https://twitter.com/BostonPM), Facebook: [page](https://www.facebook.com/bostonpm), [group](https://www.facebook.com/groups/131595281237/))
 - :us: [Buffalo](http://buffalo.pm.org/) ([Facebook group](https://www.facebook.com/groups/6973281799/))
 - :us: Charlotte ([GitHub](https://github.com/charlotte-perl-mongers))
 - :us: [Chicago](http://chicago.pm.org/) ([GitHub](https://github.com/ChicagoPM))
-- :peru: [Lima](http://lima.pm.org) ([Facebook page](https://www.facebook.com/limaperlmongers))
 - :us: [Los Angeles](http://la.pm.org) (Facebook: [page](https://www.facebook.com/Los-Angeles-Perl-Mongers-110460472327702), [group](https://www.facebook.com/groups/119158178096277/))
 - :us: [Philadelphia](https://philadelphia.pm.org/) ([Twitter](https://twitter.com/philapm))
 - :us: [Pittsburgh](http://pittsburgh.pm.org) ([Facebook page](https://www.facebook.com/Pittsburgh-Perl-Mongers-134841096610785))
@@ -23,7 +25,13 @@ Some of the groups may not be active.
 - :us: [Purdue](https://purdue.pl/) ([Twitter](https://twitter.com/PurduePM), [GitHub](https://github.com/Purdue-Perl-Mongers))
 - :us: [Salt Lake City](http://slcperlmongers.com/) ([Facebook group](https://www.facebook.com/groups/515481075169254/))
 - :us: [San Francisco](http://www.meetup.com/San-Francisco-Perl/) ([Facebook page](https://www.facebook.com/SanFranciscoPerlMongers))
+- :us: [Washington D.C.](https://dc.pm.org/) ([Twitter](https://twitter.com/dcperl))
 - :canada: Toronto ([Twitter](https://twitter.com/TOperlmongers), [GitHub](https://github.com/toronto-perl-mongers/tpm-website))
+
+### South America
+
+- :peru: [Lima](http://lima.pm.org) ([Facebook page](https://www.facebook.com/limaperlmongers))
+- :brazil: [Rio de Janeiro](http://rio.pm.org) ([Facebook page](https://www.facebook.com/RioPerlMongers))
 
 ## Asia
 
@@ -44,7 +52,6 @@ Some of the groups may not be active.
 - :de: [Niederrhein](http://niederrhein.pm.org) ([Facebook page](https://www.facebook.com/Niederrhein-Perl-Mongers-176634792354842))
 - :norway: [Oslo](http://oslo.pm/) ([Facebook group](https://www.facebook.com/groups/oslo.pm/), [GitHub](https://github.com/oslo-pm))
 - :poland: [Poznań](http://poznan.pm.org) ([Facebook page](https://www.facebook.com/poznanpm))
-- :brazil: [Rio de Janeiro](http://rio.pm.org) ([Facebook page](https://www.facebook.com/RioPerlMongers))
 - :austria: [Vienna](http://vienna.pm.org/) ([Twitter](https://twitter.com/ViennaPerl))
 
 ## Oceania
