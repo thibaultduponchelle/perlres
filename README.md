@@ -31,8 +31,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :penguin: [Portability](https://perldoc.pl/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## :necktie: Official
-- :house: [perl.org](https://www.perl.org) - Perl's "home"  ([Twitter](https://twitter.com/perlorg), [Facebook page](https://www.facebook.com/perl-16665510298/), [github](https://github.com/perlorg))
-- :european_castle: [Perl Foundation](https://www.perlfoundation.org) - The Perl Foundation  ([Twitter](https://twitter.com/perlfoundation), [Facebook](https://www.facebook.com/tpf.perl), [github](https://github.com/tpf))
+- :house: [perl.org](https://www.perl.org) - Perl's "home"  ([twitter](https://twitter.com/perlorg), [facebook](https://www.facebook.com/perl-16665510298/), [github](https://github.com/perlorg))
+- :european_castle: [Perl Foundation](https://www.perlfoundation.org) - The Perl Foundation  ([twitter](https://twitter.com/perlfoundation), [facebook](https://www.facebook.com/tpf.perl), [github](https://github.com/tpf))
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel) - Yearly awards for important social contribution to Perl (also [whitecamel.org](http://whitecamel.org))
 
 ## :hammer_and_pick: Distributions, modules and installers
@@ -61,7 +61,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :black_square_button: [Square Perl](https://squareperl.com) - Multilingual site about Perl programming
 - :school: [Enlightened Perl](https://ww2.enlightenedperl.org) - An organization supporting Perl
 - :eyes: [P3rl.org](https://p3rl.org) - Documentation portal about Perl
-- :star2: [BIP](http://builtinperl.com) - Blog, job board and companies directory ([Twitter](https://twitter.com/BuiltinPerl))
+- :star2: [BIP](http://builtinperl.com) - Blog, job board and companies directory ([twitter](https://twitter.com/BuiltinPerl))
 
 ## :fuelpump: Around the CPAN
 - :ocean: [CPAN Deps](http://deps.cpantesters.org) - List dependencies for a CPAN module ([github](https://github.com/DrHyde/CPANdeps))
@@ -97,8 +97,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :neckbeard: [Perl Mongers](https://www.pm.org) - Perl Mongers
 - :neckbeard: [French Perl Mongers](http://www.mongueurs.net) - French Perl Mongers group
 - :speech_balloon: [IRC channels](https://perldoc.pl/perlcommunity.html#IRC) - IRC channels for the French mongers, Mojolicious, Dancer, Catalyst, etc...
-- :family: [irc.perl.org](http://www.irc.perl.org) - IRC server with several Perl related channels ([Twitter](https://twitter.com/perl_irc))
-- :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition ([Twitter](https://twitter.com/PerlWChallenge))
+- :family: [irc.perl.org](http://www.irc.perl.org) - IRC server with several Perl related channels ([twitter](https://twitter.com/perl_irc))
+- :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition ([twitter](https://twitter.com/PerlWChallenge))
 - :newspaper: [The Perl Journal](http://www.foo.be/docs/tpj) - E-Zine about Perl
 - :santa: [Perl Advent Calendar](http://www.perladvent.org) - Advent calendar about Perl
 - :christmas_tree: [Mojolicious Advent Calendar](https://mojolicious.io) - Advent calendar about Mojolicious web framework
@@ -110,16 +110,16 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ### Newsfeeds
 - :clipboard: [Perl Sphere](http://perlsphere.net) - Newsfeed
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - Newsfeed
-- :newspaper: [Perl Buzz](https://perlbuzz.com) - Newsfeed ([Twitter](https://twitter.com/perlbuzz))
+- :newspaper: [Perl Buzz](https://perlbuzz.com) - Newsfeed ([twitter](https://twitter.com/perlbuzz))
 - :memo: [Perl.com](https://www.perl.com) - Newsfeed ([github](https://github.com/tpf/perldotcom))
-- :clipboard: [Perl Weekly](http://perlweekly.com) - Newsletter gathering Perl news and links ([Twitter](https://twitter.com/PerlWeekly))
+- :clipboard: [Perl Weekly](http://perlweekly.com) - Newsletter gathering Perl news and links ([twitter](https://twitter.com/PerlWeekly))
 
 ### Blogging
 - :couple: [Blogs about Perl](http://blogs.perl.org) - Blog service for Perl folks ([GitHub(https://github.com/blogs-perl-org/blogs.perl.org))
 - :floppy_disk: [use.perl.org Archive](https://use-perl.github.io) - Archive of Perl-specific blogging website with lots of articles
 - :saxophone: [Typepad](https://www.typepad.com) - Blogging platform based on [Movable Type](https://movabletype.org)
 - :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog
-- :speech_balloon: [Cultured Perl](https://culturedperl.com) - A blog about Perl ([Twitter](https://twitter.com/culturedperl))
+- :speech_balloon: [Cultured Perl](https://culturedperl.com) - A blog about Perl ([twitter](https://twitter.com/culturedperl))
 - :couple: [Perl Hacks](https://perlhacks.com) - Just another Perl Hacker's blog
 - :couple: [Effective Perl Programming](https://www.effectiveperlprogramming.com) - Perl's new features, and using Perl well
 
@@ -157,7 +157,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :alien: [perlobj](https://perldoc.pl/perlobj.html) and [tuto oo](https://perldoc.pl/perlootut.html) -  Object Oriented Programming in Perl
 
 ## :us: Tutorials
-- :closed_book: [Perl Maven](https://perlmaven.com/perl-tutorial) ([Twitter](https://twitter.com/PerlMaven))
+- :closed_book: [Perl Maven](https://perlmaven.com/perl-tutorial) ([twitter](https://twitter.com/PerlMaven))
 - :clock230: [Learn Perl in about 2 hours and 30 minutes](https://qntm.org/files/perl/perl.html)
 - :green_book: [Minimum Viable Perl (MVP)](http://mvp.kablamo.org)
 - :blue_book: [Perl Begin](http://perl-begin.org)
@@ -235,7 +235,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ## :jack_o_lantern: Perl Ecosystem
 - :fuelpump: [CPAN](https://www.cpan.org) - It is commonly accepted that the Perl _killer app_ is CPAN (*"CPAN is the language, Perl is just the syntax"* - [Audrey Tang](https://fr.wikipedia.org/wiki/Audrey_Tang))
-- :pill: [MetaCPAN](https://metacpan.org) - Search the CPAN ([Twitter](https://twitter.com/metacpan))
+- :pill: [MetaCPAN](https://metacpan.org) - Search the CPAN ([twitter](https://twitter.com/metacpan))
 
 ### News and forums engines
 - :family: [YaBB](http://www.yabbforum.com) - Forum engine
@@ -549,7 +549,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pill: [CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod) - List of Perl modules
 
 ## :ghost: Execute Perl online
-- :new: [Perl Banjo](https://perlbanjo.com) - Share runnable Perl code :heart: :muscle: ([Twitter](https://twitter.com/PerlBanjo))
+- :new: [Perl Banjo](https://perlbanjo.com) - Share runnable Perl code :heart: :muscle: ([twitter](https://twitter.com/PerlBanjo))
 - :doughnut: [WebPerl](https://webperl.zero-g.net) - WebAssembly + Emscripten ([demo](https://webperl.zero-g.net/democode/index.html) and [source](https://github.com/haukex/webperl))
 - :cake: [Perlbot](https://perl.bot) - Run and share Perl code
 
@@ -569,7 +569,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :zap: [PerlCritic](http://perlcritic.com) - Web frontend to [Perl::Critic](https://github.com/Perl-Critic/Perl-Critic)
 
 ## :books: Books
-- :school: [PerlSchool](https://perlschool.com) - Online catalog of low cost high quality Perl books ([Twitter](https://twitter.com/perl_school))
+- :school: [PerlSchool](https://perlschool.com) - Online catalog of low cost high quality Perl books ([twitter](https://twitter.com/perl_school))
 - :books: [Some books](https://perldoc.pl/perlbook.html) and [some others](https://learn.perl.org/books)
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
