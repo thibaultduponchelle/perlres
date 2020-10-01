@@ -31,8 +31,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :penguin: [Portability](https://perldoc.pl/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
 
 ## :necktie: Official
-- :house: [perl.org](https://www.perl.org) - Perl's "home"  ([Twitter](https://twitter.com/perlorg), [Facebook page](https://www.facebook.com/perl-16665510298/), [GitHub](https://github.com/perlorg))
-- :european_castle: [Perl Foundation](https://www.perlfoundation.org) - The Perl Foundation  ([Twitter](https://twitter.com/perlfoundation), [Facebook](https://www.facebook.com/tpf.perl), [GitHub](https://github.com/tpf))
+- :house: [perl.org](https://www.perl.org) - Perl's "home"  ([Twitter](https://twitter.com/perlorg), [Facebook page](https://www.facebook.com/perl-16665510298/), [github](https://github.com/perlorg))
+- :european_castle: [Perl Foundation](https://www.perlfoundation.org) - The Perl Foundation  ([Twitter](https://twitter.com/perlfoundation), [Facebook](https://www.facebook.com/tpf.perl), [github](https://github.com/tpf))
 - :mortar_board: [White Camel Awards](https://www.perl.org/advocacy/white_camel) - Yearly awards for important social contribution to Perl (also [whitecamel.org](http://whitecamel.org))
 
 ## :hammer_and_pick: Distributions, modules and installers
