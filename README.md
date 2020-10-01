@@ -94,6 +94,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl) - Subreddit for Perl
 - :jp: [Perl Entrance](http://www.perl-entrance.org) - Sort of Perl Mongers group in Japan
+- :neckbeard: [Perl Mongers](https://www.pm.org) - Perl Mongers
+- :neckbeard: [French Perl Mongers](http://www.mongueurs.net) - French Perl Mongers group
 - :speech_balloon: [IRC channels](https://perldoc.pl/perlcommunity.html#IRC) - IRC channels for the French mongers, Mojolicious, Dancer, Catalyst, etc...
 - :family: [irc.perl.org](http://www.irc.perl.org) - IRC server with several Perl related channels ([Twitter](https://twitter.com/perl_irc))
 - :thought_balloon: [Perl Weekly Challenge](https://perlweeklychallenge.org) - Friendly coding competition ([Twitter](https://twitter.com/PerlWChallenge))
