@@ -602,6 +602,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Perl programming for the absolute beginner
 - :orange_book: [Perl graphics Programming](http://shop.oreilly.com/product/9780596002190.do)
 - :blue_book: Perl for dummies
+- :orange_book: Elements of Programming with Perl
 - :notebook: [Mastering algorithms with Perl](http://shop.oreilly.com/product/9781565923980.do)
 - :blue_book: [The best of Perl Hacks](https://perlhacks.com/2020/04/the-best-of-perl-hacks)
 - :orange_book: Impatient Perl
