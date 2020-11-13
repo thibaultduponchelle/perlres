@@ -117,7 +117,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :clipboard: [Perl Weekly](http://perlweekly.com) - Newsletter gathering Perl news and links ([twitter](https://twitter.com/PerlWeekly))
 
 ### Blogging
-- :couple: [Blogs about Perl](http://blogs.perl.org) - Blog service for Perl folks ([GitHub(https://github.com/blogs-perl-org/blogs.perl.org))
+- :couple: [Blogs about Perl](http://blogs.perl.org) - Blog service for Perl folks ([github](https://github.com/blogs-perl-org/blogs.perl.org))
 - :floppy_disk: [use.perl.org Archive](https://use-perl.github.io) - Archive of Perl-specific blogging website with lots of articles
 - :saxophone: [Typepad](https://www.typepad.com) - Blogging platform based on [Movable Type](https://movabletype.org)
 - :family: [Nice Perl blog](http://niceperl.blogspot.com) - An important blog
