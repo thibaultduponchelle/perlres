@@ -278,7 +278,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :couple: [Angerwhale](https://github.com/jrockway/angerwhale) - Blogging engine
 - :page_with_curl: [Plerd](https://github.com/jmacdotorg/plerd) - A blogging engine based on markdown and dropbox
 - :family: [Rapi Blog](https://github.com/vanstyn/Rapi-Blog) - Blogging engine (based on [RapidApp](http://www.rapidapp.info))
-- :couple: [TumbleBlog](https://github.com/john-bokma/tumblelog) - A static microblog generator
+- :couple: [Tumblelog](https://github.com/john-bokma/tumblelog) - A static microblog generator
 - :family: [Blawd](https://github.com/perigrin/blawd) - A static microblog generator
 
 ### Mailing lists engines
