@@ -111,7 +111,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Newsfeeds
 - :clipboard: [Perl Sphere](http://perlsphere.net) - Newsfeed
-- :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - Newsfeed
 - :newspaper: [Perl Buzz](https://perlbuzz.com) - Newsfeed ([twitter](https://twitter.com/perlbuzz))
 - :memo: [Perl.com](https://www.perl.com) - Newsfeed ([github](https://github.com/tpf/perldotcom))
 - :clipboard: [Perl Weekly](http://perlweekly.com) - Newsletter gathering Perl news and links ([twitter](https://twitter.com/PerlWeekly))
@@ -124,7 +123,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Cultured Perl](https://culturedperl.com) - A blog about Perl ([twitter](https://twitter.com/culturedperl))
 - :couple: [Perl Hacks](https://perlhacks.com) - Just another Perl Hacker's blog
 - :couple: [Effective Perl Programming](https://www.effectiveperlprogramming.com) - Perl's new features, and using Perl well
-- :family: [Dev.to #Perl](https://dev.to/t/perl) - #Perl tag on dev.to blogging platform
+- :family: [Dev.to #Perl](https://dev.to/t/perl) - #Perl tag on Dev.to blogging platform
+- :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - #Perl tag on Medium
 
 ### Conferences
 - :heavy_dollar_sign: [YAPC](https://www.yapc.org) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
