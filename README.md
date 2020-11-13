@@ -86,6 +86,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :eyeglasses: [CPAN::Groonga](https://grep.cpanauthors.org) - Yet another CPAN grep service
 - :vibration_mode: [PerlModules.net](https://www.perlmodules.net) - Track changes in CPAN modules (changelog, RSS...)
 - :rocket: [CPAN Rocks](https://cpan.rocks) - CPAN metrics
+- :dart: [CPAN Dashboards](http://cpandashboard.com) - CI dashboards for CPAN
 - :bookmark_tabs: [CPAN Glossary](http://neilb.org/2015/09/05/cpan-glossary.html) - CPAN Glossary (see also [Perl Glossary](https://perldoc.pl/perlglossary))
 
 ## :beers: Social
