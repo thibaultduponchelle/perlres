@@ -81,10 +81,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mag_right: [CPANMeta](https://cpanmeta.grinnz.com) - Browse CPAN metadata ([github](https://github.com/Grinnz/cpan-meta-browser))
 - :bowtie: [PAUSE](https://pause.perl.org) - Perl Authors Upload Server ([github](https://github.com/andk/pause))
 - :minidisc: [CPAN Meta DB](https://cpanmetadb.plackperl.org) - (Yet another) CPAN metadata database ([github](https://github.com/miyagawa/cpanmetadb-perl))
-- :flashlight: [grep::cpan](https://grep.metacpan.org/) - Grep the CPAN
-- :mag: [CPAN->grep](http://grep.cpan.me/) - Search code on CPAN
-- :eyeglasses: [CPAN::Groonga](https://grep.cpanauthors.org/) - Yet another CPAN grep service
+- :flashlight: [grep::cpan](https://grep.metacpan.org) - Grep the CPAN
+- :mag: [CPAN->grep](http://grep.cpan.me) - Search code on CPAN
+- :eyeglasses: [CPAN::Groonga](https://grep.cpanauthors.org) - Yet another CPAN grep service
 - :vibration_mode: [PerlModules.net](https://www.perlmodules.net) - Track changes in CPAN modules (changelog, RSS...)
+- :rocket: [CPAN Rocks](https://cpan.rocks) - CPAN metrics
 - :bookmark_tabs: [CPAN Glossary](http://neilb.org/2015/09/05/cpan-glossary.html) - CPAN Glossary (see also [Perl Glossary](https://perldoc.pl/perlglossary))
 
 ## :beers: Social
