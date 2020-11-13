@@ -347,6 +347,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :stars: [WikiWikiWeb](http://wiki.c2.com) - First wiki ever
 - :art: [MojoMojo](https://github.com/mojomojo/mojomojo) - Wiki engine based on Catalyst
 - :newspaper: [Socialtext Open](https://github.com/audreyt/socialtext-open) - Wiki engine
+- :paperclip: [AmuseWiki](https://amusewiki.org/special/index) - Wiki engine ([github](https://github.com/melmothx/amusewiki))
 
 ### E-Commerce
 - :credit_card:  [Interchange](https://www.interchangecommerce.org/i/dev) - E-Commerce platform ([github](https://github.com/interchange/interchange))
