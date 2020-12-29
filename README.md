@@ -543,6 +543,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :beetle: [BioPerl](https://bioperl.org) - BioPerl distribution ([github](https://github.com/bioperl/bioperl-live/blob/master/README.md))
 - :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - Search and stream videos on Youtube
 - :page_facing_up: [Po4a](https://po4a.org) - Ease softwares translation ([github](https://github.com/mquinson/po4a))
+- :notes: [MIDI-Perl-HOWTO](https://github.com/ology/MIDI-Perl-HOWTO/wiki) - Create algorithmic musical compositions
 
 
 ### Other Perl lists
