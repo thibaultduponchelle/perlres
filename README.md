@@ -82,7 +82,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bowtie: [PAUSE](https://pause.perl.org) - Perl Authors Upload Server ([github](https://github.com/andk/pause))
 - :minidisc: [CPAN Meta DB](https://cpanmetadb.plackperl.org) - (Yet another) CPAN metadata database ([github](https://github.com/miyagawa/cpanmetadb-perl))
 - :flashlight: [grep::cpan](https://grep.metacpan.org) - Grep the CPAN
-- :mag: [CPAN->grep](http://grep.cpan.me) - Search code on CPAN
 - :eyeglasses: [CPAN::Groonga](https://grep.cpanauthors.org) - Yet another CPAN grep service
 - :vibration_mode: [PerlModules.net](https://www.perlmodules.net) - Track changes in CPAN modules (changelog, RSS...)
 - :rocket: [CPAN Rocks](https://cpan.rocks) - CPAN metrics
