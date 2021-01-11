@@ -580,7 +580,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
-- :blue_book: [Preparing for Perl 7](https://perlschool.com/books/preparing-for-perl-7/)
+- :orange_book: [Perl new features](https://perlschool.com/books/perl-new-features)
+- :blue_book: [Preparing for Perl 7](https://perlschool.com/books/preparing-for-perl-7)
 - :closed_book: [Programming Perl](https://www.programmingperl.org) (Camel book)
 - :green_book: [Perl Cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book)
 - :blue_book: [Learning Perl](https://www.learning-perl.com)  (Llama book)
