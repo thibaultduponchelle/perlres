@@ -339,6 +339,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bug: [Request Tracker](https://bestpractical.com/request-tracker) - Bug tracker ([github](https://github.com/bestpractical/rt))
 - :honeybee: [OTRS](https://otrs.com) - Ticket tracker ([github](https://github.com/OTRS/otrs))
 - :ant: [BugZilla](https://www.bugzilla.org) - Bug tracker ([github](https://github.com/bugzilla/bugzilla))
+- :honeybee: [Otobo](https://otobo.de) - Web based ticketing system  ([github](https://github.com/RotherOSS/otobo))
 
 ### Wiki
 - :pencil2: [Oddmuse](https://oddmuse.org) - Wiki engine
