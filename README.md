@@ -267,6 +267,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bookmark_tabs: [Mira](https://miraxy.github.io) - Static website generator ([github](https://github.com/kiamazi/mira))
 - :memo: [StaticVolt](https://github.com/alanhaggai/StaticVolt) - Static website generator
 - :clipboard: [Followme](https://github.com/Jinzang/App-Followme) - Static website generator
+- :memo: [Trestle](https://github.com/davepagurek/Trestle) - A light/extensible CMS
 
 ### Blogging
 - :couple: [Blosxom](http://blosxom.sourceforge.net) - Blogging engine
