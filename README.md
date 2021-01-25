@@ -298,7 +298,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Communication
 - :beer: [Cider Mail](http://ciderwebmail.org/news/index.html) - Webmail application
-- :speech_balloon: [Convos](https://convos.by) - IRC web client ([github](https://github.com/Nordaaker/convos))
+- :speech_balloon: [Convos](https://convos.chat) - IRC web client ([github](https://github.com/Nordaaker/convos))
 
 ### Monitoring
 - :chart_with_upwards_trend: [Munin](http://munin-monitoring.org) - Supervision software (like Nagios and Shinken)
