@@ -91,7 +91,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :beers: Social
 ### Community
 
-*(See also [Perl Mongers](Perl_Mongers.md))*
+*(See also [Perl Mongers](MONGERS.md))*
 
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl) - Subreddit for Perl
 - :jp: [Perl Entrance](http://www.perl-entrance.org) - Sort of Perl Mongers group in Japan
