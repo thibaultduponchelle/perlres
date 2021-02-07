@@ -175,7 +175,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :triangular_ruler: [Formation-Perl](http://formation-perl.fr)
 - :straight_ruler: [Guide de programmation pour apprendre Perl](https://lhullier.developpez.com/tutoriels/perl/intro)
 - :racehorse: [Site du zero](http://sdz.tdct.org/sdz/apprenez-a-programmer-en-perl.html)
-- :school: [Cours de l'Université de Rennes](https://perso.univ-rennes1.fr/francois.dagorn/perl)
 
 ## :es: Tutorials and related resources in Spanish
 - :scroll: [Perl en español](https://perlenespanol.com)
