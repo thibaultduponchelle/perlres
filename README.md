@@ -22,7 +22,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :construction_worker: Perl core development
 - :octocat: [Perl github](https://github.com/Perl/perl5) - The **Perl interpreter source code** and its [gitweb mirror](https://perl5.git.perl.org/perl.git)
 - :bug: [Perl bug tracker](https://github.com/Perl/perl5/issues) - The public issue tracker and the former [Perl bug tracker ](https://rt.perl.org/Public/Search/Results.html?Query=Queue%20=%20%27perl5%27%20AND%20(Status%20=%20%27new%27%20OR%20Status%20=%20%27open%27%20OR%20Status%20=%20%27stalled%27)) (Request Tracker)
-- :mailbox: [Perl porters mailing list](https://lists.gt.net/perl/porters/) - Mailing list of the Perl core developers
+- :mailbox: [Perl porters mailing list](https://www.nntp.perl.org/group/perl.perl5.porters) - Mailing list of the Perl core developers
 - :hammer: [Compile and install Perl](https://metacpan.org/pod/distribution/perl/INSTALL) - If you want to compile it by hand (if you don't want Perl vendor)
 - :small_red_triangle_down: [Perl Delta](https://perldoc.pl/perldelta) - The latest changelog
 - :small_red_triangle: [Changelogs]( https://perldoc.pl/perl#Miscellaneous) - All changelogs
