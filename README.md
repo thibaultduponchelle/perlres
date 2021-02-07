@@ -287,7 +287,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mailbox: [Sympa](https://www.sympa.org) - Mailing lists engine
 - :mailbox_with_mail: [Minimalist](https://github.com/madroach/minimalist) - Mailing lists engine
 - :mailbox_closed: [Dada Mail](https://github.com/justingit/dada-mail) - Mailing lists engine
-- :mailbox_with_no_mail: [Majordomo](http://old.greatcircle.com/majordomo) - Mailing lists engine ([github](https://github.com/Distrotech/majordomo))
+- :mailbox_with_no_mail: [Majordomo](http://ftp.lip6.fr/pub/unix/mail/majordomo/) - Mailing lists engine ([github](https://github.com/Distrotech/majordomo))
 
 ### Email filtering
 - :hocho: [SpamAssassin](https://spamassassin.apache.org) - Email spam filtering
