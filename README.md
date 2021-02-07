@@ -247,7 +247,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### CMS
 - :bookmark_tabs: [Movable Type](https://www.movabletype.org/) - CMS ([github](https://github.com/movabletype/movabletype))
-- :page_with_curl: [Imperia CMS](https://www.pirobase-imperia.com/de/produkte/produktuebersicht/imperia-cms) - CMS
+- :page_with_curl: [Imperia CMS](https://www.pirobase-imperia.com/de/solutions/imperia) - CMS
 - :seat: [ACT](http://act.mongueurs.net) - CMS for conferences ([github](https://github.com/book/Act))
 - :memo: [Bricolage](http://bricolagecms.org) - CMS ([github](https://github.com/bricoleurs/bricolage))
 - :strawberry: [Qgoda](http://www.qgoda.net/en) - Extensible static website generator ([github](https://github.com/gflohr/qgoda))
