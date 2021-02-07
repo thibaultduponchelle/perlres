@@ -1,6 +1,6 @@
 I’m really glad that you are interested in contributing to **perlres** !
 
-First of all, respect great predecessors and all contributors in Perl community.
+First of all, please respect your great predecessors and all contributors in Perl community.
 
 This guide is inspired by awesome-perl [Contribution Guidelines](https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md).
 
