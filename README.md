@@ -305,7 +305,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_downwards_trend: [Monitorix](https://github.com/mikaku/Monitorix) -  Lightweight system monitoring tool
 - :bar_chart: [MRTG](https://oss.oetiker.ch/mrtg) - Monitoring traffic load on network links ([github](https://github.com/oetiker/mrtg))
 - :chart_with_downwards_trend: [Webmin](http://www.webmin.com/) - Web interface to administer Unix like machines
-- :mag: [Open Smart](http://opensmart.sourceforge.net/) - Network and application monitoring
+- :mag: [Open Smart](https://sourceforge.net/projects/opensmart) - Network and application monitoring
 - :chart_with_downwards_trend: [Loggerithim](https://sourceforge.net/projects/loggerithim/) -  Monitoring and remote management package
 - :bar_chart: [OPS View](https://www.opsview.com) - Network and application monitoring
 - :hourglass_flowing_sand: [Net Disco](http://netdisco.org) - Network management tool
