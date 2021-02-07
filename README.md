@@ -253,7 +253,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :strawberry: [Qgoda](http://www.qgoda.net/en) - Extensible static website generator ([github](https://github.com/gflohr/qgoda))
 - :bookmark_tabs: [Krang](http://krang.sourceforge.net) - CMS
 - :memo: [WebGui](http://www.webgui.org) - CMS
-- :page_with_curl: [Simpleness](http://cms.simpleness.org) - CMS
+- :page_with_curl: [Simpleness](https://github.com/ivanoff/cms.simpleness.org) - CMS
 - :bookmark_tabs: [Callisto](https://sourceforge.net/projects/callistocms) - CMS
 - :memo: [Spine](http://spine.sourceforge.net) - CMS
 - :clipboard: [XIMS](http://xims.info) - CMS
