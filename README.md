@@ -538,7 +538,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :mag: [Dezi](https://dezi.org) - Search platform
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
-- :calling: [PerlyBook](http://perlybook.org/) - Convert POD to EPUB/MOBI books ([github](https://github.com/reneeb/cpan2ebook))
+- :calling: [PerlyBook](https://github.com/reneeb/cpan2ebook) - Convert POD to EPUB/MOBI books
 - :wrench: [ExifTool](https://exiftool.org) - Meta informations reader/writer ([github](https://github.com/exiftool/exiftool))
 - :beetle: [BioPerl](https://bioperl.org) - BioPerl distribution ([github](https://github.com/bioperl/bioperl-live/blob/master/README.md))
 - :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - Search and stream videos on Youtube
