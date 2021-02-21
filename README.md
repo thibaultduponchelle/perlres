@@ -708,6 +708,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Perl Web Site Workshop
 - :green_book: Custom CGI scripting with Perl
 - :notebook: Pro Perl
+- :blue_book: [Perl One-Liners Explained](https://catonmat.net/perl-book)
 - :orange_book: Web Programming Secrets With Html, Cgi, and Perl
 - :blue_book: Perl : best 2020
 - :orange_book: Perl Medic: Transforming Legacy Code
