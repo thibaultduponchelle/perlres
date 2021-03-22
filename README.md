@@ -624,6 +624,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: [Practical Magick with C, PDL, and PDL::PP](https://www.boulder.swri.edu/~deforest/ewExternalFiles/PP-practical-magick.pdf)
 - :closed_book: Practical vim
 - :blue_book: Perl one liners
+- :green_book: Perlish Patterns
 - :closed_book: Practical mod_perl
 - :green_book: Mod_perl pocket reference
 - :blue_book: Mod_perl 2 user guide
