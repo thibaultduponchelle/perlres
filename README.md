@@ -712,6 +712,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: [Perl One-Liners Explained](https://catonmat.net/perl-book)
 - :orange_book: Web Programming Secrets With Html, Cgi, and Perl
 - :blue_book: Perl : best 2020
+- :notebook: Building Web Applications with Gantry and Bigtop
 - :orange_book: Perl Medic: Transforming Legacy Code
 - :green_book: Computer Science & Perl Programming
 - :orange_book: Programming PERL in the .NET Environment
