@@ -749,6 +749,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: De Perl a Java : Programmation des expressions regulieres :fr:
 - :blue_book: Visuel Pro Perl :fr:
 - :orange_book: Perl mini reference :fr:
+- :green_book: L'intro Perl 5 :fr:
+- :blue_book: Perl 5 (Clinto Pierce) :fr:
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
