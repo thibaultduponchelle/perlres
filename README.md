@@ -728,6 +728,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Web Client Programming with Perl
 - :orange_book: Learning Perl on Win32 Systems
 - :notebook: Perl for Exploring DNA
+- :green_book: The CGI/PERL Cookbook
 - :orange_book: Advanced Perl Programming: From Advanced to Expert (William "Bo" Rothwell)
 - :green_book: Pro Perl Programming: From Professional to Advanced (William "Bo" Rothwell)
 - :blue_book: On Perl: Perl for Students and Professionals
