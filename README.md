@@ -465,6 +465,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cd: [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application
 - :vhs: [ETL](https://sourceforge.net/projects/eplsiteetl) - Data migration helper
 - :dvd: [QDepo](https://sourceforge.net/projects/tpda-qrt) - Graphical software to convert various DB data to various office formats
+- :floppy_disk: [Bucardo](https://bucardo.org/Bucardo) - Master/slave Postgres replication 
 
 ### IDE
 - :computer: [Padre](http://padre.perlide.org/) - IDE ([github](https://github.com/PadreIDE/Padre)) for Windows/OSX/Linux :door: :apple: :penguin:
