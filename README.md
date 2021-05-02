@@ -584,44 +584,51 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: [Learning Perl](https://www.learning-perl.com) (Llama book) (2021)
 - :orange_book: [Perl new features](https://perlschool.com/books/perl-new-features) (2021)
 - :blue_book: [Preparing for Perl 7](https://perlschool.com/books/preparing-for-perl-7) (2020)
+- :blue_book: [The best of Perl Hacks](https://perlhacks.com/2020/04/the-best-of-perl-hacks) (2020)
+- :blue_book: [Learning Perl Exercises](https://leanpub.com/learning_perl_exercises) (2020)
+- :green_book: [Cucumber and Perl](https://perlschool.com/books/cucumber) (2020)
+- :green_book: [Mojolicious Web Clients](https://leanpub.com/mojo_web_clients) (2020)
 - :blue_book: Beginning Perl Programming : From novice to professionnal (William Rothwell) (2019)
 - :construction: [A practical guide to testing](https://leanpub.com/perl-testing) (2018)
+- :green_book: [Selenium and Perl](https://perlschool.com/books/selenium-perl) (2018)
 - :blue_book: [Programming the Raspberry Pi with Perl](https://leanpub.com/programmingtheraspberrypiwithperl) (2018)
+- :notebook: [Perl Taster](https://perlschool.com/books/perl-taster) (2017)
 - :notebook_with_decorative_cover: [Modern Perl](http://modernperlbooks.com) (2015)
+- :orange_book: Impatient Perl (2013)
 - :orange_book: [Intermediate Perl](https://www.intermediateperl.com) (Alpaca book) (2012)
 - :closed_book: [Programming Perl](https://www.programmingperl.org) (Camel book) (2012)
 - :blue_book: [Beginning Perl](http://shop.oreilly.com/product/9781118013847.do) (Curtis "Ovid" Poe) (2012)
 - :notebook: [Perl pocket reference](http://shop.oreilly.com/product/0636920018476.do) (2011)
 - :notebook: [Effective Perl Programming](https://www.effectiveperlprogramming.com) (2010)
 - :notebook: [Mastering Perl](https://www.masteringperl.org) (2007)
+- :notebook: Perl programming for the absolute beginner (2007)
 - :orange_book: [Perl hacks](http://shop.oreilly.com/product/9780596526740.do) (2006)
+- :notebook: Perl Testing (2006)
+- :blue_book: [Advanced Perl Programming](http://shop.oreilly.com/product/9780596004569.do) (2005)
 - :ledger: [Perl Best Practices](https://en.wikipedia.org/wiki/Perl_Best_Practices) (2005)
 - :green_book: [Higher Order Perl](https://hop.perl.plover.com) (2005)
+- :closed_book: Extreme Programming with Perl (2005)
 - :closed_book: Beginning Perl (James D Lee) (2004)
 - :green_book: [Perl Cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book) (2003)
+- :blue_book: Perl for dummies (2003)
+- :closed_book: [Mastering Perl for Bioinformatics](https://www.oreilly.com/library/view/mastering-perl-for/0596003072/) (2003)
+- :blue_book: [Web, Graphics & Perl/Tk Programming](http://shop.oreilly.com/product/9780596003111.do) (2003)
+- :closed_book: [Games, Diversions and Perl Culture](http://shop.oreilly.com/product/9780596003128.do) (2003)
 - :green_book: [Perl and XML](http://shop.oreilly.com/product/9780596002053.do) (2002)
+- :orange_book: [Perl for Oracle DBAs](http://shop.oreilly.com/product/9780596002107.do) (2002)
+- :closed_book: [Perl & LWP](http://lwp.interglacial.com) (2002)
+- :orange_book: [Perl graphics Programming](http://shop.oreilly.com/product/9780596002190.do) (2002)
 - :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl) (2000)
-- :blue_book: Perl for system administration
-- :green_book: Programming the perl DBI
-- :notebook: CGI programming with Perl
-- :closed_book: [Perl & LWP](http://lwp.interglacial.com)
-- :notebook: Perl programming for the absolute beginner
-- :orange_book: [Perl graphics Programming](http://shop.oreilly.com/product/9780596002190.do)
-- :blue_book: Perl for dummies
-- :orange_book: Elements of Programming with Perl
-- :notebook: [Mastering algorithms with Perl](http://shop.oreilly.com/product/9781565923980.do)
-- :blue_book: [The best of Perl Hacks](https://perlhacks.com/2020/04/the-best-of-perl-hacks)
-- :orange_book: Impatient Perl
-- :closed_book: Extreme Perl
-- :blue_book: [Web, Graphics & Perl/Tk Programming](http://shop.oreilly.com/product/9780596003111.do)
-- :closed_book: [Games, Diversions and Perl Culture](http://shop.oreilly.com/product/9780596003128.do)
+- :blue_book: Perl for system administration (2000)
+- :green_book: Programming the perl DBI (2000)
+- :notebook: CGI programming with Perl (2000)
+- :orange_book: Elements of Programming with Perl (1999)
+- :notebook: [Mastering algorithms with Perl](http://shop.oreilly.com/product/9781565923980.do) (1999)
+- :blue_book: Practical Perl Programming (1999)
 - :green_book: Perl Template Toolkit
 - :notebook_with_decorative_cover: Web Services avec Perl
-- :orange_book: [Perl for Oracle DBAs](http://shop.oreilly.com/product/9780596002107.do)
-- :blue_book: [Advanced Perl Programming](http://shop.oreilly.com/product/9780596004569.do)
-- :notebook: Perl Testing
 - :blue_book: [Practical Magick with C, PDL, and PDL::PP](https://www.boulder.swri.edu/~deforest/ewExternalFiles/PP-practical-magick.pdf)
-- :closed_book: Practical vim
+- :closed_book: Practical Perl with CGI Applications
 - :blue_book: Perl one liners
 - :green_book: Perlish Patterns
 - :closed_book: Practical mod_perl
@@ -631,7 +638,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: Perl in a nutshell
 - :green_book: Perl testing a developer notebook
 - :blue_book: Beginning Perl for bioinformatics
-- :closed_book: [Mastering Perl for Bioinformatics](http://shop.oreilly.com/product/9781565923140.do)
 - :notebook: Network programming with Perl
 - :orange_book: Perl by example
 - :notebook_with_decorative_cover: Perl black book
@@ -691,11 +697,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Pro Perl Parsing
 - :closed_book: Developing CGI Applications with Perl
 - :blue_book: Perl 5 Interactive Course
-- :green_book: [Selenium and Perl](https://perlschool.com/books/selenium-perl)
-- :notebook: [Perl Taster](https://perlschool.com/books/perl-taster)
-- :blue_book: [Learning Perl Exercises](https://leanpub.com/learning_perl_exercises)
-- :green_book: [Cucumber and Perl](https://perlschool.com/books/cucumber)
-- :green_book: [Mojolicious Web Clients](https://leanpub.com/mojo_web_clients)
 - :orange_book: Teach Yourself CGI Programming with Perl 5 in a week
 - :green_book: Penetration Testing with Perl
 - :closed_book: Hands-On Penetration Testing with Python
