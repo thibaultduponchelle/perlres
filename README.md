@@ -393,7 +393,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :snail: [Web Nano](https://github.com/zby/WebNano) - Really minimalistic web framework.
 - :mouse2: [RapidApp](http://www.rapidapp.info) - Web toolkit and framework based on [Catalyst](http://www.catalystframework.org) ([github](https://github.com/vanstyn/RapidApp))
 - :snowflake: [Kelp](https://brtastic.xyz/project/kelp) - A web framework light ([github](https://github.com/naturalist/kelp))
-- :innocent: [Marquee](http://mrqe.jamadam.com) - Yet another Mojo based web framework ([github](https://github.com/jamadam/Marquee))
+- :innocent: [Marquee](https://github.com/jamadam/Marquee) - Yet another Mojo based web framework
 - :pig: [Piggly](https://github.com/ensilon/piggly) - A straight forward PSGI web framework
 - :bug: [PEF::Front](https://github.com/jef-sure/pef-front-psgi-dist) - A web framework
 - :fire: [Combust](http://combust.develooper.com) - A web framework
