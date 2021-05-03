@@ -572,7 +572,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :tongue: [Glot.io](https://glot.io/new/perl) - Runnable, [open source](https://github.com/prasmussen/glot) pastebin snippets with [API](https://glot.io/api)
 
 ## :bear: Lint Perl online
-- :heavy_check_mark: [Kritika.io](https://kritika.io/) - Static code analyzer
 - :zap: [PerlCritic](http://perlcritic.com) - Web frontend to [Perl::Critic](https://github.com/Perl-Critic/Perl-Critic)
 
 ## :books: Books
