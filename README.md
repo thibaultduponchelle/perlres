@@ -590,6 +590,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: [Mojolicious Web Clients](https://leanpub.com/mojo_web_clients) (2020)
 - :blue_book: Beginning Perl Programming : From novice to professionnal (William Rothwell) (2019)
 - :blue_book: Step-by-Step Perl Programming Book (2019)
+- :blue_book: Perl : best 2020 (2019)
 - :construction: [A practical guide to testing](https://leanpub.com/perl-testing) (2018)
 - :green_book: [Selenium and Perl](https://perlschool.com/books/selenium-perl) (2018)
 - :blue_book: [Programming the Raspberry Pi with Perl](https://leanpub.com/programmingtheraspberrypiwithperl) (2018)
@@ -621,22 +622,29 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: [Regular Expression Pocket Reference](https://www.oreilly.com/library/view/regular-expression-pocket/9780596514273/) (2007)
 - :closed_book: [Perl Golf History](http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf) (2007)
 - :orange_book: Perl Scripting for Windows Security (2007)
+- :notebook: Building Web Applications with Gantry and Bigtop (2007)
+- :notebook: Perl for Exploring DNA (2007)
 - :orange_book: [Perl hacks](http://shop.oreilly.com/product/9780596526740.do) (2006)
 - :green_book: Perl testing a developer notebook (2006)
 - :blue_book: Running weblogs with Slash (2006)
-- :green_book: Minimal Perl (2006)
+- :orange_book: Minimal Perl: For UNIX and Linux People (2006)
+- :blue_book: [Building Tag Clouds in Perl and PHP](https://www.oreilly.com/library/view/building-tag-clouds/0596527942/) (2006)
+- :green_book: Wicked Cool Perl Scripts (2006)
 - :blue_book: [Advanced Perl Programming](http://shop.oreilly.com/product/9780596004569.do) (2005)
 - :ledger: [Perl Best Practices](https://en.wikipedia.org/wiki/Perl_Best_Practices) (2005)
 - :green_book: [Higher Order Perl](https://hop.perl.plover.com) (2005)
 - :closed_book: Extreme Programming with Perl (2005)
 - :notebook: Pro Perl debugging (2005)
+- :notebook: Pro Perl (2005)
 - :orange_book: Beginning perl web development (2005)
 - :orange_book: [RT Essentials](http://shop.oreilly.com/product/9780596006686.do) (2005)
 - :green_book: Pro Perl Parsing (2005)
+- :orange_book: Teach Yourself Perl in 24 Hours (2005)
 - :closed_book: Beginning Perl (James D Lee) (2004)
 - :green_book: Perlish Patterns (2004)
 - :orange_book: Perl Debugger Pocket Reference (2004)
 - :orange_book: Perls of wisdom (2004)
+- :orange_book: Perl Medic: Transforming Legacy Code (2004)
 - :green_book: [Perl Cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book) (2003)
 - :blue_book: Perl for dummies (2003)
 - :closed_book: [Mastering Perl for Bioinformatics](https://www.oreilly.com/library/view/mastering-perl-for/0596003072/) (2003)
@@ -658,6 +666,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: [Perl for C programmers](https://www.oreilly.com/library/view/perl-for-c/073571228X/) (2002)
 - :green_book: [Writing Perl Modules for CPAN](https://www.apress.com/fr/book/9781590590188) (2002)
 - :closed_book: Perl Developer's Dictionary (Clinton Pierce) (2002)
+- :green_book: [Computer Science & Perl Programming](https://www.oreilly.com/library/view/computer-science/9780596003104/) (2002)
+- :notebook: Teach Yourself Perl in 21 Days (2002)
 - :orange_book: Instant CGI/Perl (2001)
 - :notebook: [Data Munging with Perl](https://datamungingwithperl.com/) (2001)
 - :notebook_with_decorative_cover: [MySQL and Perl for the Web](http://www.kitebird.com/mysql-perl) (2001)
@@ -673,6 +683,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Perl 5 internals (2001)
 - :blue_book: Perl 5 Interactive Course (2001)
 - :blue_book: Perl Web Site Workshop (2001)
+- :green_book: Custom CGI scripting with Perl (2001)
 - :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl) (2000)
 - :blue_book: Perl for system administration (2000)
 - :green_book: Database programming with Perl: Programming the perl DBI (2000)
@@ -698,19 +709,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: CGI Developer's Resource: Web programming in Tcl and Perl (1997)
 - :closed_book: Developing CGI Applications with Perl (1996)
 - :orange_book: Teach Yourself CGI Programming with Perl 5 in a week (1996)
-- :orange_book: Minimal Perl: For UNIX and Linux People
-- :blue_book: Building Tag Clouds in Perl and PHP
-- :green_book: Wicked Cool Perl Scripts
-- :green_book: Custom CGI scripting with Perl
-- :notebook: Pro Perl
-- :orange_book: Web Programming Secrets With Html, Cgi, and Perl
-- :blue_book: Perl : best 2020
-- :notebook: Building Web Applications with Gantry and Bigtop
-- :orange_book: Perl Medic: Transforming Legacy Code
-- :green_book: Computer Science & Perl Programming
+- :orange_book: Web Programming Secrets With Html, Cgi, and Perl (1996)
 - :orange_book: Programming PERL in the .NET Environment
-- :notebook: Teach Yourself Perl in 21 Days
-- :orange_book: Teach Yourself Perl in 24 Hours
 - :green_book: Perl Debugged
 - :blue_book: Perl Power
 - :orange_book: Spidering hacks
@@ -719,7 +719,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Programming Web Graphics with Perl and GNU Software
 - :notebook: Web Client Programming with Perl
 - :orange_book: Learning Perl on Win32 Systems
-- :notebook: Perl for Exploring DNA
 - :orange_book: Advanced Perl Programming: From Advanced to Expert (William "Bo" Rothwell)
 - :green_book: Pro Perl Programming: From Professional to Advanced (William "Bo" Rothwell)
 - :blue_book: On Perl: Perl for Students and Professionals
