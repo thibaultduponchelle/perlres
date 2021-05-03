@@ -593,8 +593,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: [Selenium and Perl](https://perlschool.com/books/selenium-perl) (2018)
 - :blue_book: [Programming the Raspberry Pi with Perl](https://leanpub.com/programmingtheraspberrypiwithperl) (2018)
 - :notebook: [Perl Taster](https://perlschool.com/books/perl-taster) (2017)
+- :blue_book: [Practical Magick with C, PDL, and PDL::PP](https://www.boulder.swri.edu/~deforest/ewExternalFiles/PP-practical-magick.pdf) (2017)
 - :notebook_with_decorative_cover: [Modern Perl](http://modernperlbooks.com) (2015)
+- :orange_book: Perl by example (2014)
 - :orange_book: Impatient Perl (2013)
+- :blue_book: Perl one liners (2013)
 - :orange_book: [Intermediate Perl](https://www.intermediateperl.com) (Alpaca book) (2012)
 - :closed_book: [Programming Perl](https://www.programmingperl.org) (Camel book) (2012)
 - :blue_book: [Beginning Perl](http://shop.oreilly.com/product/9781118013847.do) (Curtis "Ovid" Poe) (2012)
@@ -602,59 +605,55 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: [Effective Perl Programming](https://www.effectiveperlprogramming.com) (2010)
 - :notebook: [Mastering Perl](https://www.masteringperl.org) (2007)
 - :notebook: Perl programming for the absolute beginner (2007)
+- :notebook: [Open Source Web Development with LAMP](http://www.opensourcewebbook.com) (2007)
+- :blue_book: Mod_perl 2 user guide (2007)
 - :orange_book: [Perl hacks](http://shop.oreilly.com/product/9780596526740.do) (2006)
-- :notebook: Perl Testing (2006)
+- :green_book: Perl testing a developer notebook (2006)
 - :blue_book: [Advanced Perl Programming](http://shop.oreilly.com/product/9780596004569.do) (2005)
 - :ledger: [Perl Best Practices](https://en.wikipedia.org/wiki/Perl_Best_Practices) (2005)
 - :green_book: [Higher Order Perl](https://hop.perl.plover.com) (2005)
 - :closed_book: Extreme Programming with Perl (2005)
 - :closed_book: Beginning Perl (James D Lee) (2004)
+- :green_book: Perlish Patterns (2004)
 - :green_book: [Perl Cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book) (2003)
 - :blue_book: Perl for dummies (2003)
 - :closed_book: [Mastering Perl for Bioinformatics](https://www.oreilly.com/library/view/mastering-perl-for/0596003072/) (2003)
 - :blue_book: [Web, Graphics & Perl/Tk Programming](http://shop.oreilly.com/product/9780596003111.do) (2003)
 - :closed_book: [Games, Diversions and Perl Culture](http://shop.oreilly.com/product/9780596003128.do) (2003)
+- :closed_book: Practical Perl with CGI Applications (2003)
+- :green_book: Perl Template Toolkit (2003)
+- :closed_book: Practical mod_perl (2003)
 - :green_book: [Perl and XML](http://shop.oreilly.com/product/9780596002053.do) (2002)
 - :orange_book: [Perl for Oracle DBAs](http://shop.oreilly.com/product/9780596002107.do) (2002)
 - :closed_book: [Perl & LWP](http://lwp.interglacial.com) (2002)
 - :orange_book: [Perl graphics Programming](http://shop.oreilly.com/product/9780596002190.do) (2002)
+- :ledger: Extending and embedding Perl (2002)
+- :blue_book: [Mastering Perl/Tk](http://shop.oreilly.com/product/9781565927162.do) (2002)
+- :blue_book: Mod_perl developer cookbooks (2002)
+- :notebook_with_decorative_cover: [Web Services with Perl](https://www.oreilly.com/library/view/programming-web-services/0596002068/) (2002)
+- :notebook: [Data Munging with Perl](https://datamungingwithperl.com/) (2001)
+- :notebook_with_decorative_cover: [MySQL and Perl for the Web](http://www.kitebird.com/mysql-perl) (2001)
+- :notebook_with_decorative_cover: Perl black book (2001)
+- :notebook: Network programming with Perl (2001)
+- :blue_book: [Beginning Perl for bioinformatics](https://www.oreilly.com/library/view/beginning-perl-for/0596000804/) (2001)
+- :green_book: Mod_perl pocket reference (2001)
 - :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl) (2000)
 - :blue_book: Perl for system administration (2000)
 - :green_book: Programming the perl DBI (2000)
 - :notebook: CGI programming with Perl (2000)
+- :notebook: [Object Oriented Perl](http://perltraining.com.au/notes/perloo.pdf) (2000)
 - :orange_book: Elements of Programming with Perl (1999)
+- :orange_book: Perl core language little black book (1999)
 - :notebook: [Mastering algorithms with Perl](http://shop.oreilly.com/product/9781565923980.do) (1999)
 - :blue_book: Practical Perl Programming (1999)
-- :green_book: Perl Template Toolkit
-- :notebook_with_decorative_cover: Web Services avec Perl
-- :blue_book: [Practical Magick with C, PDL, and PDL::PP](https://www.boulder.swri.edu/~deforest/ewExternalFiles/PP-practical-magick.pdf)
-- :closed_book: Practical Perl with CGI Applications
-- :blue_book: Perl one liners
-- :green_book: Perlish Patterns
-- :closed_book: Practical mod_perl
-- :green_book: Mod_perl pocket reference
-- :blue_book: Mod_perl 2 user guide
-- :notebook: [Object Oriented Perl](http://perltraining.com.au/notes/perloo.pdf)
-- :closed_book: Perl in a nutshell
-- :green_book: Perl testing a developer notebook
-- :blue_book: Beginning Perl for bioinformatics
-- :notebook: Network programming with Perl
-- :orange_book: Perl by example
-- :notebook_with_decorative_cover: Perl black book
-- :ledger: Extending and embedding Perl
-- :blue_book: Mod_perl developer cookbooks
-- :orange_book: Perl core language little black book
-- :green_book: Writing apache modules with Perl and C
+- :green_book: Writing apache modules with Perl and C (1999)
+- :green_book: [Learning Perl/Tk](http://shop.oreilly.com/product/9781565923140.do) (1999)
+- :orange_book: Perl/Tk Pocket Reference (1998)
+- :closed_book: Perl in a nutshell (1998)
 - :blue_book: Running weblogs with Slash
 - :orange_book: Core Perl
 - :closed_book: Perl for the Web
 - :blue_book: The Definitive Guide to Catalyst: Writing Extendable, Scalable and Maintainable Perl-Based Web Applications
-- :notebook: [Data Munging with Perl](https://datamungingwithperl.com/)
-- :notebook_with_decorative_cover: [MySQL and Perl for the Web](http://www.kitebird.com/mysql-perl)
-- :notebook: [Open Source Web Development with LAMP](http://www.opensourcewebbook.com)
-- :green_book: [Learning Perl/Tk](http://shop.oreilly.com/product/9781565923140.do)
-- :blue_book: [Mastering Perl/Tk](http://shop.oreilly.com/product/9781565927162.do)
-- :orange_book: [Perl/Tk Pocket Reference](http://shop.oreilly.com/product/9781565925175.do)
 - :notebook: Pro Perl debugging
 - :closed_book: Regular Expression Pocket Reference
 - :orange_book: Perl Debugger Pocket Reference
