@@ -597,6 +597,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: [Selenium and Perl](https://perlschool.com/books/selenium-perl) (2018)
 - :blue_book: [Programming the Raspberry Pi with Perl](https://leanpub.com/programmingtheraspberrypiwithperl) (2018)
 - :orange_book: [Single Page Application with Perl Dancer](https://leanpub.com/dancer-spa/) (2018)
+- :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl) (2018)
 - :notebook: [Perl Taster](https://perlschool.com/books/perl-taster) (2017)
 - :blue_book: [Practical Magick with C, PDL, and PDL::PP](https://www.boulder.swri.edu/~deforest/ewExternalFiles/PP-practical-magick.pdf) (2017)
 - :notebook_with_decorative_cover: [Modern Perl](http://modernperlbooks.com) (2015)
@@ -614,7 +615,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: [Effective Perl Programming](https://www.effectiveperlprogramming.com) (2010)
 - :blue_book: Catalyst 5.8: the Perl MVC Framework (2010)
 - :blue_book: [Automating System administration with Perl](https://www.oreilly.com/library/view/automating-system-administration/9780596801892/) (2009) 
-- :blue_book: The Definitive Guide to Catalyst: Writing Extendable, Scalable and Maintainable Perl-Based Web Applications (2009)
+- :blue_book: The Definitive Guide to Catalyst (2009)
 - :blue_book: Learning Perl the hard way (2009)
 - :notebook: Developing Web Applications with Perl, memcached, MySQL and Apache (2009)
 - :notebook: Practical text mining with perl (2008)
@@ -654,8 +655,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: [Perl Cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book) (2003)
 - :blue_book: Perl for dummies (2003)
 - :closed_book: [Mastering Perl for Bioinformatics](https://www.oreilly.com/library/view/mastering-perl-for/0596003072/) (2003)
-- :blue_book: [Web, Graphics & Perl/Tk Programming](http://shop.oreilly.com/product/9780596003111.do) (2003)
-- :closed_book: [Games, Diversions and Perl Culture](http://shop.oreilly.com/product/9780596003128.do) (2003)
+- :blue_book: [Web, Graphics & Perl/Tk Programming](https://www.oreilly.com/library/view/web-graphics/9781449398590/) (2003)
+- :closed_book: [Games, Diversions and Perl Culture](https://www.oreilly.com/library/view/games-diversions/9781449398651/) (2003)
 - :closed_book: Practical Perl with CGI Applications (2003)
 - :green_book: Perl Template Toolkit (2003)
 - :closed_book: Practical mod_perl (2003)
@@ -666,7 +667,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: [Perl & LWP](http://lwp.interglacial.com) (2002)
 - :orange_book: [Perl graphics Programming](http://shop.oreilly.com/product/9780596002190.do) (2002)
 - :ledger: Extending and embedding Perl (2002)
-- :blue_book: [Mastering Perl/Tk](http://shop.oreilly.com/product/9781565927162.do) (2002)
+- :blue_book: [Mastering Perl/Tk](https://www.oreilly.com/library/view/mastering-perltk/1565927168/) (2002)
 - :blue_book: Mod_perl developer cookbooks (2002)
 - :closed_book: [Embedding Perl in HTML with MASON](https://www.oreilly.com/library/view/embedding-perl-in/0596002254/) (2002)
 - :notebook_with_decorative_cover: [Web Services with Perl](https://www.oreilly.com/library/view/programming-web-services/0596002068/) (2002)
@@ -676,6 +677,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: [Computer Science & Perl Programming](https://www.oreilly.com/library/view/computer-science/9780596003104/) (2002)
 - :notebook: Teach Yourself Perl in 21 Days (2002)
 - :orange_book: Programming PERL in the .NET Environment (2002)
+- :blue_book: Perl How to program (2002)
 - :blue_book: [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.html) (2002)
 - :orange_book: Instant CGI/Perl (2001)
 - :notebook: [Data Munging with Perl](https://datamungingwithperl.com/) (2001)
@@ -706,7 +708,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: [Mastering algorithms with Perl](http://shop.oreilly.com/product/9781565923980.do) (1999)
 - :blue_book: Practical Perl Programming (1999)
 - :green_book: Writing apache modules with Perl and C (1999)
-- :green_book: [Learning Perl/Tk](http://shop.oreilly.com/product/9781565923140.do) (1999)
+- :green_book: [Learning Perl/Tk](https://www.oreilly.com/library/view/learning-perltk/1565923146/) (1999)
 - :blue_book: Automating Windows with Perl (1999)
 - :orange_book: [Programming Web Graphics with Perl and GNU Software](https://www.oreilly.com/library/view/programming-web-graphics/1565924789/) (1999)
 - :orange_book: Perl/Tk Pocket Reference (1998)
@@ -724,24 +726,25 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: Developing CGI Applications with Perl (1996)
 - :orange_book: Teach Yourself CGI Programming with Perl 5 in a week (1996)
 - :orange_book: Web Programming Secrets With Html, Cgi, and Perl (1996)
-- :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
-- :blue_book: Welcome to Perl Country :jp:
-- :notebook: How to Write Perl :jp:
-- :orange_book: Introduction to Perl :jp:
-- :blue_book: Perl programming poisoning :jp:
-- :green_book: Les fondamentaux du langage Perl 5 : Apprentissage par la pratique (Philippe Banquet) :fr:
-- :blue_book: Perl moderne :fr:
-- :orange_book: Perl 5 (David Till) :fr:
-- :notebook: Perl reference de poche :fr:
-- :orange_book: Perl pour l’impatient :fr:
-- :notebook_with_decorative_cover: Perl en action :fr:
-- :blue_book: Introductions a Perl/Tk: Interfaces graphiques avec Perl :fr:
-- :green_book: De Perl a Java : Programmation des expressions regulieres :fr:
-- :blue_book: Visuel Pro Perl :fr:
-- :orange_book: Perl mini reference :fr:
-- :green_book: L'intro Perl 5 :fr:
-- :blue_book: Perl 5 (Clinto Pierce) :fr:
-- :orange_book: Apprenez a programmer en Perl (Open Classroom) :fr:
+
+### Other books :jp:
+- :blue_book: Perl programming poisoning :jp: (2004)
+- :orange_book: Perl programming for CGI and text processing :jp: (2001)
+- :orange_book: Introduction to Perl :jp: (1994)
+- :blue_book: Welcome to Perl Country :jp: (1993)
+- :blue_book: Perl Writing Methods :jp: (1993)
+
+### Other books :fr:
+- :green_book: Les fondamentaux du langage Perl 5 : Apprentissage par la pratique (Philippe Banquet) :fr: (2013)
+- :blue_book: Perl moderne :fr: (2012)
+- :orange_book: Apprenez a programmer en Perl (Open Classroom) :fr: (2012)
+- :orange_book: Perl pour l’impatient :fr: (2005)
+- :green_book: De Perl a Java : Programmation des expressions regulieres :fr: (2004)
+- :blue_book: Visuel Pro Perl :fr: (2001)
+- :blue_book: Perl 5 (Clinto Pierce) :fr: (2001)
+- :orange_book: Perl 5 (David Till) :fr: (2000)
+- :blue_book: Perl mini-reference :fr: (2000)
+- :green_book: L'intro Perl 5 :fr: (2000)
 
 # :rocket: Develop with Perl
 ## :arrow_down: Install CPAN modules
