@@ -588,6 +588,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: [Learning Perl Exercises](https://leanpub.com/learning_perl_exercises) (2020)
 - :green_book: [Cucumber and Perl](https://perlschool.com/books/cucumber) (2020)
 - :green_book: [Mojolicious Web Clients](https://leanpub.com/mojo_web_clients) (2020)
+- :orange_book: Advanced Perl Programming: From Advanced to Expert (William Rothwell) (2020)
+- :green_book: Pro Perl Programming: From Professional to Advanced (William Rothwell) (2020)
 - :blue_book: Beginning Perl Programming : From novice to professionnal (William Rothwell) (2019)
 - :blue_book: Step-by-Step Perl Programming Book (2019)
 - :blue_book: Perl : best 2020 (2019)
@@ -601,6 +603,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Perl and regular expressions quick start workbook (2015)
 - :orange_book: Perl by example (2014)
 - :green_book: Penetration Testing with Perl (2014)
+- :green_book: Language Processing With Perl and Prolog: Theories, Implementation, and Application (2014)
 - :orange_book: Impatient Perl (2013)
 - :blue_book: Perl one liners (2013)
 - :orange_book: [Intermediate Perl](https://www.intermediateperl.com) (Alpaca book) (2012)
@@ -647,6 +650,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Perl Debugger Pocket Reference (2004)
 - :orange_book: Perls of wisdom (2004)
 - :orange_book: Perl Medic: Transforming Legacy Code (2004)
+- :blue_book: On Perl: Perl for Students and Professionals (2004)
 - :green_book: [Perl Cookbook](https://en.wikipedia.org/wiki/Perl_Cookbook) (Ram book) (2003)
 - :blue_book: Perl for dummies (2003)
 - :closed_book: [Mastering Perl for Bioinformatics](https://www.oreilly.com/library/view/mastering-perl-for/0596003072/) (2003)
@@ -672,6 +676,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: [Computer Science & Perl Programming](https://www.oreilly.com/library/view/computer-science/9780596003104/) (2002)
 - :notebook: Teach Yourself Perl in 21 Days (2002)
 - :orange_book: Programming PERL in the .NET Environment (2002)
+- :blue_book: [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.html) (2002)
 - :orange_book: Instant CGI/Perl (2001)
 - :notebook: [Data Munging with Perl](https://datamungingwithperl.com/) (2001)
 - :notebook_with_decorative_cover: [MySQL and Perl for the Web](http://www.kitebird.com/mysql-perl) (2001)
@@ -689,6 +694,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Perl Web Site Workshop (2001)
 - :green_book: Custom CGI scripting with Perl (2001)
 - :green_book: Perl Debugged (2001)
+- :green_book: [Win32 Perl Programming: The Standard Extensions, Second Edition](https://www.oreilly.com/library/view/win32-perl-programming/157870216X/) (2001)
 - :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl) (2000)
 - :blue_book: Perl for system administration (2000)
 - :green_book: Database programming with Perl: Programming the perl DBI (2000)
@@ -718,14 +724,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: Developing CGI Applications with Perl (1996)
 - :orange_book: Teach Yourself CGI Programming with Perl 5 in a week (1996)
 - :orange_book: Web Programming Secrets With Html, Cgi, and Perl (1996)
-- :green_book: [Perl XML::LibXML by Example](http://grantm.github.io/perl-libxml-by-example) ([github](https://github.com/grantm/perl-libxml-by-example))
-- :blue_book: [The Perl Language](https://github.com/rfilipo/The-Perl-Language) (WIP)
-- :orange_book: Advanced Perl Programming: From Advanced to Expert (William "Bo" Rothwell)
-- :green_book: Pro Perl Programming: From Professional to Advanced (William "Bo" Rothwell)
-- :blue_book: On Perl: Perl for Students and Professionals
-- :green_book: Language Processing With Perl and Prolog: Theories, Implementation, and Application
-- :green_book: Win32 Perl Programming: The Standard Extensions, Second Edition
-- :blue_book: [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.html)
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl)
 - :blue_book: Welcome to Perl Country :jp:
 - :notebook: How to Write Perl :jp:
