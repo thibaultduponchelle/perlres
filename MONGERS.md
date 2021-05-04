@@ -20,12 +20,12 @@ Some of the groups may not be active.
 - :us: [Chicago](http://chicago.pm.org/) ([GitHub](https://github.com/ChicagoPM))
 - :us: [Los Angeles](http://la.pm.org) (Facebook: [page](https://www.facebook.com/Los-Angeles-Perl-Mongers-110460472327702), [group](https://www.facebook.com/groups/119158178096277/))
 - :us: [Philadelphia](https://philadelphia.pm.org/) ([Twitter](https://twitter.com/philapm))
-- :us: [Pittsburgh](http://pittsburgh.pm.org) ([Facebook page](https://www.facebook.com/Pittsburgh-Perl-Mongers-134841096610785))
+- :us: Pittsburgh ([Facebook page](https://www.facebook.com/Pittsburgh-Perl-Mongers-134841096610785))
 - :us: [Portland](https://pdx.pm.org/) ([Twitter](https://twitter.com/pdxperlmongers), [GitHub](https://github.com/PortlandPerlMongers))
 - :us: [Purdue](https://purdue.pl/) ([Twitter](https://twitter.com/PurduePM), [GitHub](https://github.com/Purdue-Perl-Mongers))
 - :us: [Salt Lake City](http://slcperlmongers.com/) ([Facebook group](https://www.facebook.com/groups/515481075169254/))
 - :us: [San Francisco](http://www.meetup.com/San-Francisco-Perl/) ([Facebook page](https://www.facebook.com/SanFranciscoPerlMongers))
-- :us: [Washington D.C.](https://dc.pm.org/) ([Twitter](https://twitter.com/dcperl))
+- :us: Washington D.C. ([Twitter](https://twitter.com/dcperl))
 - :canada: Toronto ([Twitter](https://twitter.com/TOperlmongers), [GitHub](https://github.com/toronto-perl-mongers/tpm-website))
 
 ### South America
