@@ -48,7 +48,7 @@ Some of the groups may not be active.
 - :czech_republic: Brno ([Facebook page](https://www.facebook.com/brnopm))
 - :romania: Cluj ([Twitter](https://twitter.com/clujpm), [Facebook page](https://www.facebook.com/clujpm))
 - :fr: [France](http://www.mongueurs.net/) ([Twitter](http://twitter.com/mongueurs_perl))
-- :de:  [Frankfurt](http://fankfurt.pm) ([Facebook page](https://www.facebook.com/frankfurt.pm))
+- :de:  Frankfurt ([Facebook page](https://www.facebook.com/frankfurt.pm))
 - :de: [Niederrhein](http://niederrhein.pm.org) ([Facebook page](https://www.facebook.com/Niederrhein-Perl-Mongers-176634792354842))
 - :norway: [Oslo](http://oslo.pm/) ([Facebook group](https://www.facebook.com/groups/oslo.pm/), [GitHub](https://github.com/oslo-pm))
 - :poland: [Poznań](http://poznan.pm.org) ([Facebook page](https://www.facebook.com/poznanpm))
