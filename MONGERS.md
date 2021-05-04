@@ -35,7 +35,7 @@ Some of the groups may not be active.
 
 ## Asia
 
-- :india: [Bangalore](http://bangalore.pm.org) ([Facebook page](https://www.facebook.com/Perl-Mongers-Bangalore-108723775890980), [GitHub](https://github.com/Bangalore-Perl-Mongers))
+- :india: Bangalore ([Facebook page](https://www.facebook.com/Perl-Mongers-Bangalore-108723775890980), [GitHub](https://github.com/Bangalore-Perl-Mongers))
 - :jp: [Kansai](http://kansai.pm.org) ([Twitter](https://twitter.com/kansaipm), [Facebook page](https://www.facebook.com/kansaipm))
 - :malaysia: Malaysia ([Facebook page](https://www.facebook.com/Malaysia-Perl-Mongers-2089797024599831))
 - :ru: [Ryazan](http://ryazan.pm.org) ([Facebook page](https://www.facebook.com/ryazan.pm))
