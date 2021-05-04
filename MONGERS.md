@@ -45,7 +45,7 @@ Some of the groups may not be active.
 - :es: [Barcelona](https://barcelona.pm/) ([Twitter](https://twitter.com/barcelonapm), [GitHub](https://github.com/barcelonapm))
 - :norway: [Bergen](https://bergenpm.org/) ([Twitter](https://twitter.com/BergenPM))
 - :de: [Berlin](https://berlin.pm.org/) ([Twitter](https://twitter.com/BerlinPM))
-- :czech_republic: [Brno](http://brno.pm.org) ([Facebook page](https://www.facebook.com/brnopm))
+- :czech_republic: Brno ([Facebook page](https://www.facebook.com/brnopm))
 - :romania: Cluj ([Twitter](https://twitter.com/clujpm), [Facebook page](https://www.facebook.com/clujpm))
 - :fr: [France](http://www.mongueurs.net/) ([Twitter](http://twitter.com/mongueurs_perl))
 - :de:  [Frankfurt](http://fankfurt.pm) ([Facebook page](https://www.facebook.com/frankfurt.pm))
