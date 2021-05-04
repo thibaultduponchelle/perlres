@@ -57,4 +57,4 @@ Some of the groups may not be active.
 ## Oceania
 
 - :australia: [Melbourne](https://melbourne.pm.org/) ([Facebook group](https://www.facebook.com/groups/146370755427693/))
-- :australia: [Sydney](http://perl.sydney/) ([Facebook page](https://www.facebook.com/sydneypm/))
+- :australia: Sydney ([Facebook page](https://www.facebook.com/sydneypm/))
