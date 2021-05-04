@@ -46,7 +46,7 @@ Some of the groups may not be active.
 - :norway: [Bergen](https://bergenpm.org/) ([Twitter](https://twitter.com/BergenPM))
 - :de: [Berlin](https://berlin.pm.org/) ([Twitter](https://twitter.com/BerlinPM))
 - :czech_republic: [Brno](http://brno.pm.org) ([Facebook page](https://www.facebook.com/brnopm))
-- :romania: [Cluj](http://www.:romancluj.pm/) ([Twitter](https://twitter.com/clujpm), [Facebook page](https://www.facebook.com/clujpm))
+- :romania: Cluj ([Twitter](https://twitter.com/clujpm), [Facebook page](https://www.facebook.com/clujpm))
 - :fr: [France](http://www.mongueurs.net/) ([Twitter](http://twitter.com/mongueurs_perl))
 - :de:  [Frankfurt](http://fankfurt.pm) ([Facebook page](https://www.facebook.com/frankfurt.pm))
 - :de: [Niederrhein](http://niederrhein.pm.org) ([Facebook page](https://www.facebook.com/Niederrhein-Perl-Mongers-176634792354842))
