@@ -94,7 +94,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 *(See also [Perl Mongers](MONGERS.md))*
 
 - :speech_balloon: [Perl Reddit](https://www.reddit.com/r/perl) - Subreddit for Perl
-- :skull: [Perl is Dead](http://perlisdead.org) - Community articles/emails/IRC/blog feed
+- :skull: [Perl is dead](http://perlisdead.org) - Community articles/emails/IRC/blog feed
 - :jp: [Perl Entrance](http://www.perl-entrance.org) - Sort of Perl Mongers group in Japan
 - :neckbeard: [Perl Mongers](https://www.pm.org) - Perl Mongers
 - :neckbeard: [French Perl Mongers](http://www.mongueurs.net) - French Perl Mongers group
