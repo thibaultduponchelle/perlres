@@ -259,6 +259,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [Blaze Blogger](http://blaze.blackened.cz) - Static site generator
 - :page_with_curl: [Galileo](http://galileo-cms.herokuapp.com/page/home) - CMS
 - :memo: [Blio](https://github.com/domm/Blio) - CMS
+- :beer: [Labyrinth](https://github.com/barbie/labyrinth) - Website Management Framework
 - :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
 - :bookmark_tabs: [Contenticious](http://mirko.westermeier.de/contenticious) - File based CMS ([github](https://github.com/memowe/contenticious))
 - :beer: [CiderCMS](http://cidercms.org) - Flexible CMS for small to mid sized websites ([github](https://github.com/niner/CiderCMS))
