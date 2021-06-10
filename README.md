@@ -268,6 +268,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bookmark_tabs: [Mira](https://miraxy.github.io) - Static website generator ([github](https://github.com/kiamazi/mira))
 - :memo: [StaticVolt](https://github.com/alanhaggai/StaticVolt) - Static website generator
 - :clipboard: [Followme](https://github.com/Jinzang/App-Followme) - Static website generator
+- :bookmark_tabs: [HiD](https://git.genehack.net/genehack/hid) - Static website publishing framework
 - :memo: [Trestle](https://github.com/davepagurek/Trestle) - A light/extensible CMS
 - :bookmark_tabs: [Mowyw](https://perlgeek.de/en/software/mowyw) - Static website generator ([github](https://github.com/moritz/mowyw))
 
