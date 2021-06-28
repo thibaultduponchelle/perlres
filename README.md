@@ -689,6 +689,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook_with_decorative_cover: Perl black book (2001)
 - :notebook: Network programming with Perl (2001)
 - :notebook_with_decorative_cover: Writing CGI applications with Perl (2001)
+- :blue_book: Total Perl (2001)
 - :closed_book: Perl for the Web (2001)
 - :blue_book: [Beginning Perl for bioinformatics](https://www.oreilly.com/library/view/beginning-perl-for/0596000804/) (2001)
 - :green_book: Mod_perl pocket reference (2001)
