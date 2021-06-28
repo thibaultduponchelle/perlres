@@ -700,6 +700,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Perl 5 Interactive Course (2001)
 - :blue_book: Perl Web Site Workshop (2001)
 - :green_book: Custom CGI scripting with Perl (2001)
+- :notebook: Professional Perl development (2001)
 - :green_book: Perl Debugged (2001)
 - :green_book: [Win32 Perl Programming: The Standard Extensions](https://www.oreilly.com/library/view/win32-perl-programming/157870216X/) (2001)
 - :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl) (2000)
