@@ -735,6 +735,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Web Programming Secrets With Html, Cgi, and Perl (1996)
 
 ### Other books :jp:
+- :green_book: Essence of Perl Text Processing (2021)
 - :blue_book: Perl programming poisoning :jp: (2004)
 - :orange_book: Perl programming for CGI and text processing :jp: (2001)
 - :orange_book: Introduction to Perl :jp: (1994)
