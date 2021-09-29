@@ -126,6 +126,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :couple: [Effective Perl Programming](https://www.effectiveperlprogramming.com) - Perl's new features, and using Perl well
 - :family: [Dev.to #Perl](https://dev.to/t/perl) - #Perl tag on Dev.to blogging platform
 - :newspaper: [Medium Perl tag](https://medium.com/tag/perl/latest) - #Perl tag on Medium
+- :school: [Perl academy](https://blog.perl-academy.de/) - A (german) blog about Perl :de:
 
 ### Conferences
 - :heavy_dollar_sign: [YAPC](https://www.yapc.org) - Major Perl events ([wikipedia](https://fr.wikipedia.org/wiki/Yet_Another_Perl_Conference))
