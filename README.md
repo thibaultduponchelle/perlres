@@ -626,7 +626,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook: Developing Web Applications with Perl, memcached, MySQL and Apache (2009)
 - :notebook: Practical text mining with perl (2008)
 - :blue_book: Programming for linguist Perl for language researchers (2008)
-- :notebook: [Mastering Perl](https://www.masteringperl.org) (2007)
+- :notebook: [Mastering Perl](https://www.masteringperl.org) (2014)
 - :notebook: Perl programming for the absolute beginner (2007)
 - :notebook: [Open Source Web Development with LAMP](http://www.opensourcewebbook.com) (2007)
 - :blue_book: Mod_perl 2 user guide (2007)
