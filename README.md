@@ -640,7 +640,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: Minimal Perl: For UNIX and Linux People (2006)
 - :blue_book: [Building Tag Clouds in Perl and PHP](https://www.oreilly.com/library/view/building-tag-clouds/0596527942/) (2006)
 - :green_book: Wicked Cool Perl Scripts (2006)
-- :blue_book: Perl Power (2006)
+- :blue_book: Perl Power!: The Comprehensive Guide (2006)
 - :blue_book: [Advanced Perl Programming](https://www.oreilly.com/library/view/advanced-perl-programming/0596004567/) (2005)
 - :ledger: [Perl Best Practices](https://en.wikipedia.org/wiki/Perl_Best_Practices) (2005)
 - :green_book: [Higher Order Perl](https://hop.perl.plover.com) (2005)
