@@ -723,6 +723,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :blue_book: Perl annotated archives (1998)
 - :blue_book: Official Guide to Programming with CGI.pm (1998)
 - :green_book: Perl from the ground up (1998)
+- :blue_book: Go to Perl 5 (1998)
 - :orange_book: Perl Power!: A JumpStart Guide to Programming with Perl 5 (1998)
 - :notebook: Perl the programmer's companion (1997)
 - :green_book: Programming with Perl modules (1997)
