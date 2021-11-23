@@ -139,6 +139,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :two_women_holding_hands: **YAPC::Australia** - Australian flavor of YAPC
 - :heavy_check_mark: **Perl QA Hackathon**
 - :dromedary_camel: **Perl Toolchain Summit**
+- :flashlight: **meta::hack**
 - :kissing_cat: [OSDC](https://fr.wikipedia.org/wiki/Open_Source_Developers%27_Conference) - Various events like [Israel OSDC](http://osdc.org.il), [French OSDC](http://www.osdc.fr), **Taiwan OSDC**, **Australia OSDC** or **Malaysia OSDC**
 - :fr: [French Perl Workshop](https://journeesperl.fr/jp2019)
 - :fr: [Perl Fun Again](http://boivin.eu/download/Perl_Fun_Again)
