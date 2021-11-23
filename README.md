@@ -29,6 +29,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :scroll: [Very detailed history of Perl versions](https://perldoc.pl/perlhist.html) - Date and major changes from Perl creation to today
 - :older_woman: [Deprecations](https://metacpan.org/pod/distribution/perl/pod/perldeprecation.pod) - The latest list of deprecated symbols
 - :penguin: [Portability](https://perldoc.pl/perlport.html) - Perl supports [more than 100 platforms](https://www.cpan.org/ports/index.html)
+- :volcano: [SmokersDB](https://perl5.test-smoke.org) - Perl5 core testing ("smokers")
 
 ## :necktie: Official
 - :house: [perl.org](https://www.perl.org) - Perl's "home"  ([twitter](https://twitter.com/perlorg), [facebook](https://www.facebook.com/perl-16665510298/), [github](https://github.com/perlorg))
