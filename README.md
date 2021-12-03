@@ -675,6 +675,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :orange_book: [Perl for Oracle DBAs](https://www.oreilly.com/library/view/perl-for-oracle/0596002106/) (2002)
 - :closed_book: [Perl & LWP](http://lwp.interglacial.com) (2002)
 - :orange_book: [Perl graphics Programming](https://www.oreilly.com/library/view/perl-graphics-programming/9781449358280/) (2002)
+- :green_book: Graphic Programming with Perl (2002)
 - :ledger: Extending and embedding Perl (2002)
 - :blue_book: [Mastering Perl/Tk](https://www.oreilly.com/library/view/mastering-perltk/1565927168/) (2002)
 - :blue_book: Mod_perl developer cookbooks (2002)
