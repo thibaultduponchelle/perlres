@@ -608,6 +608,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notebook_with_decorative_cover: [Testing Strategies for Modern Perl](http://www.theperlshop.com/in/testing-modern-perl) (2018)
 - :notebook: [Perl Taster](https://perlschool.com/books/perl-taster) (2017)
 - :blue_book: [Practical Magick with C, PDL, and PDL::PP](https://www.boulder.swri.edu/~deforest/ewExternalFiles/PP-practical-magick.pdf) (2017)
+- :orange_book: Advanced programming in Perl for beginners with example for geoscientists (2016)
 - :notebook_with_decorative_cover: [Modern Perl](http://modernperlbooks.com) (2015)
 - :orange_book: Perl and regular expressions quick start workbook (2015)
 - :orange_book: Perl by example (2014)
