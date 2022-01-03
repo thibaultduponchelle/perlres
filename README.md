@@ -712,7 +712,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Beginning Perl (Simon Cozens) - Free [E-Book](https://www.perl.org/books/beginning-perl) (2000)
 - :blue_book: Perl for system administration (2000)
 - :green_book: Database programming with Perl: Programming the perl DBI (2000)
-- :notebook: CGI programming with Perl (2000)
+- :notebook: CGI programming with Perl (2000) (CGI Programming on the World Wide Web)
 - :notebook: [Object Oriented Perl](http://perltraining.com.au/notes/perloo.pdf) (2000)
 - :blue_book: Cross Platform Perl (2000)
 - :orange_book: Elements of Programming with Perl (1999)
