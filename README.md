@@ -9,7 +9,7 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 
 ## :clipboard: Summary
 
-Derived from [LinuxFR](https://linuxfr.org/) french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne)
+Derived from [LinuxFR](https://linuxfr.org/) french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne).
 
 As a reminder, [Perl](https://www.perl.org/) is a general-purpose programming language created in 1987 by [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall).
 
