@@ -510,6 +510,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :memo: [POD Web View](http://podwebview.odyniec.net) - Edit POD file with live preview ([github](https://github.com/odyniec/POD-Web-View))
 - :checkered_flag: [GNU Parallel](https://www.gnu.org/software/parallel/) - Shell tool to execute commands in parallel ([github](https://git.savannah.gnu.org/cgit/parallel.git))
 - :tv: [Hl](https://github.com/lyokha/hl) - PCRE-based highlighter for terminal
+- :scissors: [Vnlog](https://github.com/dkogan/vnlog) - A toolkit for manipulating tabular ASCII data
 - :chart_with_upwards_trend: [st](https://github.com/nferraz/st) - Simple statistics from the command line
 
 ### Sysadmin
