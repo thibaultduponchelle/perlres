@@ -658,7 +658,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Pro Perl Parsing (2005)
 - :orange_book: Teach Yourself Perl in 24 Hours (2005)
 - :closed_book: Beginning Perl (James D Lee) (2004)
-- :green_book: Perlish Patterns (2004)
+- :green_book: Perlish Patterns: Secrets Of The Cpan Masters (2004)
 - :orange_book: Perl Debugger Pocket Reference (2004)
 - :orange_book: Perls of wisdom (2004)
 - :orange_book: Perl Medic: Transforming Legacy Code (2004)
