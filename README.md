@@ -600,6 +600,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :green_book: Pro Perl Programming: From Professional to Advanced (2020)
 - :orange_book: [Perl one-liners cookbook](https://leanpub.com/perl-oneliners) (2020)
 - :green_book: Perl Programming for Beginners (2020)
+- :orange_book: Programming Perl (John Bach) (2020)
 - :blue_book: Beginning Perl Programming: From novice to professionnal (2019)
 - :blue_book: Step-by-Step Perl Programming (2019)
 - :blue_book: Perl : best 2020 (2019)
