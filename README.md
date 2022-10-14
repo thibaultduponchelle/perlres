@@ -566,6 +566,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :rocket: [Awesome Perl](https://github.com/hachiojipm/awesome-perl/blob/master/README.md) - Curated list of awesome Perl stuff
 - :purple_heart: [Awesome Perl (again)](https://github.com/uhub/awesome-perl) - Another curated list of awesome Perl stuff
 - :pill: [CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod) - List of Perl modules
+- :compass: [Explore Perl](https://kandi.openweaver.com/explore/perl) - Curated list of Perl libraries, top authors, trending discussions and popular kits  
 
 ## :ghost: Execute Perl online
 - :new: [Perl Banjo](https://perlbanjo.com) - Share runnable Perl code :heart: :muscle: ([twitter](https://twitter.com/PerlBanjo))
