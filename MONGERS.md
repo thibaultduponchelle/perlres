@@ -10,7 +10,6 @@ Some of the groups may not be active.
 
 ### North America
 
-- :us: [Ann Arbor](http://annarbor.pm.org/) ([Facebook group](https://www.facebook.com/groups/295369588223/))
 - :us: [Atlanta](http://atlanta.pm.org) ([Facebook page](https://www.facebook.com/Atlanta-Perl-Mongers-160970284513))
 - :us: [Austin](http://austin.pm/) ([Facebook group](https://www.facebook.com/groups/austinperlmongers/), [GitHub](https://github.com/austin-perl-mongers))
 - :us: [Baltimore](https://baltimore.pm.org/)
@@ -30,7 +29,6 @@ Some of the groups may not be active.
 
 ### South America
 
-- :peru: [Lima](http://lima.pm.org) ([Facebook page](https://www.facebook.com/limaperlmongers))
 - :brazil: [Rio de Janeiro](http://rio.pm.org) ([Facebook page](https://www.facebook.com/RioPerlMongers))
 
 ## Asia
