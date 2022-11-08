@@ -246,7 +246,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :pill: [MetaCPAN](https://metacpan.org) - Search the CPAN ([twitter](https://twitter.com/metacpan))
 
 ### News and forums engines
-- :family: [YaBB](http://www.yabbforum.com) - Forum engine
+- :family: [YaBB](https://yabbforumsoftware.com/) - Forum engine
 - :speech_balloon: [Everything Engine](https://sourceforge.net/projects/everydevel) - News platform engine and questions/answers platform ([PerlMonks](https://www.perlmonks.org) is powered by this)
 - :couple: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine ([Slashdot](https://slashdot.org) is powered by this)
 - :family: [DuckDuckGo Instant Answer](https://duck.co/ia) - An aggregator of questions/answers platform ([github](https://github.com/duckduckgo/duckduckgo))
