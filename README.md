@@ -270,7 +270,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :camera: [Expose](https://github.com/Jack000/Expose) - Static site generator for photoessays
 - :bookmark_tabs: [Contenticious](http://mirko.westermeier.de/contenticious) - File based CMS ([github](https://github.com/memowe/contenticious))
 - :beer: [CiderCMS](http://cidercms.org) - Flexible CMS for small to mid sized websites ([github](https://github.com/niner/CiderCMS))
-- :memo: [Gruta](https://triptico.com/software/gruta.html) - A web content management system ([git](https://repo.or.cz/gruta))
+- :memo: [Gruta](https://triptico.com/software/grutatxt.html) - A web content management system ([git](https://repo.or.cz/gruta))
 - :bookmark_tabs: [Mira](https://miraxy.github.io) - Static website generator ([github](https://github.com/kiamazi/mira))
 - :memo: [StaticVolt](https://github.com/alanhaggai/StaticVolt) - Static website generator
 - :clipboard: [Followme](https://github.com/Jinzang/App-Followme) - Static website generator
