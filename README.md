@@ -673,6 +673,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :closed_book: [Mastering Perl for Bioinformatics](https://www.oreilly.com/library/view/mastering-perl-for/0596003072/) (2003)
 - :blue_book: [Web, Graphics & Perl/Tk Programming](https://www.oreilly.com/library/view/web-graphics/9781449398590/) (2003)
 - :closed_book: [Games, Diversions and Perl Culture](https://www.oreilly.com/library/view/games-diversions/9781449398651/) (2003)
+- :green_book: Learning Perl Objects References and Modules (2003)
 - :closed_book: Practical Perl with CGI Applications (2003)
 - :green_book: Perl Template Toolkit (2003)
 - :closed_book: Practical mod_perl (2003)
