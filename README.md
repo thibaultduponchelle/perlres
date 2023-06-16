@@ -72,7 +72,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :new: [CPAN Doc](https://cpandoc.grinnz.com) - Documentation of some important modules
 - :heavy_check_mark: [CPAN Testers](http://cpantesters.org) - Build and test reports of CPAN modules
 - :scroll: [BackPAN](http://backpan.cpantesters.org) - The entire history of CPAN
-- :speech_balloon: [PrePAN](http://prepan.org) - Discuss modules before CPAN upload
 - :earth_africa: [CPAN Map](http://mapofcpan.org) - Namespaces map of CPAN modules
 - :ballot_box_with_check: [CPAN Cover](http://cpancover.com) - Test coverage of CPAN modules
 - :white_check_mark: [CPAN TS](https://cpants.cpanauthors.org) - Kwalitee metrics
