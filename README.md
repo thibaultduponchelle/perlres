@@ -591,6 +591,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
+- :green_book: Perl Programming (Jean-Jacques Reibel) (2023)
 - :blue_book: [Learning Perl](https://www.learning-perl.com) (Llama book) (2021)
 - :orange_book: [Perl new features](https://perlschool.com/books/perl-new-features) (2021)
 - :blue_book: [Preparing for Perl 7](https://perlschool.com/books/preparing-for-perl-7) (2020)
