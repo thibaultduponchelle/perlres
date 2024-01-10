@@ -435,6 +435,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :wavy_dash: [Template::Mustache](https://metacpan.org/pod/Template::Mustache) - Templating system [Mustache](https://mustache.github.io) ([github](https://github.com/yanick/Template-Mustache))
 - :art: [Template::Flute](https://github.com/racke/Template-Flute) - Templating system for designers
 - :microphone: [Text::MicroTemplate](https://github.com/kazuho/p5-text-microtemplate) - Templating system
+- :telescope: [HTML::Zoom](https://metacpan.org/pod/HTML::Zoom) - lazy, stream oriented, streaming capable, mostly functional, CSS selector based semantic templating engine for HTML-like document formats
 
 ### Compiler and alternative interpreters
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
