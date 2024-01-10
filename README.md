@@ -53,6 +53,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :older_man: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable CPAN modules installer, part of core distribution, fully configurable ([github](https://github.com/andk/cpanpm))
 - :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ CPAN modules installer)
 - :construction: [cnext](https://next-cpan.github.io/cnext/) - Experimental CPAN module installer [based on an alternative index](https://github.com/next-cpan/next-indexes) ([github](https://github.com/next-cpan/cnext))
+- :crossed_flags: [cpanx](https://metacpan.org/pod/App::Cpanx) - A CPAN downloader script that will show what it will do before it does anything
 
 ## :dromedary_camel: General
 - :man_with_turban: [Perl Monks](https://www.perlmonks.org) - The Perl _Stack Overflow_
