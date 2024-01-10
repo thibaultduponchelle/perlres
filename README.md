@@ -210,7 +210,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notes: Perl poetry, including for instance Larry Wall's [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl)
 - :golf: [Perl Golf](http://perlgolf.sourceforge.net) - Code Golf
 - :golf: [Anarchy Golf](http://golf.shinh.org) - Code golf (not dedicated to Perl)
-- :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
+- :weary: [Laziness, Impatience and Hubris](https://thethreevirtues.com/) - The three chief virtues of a programmer ([old link](https://www.brainyquote.com/fr/citation/larry-wall_141510))
 - :sunglasses: [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - :grin: State of the onion
 - :trollface: **Acme** modules - Purely entertainment modules
