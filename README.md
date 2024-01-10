@@ -448,6 +448,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :construction_worker: [Perl Build](https://github.com/tokuhirom/Perl-Build) - A Perl builder
 - :hammer: [Perl Cross](https://github.com/arsv/perl-cross) - Configure and cross-compile perl
 - :wrench: [Stableperl](http://software.schmorp.de/pkg/stableperl.html) - Perl fork aiming for stability
+- :handbag: [APPerl](http://computoid.com/APPerl/) - Actually Portable Perl - run cross-platform with the same standalone binary with perl modules packed inside of it ([github](https://github.com/G4Vi/Perl-Dist-APPerl), [metacpan](https://metacpan.org/pod/Perl::Dist::APPerl))
 
 ### Perl Application Bundlers / Packagers
 - :gift: [PAR::Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables from Perl programs
