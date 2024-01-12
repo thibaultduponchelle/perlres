@@ -53,6 +53,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :older_man: [CPAN.pm](https://metacpan.org/pod/CPAN) - Venerable CPAN modules installer, part of core distribution, fully configurable ([github](https://github.com/andk/cpanpm))
 - :frog: [CPAN Plus](https://github.com/jib/cpanplus-devel) - API to access CPAN mirrors (+ CPAN modules installer)
 - :construction: [cnext](https://next-cpan.github.io/cnext/) - Experimental CPAN module installer [based on an alternative index](https://github.com/next-cpan/next-indexes) ([github](https://github.com/next-cpan/cnext))
+- :crossed_flags: [cpanx](https://metacpan.org/pod/App::Cpanx) - A CPAN downloader script that will show what it will do before it does anything
 
 ## :dromedary_camel: General
 - :man_with_turban: [Perl Monks](https://www.perlmonks.org) - The Perl _Stack Overflow_
@@ -210,7 +211,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notes: Perl poetry, including for instance Larry Wall's [Black Perl](https://fr.wikipedia.org/wiki/Black_Perl)
 - :golf: [Perl Golf](http://perlgolf.sourceforge.net) - Code Golf
 - :golf: [Anarchy Golf](http://golf.shinh.org) - Code golf (not dedicated to Perl)
-- :weary: [Laziness, Impatience and Hubris](https://www.brainyquote.com/fr/citation/larry-wall_141510) - The three chief virtues of a programmer
+- :weary: [Laziness, Impatience and Hubris](https://thethreevirtues.com/) - The three chief virtues of a programmer ([old link](https://www.brainyquote.com/fr/citation/larry-wall_141510))
 - :sunglasses: [DWIM](https://en.wikipedia.org/wiki/DWIM) - Do What I Mean principle (not this [DWIM](http://dwimperl.szabgab.com/windows.html))
 - :grin: State of the onion
 - :trollface: **Acme** modules - Purely entertainment modules
@@ -434,6 +435,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :wavy_dash: [Template::Mustache](https://metacpan.org/pod/Template::Mustache) - Templating system [Mustache](https://mustache.github.io) ([github](https://github.com/yanick/Template-Mustache))
 - :art: [Template::Flute](https://github.com/racke/Template-Flute) - Templating system for designers
 - :microphone: [Text::MicroTemplate](https://github.com/kazuho/p5-text-microtemplate) - Templating system
+- :telescope: [HTML::Zoom](https://metacpan.org/pod/HTML::Zoom) - lazy, stream oriented, streaming capable, mostly functional, CSS selector based semantic templating engine for HTML-like document formats
 
 ### Compiler and alternative interpreters
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
@@ -446,6 +448,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :construction_worker: [Perl Build](https://github.com/tokuhirom/Perl-Build) - A Perl builder
 - :hammer: [Perl Cross](https://github.com/arsv/perl-cross) - Configure and cross-compile perl
 - :wrench: [Stableperl](http://software.schmorp.de/pkg/stableperl.html) - Perl fork aiming for stability
+- :handbag: [APPerl](http://computoid.com/APPerl/) - Actually Portable Perl - run cross-platform with the same standalone binary with perl modules packed inside of it ([github](https://github.com/G4Vi/Perl-Dist-APPerl), [metacpan](https://metacpan.org/pod/Perl::Dist::APPerl))
 
 ### Perl Application Bundlers / Packagers
 - :gift: [PAR::Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables from Perl programs
@@ -557,7 +560,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - Search and stream videos on Youtube
 - :page_facing_up: [Po4a](https://po4a.org) - Ease softwares translation ([github](https://github.com/mquinson/po4a))
 - :notes: [MIDI-Perl HOWTO](https://github.com/ology/MIDI-Perl-HOWTO/wiki) - Create algorithmic musical compositions
-
+- :file_folder: [OshiUpload](https://oshi.at/), [tor](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/) - Ephemeral file sharing ([github](https://github.com/somenonymous/OshiUpload))
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
