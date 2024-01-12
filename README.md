@@ -525,8 +525,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :recycle: [Virtualmin](https://www.virtualmin.com) - Hosting and website control panel
 - :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
 - :mag: [Inxi](https://smxi.org/docs/inxi.htm) - Print system informations ([github](https://github.com/smxi/inxi))
-- :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
-- :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
 - :underage: [Web Sorrow](https://code.google.com/archive/p/web-sorrow) - Security scanner
 - :family: [LemonLDAP::NG](https://www.lemonldap-ng.org/welcome) - WebSSO, Access Management and Identity Federation
 - :suspect: [PacketFence](https://packetfence.org) - Network access control (NAC) solution ([github](https://github.com/inverse-inc/packetfence))
@@ -552,6 +550,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :mag: [Dezi](https://dezi.org) - Search platform
+- :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
+- :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
 - :calling: [PerlyBook](https://github.com/reneeb/cpan2ebook) - Convert POD to EPUB/MOBI books
 - :wrench: [ExifTool](https://exiftool.org) - Meta informations reader/writer ([github](https://github.com/exiftool/exiftool))
