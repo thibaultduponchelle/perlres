@@ -249,6 +249,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [Everything Engine](https://sourceforge.net/projects/everydevel) - News platform engine and questions/answers platform ([PerlMonks](https://www.perlmonks.org) is powered by this)
 - :couple: [Slashcode](https://github.com/SoylentNews/slashcode) - News and questions/answers platform engine ([Slashdot](https://slashdot.org) is powered by this)
 - :family: [DuckDuckGo Instant Answer](https://duck.co/ia) - An aggregator of questions/answers platform ([github](https://github.com/duckduckgo/duckduckgo))
+- :speech_balloon: [Threads](https://github.com/vti/threads) - A modern fresh looking forum
 
 ### CMS
 - :bookmark_tabs: [Movable Type](https://www.movabletype.org/) - CMS ([github](https://github.com/movabletype/movabletype))
