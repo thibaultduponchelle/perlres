@@ -277,7 +277,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bookmark_tabs: [HiD](https://git.genehack.net/genehack/hid) - Static website publishing framework
 - :memo: [Trestle](https://github.com/davepagurek/Trestle) - A light/extensible CMS
 - :bookmark_tabs: [Mowyw](https://perlgeek.de/en/software/mowyw) - Static website generator ([github](https://github.com/moritz/mowyw))
-- [Slovo](https://слово.бг/%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.bg-bg.html) - Extensible Mojolicious CMS ([github](https://github.com/kberov/Slovo), [metacpan](https://metacpan.org/pod/Slovo))
+- :speech_balloon: [Slovo](https://слово.бг/%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.bg-bg.html) - Extensible Mojolicious CMS ([github](https://github.com/kberov/Slovo), [metacpan](https://metacpan.org/pod/Slovo))
 
 ### Blogging
 - :couple: [Blosxom](http://blosxom.sourceforge.net) - Blogging engine
