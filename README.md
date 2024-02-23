@@ -409,7 +409,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bug: [PEF::Front](https://github.com/jef-sure/pef-front-psgi-dist) - A web framework
 - :robot: [Web::Machine](https://github.com/sartak/webmachine-perl) - A RESTful web framework modeled as a state machine
 - :fire: [Combust](http://combust.develooper.com) - A web framework
-- :bell_pepper: [Pepper](https://metacpan.org/pod/Pepper) - Not a framework. A quick-start kit for learning and creating microservices
+- :seedling: [Pepper](https://metacpan.org/pod/Pepper) - Not a framework. A quick-start kit for learning and creating microservices
 
 ### PSGI adapters and web servers
 - :pig: [Plack](https://github.com/plack/Plack) - PSGI toolkit and server adapter
@@ -529,7 +529,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :scissors: [Vnlog](https://github.com/dkogan/vnlog) - A toolkit for manipulating tabular ASCII data
 - :chart_with_upwards_trend: [st](https://github.com/nferraz/st) - Simple statistics from the command line
 - :shell: [p](https://metacpan.org/dist/App-p/view/bin/p) - Steroids for your perl one-liners
-- :magic_wand: [pl](https://metacpan.org/pod/pl) - One-Liner Magic Wand
+- :dizzy: [pl](https://metacpan.org/pod/pl) - One-Liner Magic Wand
 
 ### Sysadmin
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
