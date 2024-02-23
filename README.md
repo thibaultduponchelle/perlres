@@ -277,6 +277,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bookmark_tabs: [HiD](https://git.genehack.net/genehack/hid) - Static website publishing framework
 - :memo: [Trestle](https://github.com/davepagurek/Trestle) - A light/extensible CMS
 - :bookmark_tabs: [Mowyw](https://perlgeek.de/en/software/mowyw) - Static website generator ([github](https://github.com/moritz/mowyw))
+- :speech_balloon: [Slovo](https://слово.бг/%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.bg-bg.html) - Extensible Mojolicious CMS ([github](https://github.com/kberov/Slovo), [metacpan](https://metacpan.org/pod/Slovo))
 
 ### Blogging
 - :couple: [Blosxom](http://blosxom.sourceforge.net) - Blogging engine
@@ -400,7 +401,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :tiger: [Shenker](https://github.com/spiritloose/Schenker) - Web application framework
 - :ox: [Noe](https://github.com/yusukebe/Noe) - Web application framework
 - :leopard: [Kamui](https://github.com/nekokak/p5-Kamui) - Web application framework based on Plack
-- :snail: [Web Nano](https://github.com/zby/WebNano) - Really minimalistic web framework.
+- :snail: [Web Nano](https://github.com/zby/WebNano) - Really minimalistic web framework
 - :mouse2: [RapidApp](http://www.rapidapp.info) - Web toolkit and framework based on [Catalyst](http://www.catalystframework.org) ([github](https://github.com/vanstyn/RapidApp))
 - :snowflake: [Kelp](https://brtastic.xyz/project/kelp) - A web framework light ([github](https://github.com/naturalist/kelp))
 - :innocent: [Marquee](https://github.com/jamadam/Marquee) - Yet another Mojo based web framework
@@ -408,6 +409,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :bug: [PEF::Front](https://github.com/jef-sure/pef-front-psgi-dist) - A web framework
 - :robot: [Web::Machine](https://github.com/sartak/webmachine-perl) - A RESTful web framework modeled as a state machine
 - :fire: [Combust](http://combust.develooper.com) - A web framework
+- :seedling: [Pepper](https://metacpan.org/pod/Pepper) - Not a framework. A quick-start kit for learning and creating microservices
 
 ### PSGI adapters and web servers
 - :pig: [Plack](https://github.com/plack/Plack) - PSGI toolkit and server adapter
@@ -498,13 +500,22 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :movie_camera: [Shutter](https://shutter-project.org) - Screenshot utility
 - :computer: [Ravada](https://github.com/UPC/ravada) - Remote Virtual Desktops Manager
 - :pencil2: [Kephra](http://kephra.sourceforge.net/site/en/home_news.shtml) - Editor
+- :camel: [gmusicbrowser](https://gmusicbrowser.org/) - A customizable jukebox for large collections of music ([github](https://github.com/squentin/gmusicbrowser), [sourceforge](https://sourceforge.net/p/gmusicbrowser/code/))
+- :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - GUI and CLI to search and stream videos on Youtube, with API key
+- :video_camera: [Pipe Viewer](https://github.com/trizen/pipe-viewer) - GUI and CLI to search and stream videos on Youtube, without API key
+- :notes: [Nama](http://freeshell.de/~bolangi/nama) - Digital audio workstation ([github](https://github.com/bolangi/nama), [metacpan](https://metacpan.org/dist/Audio-Nama/view/README))
+
+### Desktop Applications Development
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
+- :parking: [Prima](http://prima.eu.org/) - Multi-platform GUI toolkit in C and Perl, includes a visual builder and a graphic POD viewer ([github](www.github.com/dk/Prima), [metacpan](https://metacpan.org/pod/Prima))
+- :sparkles: [IUP](https://metacpan.org/pod/IUP) - Interface to [IUP](https://www.tecgraf.puc-rio.br/iup/) multi-platform GUI toolkit
 
 ### Tooling for Devs
 - :older_man: [GNU Automake](https://www.gnu.org/software/automake) - Automatically generates Makefile.in files
 - :mag: [Cloc](https://github.com/AlDanial/cloc) - Count line of code
 - :wrench: [Devel::hdb](https://github.com/brummett/Devel-hdb) - Another Perl debugger
 - :tada: [Diff So Fancy](https://github.com/so-fancy/diff-so-fancy) - The best-lookin' diffs
+- :eyes: [App::sdif](https://kaz-utashiro.github.io/sdif-tools/) - cdif (word context diff), sdif (side-by-side diff) and watchdiff (repeat command and watch differences) ([github](https://github.com/kaz-utashiro/sdif-tools), [metacpan](https://metacpan.org/dist/App-sdif))
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
 - :rainbow: [Markdown](https://daringfireball.net/projects/markdown) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl ([git](https://repo.or.cz/markdown))
 - :wrench: [Daiku](https://github.com/tokuhirom/Daiku) - Kind of make
@@ -517,6 +528,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :tv: [Hl](https://github.com/lyokha/hl) - PCRE-based highlighter for terminal
 - :scissors: [Vnlog](https://github.com/dkogan/vnlog) - A toolkit for manipulating tabular ASCII data
 - :chart_with_upwards_trend: [st](https://github.com/nferraz/st) - Simple statistics from the command line
+- :shell: [p](https://metacpan.org/dist/App-p/view/bin/p) - Steroids for your perl one-liners
+- :dizzy: [pl](https://metacpan.org/pod/pl) - One-Liner Magic Wand
 
 ### Sysadmin
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
@@ -553,14 +566,15 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :mag: [Dezi](https://dezi.org) - Search platform
 - :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
 - :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
+- :smiley_cat: [nyan](https://metacpan.org/dist/Image-Term256Color/view/bin/nyan) - Your very own animated terminal Nyancat!
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
 - :calling: [PerlyBook](https://github.com/reneeb/cpan2ebook) - Convert POD to EPUB/MOBI books
 - :wrench: [ExifTool](https://exiftool.org) - Meta informations reader/writer ([github](https://github.com/exiftool/exiftool))
 - :turtle: [BioPerl](https://bioperl.org) - BioPerl distribution ([github](https://github.com/bioperl/bioperl-live/blob/master/README.md))
-- :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - Search and stream videos on Youtube
 - :page_facing_up: [Po4a](https://po4a.org) - Ease softwares translation ([github](https://github.com/mquinson/po4a))
 - :notes: [MIDI-Perl HOWTO](https://github.com/ology/MIDI-Perl-HOWTO/wiki) - Create algorithmic musical compositions
 - :file_folder: [OshiUpload](https://oshi.at/), [tor](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/) - Ephemeral file sharing ([github](https://github.com/somenonymous/OshiUpload))
+- :blowfish: [OpenBSD.app](https://openbsd.app/) - Quick full-text searching of OpenBSD packages ([github](https://github.com/qbit/openbsd.app))
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
