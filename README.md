@@ -499,6 +499,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :computer: [Ravada](https://github.com/UPC/ravada) - Remote Virtual Desktops Manager
 - :pencil2: [Kephra](http://kephra.sourceforge.net/site/en/home_news.shtml) - Editor
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
+- :camel: [gmusicbrowser](https://gmusicbrowser.org/) - A customizable jukebox for large collections of music ([github](https://github.com/squentin/gmusicbrowser), [sourceforge](https://sourceforge.net/p/gmusicbrowser/code/))
 
 ### Tooling for Devs
 - :older_man: [GNU Automake](https://www.gnu.org/software/automake) - Automatically generates Makefile.in files
@@ -557,10 +558,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :calling: [PerlyBook](https://github.com/reneeb/cpan2ebook) - Convert POD to EPUB/MOBI books
 - :wrench: [ExifTool](https://exiftool.org) - Meta informations reader/writer ([github](https://github.com/exiftool/exiftool))
 - :turtle: [BioPerl](https://bioperl.org) - BioPerl distribution ([github](https://github.com/bioperl/bioperl-live/blob/master/README.md))
-- :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - Search and stream videos on Youtube
+- :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - Search and stream videos on Youtube, with API key
+- :video_camera: [Pipe Viewer](https://github.com/trizen/pipe-viewer) - Search and stream videos on Youtube, without API key
 - :page_facing_up: [Po4a](https://po4a.org) - Ease softwares translation ([github](https://github.com/mquinson/po4a))
 - :notes: [MIDI-Perl HOWTO](https://github.com/ology/MIDI-Perl-HOWTO/wiki) - Create algorithmic musical compositions
 - :file_folder: [OshiUpload](https://oshi.at/), [tor](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/) - Ephemeral file sharing ([github](https://github.com/somenonymous/OshiUpload))
+- :blowfish: [OpenBSD.app](https://openbsd.app/) - Quick full-text searching of OpenBSD packages ([github](https://github.com/qbit/openbsd.app))
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
