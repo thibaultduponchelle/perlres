@@ -11,7 +11,7 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 
 Derived from [LinuxFR](https://linuxfr.org/) french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne).
 
-As a reminder, [Perl](https://www.perl.org/) is a general-purpose programming language created in 1987 by [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall)  
+As a reminder, [Perl](https://www.perl.org/) is a general-purpose programming language created in 1987 by [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall).  
 Perl officially stands for [Practical Extraction and Report Language, except when it doesn't](https://perldoc.perl.org/perl#DESCRIPTION)  
 whereas unofficially for Pathologically Eclectic Rubbish Lister.  
 Nicknamed "the Swiss Army chainsaw of scripting languages".
