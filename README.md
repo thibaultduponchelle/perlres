@@ -438,7 +438,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :art: [Template::Flute](https://github.com/racke/Template-Flute) - Templating system for designers
 - :microphone: [Text::MicroTemplate](https://github.com/kazuho/p5-text-microtemplate) - Templating system
 - :telescope: [HTML::Zoom](https://metacpan.org/pod/HTML::Zoom) - lazy, stream oriented, streaming capable, mostly functional, CSS selector based semantic templating engine for HTML-like document formats
-- :elephant: [PHP](http://plp.shiar.net/) - Perl embedder, primarily for HTML documents, in spirit of PHP ([metacpan](https://metacpan.org/pod/PLP))
+- :elephant: [PLP](http://plp.shiar.net/) - Perl embedder, primarily for HTML documents, in spirit of PHP ([metacpan](https://metacpan.org/pod/PLP))
 
 ### Compiler and alternative interpreters
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
@@ -508,7 +508,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Desktop Applications Development
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
-- :parking: [Prima](http://prima.eu.org/) - Multi-platform GUI toolkit in C and Perl, includes a visual builder and a graphic POD viewer ([github](www.github.com/dk/Prima), [metacpan](https://metacpan.org/pod/Prima))
+- :parking: [Prima](http://prima.eu.org/) - Multi-platform GUI toolkit in C and Perl, includes a visual builder and a graphic POD viewer ([github](https://github.com/dk/Prima), [metacpan](https://metacpan.org/pod/Prima))
 - :sparkles: [IUP](https://metacpan.org/pod/IUP) - Interface to [IUP](https://www.tecgraf.puc-rio.br/iup/) multi-platform GUI toolkit
 
 ### Tooling for Devs
