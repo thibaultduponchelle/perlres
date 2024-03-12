@@ -559,6 +559,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :robot: [Nikto](https://cirt.net/Nikto2) - Webservers security scanner
 - :minidisc: [ZnapZend](https://github.com/oetiker/znapzend) - Backup ZFS with remote capabilities
 - :alarm_clock: [NTPPool](https://www.ntppool.org) - Virtual cluster of timeservers ([github](https://github.com/abh/ntppool))
+- :electric_plug: [PerlPowerTools](https://perlpowertools.com/) - Unix toolbox in pure Perl ([github](https://github.com/briandfoy/PerlPowerTools), [metacpan](https://metacpan.org/pod/PerlPowerTools))
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
