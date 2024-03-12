@@ -383,6 +383,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - :video_game: [Lacuna Expanse](https://github.com/plainblack/Lacuna-Server-Open) - Space game
 - :house: [Construder](https://github.com/elmex/Construder) - Minecraft-like game
+- :zero: [IdleRPG](https://idlerpg.net/) - IRC RPG in which the players idle ([github](https://github.com/falsovsky/idlerpg))
 
 ### Web application frameworks
 - :cloud: [Mojolicious](https://mojolicious.org) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI))
