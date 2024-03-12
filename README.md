@@ -580,6 +580,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notes: [MIDI-Perl HOWTO](https://github.com/ology/MIDI-Perl-HOWTO/wiki) - Create algorithmic musical compositions
 - :file_folder: [OshiUpload](https://oshi.at/), [tor](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/) - Ephemeral file sharing ([github](https://github.com/somenonymous/OshiUpload))
 - :blowfish: [OpenBSD.app](https://openbsd.app/) - Quick full-text searching of OpenBSD packages ([github](https://github.com/qbit/openbsd.app))
+- :white_check_mark: [OpenPorts](https://openports.pl/) - web interface to OpenBSD's sqlports ([github](https://github.com/marcespie/ports-readmes-dancer))
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
