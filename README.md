@@ -523,6 +523,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :eyes: [App::sdif](https://kaz-utashiro.github.io/sdif-tools/) - cdif (word context diff), sdif (side-by-side diff) and watchdiff (repeat command and watch differences) ([github](https://github.com/kaz-utashiro/sdif-tools), [metacpan](https://metacpan.org/dist/App-sdif))
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
 - :rainbow: [Markdown](https://daringfireball.net/projects/markdown) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl ([git](https://repo.or.cz/markdown))
+- :swimmer: [Swim](https://metacpan.org/pod/Swim) - rich, consistent, extensible markup language and framework in PEG topdown grammar
 - :wrench: [Daiku](https://github.com/tokuhirom/Daiku) - Kind of make
 - :1234: [PDL](http://pdl.perl.org) - For scientific calculations
 - :handbag: [Fink Project](http://finkproject.org) - Tool to help porting software from UNIX like to macOS
