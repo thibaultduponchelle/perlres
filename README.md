@@ -512,6 +512,11 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - GUI and CLI to search and stream videos on Youtube, with API key
 - :video_camera: [Pipe Viewer](https://github.com/trizen/pipe-viewer) - GUI and CLI to search and stream videos on Youtube, without API key
 - :notes: [Nama](http://freeshell.de/~bolangi/nama) - Digital audio workstation ([github](https://github.com/bolangi/nama), [metacpan](https://metacpan.org/dist/Audio-Nama/view/README))
+- :flags: [menutray](https://trizenx.blogspot.com/2012/02/menutray.html) - Tray icon application menu ([github](https://github.com/trizen/menutray)]
+- :file_folder: [fbrowse-tray](https://trizenx.blogspot.com/2014/05/fbrowse-tray.html) - Tray icon file browser ([github](https://github.com/trizen/fbrowse-tray))
+- :bird: [fbmenugen](https://trizenx.blogspot.com/2012/02/fbmenugen.html) - Fluxbox application menu generator ([github](https://github.com/trizen/fbmenugen))
+- :o2: [obmenu-generator](https://trizenx.blogspot.com/2012/02/obmenu-generator.html) - Openbox application menu generator ([github](https://github.com/trizen/obmenu-generator))
+- :open_file_folder: [obbrowser](https://trizenx.blogspot.com/2012/12/obbrowser.html) - Openbox menu file browser ([github](https://github.com/trizen/obbrowser))
 
 ### Desktop Applications Development
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
