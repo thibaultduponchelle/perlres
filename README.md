@@ -598,6 +598,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :white_check_mark: [OpenPorts](https://openports.pl/) - web interface to OpenBSD's sqlports ([github](https://github.com/marcespie/ports-readmes-dancer))
 - :speech_balloon: [RiveScript](https://www.rivescript.com/) - scripting language for chatbots ([github](https://github.com/aichaos/rivescript-perl), [metacpan](	https://metacpan.org/pod/RiveScript))
 - :microphone: [clyrics](https://trizenx.blogspot.com/2013/02/mocp-lyrics.html) - extensible lyrics fetcher, with daemon support for cmus and mocp ([github](https://github.com/trizen/clyrics))
+- :bouquet: [perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
