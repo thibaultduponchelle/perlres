@@ -545,6 +545,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_upwards_trend: [st](https://github.com/nferraz/st) - Simple statistics from the command line
 - :shell: [p](https://metacpan.org/dist/App-p/view/bin/p) - Steroids for your perl one-liners
 - :dizzy: [pl](https://metacpan.org/pod/pl) - One-Liner Magic Wand
+- :bar_chart: [language-benchmarks](https://github.com/trizen/language-benchmarks) - A simple benchmark for compiled and interpreted languages
 
 ### Sysadmin
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
