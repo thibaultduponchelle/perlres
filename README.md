@@ -11,7 +11,10 @@ Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY
 
 Derived from [LinuxFR](https://linuxfr.org/) french article [Pour tout savoir du Perl post-moderne](https://linuxfr.org/news/pour-tout-savoir-du-perl-post-moderne).
 
-As a reminder, [Perl](https://www.perl.org/) is a general-purpose programming language created in 1987 by [Larry Wall](https://fr.wikipedia.org/wiki/Larry_Wall).
+As a reminder, [Perl](https://www.perl.org/) is a general-purpose programming language created in 1987 by [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall).  
+Perl officially stands for [Practical Extraction and Report Language, except when it doesn't](https://perldoc.perl.org/perl#DESCRIPTION)  
+whereas unofficially for Pathologically Eclectic Rubbish Lister.  
+Nicknamed "the Swiss Army chainsaw of scripting languages".
 
 > "Perl continues to flourish into its fourth decade thanks to a vibrant community of users and developers" (dixit [perldelta](https://metacpan.org/pod/distribution/perl/pod/perldelta.pod#Acknowledgements))
 
@@ -197,6 +200,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :school: Tutorials meta-site
 - :books: [Perl tutorials](http://perl-tutorial.org) - Perl tutorials meta site
 
+## :card_index: Perl features by version
+-  :chart_with_upwards_trend: [Perl version cheat sheet](https://sheet.shiar.nl/perl) - most significant features introduced for recent versions of Perl
+-  :sparkles: [Perl cool snippets](https://github.com/manwar/perl-cool-snippets) - Collection of Perl cool snippets
+
 ## :trollface: Perl folklore
 - :bomb: "**Perl**" vs "**perl**" - **Perl** is the language, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
@@ -380,6 +387,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :red_circle: [Frozen Bubble](https://fr.wikipedia.org/wiki/Frozen_Bubble) - Very famous game
 - :video_game: [Lacuna Expanse](https://github.com/plainblack/Lacuna-Server-Open) - Space game
 - :house: [Construder](https://github.com/elmex/Construder) - Minecraft-like game
+- :zero: [IdleRPG](https://idlerpg.net/) - IRC RPG in which the players idle ([github](https://github.com/falsovsky/idlerpg))
 
 ### Web application frameworks
 - :cloud: [Mojolicious](https://mojolicious.org) - Web framework created by [Sebastian Riedel](https://github.com/kraih) ([CPAN profile](https://metacpan.org/author/SRI))
@@ -438,6 +446,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :art: [Template::Flute](https://github.com/racke/Template-Flute) - Templating system for designers
 - :microphone: [Text::MicroTemplate](https://github.com/kazuho/p5-text-microtemplate) - Templating system
 - :telescope: [HTML::Zoom](https://metacpan.org/pod/HTML::Zoom) - lazy, stream oriented, streaming capable, mostly functional, CSS selector based semantic templating engine for HTML-like document formats
+- :elephant: [PLP](http://plp.shiar.net/) - Perl embedder, primarily for HTML documents, in spirit of PHP ([metacpan](https://metacpan.org/pod/PLP))
 
 ### Compiler and alternative interpreters
 - :wrench: [Compiler Perlito](https://github.com/fglock/Perlito) - Perl to Java and Perl to JavaScript
@@ -454,7 +463,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Perl Application Bundlers / Packagers
 - :gift: [PAR::Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables from Perl programs
-- :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML interface for Perl desktop applications
 - :moneybag: [PerlApp](http://www.activestate.com/perl-dev-kit) - Convert Perl program into a standalone application (commercial : part of ActiveState Perl Dev Kit)
 - :dollar: [Perl2Exe](http://www.indigostar.com/perl2exe) - Convert Perl scripts to executable file (commercial)
 - :nut_and_bolt: [App::FatPacker](https://metacpan.org/pod/App::FatPacker) - Pack your dependencies onto your script file
@@ -504,11 +512,17 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :video_camera: [Youtube Viewer](https://github.com/trizen/youtube-viewer) - GUI and CLI to search and stream videos on Youtube, with API key
 - :video_camera: [Pipe Viewer](https://github.com/trizen/pipe-viewer) - GUI and CLI to search and stream videos on Youtube, without API key
 - :notes: [Nama](http://freeshell.de/~bolangi/nama) - Digital audio workstation ([github](https://github.com/bolangi/nama), [metacpan](https://metacpan.org/dist/Audio-Nama/view/README))
+- :flags: [menutray](https://trizenx.blogspot.com/2012/02/menutray.html) - Tray icon application menu ([github](https://github.com/trizen/menutray))
+- :file_folder: [fbrowse-tray](https://trizenx.blogspot.com/2014/05/fbrowse-tray.html) - Tray icon file browser ([github](https://github.com/trizen/fbrowse-tray))
+- :bird: [fbmenugen](https://trizenx.blogspot.com/2012/02/fbmenugen.html) - Fluxbox application menu generator ([github](https://github.com/trizen/fbmenugen))
+- :o2: [obmenu-generator](https://trizenx.blogspot.com/2012/02/obmenu-generator.html) - Openbox application menu generator ([github](https://github.com/trizen/obmenu-generator))
+- :open_file_folder: [obbrowser](https://trizenx.blogspot.com/2012/12/obbrowser.html) - Openbox menu file browser ([github](https://github.com/trizen/obbrowser))
 
 ### Desktop Applications Development
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
-- :parking: [Prima](http://prima.eu.org/) - Multi-platform GUI toolkit in C and Perl, includes a visual builder and a graphic POD viewer ([github](www.github.com/dk/Prima), [metacpan](https://metacpan.org/pod/Prima))
+- :parking: [Prima](http://prima.eu.org/) - Multi-platform GUI toolkit in C and Perl, includes a visual builder and a graphic POD viewer ([github](https://github.com/dk/Prima), [metacpan](https://metacpan.org/pod/Prima))
 - :sparkles: [IUP](https://metacpan.org/pod/IUP) - Interface to [IUP](https://www.tecgraf.puc-rio.br/iup/) multi-platform GUI toolkit
+- :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML interface for Perl desktop applications. Inspired by [Electron](https://www.electronjs.org/)
 
 ### Tooling for Devs
 - :older_man: [GNU Automake](https://www.gnu.org/software/automake) - Automatically generates Makefile.in files
@@ -518,6 +532,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :eyes: [App::sdif](https://kaz-utashiro.github.io/sdif-tools/) - cdif (word context diff), sdif (side-by-side diff) and watchdiff (repeat command and watch differences) ([github](https://github.com/kaz-utashiro/sdif-tools), [metacpan](https://metacpan.org/dist/App-sdif))
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
 - :rainbow: [Markdown](https://daringfireball.net/projects/markdown) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl ([git](https://repo.or.cz/markdown))
+- :swimmer: [Swim](https://metacpan.org/pod/Swim) - rich, consistent, extensible markup language and framework in PEG topdown grammar
+- :heavy_dollar_sign: [Pegex](https://metacpan.org/pod/Pegex) - combine Parsing Expression Grammars (PEG) with Regular Expressions (Regex)
 - :wrench: [Daiku](https://github.com/tokuhirom/Daiku) - Kind of make
 - :1234: [PDL](http://pdl.perl.org) - For scientific calculations
 - :handbag: [Fink Project](http://finkproject.org) - Tool to help porting software from UNIX like to macOS
@@ -530,6 +546,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :chart_with_upwards_trend: [st](https://github.com/nferraz/st) - Simple statistics from the command line
 - :shell: [p](https://metacpan.org/dist/App-p/view/bin/p) - Steroids for your perl one-liners
 - :dizzy: [pl](https://metacpan.org/pod/pl) - One-Liner Magic Wand
+- :bar_chart: [language-benchmarks](https://github.com/trizen/language-benchmarks) - A simple benchmark for compiled and interpreted languages
 
 ### Sysadmin
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
@@ -555,18 +572,23 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :robot: [Nikto](https://cirt.net/Nikto2) - Webservers security scanner
 - :minidisc: [ZnapZend](https://github.com/oetiker/znapzend) - Backup ZFS with remote capabilities
 - :alarm_clock: [NTPPool](https://www.ntppool.org) - Virtual cluster of timeservers ([github](https://github.com/abh/ntppool))
+- :electric_plug: [PerlPowerTools](https://perlpowertools.com/) - Unix toolbox in pure Perl ([github](https://github.com/briandfoy/PerlPowerTools), [metacpan](https://metacpan.org/pod/PerlPowerTools))
+- :m: [MoreUtils](https://joeyh.name/code/moreutils/) - a collection of unix tools that nobody thought to write long ago when unix was young. 6 out of 15 are in Perl (git://git.joeyh.name/moreutils)
+- :symbols: [uni](https://github.com/rjbs/App-Uni/) - command-line utility to find or display Unicode characters ([metacpan](https://metacpan.org/pod/uni))
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
 - :satellite: [Perloku](https://github.com/judofyr/perloku) - Deploy Perl apps on Heroku
 
+### Vanity
+- :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
+- :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
+- :smiley_cat: [nyan](https://metacpan.org/dist/Image-Term256Color/view/bin/nyan) - Your very own animated terminal Nyancat!
+
 ### Uncategorized
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :mag: [Dezi](https://dezi.org) - Search platform
-- :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
-- :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
-- :smiley_cat: [nyan](https://metacpan.org/dist/Image-Term256Color/view/bin/nyan) - Your very own animated terminal Nyancat!
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
 - :calling: [PerlyBook](https://github.com/reneeb/cpan2ebook) - Convert POD to EPUB/MOBI books
 - :wrench: [ExifTool](https://exiftool.org) - Meta informations reader/writer ([github](https://github.com/exiftool/exiftool))
@@ -575,6 +597,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notes: [MIDI-Perl HOWTO](https://github.com/ology/MIDI-Perl-HOWTO/wiki) - Create algorithmic musical compositions
 - :file_folder: [OshiUpload](https://oshi.at/), [tor](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/) - Ephemeral file sharing ([github](https://github.com/somenonymous/OshiUpload))
 - :blowfish: [OpenBSD.app](https://openbsd.app/) - Quick full-text searching of OpenBSD packages ([github](https://github.com/qbit/openbsd.app))
+- :white_check_mark: [OpenPorts](https://openports.pl/) - web interface to OpenBSD's sqlports ([github](https://github.com/marcespie/ports-readmes-dancer))
+- :speech_balloon: [RiveScript](https://www.rivescript.com/) - scripting language for chatbots ([github](https://github.com/aichaos/rivescript-perl), [metacpan](https://metacpan.org/pod/RiveScript))
+- :microphone: [clyrics](https://trizenx.blogspot.com/2013/02/mocp-lyrics.html) - extensible lyrics fetcher, with daemon support for cmus and mocp ([github](https://github.com/trizen/clyrics))
+- :bouquet: [perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
