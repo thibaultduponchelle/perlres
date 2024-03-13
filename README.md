@@ -463,7 +463,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 
 ### Perl Application Bundlers / Packagers
 - :gift: [PAR::Packer](https://github.com/rschupp/PAR-Packer) - Generate standalone executables from Perl programs
-- :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML interface for Perl desktop applications
 - :moneybag: [PerlApp](http://www.activestate.com/perl-dev-kit) - Convert Perl program into a standalone application (commercial : part of ActiveState Perl Dev Kit)
 - :dollar: [Perl2Exe](http://www.indigostar.com/perl2exe) - Convert Perl scripts to executable file (commercial)
 - :nut_and_bolt: [App::FatPacker](https://metacpan.org/pod/App::FatPacker) - Pack your dependencies onto your script file
@@ -518,6 +517,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :eggplant: [GUIDeFATE](https://github.com/saiftynet/GUIDeFATE) - Design GUI in ASCII art
 - :parking: [Prima](http://prima.eu.org/) - Multi-platform GUI toolkit in C and Perl, includes a visual builder and a graphic POD viewer ([github](https://github.com/dk/Prima), [metacpan](https://metacpan.org/pod/Prima))
 - :sparkles: [IUP](https://metacpan.org/pod/IUP) - Interface to [IUP](https://www.tecgraf.puc-rio.br/iup/) multi-platform GUI toolkit
+- :feet: [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML interface for Perl desktop applications. Inspired by [Electron](https://www.electronjs.org/)
 
 ### Tooling for Devs
 - :older_man: [GNU Automake](https://www.gnu.org/software/automake) - Automatically generates Makefile.in files
