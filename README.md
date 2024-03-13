@@ -533,6 +533,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :fire: [Flame Graphs](https://github.com/brendangregg/FlameGraph) - Profiled code visualization
 - :rainbow: [Markdown](https://daringfireball.net/projects/markdown) - Markdown was initially created by **John Gruber** and **Aaron Schwartz** and implemented in Perl ([git](https://repo.or.cz/markdown))
 - :swimmer: [Swim](https://metacpan.org/pod/Swim) - rich, consistent, extensible markup language and framework in PEG topdown grammar
+- :heavy_dollar_sign: [Pegex](https://metacpan.org/pod/Pegex) - combine Parsing Expression Grammars (PEG) with Regular Expressions (Regex)
 - :wrench: [Daiku](https://github.com/tokuhirom/Daiku) - Kind of make
 - :1234: [PDL](http://pdl.perl.org) - For scientific calculations
 - :handbag: [Fink Project](http://finkproject.org) - Tool to help porting software from UNIX like to macOS
