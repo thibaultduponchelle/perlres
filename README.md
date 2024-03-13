@@ -573,13 +573,15 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
 - :satellite: [Perloku](https://github.com/judofyr/perloku) - Deploy Perl apps on Heroku
 
+### Vanity
+- :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
+- :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
+- :smiley_cat: [nyan](https://metacpan.org/dist/Image-Term256Color/view/bin/nyan) - Your very own animated terminal Nyancat!
+
 ### Uncategorized
 - :watermelon: [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server) - Open database about food
 - :nut_and_bolt: [EPrints](https://www.eprints.org) - Software to build Open Access repositories ([github](https://github.com/eprints/eprints))
 - :mag: [Dezi](https://dezi.org) - Search platform
-- :cow: [Cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - The cow that can speak
-- :tropical_fish: [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - An aquarium in your terminal
-- :smiley_cat: [nyan](https://metacpan.org/dist/Image-Term256Color/view/bin/nyan) - Your very own animated terminal Nyancat!
 - :jp: [LANraragi](https://github.com/Difegue/LANraragi) - Web application for reading manga
 - :calling: [PerlyBook](https://github.com/reneeb/cpan2ebook) - Convert POD to EPUB/MOBI books
 - :wrench: [ExifTool](https://exiftool.org) - Meta informations reader/writer ([github](https://github.com/exiftool/exiftool))
