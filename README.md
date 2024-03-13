@@ -200,6 +200,10 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :school: Tutorials meta-site
 - :books: [Perl tutorials](http://perl-tutorial.org) - Perl tutorials meta site
 
+## :card_index: Perl features by version
+-  :chart_with_upwards_trend: [Perl version cheat sheet](https://sheet.shiar.nl/perl) - most significant features introduced for recent versions of Perl
+-  :sparkles: [Perl cool snippets](https://github.com/manwar/perl-cool-snippets) - Collection of Perl cool snippets
+
 ## :trollface: Perl folklore
 - :bomb: "**Perl**" vs "**perl**" - **Perl** is the language, **perl** is the interpreter, **PERL** is how you catch newbies :baby:
 - :neckbeard: [JAPH](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - Just Another Perl Hacker
