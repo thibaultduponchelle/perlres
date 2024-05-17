@@ -601,6 +601,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :speech_balloon: [RiveScript](https://www.rivescript.com/) - scripting language for chatbots ([github](https://github.com/aichaos/rivescript-perl), [metacpan](https://metacpan.org/pod/RiveScript))
 - :microphone: [clyrics](https://trizenx.blogspot.com/2013/02/mocp-lyrics.html) - extensible lyrics fetcher, with daemon support for cmus and mocp ([github](https://github.com/trizen/clyrics))
 - :bouquet: [perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts
+- :email: [OpenMbox.net](https://openmbox.net/) - freemium e-mail service ([metacpan](https://metacpan.org/pod/App::OpenMbox))
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
