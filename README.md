@@ -575,6 +575,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :electric_plug: [PerlPowerTools](https://perlpowertools.com/) - Unix toolbox in pure Perl ([github](https://github.com/briandfoy/PerlPowerTools), [metacpan](https://metacpan.org/pod/PerlPowerTools))
 - :m: [MoreUtils](https://joeyh.name/code/moreutils/) - a collection of unix tools that nobody thought to write long ago when unix was young. 6 out of 15 are in Perl (git://git.joeyh.name/moreutils)
 - :symbols: [uni](https://github.com/rjbs/App-Uni/) - command-line utility to find or display Unicode characters ([metacpan](https://metacpan.org/pod/uni))
+- :shell: [vshnu](https://kinzler.com/me/vshnu/) - the New Visual Shell - supplemental visual mode to your command line shell, designed in the Unix tradition
 
 ### Hosting
 - :cloud: [cPanel](https://cpanel.net) - Hosting platform
