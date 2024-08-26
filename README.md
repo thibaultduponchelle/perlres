@@ -552,7 +552,8 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :dog2: [Rex](https://www.rexify.org) - A framework to simplify system administration and datacenter automation ([github](https://github.com/RexOps/Rex))
 - :rocket: [Proxmox VE](https://www.proxmox.com/en) - A virtualization and LXC platform
 - :minidisc: [CloneZilla](https://clonezilla.org) - Partition and disk imaging/cloning program
-- :satellite: [Zevenet](https://www.zevenet.com) - Load balancer ([github](https://github.com/zevenet/zlb))
+- :satellite: [Relianoid](https://www.relianoid.com/) - Load balancer ([github](https://github.com/relianoid/adc-loadbalancer)) - previously [zevenet](https://github.com/zevenet/zlb))
+- :radio: [Skudonet](https://github.com/SKUDONET/skdlb) - Load balancer ([github](https://github.com/SKUDONET/skdlb)) - previously [zevenet](https://github.com/zevenet/zlb)
 - :recycle: [Virtualmin](https://www.virtualmin.com) - Hosting and website control panel
 - :pill: [Pinto](https://github.com/thaljef/Pinto) - Create local CPAN repositories
 - :mag: [Inxi](https://smxi.org/docs/inxi.htm) - Print system informations ([github](https://github.com/smxi/inxi))
