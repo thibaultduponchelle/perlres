@@ -332,6 +332,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :battery: [Rainbarf](https://github.com/creaktive/rainbarf) - Fancy resource usage charts
 - :watch: [Thruk](https://www.thruk.org) - Multi-backends web interface for monitoring ([github](https://github.com/sni/Thruk))
 - :chart_with_upwards_trend: [Mailgraph](http://mailgraph.schweikert.ch) - Mail statistics graphs ([github](https://github.com/schweikert/mailgraph))
+- :bird: [SlapBird](https://slapbirdapm.com/) - Web Application Performance Monitoring solution
 
 ### Logs analyzers
 - :chart_with_upwards_trend: [AWStats](https://awstats.sourceforge.io) - Webserver logs analyzer ([github](https://github.com/eldy/awstats))
