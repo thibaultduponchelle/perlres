@@ -94,6 +94,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :clipboard: [CPAN Weekly](http://cpan-weekly.org/) - Newsletter about CPAN modules
 - :dart: [CPAN Dashboards](http://cpandashboard.com) - CI dashboards for CPAN
 - :bookmark_tabs: [CPAN Glossary](http://neilb.org/2015/09/05/cpan-glossary.html) - CPAN Glossary (see also [Perl Glossary](https://perldoc.pl/perlglossary))
+- :lock: [CPAN Security](https://security.metacpan.org/) - CPAN Security Group 
 
 ## :beers: Social
 ### Community
