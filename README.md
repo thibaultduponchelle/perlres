@@ -3,7 +3,7 @@
 
 List of resources about Perl :dromedary_camel:
 
-![Perl 5 raptor](https://camo.githubusercontent.com/45d1fcde44390fc80111a2e5a1b845d562ec442787858bd937748b823028b18a/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61696e2f6578616d706c652e706e67)
+[Perl 5 Raptor](https://camo.githubusercontent.com/ccd1beb16bd08d41ca097376c75da80c1153f0957675063d5da4843c3c9cd0f3/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61696e2f6578616d706c652e706e67)
 
 Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
