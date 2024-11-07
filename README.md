@@ -639,6 +639,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 ## :books: Books
 - :school: [PerlSchool](https://perlschool.com) - Online catalog of low cost high quality Perl books ([twitter](https://twitter.com/perl_school))
 - :books: [Some books](https://perldoc.pl/perlbook.html) and [some others](https://learn.perl.org/books)
+- :book: [AllPerlBooks](https://allperlbooks.com/)
 
 ![](https://i.imgur.com/Z3F34XQ.jpg)
 
