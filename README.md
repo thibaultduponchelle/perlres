@@ -3,9 +3,10 @@
 
 List of resources about Perl :dromedary_camel:
 
-![Perl 5 Raptor](https://camo.githubusercontent.com/ccd1beb16bd08d41ca097376c75da80c1153f0957675063d5da4843c3c9cd0f3/68747470733a2f2f7261772e6769746875622e636f6d2f6b726169682f7065726c2d726170746f722f6d61696e2f6578616d706c652e706e67)
+![Perl 5 Raptor](https://raw.githubusercontent.com/thibaultduponchelle/perlres/3677823f2b1ca547604a7ce1feb36d22045b521a/perl-camel.svg)
 
-Perl 5 raptor from [kraih](https://github.com/kraih/perl-raptor), licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Perl 5 camel from [perl-assets](https://github.com/metacpan/perl-assets/), created for us by [Zach
+Roszczewski](https://www.zachroszczewski.com), licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## :clipboard: Summary
 
