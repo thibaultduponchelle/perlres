@@ -3,7 +3,7 @@
 
 List of resources about Perl :dromedary_camel:
 
-![Perl 5 Raptor](https://raw.githubusercontent.com/thibaultduponchelle/perlres/3677823f2b1ca547604a7ce1feb36d22045b521a/perl-camel.svg)
+![Perl 5 Camel](https://raw.githubusercontent.com/thibaultduponchelle/perlres/3677823f2b1ca547604a7ce1feb36d22045b521a/perl-camel.svg)
 
 Perl 5 camel from [perl-assets](https://github.com/metacpan/perl-assets/), created for us by [Zach
 Roszczewski](https://www.zachroszczewski.com), licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
