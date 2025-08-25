@@ -65,7 +65,6 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :book: [Perldoc from perl.org](https://perldoc.perl.org) and [perldoc from grinnz](https://perldoc.pl) :new:
 - :moneybag: [Core modules list](https://perldoc.pl/modules) - Web interface to the tool `corelist`
 - :book: [Perl Maven](https://fr.perlmaven.com) - A huge website about Perl
-- :books: [Perl Meme](http://perlmeme.org) - A website about Perl (tutorials, FAQ and more)
 - :black_square_button: [Square Perl](https://squareperl.com) - Multilingual site about Perl programming
 - :school: [Enlightened Perl](https://ww2.enlightenedperl.org) - An organization supporting Perl
 - :eyes: [P3rl.org](https://p3rl.org) - Documentation portal about Perl
