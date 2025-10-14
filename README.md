@@ -298,6 +298,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :family: [Rapi Blog](https://github.com/vanstyn/Rapi-Blog) - Blogging engine (based on [RapidApp](http://www.rapidapp.info))
 - :couple: [Tumblelog](https://github.com/john-bokma/tumblelog) - A static microblog generator
 - :family: [Blawd](https://github.com/perigrin/blawd) - A static microblog generator
+- :sleeping: [BoringSSG](https://boringssg.pm) - A boring static site generator
 
 ### Mailing lists engines
 - :mailbox: [Sympa](https://www.sympa.org) - Mailing lists engine
