@@ -602,11 +602,12 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :notes: [MIDI-Perl HOWTO](https://github.com/ology/MIDI-Perl-HOWTO/wiki) - Create algorithmic musical compositions
 - :file_folder: [OshiUpload](https://oshi.ec/), [tor](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/) - Ephemeral file sharing ([github](https://github.com/somenonymous/OshiUpload))
 - :blowfish: [OpenBSD.app](https://openbsd.app/) - Quick full-text searching of OpenBSD packages ([github](https://github.com/qbit/openbsd.app))
-- :white_check_mark: [OpenPorts](https://openports.pl/) - web interface to OpenBSD's sqlports ([github](https://github.com/marcespie/ports-readmes-dancer))
-- :speech_balloon: [RiveScript](https://www.rivescript.com/) - scripting language for chatbots ([github](https://github.com/aichaos/rivescript-perl), [metacpan](https://metacpan.org/pod/RiveScript))
-- :microphone: [clyrics](https://trizenx.blogspot.com/2013/02/mocp-lyrics.html) - extensible lyrics fetcher, with daemon support for cmus and mocp ([github](https://github.com/trizen/clyrics))
+- :white_check_mark: [OpenPorts](https://openports.pl/) - Web interface to OpenBSD's sqlports ([github](https://github.com/marcespie/ports-readmes-dancer))
+- :speech_balloon: [RiveScript](https://www.rivescript.com/) - Scripting language for chatbots ([github](https://github.com/aichaos/rivescript-perl), [metacpan](https://metacpan.org/pod/RiveScript))
+- :microphone: [clyrics](https://trizenx.blogspot.com/2013/02/mocp-lyrics.html) - Extensible lyrics fetcher, with daemon support for cmus and mocp ([github](https://github.com/trizen/clyrics))
 - :bouquet: [perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts
-- :email: [OpenMbox.net](https://openmbox.net/) - freemium e-mail service ([metacpan](https://metacpan.org/pod/App::OpenMbox))
+- :email: [OpenMbox.net](https://openmbox.net/) - Freemium e-mail service ([metacpan](https://metacpan.org/pod/App::OpenMbox))
+- :pencil: [Perl release summary](https://sheet.shiar.nl/perl) - Perl release summary cheat sheet
 
 ### Other Perl lists
 - :octocat: [Another Repository List](https://github.com/kaxap/arl/blob/master/README-Perl.md) - List of popular git repositories
